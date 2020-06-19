@@ -1,0 +1,33 @@
+[
+{
+	"co": "C000187372",
+	"projectRef": "LPG Dumai Cooling Water",
+	"status": {
+		"order": ["completed", "success"],
+		"shipment": ["scheduled", "ready"],
+		"payment": ["awaiting", "danger"],
+		"terms": "ex-works"
+	},
+	"pumpType": "hss",
+	"driverInfo": "WEG 300HP IP65",
+	"pumpModel": "8x6x13B SSC",
+	"head": "395",
+	"speed":2970,
+	"orderDate": "30/12/2019",
+	"dueDate": "15/5/2020",
+	"remarks": [{
+		"type": "change order",
+		"overview": "fuel tank",
+		"description": "Fuel tank legs increased by 280.8mm."
+	}],
+	"documents": [{
+		"type": "pdf",
+		"description": "Purchase Order",
+		"link": "www.google.com"
+	}, {
+		"type": "pdf",
+		"description": "GA Drawing",
+		"link": "www.google.com"
+	}]
+}
+]
