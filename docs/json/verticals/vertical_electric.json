@@ -1,92 +1,21 @@
 [
 
 {
-    "model": "12 DMC",
+    "model": "12 DHC",
     "gpm": 500,
-    "speed": 1770,
+    "speed": 1475,
     "dischargeSize": 6.0,
     "columnSize": 6.0,
     "shaftSize": 1.5,
     "shaftWeight": 6.0,
     "impellerWeight": 16.0,
     "dischargeCenterline": 8.81,
-    "thrustFactor": 6.6,
-    "thrustArea": 20.94,
-    "impellerWR2": 1.23,
-    "sphere": 0.875,
-    "maxWorkingPressure": 417.0,
-    "columnFrictionLoss": 0.98,
-    "minSubmergence": 18.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 14.0,
-    "firstStageHeight": 15.625,
-    "firstStageWidth": 11.75,
-    "additionalHeightPerStage": 9.625,
-    "stages": [
-        {
-            "stageNum": 3,
-            "maxTDH": 208,
-            "maxHP": 39
-        },
-        {
-            "stageNum": 4,
-            "maxTDH": 277,
-            "maxHP": 53
-        },
-        {
-            "stageNum": 5,
-            "maxTDH": 347,
-            "maxHP": 67
-        },
-        {
-            "stageNum": 6,
-            "maxTDH": 416,
-            "maxHP": 81
-        },
-        {
-            "stageNum": 7,
-            "maxTDH": 474,
-            "maxHP": 95
-        },
-        {
-            "stageNum": 8,
-            "maxTDH": 554,
-            "maxHP": 109
-        },
-        {
-            "stageNum": 9,
-            "maxTDH": 624,
-            "maxHP": 123
-        },
-        {
-            "stageNum": 10,
-            "maxTDH": 693,
-            "maxHP": 137
-        },
-        {
-            "stageNum": 11,
-            "maxTDH": 769,
-            "maxHP": 152
-        }
-    ]
-},
-
-{
-    "model": "12 DHC",
-    "gpm": 750,
-    "speed": 1770,
-    "dischargeSize": 6.0,
-    "columnSize": 6.0,
-    "shaftSize": 1.5,
-    "shaftWeight": 6.0,
-    "impellerWeight": 25.0,
-    "dischargeCenterline": 8.81,
     "thrustFactor": 6.5,
     "thrustArea": 20.94,
     "impellerWR2": 1.23,
     "sphere": 0.9375,
-    "maxWorkingPressure": 440.0,
-    "columnFrictionLoss": 2.07,
+    "maxWorkingPressure": 417.0,
+    "columnFrictionLoss": 0.98,
     "minSubmergence": 22.0,
     "strainerHeight": 6.0,
     "strainerWidth": 14.0,
@@ -96,208 +25,56 @@
     "stages": [
         {
             "stageNum": 3,
-            "maxTDH": 231,
-            "maxHP": 68
+            "maxTDH": 162,
+            "maxHP": 35
         },
         {
             "stageNum": 4,
-            "maxTDH": 312,
-            "maxHP": 92
+            "maxTDH": 220,
+            "maxHP": 50
         },
         {
             "stageNum": 5,
+            "maxTDH": 277,
+            "maxHP": 64
+        },
+        {
+            "stageNum": 6,
+            "maxTDH": 324,
+            "maxHP": 76
+        },
+        {
+            "stageNum": 7,
             "maxTDH": 381,
-            "maxHP": 114
-        },
-        {
-            "stageNum": 6,
-            "maxTDH": 462,
-            "maxHP": 139
-        },
-        {
-            "stageNum": 7,
-            "maxTDH": 543,
-            "maxHP": 164
+            "maxHP": 90
         },
         {
             "stageNum": 8,
-            "maxTDH": 612,
-            "maxHP": 185
+            "maxTDH": 439,
+            "maxHP": 105
         },
         {
             "stageNum": 9,
-            "maxTDH": 693,
-            "maxHP": 210
+            "maxTDH": 497,
+            "maxHP": 119
         },
         {
             "stageNum": 10,
-            "maxTDH": 774,
-            "maxHP": 235
+            "maxTDH": 555,
+            "maxHP": 133
         },
         {
             "stageNum": 11,
-            "maxTDH": 850,
-            "maxHP": 258
-        }
-    ]
-},
-
-{
-    "model": "13 GLC",
-    "gpm": 750,
-    "speed": 1770,
-    "dischargeSize": 8.0,
-    "columnSize": 8.0,
-    "shaftSize": 1.5,
-    "shaftWeight": 7.6,
-    "impellerWeight": 30.0,
-    "dischargeCenterline": 10.0,
-    "thrustFactor": 16.37,
-    "thrustArea": 47.27,
-    "impellerWR2": 2.85,
-    "sphere": 1.3125,
-    "maxWorkingPressure": 370.0,
-    "columnFrictionLoss": 0.41,
-    "minSubmergence": 25.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 15.125,
-    "firstStageHeight": 16.5,
-    "firstStageWidth": 12.875,
-    "additionalHeightPerStage": 10.75,
-    "stages": [
-        {
-            "stageNum": 3,
-            "maxTDH": 254,
-            "maxHP": 84
-        },
-        {
-            "stageNum": 4,
-            "maxTDH": 335,
-            "maxHP": 112
-        },
-        {
-            "stageNum": 5,
-            "maxTDH": 418,
-            "maxHP": 140
-        },
-        {
-            "stageNum": 6,
-            "maxTDH": 504,
-            "maxHP": 168
-        },
-        {
-            "stageNum": 7,
-            "maxTDH": 587,
-            "maxHP": 197
-        },
-        {
-            "stageNum": 8,
-            "maxTDH": 670,
-            "maxHP": 224
-        },
-        {
-            "stageNum": 9,
-            "maxTDH": 735,
-            "maxHP": 241
-        },
-        {
-            "stageNum": 10,
-            "maxTDH": 802,
-            "maxHP": 260
-        },
-        {
-            "stageNum": 11,
-            "maxTDH": 866,
-            "maxHP": 277
-        },
-        {
-            "stageNum": 12,
-            "maxTDH": 931,
-            "maxHP": 294
-        }
-    ]
-},
-
-{
-    "model": "13 GLC",
-    "gpm": 1000,
-    "speed": 1770,
-    "dischargeSize": 8.0,
-    "columnSize": 8.0,
-    "shaftSize": 1.6875,
-    "shaftWeight": 7.6,
-    "impellerWeight": 30.0,
-    "dischargeCenterline": 10.0,
-    "thrustFactor": 16.37,
-    "thrustArea": 47.27,
-    "impellerWR2": 2.85,
-    "sphere": 1.9375,
-    "maxWorkingPressure": 370.0,
-    "columnFrictionLoss": 0.69,
-    "minSubmergence": 25.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 15.125,
-    "firstStageHeight": 16.5,
-    "firstStageWidth": 12.875,
-    "additionalHeightPerStage": 10.75,
-    "stages": [
-        {
-            "stageNum": 3,
-            "maxTDH": 229,
-            "maxHP": 82
-        },
-        {
-            "stageNum": 4,
-            "maxTDH": 305,
-            "maxHP": 110
-        },
-        {
-            "stageNum": 5,
-            "maxTDH": 381,
-            "maxHP": 139
-        },
-        {
-            "stageNum": 6,
-            "maxTDH": 457,
-            "maxHP": 167
-        },
-        {
-            "stageNum": 7,
-            "maxTDH": 534,
-            "maxHP": 195
-        },
-        {
-            "stageNum": 8,
-            "maxTDH": 610,
-            "maxHP": 224
-        },
-        {
-            "stageNum": 9,
-            "maxTDH": 665,
-            "maxHP": 243
-        },
-        {
-            "stageNum": 10,
-            "maxTDH": 721,
-            "maxHP": 262
-        },
-        {
-            "stageNum": 11,
-            "maxTDH": 776,
-            "maxHP": 281
-        },
-        {
-            "stageNum": 12,
-            "maxTDH": 809,
-            "maxHP": 300
+            "maxTDH": 640,
+            "maxHP": 155
         }
     ]
 },
 
 {
     "model": "13 GHC",
-    "gpm": 1250,
-    "speed": 1770,
+    "gpm": 750,
+    "speed": 1475,
     "dischargeSize": 8.0,
     "columnSize": 8.0,
     "shaftSize": 1.6875,
@@ -309,7 +86,7 @@
     "impellerWR2": 2.38,
     "sphere": 1.4375,
     "maxWorkingPressure": 370.0,
-    "columnFrictionLoss": 1.04,
+    "columnFrictionLoss": 0.41,
     "minSubmergence": 25.0,
     "strainerHeight": 6.0,
     "strainerWidth": 15.125,
@@ -319,61 +96,193 @@
     "stages": [
         {
             "stageNum": 3,
-            "maxTDH": 231,
-            "maxHP": 115
+            "maxTDH": 162,
+            "maxHP": 58
         },
         {
             "stageNum": 4,
-            "maxTDH": 300,
-            "maxHP": 148
+            "maxTDH": 220,
+            "maxHP": 79
         },
         {
             "stageNum": 5,
-            "maxTDH": 381,
-            "maxHP": 187
+            "maxTDH": 277,
+            "maxHP": 100
         },
         {
             "stageNum": 6,
-            "maxTDH": 427,
-            "maxHP": 209
+            "maxTDH": 335,
+            "maxHP": 121
         },
         {
             "stageNum": 7,
-            "maxTDH": 497,
-            "maxHP": 242
+            "maxTDH": 393,
+            "maxHP": 142
         },
         {
             "stageNum": 8,
-            "maxTDH": 612,
-            "maxHP": 298
+            "maxTDH": 471,
+            "maxHP": 170
         },
         {
             "stageNum": 9,
-            "maxTDH": 693,
-            "maxHP": 341
+            "maxTDH": 520,
+            "maxHP": 188
         },
         {
             "stageNum": 10,
-            "maxTDH": 774,
-            "maxHP": 383
+            "maxTDH": 578,
+            "maxHP": 208
         },
         {
             "stageNum": 11,
-            "maxTDH": 843,
-            "maxHP": 420
+            "maxTDH": 635,
+            "maxHP": 229
         },
         {
             "stageNum": 12,
-            "maxTDH": 931,
-            "maxHP": 466
+            "maxTDH": 705,
+            "maxHP": 250
+        }
+    ]
+},
+
+{
+    "model": "13 GLC",
+    "gpm": 750,
+    "speed": 1475,
+    "dischargeSize": 8.0,
+    "columnSize": 8.0,
+    "shaftSize": 1.6875,
+    "shaftWeight": 7.6,
+    "impellerWeight": 25.0,
+    "dischargeCenterline": 10.0,
+    "thrustFactor": 16.37,
+    "thrustArea": 47.27,
+    "impellerWR2": 2.85,
+    "sphere": 1.9375,
+    "maxWorkingPressure": 370.0,
+    "columnFrictionLoss": 0.41,
+    "minSubmergence": 25.0,
+    "strainerHeight": 6.0,
+    "strainerWidth": 15.125,
+    "firstStageHeight": 16.5,
+    "firstStageWidth": 12.875,
+    "additionalHeightPerStage": 10.75,
+    "stages": [
+        {
+            "stageNum": 3,
+            "maxTDH": 162,
+            "maxHP": 47
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 231,
+            "maxHP": 67
+        },
+        {
+            "stageNum": 5,
+            "maxTDH": 277,
+            "maxHP": 80
+        },
+        {
+            "stageNum": 6,
+            "maxTDH": 335,
+            "maxHP": 97
+        },
+        {
+            "stageNum": 7,
+            "maxTDH": 393,
+            "maxHP": 113
+        },
+        {
+            "stageNum": 8,
+            "maxTDH": 446,
+            "maxHP": 129
+        }
+    ]
+},
+
+{
+    "model": "13 GHC",
+    "gpm": 1000,
+    "speed": 1475,
+    "dischargeSize": 8.0,
+    "columnSize": 8.0,
+    "shaftSize": 1.6875,
+    "shaftWeight": 7.6,
+    "impellerWeight": 25.0,
+    "dischargeCenterline": 10.0,
+    "thrustFactor": 16.37,
+    "thrustArea": 47.27,
+    "impellerWR2": 2.38,
+    "sphere": 1.4375,
+    "maxWorkingPressure": 370.0,
+    "columnFrictionLoss": 0.69,
+    "minSubmergence": 25.0,
+    "strainerHeight": 6.0,
+    "strainerWidth": 15.125,
+    "firstStageHeight": 16.5,
+    "firstStageWidth": 12.875,
+    "additionalHeightPerStage": 10.75,
+    "stages": [
+        {
+            "stageNum": 3,
+            "maxTDH": 162,
+            "maxHP": 66
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 220,
+            "maxHP": 88
+        },
+        {
+            "stageNum": 5,
+            "maxTDH": 266,
+            "maxHP": 106
+        },
+        {
+            "stageNum": 6,
+            "maxTDH": 323,
+            "maxHP": 128
+        },
+        {
+            "stageNum": 7,
+            "maxTDH": 381,
+            "maxHP": 150
+        },
+        {
+            "stageNum": 8,
+            "maxTDH": 439,
+            "maxHP": 172
+        },
+        {
+            "stageNum": 9,
+            "maxTDH": 485,
+            "maxHP": 192
+        },
+        {
+            "stageNum": 10,
+            "maxTDH": 543,
+            "maxHP": 216
+        },
+        {
+            "stageNum": 11,
+            "maxTDH": 589,
+            "maxHP": 236
+        },
+        {
+            "stageNum": 12,
+            "maxTDH": 628,
+            "maxHP": 250
         }
     ]
 },
 
 {
     "model": "14 JMC",
-    "gpm": 1500,
-    "speed": 1770,
+    "gpm": 1000,
+    "speed": 1475,
     "dischargeSize": 8.0,
     "columnSize": 8.0,
     "shaftSize": 1.6875,
@@ -385,7 +294,7 @@
     "impellerWR2": 2.5,
     "sphere": 1.4375,
     "maxWorkingPressure": 390.0,
-    "columnFrictionLoss": 1.46,
+    "columnFrictionLoss": 0.69,
     "minSubmergence": 31.0,
     "strainerHeight": 6.0,
     "strainerWidth": 16.25,
@@ -395,41 +304,87 @@
     "stages": [
         {
             "stageNum": 3,
-            "maxTDH": 196,
-            "maxHP": 101
+            "maxTDH": 150,
+            "maxHP": 58
         },
         {
             "stageNum": 4,
-            "maxTDH": 254,
-            "maxHP": 130
+            "maxTDH": 196,
+            "maxHP": 75
         },
         {
             "stageNum": 5,
-            "maxTDH": 323,
-            "maxHP": 164
+            "maxTDH": 243,
+            "maxHP": 92
         },
         {
             "stageNum": 6,
-            "maxTDH": 393,
-            "maxHP": 199
+            "maxTDH": 300,
+            "maxHP": 114
         },
         {
             "stageNum": 7,
-            "maxTDH": 462,
-            "maxHP": 233
+            "maxTDH": 347,
+            "maxHP": 131
         },
         {
             "stageNum": 8,
-            "maxTDH": 571,
-            "maxHP": 288
+            "maxTDH": 439,
+            "maxHP": 165
         }
     ]
 },
 
 {
     "model": "17 JMC",
-    "gpm": 2000,
-    "speed": 1770,
+    "gpm": 1250,
+    "speed": 1475,
+    "dischargeSize": 10.0,
+    "columnSize": 10.0,
+    "shaftSize": 2.1875,
+    "shaftWeight": 13.5,
+    "impellerWeight": 50.0,
+    "dischargeCenterline": 12.25,
+    "thrustFactor": 20.464,
+    "thrustArea": 59.84,
+    "impellerWR2": 7.08,
+    "sphere": 0.5625,
+    "maxWorkingPressure": 350.0,
+    "columnFrictionLoss": 0.3,
+    "minSubmergence": 33.0,
+    "strainerHeight": 6.0,
+    "strainerWidth": 18.875,
+    "firstStageHeight": 21.875,
+    "firstStageWidth": 16.625,
+    "additionalHeightPerStage": 14.0,
+    "stages": [
+        {
+            "stageNum": 2,
+            "maxTDH": 185,
+            "maxHP": 107
+        },
+        {
+            "stageNum": 3,
+            "maxTDH": 277,
+            "maxHP": 167
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 370,
+            "maxHP": 227
+        },
+        {
+            "stageNum": 5,
+            "maxTDH": 478,
+            "maxHP": 297
+        }
+    ]
+},
+
+{
+    "model": "17 JMC",
+    "gpm": 1500,
+    "speed": 1475,
     "dischargeSize": 10.0,
     "columnSize": 10.0,
     "shaftSize": 2.1875,
@@ -441,7 +396,7 @@
     "impellerWR2": 7.08,
     "sphere": 1.5625,
     "maxWorkingPressure": 350.0,
-    "columnFrictionLoss": 0.7,
+    "columnFrictionLoss": 0.41,
     "minSubmergence": 33.0,
     "strainerHeight": 6.0,
     "strainerWidth": 18.875,
@@ -451,31 +406,31 @@
     "stages": [
         {
             "stageNum": 2,
-            "maxTDH": 243,
-            "maxHP": 177
+            "maxTDH": 173,
+            "maxHP": 104
         },
         {
             "stageNum": 3,
-            "maxTDH": 370,
-            "maxHP": 280
+            "maxTDH": 266,
+            "maxHP": 166
         },
         {
             "stageNum": 4,
-            "maxTDH": 497,
-            "maxHP": 383
+            "maxTDH": 358,
+            "maxHP": 228
         },
         {
             "stageNum": 5,
-            "maxTDH": 649,
-            "maxHP": 506
+            "maxTDH": 462,
+            "maxHP": 297
         }
     ]
 },
 
 {
     "model": "17 JHC",
-    "gpm": 2500,
-    "speed": 1770,
+    "gpm": 2000,
+    "speed": 1475,
     "dischargeSize": 10.0,
     "columnSize": 10.0,
     "shaftSize": 2.1875,
@@ -487,7 +442,7 @@
     "impellerWR2": 6.38,
     "sphere": 1.5625,
     "maxWorkingPressure": 350.0,
-    "columnFrictionLoss": 1.06,
+    "columnFrictionLoss": 0.7,
     "minSubmergence": 37.0,
     "strainerHeight": 6.0,
     "strainerWidth": 18.875,
@@ -497,23 +452,64 @@
     "stages": [
         {
             "stageNum": 2,
-            "maxTDH": 254,
-            "maxHP": 242
+            "maxTDH": 173,
+            "maxHP": 138
         },
         {
             "stageNum": 3,
-            "maxTDH": 381,
-            "maxHP": 367
+            "maxTDH": 266,
+            "maxHP": 217
         },
         {
             "stageNum": 4,
-            "maxTDH": 508,
-            "maxHP": 491
+            "maxTDH": 358,
+            "maxHP": 296
         },
         {
             "stageNum": 5,
-            "maxTDH": 647,
-            "maxHP": 627
+            "maxTDH": 455,
+            "maxHP": 378
+        }
+    ]
+},
+
+{
+    "model": "18 KMC",
+    "gpm": 2500,
+    "speed": 1475,
+    "dischargeSize": 10.0,
+    "columnSize": 10.0,
+    "shaftSize": 2.1875,
+    "shaftWeight": 13.5,
+    "impellerWeight": 63.0,
+    "dischargeCenterline": 14.25,
+    "thrustFactor": 30.8,
+    "thrustArea": 89.02,
+    "impellerWR2": 12.0,
+    "sphere": 1.75,
+    "maxWorkingPressure": 291.0,
+    "columnFrictionLoss": 1.06,
+    "minSubmergence": 40.0,
+    "strainerHeight": 6.0,
+    "strainerWidth": 20.25,
+    "firstStageHeight": 26.875,
+    "firstStageWidth": 18.0,
+    "additionalHeightPerStage": 18.0,
+    "stages": [
+        {
+            "stageNum": 2,
+            "maxTDH": 208,
+            "maxHP": 201
+        },
+        {
+            "stageNum": 3,
+            "maxTDH": 328,
+            "maxHP": 332
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 427,
+            "maxHP": 466
         }
     ]
 },
@@ -521,7 +517,7 @@
 {
     "model": "18 KMC",
     "gpm": 3000,
-    "speed": 1770,
+    "speed": 1475,
     "dischargeSize": 12.0,
     "columnSize": 12.0,
     "shaftSize": 2.1875,
@@ -543,57 +539,26 @@
     "stages": [
         {
             "stageNum": 2,
+            "maxTDH": 196,
+            "maxHP": 203
+        },
+        {
+            "stageNum": 3,
             "maxTDH": 312,
-            "maxHP": 379
+            "maxHP": 332
         },
         {
-            "stageNum": 3,
-            "maxTDH": 480,
-            "maxHP": 575
-        }
-    ]
-},
-
-{
-    "model": "18 KMC",
-    "gpm": 3500,
-    "speed": 1770,
-    "dischargeSize": 12.0,
-    "columnSize": 12.0,
-    "shaftSize": 2.1875,
-    "shaftWeight": 13.5,
-    "impellerWeight": 63.0,
-    "dischargeCenterline": 14.25,
-    "thrustFactor": 30.8,
-    "thrustArea": 89.02,
-    "impellerWR2": 12.0,
-    "sphere": 1.75,
-    "maxWorkingPressure": 291.0,
-    "columnFrictionLoss": 0.7,
-    "minSubmergence": 40.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 20.25,
-    "firstStageHeight": 26.875,
-    "firstStageWidth": 18.0,
-    "additionalHeightPerStage": 18.0,
-    "stages": [
-        {
-            "stageNum": 2,
-            "maxTDH": 300,
-            "maxHP": 364
-        },
-        {
-            "stageNum": 3,
-            "maxTDH": 462,
-            "maxHP": 575
+            "stageNum": 4,
+            "maxTDH": 427,
+            "maxHP": 466
         }
     ]
 },
 
 {
     "model": "19 RMC",
-    "gpm": 4000,
-    "speed": 1770,
+    "gpm": 3500,
+    "speed": 1475,
     "dischargeSize": 12.0,
     "columnSize": 12.0,
     "shaftSize": 2.1875,
@@ -605,7 +570,7 @@
     "impellerWR2": 12.49,
     "sphere": 2.0625,
     "maxWorkingPressure": 267.0,
-    "columnFrictionLoss": 0.9,
+    "columnFrictionLoss": 0.7,
     "minSubmergence": 47.0,
     "strainerHeight": 6.0,
     "strainerWidth": 21.25,
@@ -615,29 +580,29 @@
     "stages": [
         {
             "stageNum": 2,
-            "maxTDH": 266,
-            "maxHP": 424
+            "maxTDH": 185,
+            "maxHP": 246
         },
         {
             "stageNum": 3,
-            "maxTDH": 420,
-            "maxHP": 690
+            "maxTDH": 291,
+            "maxHP": 402
         },
         {
             "stageNum": 4,
-            "maxTDH": 538,
-            "maxHP": 859
+            "maxTDH": 372,
+            "maxHP": 522
         }
     ]
 },
 
 {
     "model": "21 JHC",
-    "gpm": 4500,
-    "speed": 1770,
+    "gpm": 4000,
+    "speed": 1475,
     "dischargeSize": 14.0,
     "columnSize": 14.0,
-    "shaftSize": 2.4375,
+    "shaftSize": 2.75,
     "shaftWeight": 15.8,
     "impellerWeight": 100.0,
     "dischargeCenterline": 16.25,
@@ -646,49 +611,105 @@
     "impellerWR2": 23.3,
     "sphere": 2.1875,
     "maxWorkingPressure": 267.0,
+    "columnFrictionLoss": 0.38,
+    "minSubmergence": 48.0,
+    "strainerHeight": 6.0,
+    "strainerWidth": 20.5,
+    "firstStageHeight": 27.4375,
+    "firstStageWidth": 20.5,
+    "additionalHeightPerStage": 17.5625,
+    "stages": [
+        {
+            "stageNum": 2,
+            "maxTDH": 277,
+            "maxHP": 475
+        },
+        {
+            "stageNum": 3,
+            "maxTDH": 416,
+            "maxHP": 709
+        }
+    ]
+},
+
+{
+    "model": "21 RHC",
+    "gpm": 4500,
+    "speed": 1475,
+    "dischargeSize": 14.0,
+    "columnSize": 14.0,
+    "shaftSize": 2.75,
+    "shaftWeight": 15.8,
+    "impellerWeight": 105.0,
+    "dischargeCenterline": 16.25,
+    "thrustFactor": 44.2,
+    "thrustArea": 124.5,
+    "impellerWR2": 51.8,
+    "sphere": 2.1875,
+    "maxWorkingPressure": 260.0,
     "columnFrictionLoss": 0.47,
     "minSubmergence": 48.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 20.5,
-    "firstStageHeight": 27.4375,
-    "firstStageWidth": 20.5,
-    "additionalHeightPerStage": 17.5625,
+    "strainerHeight": 7.0,
+    "strainerWidth": 21.5,
+    "firstStageHeight": 31.65625,
+    "firstStageWidth": 21.1875,
+    "additionalHeightPerStage": 20.4375,
     "stages": [
         {
             "stageNum": 2,
-            "maxTDH": 409,
-            "maxHP": 776
+            "maxTDH": 238,
+            "maxHP": 443
+        },
+        {
+            "stageNum": 3,
+            "maxTDH": 356,
+            "maxHP": 663
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 476,
+            "maxHP": 887
         }
     ]
 },
 
 {
-    "model": "21 JHC",
+    "model": "21 RHC",
     "gpm": 5000,
-    "speed": 1770,
+    "speed": 1475,
     "dischargeSize": 14.0,
     "columnSize": 14.0,
-    "shaftSize": 2.4375,
+    "shaftSize": 2.75,
     "shaftWeight": 15.8,
-    "impellerWeight": 100.0,
+    "impellerWeight": 105.0,
     "dischargeCenterline": 16.25,
-    "thrustFactor": 38.8,
-    "thrustArea": 109.3,
-    "impellerWR2": 23.3,
+    "thrustFactor": 44.2,
+    "thrustArea": 124.5,
+    "impellerWR2": 51.8,
     "sphere": 2.1875,
-    "maxWorkingPressure": 267.0,
+    "maxWorkingPressure": 260.0,
     "columnFrictionLoss": 0.57,
     "minSubmergence": 48.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 20.5,
-    "firstStageHeight": 27.4375,
-    "firstStageWidth": 20.5,
-    "additionalHeightPerStage": 17.5625,
+    "strainerHeight": 7.0,
+    "strainerWidth": 21.5,
+    "firstStageHeight": 31.65625,
+    "firstStageWidth": 21.1875,
+    "additionalHeightPerStage": 20.4375,
     "stages": [
         {
             "stageNum": 2,
-            "maxTDH": 370,
-            "maxHP": 776
+            "maxTDH": 231,
+            "maxHP": 444
+        },
+        {
+            "stageNum": 3,
+            "maxTDH": 347,
+            "maxHP": 665
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 462,
+            "maxHP": 887
         }
     ]
 }
