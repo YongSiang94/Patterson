@@ -1,0 +1,38 @@
+[
+{
+	"CO": "C000191304",
+	"projectRef": "DPPU Kulon Progo",
+	"status": {
+		"order": ["in progress", "primary"],
+		"shipment": ["pending", "warning"],
+		"payment": ["partial", "primary"],
+		"terms": "ex-works"
+	},
+	"pumpType": "hss",
+	"driverInfo": "Clarke JU4H-UF54",
+	"driverType": "diesel",
+	"pumpModel": "5x4x12 SSC",
+	"ratedHead": "314",
+	"ratedSpeed":3000,
+	"orderDate": "12 May 2020",
+	"dueDate": "30 Jun 2020",
+	"remarks": [{
+		"type": "change order",
+		"overview": "fuel tank",
+		"description": "Fuel tank legs increased by 280.8mm."
+	}, {
+		"type": "testing",
+		"overview": "witness string test",
+		"description": "Witness String Test scheduled on 30 July 2020."
+	}],
+	"documents": [{
+		"type": "pdf",
+		"description": "Purchase Order",
+		"link": "www.google.com"
+	}, {
+		"type": "pdf",
+		"description": "GA Drawing",
+		"link": "www.google.com"
+	}]
+}
+]
