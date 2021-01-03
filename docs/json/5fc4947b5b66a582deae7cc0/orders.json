@@ -10,29 +10,28 @@
 	},
 	"pumpType": "hss",
 	"driverInfo": "Clarke JU4H-UF54",
-	"driverType": "diesel",
+	"driverType": "Diesel",
 	"pumpModel": "5x4x12 SSC",
-	"ratedHead": "314",
-	"ratedSpeed":3000,
+	"capacity": 1000,
+	"head": 314,
+	"speed":3000,
 	"orderDate": "12 May 2020",
 	"dueDate": "30 Jun 2020",
 	"remarks": [{
+		"date": "01 Jan 2021",
 		"type": "change order",
 		"overview": "fuel tank",
 		"description": "Fuel tank legs increased by 280.8mm."
 	}, {
+		"date": "02 Jan 2021",
 		"type": "testing",
 		"overview": "witness string test",
 		"description": "Witness String Test scheduled on 30 July 2020."
 	}],
-	"documents": [{
-		"type": "pdf",
-		"description": "Purchase Order",
-		"link": "www.google.com"
-	}, {
-		"type": "pdf",
-		"description": "GA Drawing",
-		"link": "www.google.com"
-	}]
+	"documentsDate": "03 Jan 2021",
+	"documents": {
+		"submittal": "www.google.com",
+		"iom": "www.apple.com"
+	}
 }
 ]
