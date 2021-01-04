@@ -1,4 +1,5 @@
-[
+[
+
 {
     "CO": "C000191304",
     "projectRef": "DPPU Kulon Progo",
@@ -46,17 +47,12 @@
             "type": "change order",
             "overview": "testing",
             "description": "Added non-mechanical run test"
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
         }
     ]
-},
+},
+
 {
-    "CO": "",
+    "CO": "C000191305",
     "projectRef": "",
     "driverType": "",
     "driverInfo": "",
@@ -110,5 +106,6 @@
             "description": "Added non-mechanical run test"
         }
     ]
-}
+}
+
 ]
