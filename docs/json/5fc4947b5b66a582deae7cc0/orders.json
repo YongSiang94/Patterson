@@ -1,37 +1,114 @@
-[
+[
 {
-	"CO": "C000191304",
-	"projectRef": "DPPU Kulon Progo",
-	"status": {
-		"order": ["in progress", "primary"],
-		"shipment": ["pending", "warning"],
-		"payment": ["partial", "primary"],
-		"terms": "ex-works"
-	},
-	"pumpType": "hss",
-	"driverInfo": "Clarke JU4H-UF54",
-	"driverType": "Diesel",
-	"pumpModel": "5x4x12 SSC",
-	"capacity": 1000,
-	"head": 314,
-	"speed":3000,
-	"orderDate": "12 May 2020",
-	"dueDate": "30 Jun 2020",
-	"remarks": [{
-		"date": "01 Jan 2021",
-		"type": "change order",
-		"overview": "fuel tank",
-		"description": "Fuel tank legs increased by 280.8mm."
-	}, {
-		"date": "02 Jan 2021",
-		"type": "testing",
-		"overview": "witness string test",
-		"description": "Witness String Test scheduled on 30 July 2020."
-	}],
-	"documentsDate": "03 Jan 2021",
-	"documents": {
-		"submittal": "www.google.com",
-		"iom": "www.apple.com"
-	}
-}
+    "CO": "C000191304",
+    "projectRef": "DPPU Kulon Progo",
+    "driverType": "Engine",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hss",
+    "capacity": 1000,
+    "head": 314,
+    "speed": 3000,
+    "orderDate": "12 May 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documentsDate": "25 Aug 2020",
+    "documents": {
+        "submittal": "synolgoytest",
+        "iom": "wd test"
+    },
+    "remarks": [
+        {
+            "date": "26 Jun 2020",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Fuel tank legs to 36\""
+        },
+        {
+            "date": "20 Aug 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Added non-mechanical run test"
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "",
+    "projectRef": "",
+    "driverType": "",
+    "driverInfo": "",
+    "pumpModel": "",
+    "pumpType": "",
+    "capacity": 1000,
+    "head": 314,
+    "speed": 3000,
+    "orderDate": "",
+    "dueDate": "",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documentsDate": "26 Aug 2020",
+    "documents": {
+        "submittal": "synolgoytest",
+        "iom": "wd test"
+    },
+    "remarks": [
+        {
+            "date": "27 Jun 2020",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Fuel tank legs to 36\""
+        },
+        {
+            "date": "21 Aug 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Added non-mechanical run test"
+        },
+        {
+            "date": "22 Aug 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Added non-mechanical run test"
+        }
+    ]
+}
 ]
