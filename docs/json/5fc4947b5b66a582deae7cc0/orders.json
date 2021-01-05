@@ -1,17 +1,140 @@
-[
-
+[
 {
-    "CO": "C000191304",
-    "projectRef": "DPPU Kulon Progo",
-    "driverType": "Engine",
-    "driverInfo": "JU4H-UF54",
-    "pumpModel": "5x4x12 SSC",
-    "pumpType": "hss",
+    "CO": "C000185628",
+    "projectRef": "LPG Dumai",
+    "driverType": "Diesel",
+    "driverInfo": "C18H0-UFAD48",
+    "pumpModel": "17JHC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 538,
+    "speed": 1770,
+    "orderDate": "28 Oct 2019",
+    "dueDate": "8 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "8 Apr 2020",
+            "type": "change order",
+            "overview": "duty",
+            "description": "Duty changed to 538ft."
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000186009",
+    "projectRef": "Jayapura",
+    "driverType": "Diesel",
+    "driverInfo": "C18H0-UFAD28",
+    "pumpModel": "17 JHC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 466,
+    "speed": 1770,
+    "orderDate": "7 Nov 2019",
+    "dueDate": "30 Mar 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "TBA",
+            "TBA"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synoloy.pattersonsingapore.com/drive/d/s/560271433903677627/cYSEK54OUyz0Jb-JVrTZDGNLDomqc5Ps-vrrgmhCdRgg_"
+    },
+    "remarks": [
+        {
+            "date": "26 Nov 2019",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add D3C NEMA4X, 316SS PAINTED"
+        },
+        {
+            "date": "21 Jan 2020",
+            "type": "change order",
+            "overview": "spare parts",
+            "description": "Add spare parts purchase"
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000186309",
+    "projectRef": "LPG Balongan",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF30",
+    "pumpModel": "13GLC-6 STAGE",
+    "pumpType": "vt",
     "capacity": 1000,
-    "head": 314,
-    "speed": 3000,
-    "orderDate": "12 May 2020",
-    "dueDate": "13 Aug 2020",
+    "head": 412,
+    "speed": 1770,
+    "orderDate": "18 Nov 2019",
+    "dueDate": "17 Apr 2020",
     "status": {
         "order": [
             "completed",
@@ -22,47 +145,58 @@
             "success"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
             "primary"
         ]
     },
-    "documentsDate": "25 Aug 2020",
     "documents": {
-        "submittal": "synolgoytest",
-        "iom": "wd test"
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/559419171641795237/j_ZW9_A0dpzetxnv5wKL3imiH3meOhWZ-vb3g5oqeRgg_",
+        "iom": "https://synoloy.pattersonsingapore.com/drive/d/s/560271434088227005/F9LLNP7coAgGVBMHdPoytMot5ykuQVCP-b73ADHyeRgg_"
     },
     "remarks": [
         {
-            "date": "26 Jun 2020",
+            "date": "28 Jan 2020",
             "type": "change order",
-            "overview": "fuel tank",
-            "description": "Fuel tank legs to 36\""
+            "overview": "pump",
+            "description": "Change pump length"
         },
         {
-            "date": "20 Aug 2020",
-            "type": "change order",
-            "overview": "testing",
-            "description": "Added non-mechanical run test"
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
         }
     ]
-},
-
+},
 {
-    "CO": "C000191305",
-    "projectRef": "",
-    "driverType": "",
-    "driverInfo": "",
-    "pumpModel": "",
-    "pumpType": "",
-    "capacity": 1000,
-    "head": 314,
-    "speed": 3000,
-    "orderDate": "",
-    "dueDate": "",
+    "CO": "C000187372",
+    "projectRef": "LPG Dumai Cooling Pump",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP 2970RPM TEFC",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 395,
+    "speed": 2970,
+    "orderDate": "30 Dec 2019",
+    "dueDate": "15 May 2020",
     "status": {
         "order": [
             "TBA",
@@ -81,31 +215,798 @@
             "primary"
         ]
     },
-    "documentsDate": "26 Aug 2020",
     "documents": {
-        "submittal": "synolgoytest",
-        "iom": "wd test"
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/596327429224578412/nPcY4XZlbW0S4x_IZG2YS4VE4ODljI3b-bLPA1tqWRgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271434224541887/6CLAv3EQvmuSxSTNU2yOlsCgF_ASz00c-pLAAU7yVRgg_"
     },
     "remarks": [
         {
-            "date": "27 Jun 2020",
+            "date": "13 Jan 2020",
+            "type": "change order",
+            "overview": "motor enclosure",
+            "description": "Change from IP55 to IP65"
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000188743",
+    "projectRef": "Tenau Kupang",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA98",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 451,
+    "speed": 1770,
+    "orderDate": "10 Feb 2020",
+    "dueDate": "26 Jun 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "26 Jun 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Testing scheduled for Jul 20-21"
+        },
+        {
+            "date": "26 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 4 Aug 2020"
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000191304",
+    "projectRef": "DPPU Kulon Progo",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 314,
+    "speed": 3000,
+    "orderDate": "12 May 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Specified size of fuel supply and return connection"
+        },
+        {
+            "date": "23 Jun 2020",
             "type": "change order",
             "overview": "fuel tank",
             "description": "Fuel tank legs to 36\""
         },
         {
-            "date": "21 Aug 2020",
+            "date": "29 Jun 2020",
             "type": "change order",
-            "overview": "testing",
-            "description": "Added non-mechanical run test"
+            "overview": "testing ",
+            "description": "Witness testing scheduled for 30 Jul."
         },
         {
-            "date": "22 Aug 2020",
+            "date": "29 Jun 2020",
             "type": "change order",
-            "overview": "testing",
+            "overview": "date",
+            "description": "Due date changed to 13 Aug 2020"
+        },
+        {
+            "date": "20 Aug 2020",
+            "type": "change order",
+            "overview": "testing ",
             "description": "Added non-mechanical run test"
         }
     ]
-}
-
+},
+{
+    "CO": "C000192058",
+    "projectRef": "LPG Bima Cooling Water Pump",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM TEFC",
+    "pumpModel": "8x6x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 374,
+    "speed": 2950,
+    "orderDate": "5 Jun 2020",
+    "dueDate": "4 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "4 Aug 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 8 Oct 2020."
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000193336",
+    "projectRef": "SPPBE Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "8 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000193337",
+    "projectRef": "SPPBE Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "8 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000193571",
+    "projectRef": "SPPBE II Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "30 Jul 2020",
+    "dueDate": "11 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000193572",
+    "projectRef": "SPPBE II Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "30 Jul 2020",
+    "dueDate": "11 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000195566",
+    "projectRef": "Barepump for Stock",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 450,
+    "speed": 3000,
+    "orderDate": "7 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000195587",
+    "projectRef": "SPPBE III Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "8 Oct 2020",
+    "dueDate": "30 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000195589",
+    "projectRef": "SPPBE III Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "8 Oct 2020",
+    "dueDate": "30 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000196336",
+    "projectRef": "TBBM Jayapura",
+    "driverType": "Diesel",
+    "driverInfo": "C18H0-UFAD28",
+    "pumpModel": "17JHC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 477,
+    "speed": 1770,
+    "orderDate": "30 Oct 2020",
+    "dueDate": "7 May 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000197404",
+    "projectRef": "TBBM Panjang",
+    "driverType": "Diesel",
+    "driverInfo": "C18H0-UFAD58",
+    "pumpModel": "18KMC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 446,
+    "speed": 1770,
+    "orderDate": "8 Dec 2020",
+    "dueDate": "9 Jun 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        },
+        {
+            "date": "",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+}
 ]
