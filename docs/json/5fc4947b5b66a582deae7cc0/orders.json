@@ -1,5 +1,4 @@
-[
-
+[
 {
     "CO": "C000185628",
     "projectRef": "LPG Dumai",
@@ -14,16 +13,16 @@
     "dueDate": "8 May 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -32,8 +31,8 @@
     },
     "documents": {
         "test": "",
-        "submittal": "",
-        "iom": ""
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/559419503746785983/Akj-tdQt2ld-Ds1Q1sOsRK8VaxFaAbRG-zb2g.wbkRwg_",
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/560271433660407993/GtY7WM5coBfsJnuLE_tNwXKAvGbo7q3B-Br5AnR.kRwg_"
     },
     "remarks": [
         {
@@ -41,28 +40,9 @@
             "type": "change order",
             "overview": "duty",
             "description": "Duty changed to 538ft."
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
         }
     ]
-},
-
+},
 {
     "CO": "C000186009",
     "projectRef": "Jayapura",
@@ -77,26 +57,26 @@
     "dueDate": "30 Mar 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
-            "TBA",
-            "TBA"
+            "ex-works",
+            "primary"
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": "https://synoloy.pattersonsingapore.com/drive/d/s/560271433903677627/cYSEK54OUyz0Jb-JVrTZDGNLDomqc5Ps-vrrgmhCdRgg_"
+        "test": "https://pattersonsg.ddns.net/drive/d/s/596425887272974480/7BNe1sfjGqM3LKa3d6ZUlAaKNLFX69VD-kL9ANLDkRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/559418887955849879/C85lOL8ktBZgEugyvUB9axMBLO7J_SMl-tr8ABr3kRwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271433903677627/cYSEK54OUyz0Jb-JVrTZDGNLDomqc5Ps-vrrgmhCdRgg_"
     },
     "remarks": [
         {
@@ -110,22 +90,9 @@
             "type": "change order",
             "overview": "spare parts",
             "description": "Add spare parts purchase"
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
         }
     ]
-},
-
+},
 {
     "CO": "C000186309",
     "projectRef": "LPG Balongan",
@@ -157,9 +124,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/559419171641795237/j_ZW9_A0dpzetxnv5wKL3imiH3meOhWZ-vb3g5oqeRgg_",
-        "iom": "https://synoloy.pattersonsingapore.com/drive/d/s/560271434088227005/F9LLNP7coAgGVBMHdPoytMot5ykuQVCP-b73ADHyeRgg_"
+        "test": "https://pattersonsg.ddns.net/drive/d/s/560271377972633747/K0MvNF4CoIEliHexwq9ErNMuBkC3aAwX-ILDAmO3kRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/559419171641795237/j_ZW9_A0dpzetxnv5wKL3imiH3meOhWZ-vb3g5oqeRgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271434088227005/F9LLNP7coAgGVBMHdPoytMot5ykuQVCP-b73ADHyeRgg_"
     },
     "remarks": [
         {
@@ -169,8 +136,7 @@
             "description": "Change pump length"
         }
     ]
-},
-
+},
 {
     "CO": "C000187372",
     "projectRef": "LPG Dumai Cooling Pump",
@@ -185,16 +151,16 @@
     "dueDate": "15 May 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -202,7 +168,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://pattersonsg.ddns.net/drive/d/s/596348987978593006/okTzij5Ex36jDwpap78-5wcg5crHre46-9bCgRHflRwg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/596327429224578412/nPcY4XZlbW0S4x_IZG2YS4VE4ODljI3b-bLPA1tqWRgg_",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271434224541887/6CLAv3EQvmuSxSTNU2yOlsCgF_ASz00c-pLAAU7yVRgg_"
     },
@@ -212,28 +178,9 @@
             "type": "change order",
             "overview": "motor enclosure",
             "description": "Change from IP55 to IP65"
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
         }
     ]
-},
-
+},
 {
     "CO": "C000188743",
     "projectRef": "Tenau Kupang",
@@ -248,16 +195,16 @@
     "dueDate": "26 Jun 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -265,9 +212,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://pattersonsg.ddns.net/drive/d/s/596349043808973744/oTS_qql2V-VZergXnQUm2uAhxjmXqTkW-K7EA64zlRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/588178862918122526/WHYV0dACuO8YXlQSVrTRlmDE4KJ5Hkwh-VLEgm5vlRwg_",
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/576399156977901569/yvWHPOTUS9oeWlDA_8vVgWF3B14HBIPj-gbEAx6jlRwg_"
     },
     "remarks": [
         {
@@ -281,28 +228,9 @@
             "type": "change order",
             "overview": "date",
             "description": "Due date changed to 4 Aug 2020"
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
         }
     ]
-},
-
+},
 {
     "CO": "C000191304",
     "projectRef": "DPPU Kulon Progo",
@@ -317,16 +245,16 @@
     "dueDate": "13 Aug 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -334,9 +262,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://pattersonsg.ddns.net/drive/d/s/596349300252916073/ITmVxdfeYcilsVtOxwjWPmw1O11YcSp--0bEAH8TlRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/559720190504378369/kDLr8dtzbcMKxQdio14tAno5JhGjJS03-.rHg59LlRwg_",
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/584180505621083933/0PA3zqsShThzULa_rIHT1vM2UT49ml7d-qrGgdbblRwg_"
     },
     "remarks": [
         {
@@ -370,8 +298,7 @@
             "description": "Added non-mechanical run test"
         }
     ]
-},
-
+},
 {
     "CO": "C000192058",
     "projectRef": "LPG Bima Cooling Water Pump",
@@ -386,16 +313,16 @@
     "dueDate": "4 Sep 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -403,9 +330,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://pattersonsg.ddns.net/drive/d/s/596699420678993073/wzP_sknibqvU1wldWsQLYImRp0Cs3Oio-zLUAT0XnRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/559419363002720949/yrXzLUi6u5Jd3GaCHD3doAnU7fkeTqCQ-07JgofHlRwg_",
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/592969763894899535/OZJ4uvRdZ1yQrsRvNG3K17vhaEzIQDmL-QLOgxzPmRwg_"
     },
     "remarks": [
         {
@@ -413,34 +340,9 @@
             "type": "change order",
             "overview": "date",
             "description": "Due date changed to 8 Oct 2020."
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
         }
     ]
-},
-
+},
 {
     "CO": "C000193336",
     "projectRef": "SPPBE Diesel",
@@ -455,16 +357,16 @@
     "dueDate": "8 Sep 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -472,38 +374,12 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://pattersonsg.ddns.net/drive/d/s/572949402048575554/m5gC79EMaBujrmUCoIaDCrv96ibEJCf--frOgeFHmRwg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/584180411442181841/p-Dz9V1gCiO-WJAA3EFmZA6aLFSXl4D7-FLSAcbHmRwg_"
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000193337",
     "projectRef": "SPPBE Electric",
@@ -518,16 +394,16 @@
     "dueDate": "8 Sep 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -535,38 +411,12 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://pattersonsg.ddns.net/drive/d/s/575120232132162119/IMy8P2jIWIY2AGK5NSw1-pXXuM1Mzk_C-bbTAnczmRwg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/584180490500617997/PHsqk0sunrdoNwo36qbaTe-gaW_G9QIg-OLRgbL3mRwg_"
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000193571",
     "projectRef": "SPPBE II Diesel",
@@ -581,16 +431,16 @@
     "dueDate": "11 Sep 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -598,38 +448,12 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://pattersonsg.ddns.net/drive/d/s/575120236257260120/RPqiIBricwTR0HyOQ9L5iyFYVYAvbNI6-Ebag2V3nRwg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/584180433669895917/d0wMyzj9OS1SSRmjob5teDzAt2Qi6tRv-NbZAeGjnRwg_"
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000193572",
     "projectRef": "SPPBE II Electric",
@@ -644,16 +468,16 @@
     "dueDate": "11 Sep 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -661,38 +485,12 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://pattersonsg.ddns.net/drive/d/s/575120240229266024/8yfe4j1U6zq9L-ckdGj7n9oKC_FpvBFD-iLagloHnRwg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/584261087537445448/XiWyrlwNtDkujl9Bx7Mocd4kEW29UJbs-YrYABXfnRwg_"
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000195566",
     "projectRef": "Barepump for Stock",
@@ -725,37 +523,11 @@
     },
     "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/595331564104103935/xMYRladXYziwpczke9OM7KqampTKEQZ6-XrdAa8rnRwg_",
         "iom": ""
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000195587",
     "projectRef": "SPPBE III Electric",
@@ -770,16 +542,16 @@
     "dueDate": "30 Nov 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -787,38 +559,12 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://pattersonsg.ddns.net/drive/d/s/586642874609744518/vC6_ka55InOf7THlz9uIJ_Vj0_uWhc7m-.rfg9wzoRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/595331612737058879/85yZFnHHkW-lUrAdiQ6k1bYOnbX3Wycl-r7dATvXnRwg_",
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/595782019846290997/ySlrcmtsaKstwymiH-faBpPN9u3ChyVK-2LeA7ADoRwg_"
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000195589",
     "projectRef": "SPPBE III Diesel",
@@ -833,16 +579,16 @@
     "dueDate": "30 Nov 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -850,38 +596,12 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://pattersonsg.ddns.net/drive/d/s/586642864123984472/HARC7spUe98OTpNeFmqARJKg4gn-_UhO-2rjApYjoRwg_",
+        "submittal": "https://pattersonsg.ddns.net/drive/d/s/595331344452597578/gLy3ejE5QfU3rUOkaitaQItg7zmPyseo-CrnAFJLoRwg_",
+        "iom": "https://pattersonsg.ddns.net/drive/d/s/595782023421935179/fkFgjcupuj9EW1v6lacopYMUiwUAvQFZ-Lrmg7pzoRwg_"
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-
+    "remarks": []
+},
 {
     "CO": "C000196336",
     "projectRef": "TBBM Jayapura",
@@ -896,16 +616,16 @@
     "dueDate": "7 May 2021",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "in progress",
+            "primary"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "awaiting",
+            "danger"
         ],
         "terms": [
             "ex-works",
@@ -919,32 +639,13 @@
     },
     "remarks": [
         {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
+            "date": "13 Nov 2020",
+            "type": "change order",
+            "overview": "L/C",
+            "description": "Change to 100% L/C with CAD or AT SIGHT."
         }
     ]
-},
-
+},
 {
     "CO": "C000197404",
     "projectRef": "TBBM Panjang",
@@ -959,16 +660,16 @@
     "dueDate": "9 Jun 2021",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "in progress",
+            "primary"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -980,32 +681,6 @@
         "submittal": "",
         "iom": ""
     },
-    "remarks": [
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        },
-        {
-            "date": "",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-}
-
+    "remarks": []
+}
 ]
