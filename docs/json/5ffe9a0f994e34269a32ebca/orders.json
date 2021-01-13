@@ -1,0 +1,460 @@
+[
+{
+    "CO": "C000187745",
+    "projectRef": "First Solar Kulim",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "13 Jan 2020",
+    "dueDate": "24 Feb 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000191587",
+    "projectRef": "Fatty Chemical (M) Sdn Bhd",
+    "driverType": "Electric",
+    "driverInfo": "NIDEC 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "19 May 2020",
+    "dueDate": "14 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194076",
+    "projectRef": "Kimberley Clark",
+    "driverType": "Diesel",
+    "driverInfo": "DS0H-UFAA68",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 347,
+    "speed": 1470,
+    "orderDate": "18 Aug 2020",
+    "dueDate": "2 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "20 Aug 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Add 1 flow meter FT-FluxFP-0LS0"
+        }
+    ]
+},
+{
+    "CO": "C000194079",
+    "projectRef": "Lam Research",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFADJ0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "20 Aug 2020",
+    "dueDate": "5 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194080",
+    "projectRef": "Lam Research",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 347,
+    "speed": 3000,
+    "orderDate": "20 Aug 2020",
+    "dueDate": "5 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194387",
+    "projectRef": " ",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "28 Aug 2020",
+    "dueDate": "10 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195454",
+    "projectRef": "Dell",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "5 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195499",
+    "projectRef": "Smith and Nephew",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAT0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "5 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195564",
+    "projectRef": "Smith and Nephew",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "7 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "7 Oct 2020",
+            "type": "clarifications",
+            "overview": "pump",
+            "description": "Pump is UL only."
+        }
+    ]
+},
+{
+    "CO": "C000197020",
+    "projectRef": "Mattel Factory",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 312,
+    "speed": 2800,
+    "orderDate": "23 Nov 2020",
+    "dueDate": "18 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197919",
+    "projectRef": "UCT Batu Kawan",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFADJ0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "29 Dec 2020",
+    "dueDate": "17 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197982",
+    "projectRef": "UCT Batu Kawan",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "29 Dec 2020",
+    "dueDate": "17 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+}
+]

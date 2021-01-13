@@ -1,0 +1,905 @@
+[
+{
+    "CO": "C000188477",
+    "projectRef": "Telkom Regional VI - Kalimanta",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "31 Jan 2020",
+    "dueDate": "16 Mar 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000188485",
+    "projectRef": "Telkom Regional VI - Kalimanta",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 272,
+    "speed": 2970,
+    "orderDate": "31 Jan 2020",
+    "dueDate": "16 Mar 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000189927",
+    "projectRef": "Uptown Mall BSB City - Semaran",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF54",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 381,
+    "speed": 2800,
+    "orderDate": "17 Mar 2020",
+    "dueDate": "28 Apr 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000189928",
+    "projectRef": "Uptown Mall BSB City - Semaran",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM ODP",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 381,
+    "speed": 2950,
+    "orderDate": "17 Mar 2020",
+    "dueDate": "28 Apr 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "23 Mar 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Change CRV to 300#"
+        }
+    ]
+},
+{
+    "CO": "C000190099",
+    "projectRef": "Bareshaft Pumps",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 351,
+    "speed": 2950,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "6 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "15 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 8 Jul 2020"
+        },
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 1 Jul 2020"
+        }
+    ]
+},
+{
+    "CO": "C000190103",
+    "projectRef": "Bareshaft Pumps",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 397,
+    "speed": 2950,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "6 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "15 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 8 Jul 2020"
+        },
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 1 Jul 2020"
+        }
+    ]
+},
+{
+    "CO": "C000190107",
+    "projectRef": "Bareshaft Pumps",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 437,
+    "speed": 2950,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "6 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "15 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 9 Jul 2020"
+        },
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 1 Jul 2020"
+        }
+    ]
+},
+{
+    "CO": "C000190114",
+    "projectRef": "Bareshaft Pumps",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 607,
+    "speed": 2975,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "6 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "15 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 8 Jul 2020"
+        },
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 1 Jul 2020"
+        }
+    ]
+},
+{
+    "CO": "C000190117",
+    "projectRef": "Bareshaft Pumps",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 243,
+    "speed": 2950,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "5 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "15 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 9 Jul 2020"
+        },
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 1 Jul 2020"
+        }
+    ]
+},
+{
+    "CO": "C000190120",
+    "projectRef": "Bareshaft Pumps",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 150,
+    "head": 574,
+    "speed": 2975,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "5 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "15 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 9 Jul 2020"
+        },
+        {
+            "date": "15 Jun 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 1 Jul 2020"
+        }
+    ]
+},
+{
+    "CO": "C000192455",
+    "projectRef": "Telkom Solo, Mataram, Banjarma",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "19 Jun 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192457",
+    "projectRef": "Telkom Solo, Mataram, Banjarma",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "19 Jun 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192458",
+    "projectRef": "Telkom Medan",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 273,
+    "speed": 2980,
+    "orderDate": "19 Jun 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192459",
+    "projectRef": "Telkom Medan",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2980RPM ODP",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 273,
+    "speed": 2980,
+    "orderDate": "19 Jun 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192660",
+    "projectRef": "Telkom Tasikmalaya, Denpasar",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "29 Jun 2020",
+    "dueDate": "14 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192662",
+    "projectRef": "Telkom Tasikmalaya, Denpasar",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "29 Jun 2020",
+    "dueDate": "14 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193063",
+    "projectRef": "Cartenz",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP 2960RPM ODP",
+    "pumpModel": "5x4x12A DMD",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 705,
+    "speed": 2960,
+    "orderDate": "14 Jul 2020",
+    "dueDate": "25 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "7 Oct 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 13 Nov 2020."
+        },
+        {
+            "date": "14 Oct 2020",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Motor frame corrected to 447/9TS."
+        }
+    ]
+},
+{
+    "CO": "C000193064",
+    "projectRef": "Cartenz",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 314,
+    "speed": 2950,
+    "orderDate": "14 Jul 2020",
+    "dueDate": "25 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193582",
+    "projectRef": "Kapal Api - Surabaya",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 404,
+    "speed": 3000,
+    "orderDate": "30 Jul 2020",
+    "dueDate": "17 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193583",
+    "projectRef": "Kapal Api - Surabaya",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2950RPM ODP",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 404,
+    "speed": 2950,
+    "orderDate": "30 Jul 2020",
+    "dueDate": "17 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195886",
+    "projectRef": "Replacement C0106943",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 243,
+    "speed": 1750,
+    "orderDate": "16 Oct 2020",
+    "dueDate": "3 Dec 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "NA",
+        "submittal": "NA",
+        "iom": "NA"
+    },
+    "remarks": [
+        {
+            "date": "5 Nov 2020",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Pump is UL only."
+        }
+    ]
+}
+]

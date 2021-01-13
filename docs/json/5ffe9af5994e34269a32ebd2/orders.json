@@ -1,0 +1,478 @@
+[
+{
+    "CO": "C000189408",
+    "projectRef": "Ninh Phuoc",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "3 Mar 2020",
+    "dueDate": "13 Apr 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000189409",
+    "projectRef": "Ninh Phuoc",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 3000,
+    "orderDate": "2 Mar 2020",
+    "dueDate": "13 Apr 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000189870",
+    "projectRef": "IICH @ Healthcity Novena",
+    "driverType": "Electric",
+    "driverInfo": "Customer Supplied 110kW",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2970,
+    "orderDate": "17 Mar 2020",
+    "dueDate": "28 Apr 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000189900",
+    "projectRef": "Replacement - C0125512",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 266,
+    "speed": 2100,
+    "orderDate": "17 Mar 2020",
+    "dueDate": "23 Apr 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000192617",
+    "projectRef": "VTP 8 Pasir Ris",
+    "driverType": "Electric",
+    "driverInfo": "NIDEC 30HP 1475RPM WP-I",
+    "pumpModel": "12DHC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 500,
+    "head": 155,
+    "speed": 1475,
+    "orderDate": "25 Jun 2020",
+    "dueDate": "16 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "9 Jul 2020",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Pump is UL only."
+        }
+    ]
+},
+{
+    "CO": "C000192761",
+    "projectRef": "Nghi Son Project",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 312,
+    "speed": 2950,
+    "orderDate": "1 Jul 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
+            "type": "",
+            "overview": "",
+            "description": ""
+        }
+    ]
+},
+{
+    "CO": "C000192762",
+    "projectRef": "Nghi Son Project",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 335,
+    "speed": 2970,
+    "orderDate": "1 Jul 2020",
+    "dueDate": "13 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Sep 2020",
+            "type": "change order",
+            "overview": "duty",
+            "description": "Change secondary design to 550m3/h @ 90m."
+        }
+    ]
+},
+{
+    "CO": "C000193361",
+    "projectRef": "Blk 383 Bukit Batok West Ave 5",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 432,
+    "speed": 2950,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "2 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "23 Jul 2020",
+            "type": "clarifications",
+            "overview": "pump",
+            "description": "Pump is UL only."
+        }
+    ]
+},
+{
+    "CO": "C000194088",
+    "projectRef": "Shwe Lin Pan",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 390,
+    "speed": 2940,
+    "orderDate": "18 Aug 2020",
+    "dueDate": "1 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194814",
+    "projectRef": "RWS",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 555,
+    "speed": 2950,
+    "orderDate": "14 Aug 2020",
+    "dueDate": "5 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "2 Nov 2020",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Pump is UL only."
+        },
+        {
+            "date": "2 Nov 2020",
+            "type": "update",
+            "overview": "motor",
+            "description": "Marathon WAA055580"
+        }
+    ]
+},
+{
+    "CO": "C000196894",
+    "projectRef": "Tampines CC HDB",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x3x11A ES",
+    "pumpType": "es",
+    "capacity": 450,
+    "head": 157,
+    "speed": 2950,
+    "orderDate": "18 Nov 2020",
+    "dueDate": "11 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+}
+]
