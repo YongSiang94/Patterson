@@ -719,5 +719,116 @@
         "iom": ""
     },
     "remarks": []
+},
+{
+    "CO": "C000198665",
+    "projectRef": "Pertamina Krueng Raya",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 347,
+    "speed": 3000,
+    "orderDate": "27 Jan 2021",
+    "dueDate": "9 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/600665112491113295/YJ9S84g9rdlZOBEofFV2Y6xIUqMr_LX6-M7xgZun-VQg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198760",
+    "projectRef": "SPPBE IV Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "10 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397766412877679/woqXBEbPn8eVgpm0nDfDKGW1WZPVwRqi-FLAgIR6YWAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198761",
+    "projectRef": "SPPBE IV Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "10 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397784087674816/S2bZHLmlniJ5ckQpD6XLPGGNwABvrdSW-NbBAHiWYWAg_",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
