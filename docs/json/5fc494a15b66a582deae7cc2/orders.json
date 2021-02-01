@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000185628",
+    "purchaseOrder": "",
     "projectRef": "LPG Dumai",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD48",
@@ -45,6 +46,7 @@
 },
 {
     "CO": "C000186009",
+    "purchaseOrder": "",
     "projectRef": "Jayapura",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -95,6 +97,7 @@
 },
 {
     "CO": "C000186309",
+    "purchaseOrder": "",
     "projectRef": "LPG Balongan",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF30",
@@ -139,6 +142,7 @@
 },
 {
     "CO": "C000187372",
+    "purchaseOrder": "",
     "projectRef": "LPG Dumai Cooling Pump",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 2970RPM TEFC",
@@ -183,6 +187,7 @@
 },
 {
     "CO": "C000188743",
+    "purchaseOrder": "",
     "projectRef": "Tenau Kupang",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -233,6 +238,7 @@
 },
 {
     "CO": "C000191304",
+    "purchaseOrder": "",
     "projectRef": "DPPU Kulon Progo",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -301,6 +307,7 @@
 },
 {
     "CO": "C000192058",
+    "purchaseOrder": "",
     "projectRef": "LPG Bima Cooling Water Pump",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2950RPM TEFC",
@@ -345,6 +352,7 @@
 },
 {
     "CO": "C000193336",
+    "purchaseOrder": "",
     "projectRef": "SPPBE Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -382,6 +390,7 @@
 },
 {
     "CO": "C000193337",
+    "purchaseOrder": "",
     "projectRef": "SPPBE Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -419,6 +428,7 @@
 },
 {
     "CO": "C000193571",
+    "purchaseOrder": "",
     "projectRef": "SPPBE II Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -456,6 +466,7 @@
 },
 {
     "CO": "C000193572",
+    "purchaseOrder": "",
     "projectRef": "SPPBE II Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -493,6 +504,7 @@
 },
 {
     "CO": "C000195566",
+    "purchaseOrder": "",
     "projectRef": "Barepump for Stock",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -530,6 +542,7 @@
 },
 {
     "CO": "C000195587",
+    "purchaseOrder": "",
     "projectRef": "SPPBE III Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -567,6 +580,7 @@
 },
 {
     "CO": "C000195589",
+    "purchaseOrder": "",
     "projectRef": "SPPBE III Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -604,6 +618,7 @@
 },
 {
     "CO": "C000196336",
+    "purchaseOrder": "",
     "projectRef": "TBBM Jayapura",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -648,6 +663,7 @@
 },
 {
     "CO": "C000197404",
+    "purchaseOrder": "",
     "projectRef": "TBBM Panjang",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD58",
@@ -685,6 +701,7 @@
 },
 {
     "CO": "C000198341",
+    "purchaseOrder": "",
     "projectRef": "LPG Wayame",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -722,6 +739,7 @@
 },
 {
     "CO": "C000198665",
+    "purchaseOrder": "",
     "projectRef": "Pertamina Krueng Raya",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF84",
@@ -759,6 +777,7 @@
 },
 {
     "CO": "C000198760",
+    "purchaseOrder": "2101/002/OV/RTN/R",
     "projectRef": "SPPBE IV Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -796,6 +815,7 @@
 },
 {
     "CO": "C000198761",
+    "purchaseOrder": "2101/002/OV/RTN/R",
     "projectRef": "SPPBE IV Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
