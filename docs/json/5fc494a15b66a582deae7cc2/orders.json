@@ -739,7 +739,7 @@
 },
 {
     "CO": "C000198665",
-    "purchaseOrder": "",
+    "purchaseOrder": "2101/001/OV/RTN/R",
     "projectRef": "Pertamina Krueng Raya",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF84",
@@ -773,7 +773,20 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/600665112491113295/YJ9S84g9rdlZOBEofFV2Y6xIUqMr_LX6-M7xgZun-VQg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Remove accessories"
+        },
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Added a 360 gal fuel tank"
+        }
+    ]
 },
 {
     "CO": "C000198760",
@@ -847,6 +860,82 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397784087674816/S2bZHLmlniJ5ckQpD6XLPGGNwABvrdSW-NbBAHiWYWAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198903",
+    "purchaseOrder": "2101/005/OV/R",
+    "projectRef": "LPG Kupang Cooling Pump",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM TEFC",
+    "pumpModel": "8x6x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 353,
+    "speed": 2950,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "24 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601439954337316739/Trvpw7xPTd_ggAwn2nxsH8z7b7gwqd1Y-sb9ABXi-WAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199031",
+    "purchaseOrder": "2101/003/OV/R",
+    "projectRef": "TBBM Bau Bau",
+    "driverType": "Diesel",
+    "driverInfo": "DS0H-UFAA68",
+    "pumpModel": "17JMC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 610,
+    "speed": 1770,
+    "orderDate": "2 Feb 2021",
+    "dueDate": "2 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601951163591474773/7IvyMElR0IYhE20bibhbSPQ4jx--ibRX-kr9AyoWPWgg_",
         "iom": ""
     },
     "remarks": []
