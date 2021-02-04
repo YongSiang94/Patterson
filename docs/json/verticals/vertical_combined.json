@@ -45,7 +45,7 @@
         },
         {
             "stageNum": 7,
-            "maxTDH": 474,
+            "maxTDH": 485,
             "maxHP": 95
         },
         {
@@ -692,8 +692,6 @@
         }
     ]
 },
-
-
 {
     "model": "12 DHC",
     "gpm": 500,
@@ -1202,8 +1200,8 @@
         },
         {
             "stageNum": 4,
-            "maxTDH": 427,
-            "maxHP": 466
+            "maxTDH": 437,
+            "maxHP": 478
         }
     ]
 },
@@ -1243,8 +1241,8 @@
         },
         {
             "stageNum": 4,
-            "maxTDH": 427,
-            "maxHP": 466
+            "maxTDH": 416,
+            "maxHP": 478
         }
     ]
 },

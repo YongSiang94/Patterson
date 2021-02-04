@@ -508,8 +508,8 @@
         },
         {
             "stageNum": 4,
-            "maxTDH": 427,
-            "maxHP": 466
+            "maxTDH": 437,
+            "maxHP": 478
         }
     ]
 },
@@ -549,8 +549,8 @@
         },
         {
             "stageNum": 4,
-            "maxTDH": 427,
-            "maxHP": 466
+            "maxTDH": 416,
+            "maxHP": 478
         }
     ]
 },
