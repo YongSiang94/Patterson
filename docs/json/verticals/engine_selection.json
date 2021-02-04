@@ -1,4 +1,5 @@
-[
+[
+
 {
     "make": "Clarke",
     "model": "JU4H-UF20",
@@ -20,7 +21,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ac2639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UF10",
@@ -42,7 +44,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c0f738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFH0",
@@ -64,7 +67,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=75e538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UF40",
@@ -86,7 +90,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b5ea38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UF58",
@@ -100,7 +105,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a10439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFD0",
@@ -122,7 +128,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a32339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UF50",
@@ -144,7 +151,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5f0a39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UF52",
@@ -158,7 +166,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UF30",
@@ -180,7 +189,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3af938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFAEA0",
@@ -202,7 +212,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8e0e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFAEE8",
@@ -216,7 +227,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c1fc38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFAEF2",
@@ -234,7 +246,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9c1539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFM8",
@@ -248,7 +261,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e4ee38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UF58",
@@ -262,7 +276,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=53f838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFADJ8",
@@ -276,7 +291,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a82939cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-ptm-us2aca38cf80b2683faebcff00005cb4e3.png?sfvrsn=5e785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFADJ2",
@@ -294,7 +310,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e40339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-ptm-us2aca38cf80b2683faebcff00005cb4e3.png?sfvrsn=5e785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFM0",
@@ -316,7 +333,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=880539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFAD5G",
@@ -330,7 +348,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=137867cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UF50",
@@ -352,7 +371,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=620439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFADP0",
@@ -374,7 +394,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a2df38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFADR0",
@@ -396,7 +417,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f72339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFADW8",
@@ -410,7 +432,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d4f238cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UF60",
@@ -432,7 +455,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10f938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFAAQ8",
@@ -446,7 +470,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=34f038cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFADY8",
@@ -460,7 +485,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8afa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFAAS0",
@@ -474,7 +500,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=39f438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADMG",
@@ -492,7 +519,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bd1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU4H-UFAD98",
@@ -506,7 +534,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=192639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4 ",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADNG",
@@ -528,7 +557,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ae1b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADN0",
@@ -550,7 +580,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=082539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFAARG",
@@ -564,7 +595,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=230439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADP8",
@@ -578,7 +610,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=631e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADP0",
@@ -596,7 +629,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b4fa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP5E-F20",
@@ -618,7 +652,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062901.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP5E-F10",
@@ -640,7 +675,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062900.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADQ0",
@@ -658,7 +694,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d2e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFAD88",
@@ -672,7 +709,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d1d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DP6H-UFAA50",
@@ -694,7 +732,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6b0b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP5E-F30",
@@ -716,7 +755,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062902.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP5E-F40",
@@ -738,7 +778,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062903.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP5E-F50",
@@ -760,7 +801,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062904.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADR0",
@@ -778,7 +820,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=862739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADR8",
@@ -792,7 +835,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3c1839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DP6H-UFAA88",
@@ -806,7 +850,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=020b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DP6H-UFAAX8",
@@ -820,7 +865,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=170b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DP6H-UFAA62",
@@ -834,7 +880,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ed0a47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADS8",
@@ -848,7 +895,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=011739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP7E-F10",
@@ -870,7 +918,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062905.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP7E-F20",
@@ -892,7 +941,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062906.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADT0",
@@ -914,7 +964,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=82e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADW8",
@@ -928,7 +979,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=58e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DP6H-UFAA70",
@@ -946,7 +998,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c0b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP7E-F30",
@@ -968,7 +1021,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062907.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP7E-F40",
@@ -990,7 +1044,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062908.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP7E-F50",
@@ -1012,7 +1067,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062909.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP7E-F60",
@@ -1034,7 +1090,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062910.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFADX8",
@@ -1048,7 +1105,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2b1739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JU6H-UFAD98",
@@ -1062,7 +1120,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bf3e3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JW6H-UFADF0",
@@ -1080,7 +1139,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=96e238cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JW6H-UFADJ0",
@@ -1098,7 +1158,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=faf338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA50",
@@ -1112,7 +1173,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4a1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA60",
@@ -1130,7 +1192,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e2e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F10",
@@ -1148,7 +1211,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062911.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA88",
@@ -1162,7 +1226,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ef2739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F20",
@@ -1180,7 +1245,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062912.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JW6H-UFAA60",
@@ -1194,7 +1260,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=922239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA98",
@@ -1212,7 +1279,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=400239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F30",
@@ -1230,7 +1298,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062913.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F40",
@@ -1248,7 +1317,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062914.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JW6H-UFAD70",
@@ -1266,7 +1336,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9e1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F50",
@@ -1284,7 +1355,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062915.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JW6H-UFAA80",
@@ -1302,7 +1374,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9b2539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "JW6H-UFAD80",
@@ -1320,7 +1393,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=eee138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F65",
@@ -1334,7 +1408,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063349.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F75",
@@ -1348,7 +1423,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062917.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "DR8H-UFAA40",
@@ -1374,7 +1450,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28f338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP9E-F85",
@@ -1388,7 +1465,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062918.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD18",
@@ -1402,7 +1480,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=783a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DR8H-UFAA62",
@@ -1420,7 +1499,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3f1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD10",
@@ -1434,7 +1514,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f1367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DR8H-UFAA68",
@@ -1448,7 +1529,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=462039cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DR8H-UFAA5G",
@@ -1462,7 +1544,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e7fd38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DS0H-UFAA68",
@@ -1480,7 +1563,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=161739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DS0H-UFAAM0",
@@ -1498,7 +1582,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=be1739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP15E-F10",
@@ -1516,7 +1601,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062919.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DS0H-UFAAN0",
@@ -1534,7 +1620,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4b0f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD28",
@@ -1548,7 +1635,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=99377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD20",
@@ -1562,7 +1650,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d0397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP15E-F20",
@@ -1580,7 +1669,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062920.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD38",
@@ -1594,7 +1684,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=45377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD30",
@@ -1608,7 +1699,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a6397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP15E-F30",
@@ -1626,7 +1718,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062921.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DS0H-UFAA60",
@@ -1644,7 +1737,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e80239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD48",
@@ -1658,7 +1752,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=95387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD58",
@@ -1672,7 +1767,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DS0H-UFAA98",
@@ -1686,7 +1782,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2d0c39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD40",
@@ -1700,7 +1797,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD68",
@@ -1714,7 +1812,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=1b377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD50",
@@ -1728,7 +1827,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=dc367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DS0H-UFAA92",
@@ -1742,7 +1842,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=941739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP15E-F70",
@@ -1756,7 +1857,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062922.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD78",
@@ -1770,7 +1872,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5a377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAD70",
@@ -1784,7 +1887,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAA78",
@@ -1798,7 +1902,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b6647bcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DT2H-UFAA58",
@@ -1812,7 +1917,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9a0b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DT2H-UFAA50",
@@ -1830,7 +1936,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=aef138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAC10",
@@ -1844,7 +1951,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d8377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAC18",
@@ -1858,7 +1966,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e9387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAC28",
@@ -1872,7 +1981,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8d3a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "C18H0-UFAC20",
@@ -1886,7 +1996,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6f377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DT2H-UFAA88",
@@ -1900,7 +2011,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=541239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F10",
@@ -1914,7 +2026,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063005.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F15",
@@ -1932,7 +2045,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062923.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F25",
@@ -1950,7 +2064,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062924.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F35",
@@ -1968,7 +2083,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062925.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DT2H-UFAA60",
@@ -1986,7 +2102,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4c2b5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F20",
@@ -2000,7 +2117,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063006.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F30",
@@ -2018,7 +2136,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063007.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F40",
@@ -2036,7 +2155,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063008.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DT2H-UFAA98",
@@ -2054,7 +2174,8 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3b2a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F50",
@@ -2072,7 +2193,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063009.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F60",
@@ -2090,7 +2212,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063010.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Cummins",
     "model": "CFP23E-F70",
@@ -2108,7 +2231,8 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063011.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
+},
+
 {
     "make": "Clarke",
     "model": "DT2H-UFAA92",
@@ -2122,5 +2246,6 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b92a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
     "starter": 24
-},
+}
+
 ]
