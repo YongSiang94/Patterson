@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000185628",
+    "purchaseOrder": "",
     "projectRef": "LPG Dumai",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD48",
@@ -45,6 +46,7 @@
 },
 {
     "CO": "C000186009",
+    "purchaseOrder": "",
     "projectRef": "Jayapura",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -95,6 +97,7 @@
 },
 {
     "CO": "C000186309",
+    "purchaseOrder": "",
     "projectRef": "LPG Balongan",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF30",
@@ -139,6 +142,7 @@
 },
 {
     "CO": "C000187372",
+    "purchaseOrder": "",
     "projectRef": "LPG Dumai Cooling Pump",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 2970RPM TEFC",
@@ -183,6 +187,7 @@
 },
 {
     "CO": "C000188743",
+    "purchaseOrder": "",
     "projectRef": "Tenau Kupang",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -233,6 +238,7 @@
 },
 {
     "CO": "C000191304",
+    "purchaseOrder": "",
     "projectRef": "DPPU Kulon Progo",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -301,6 +307,7 @@
 },
 {
     "CO": "C000192058",
+    "purchaseOrder": "",
     "projectRef": "LPG Bima Cooling Water Pump",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2950RPM TEFC",
@@ -345,6 +352,7 @@
 },
 {
     "CO": "C000193336",
+    "purchaseOrder": "",
     "projectRef": "SPPBE Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -382,6 +390,7 @@
 },
 {
     "CO": "C000193337",
+    "purchaseOrder": "",
     "projectRef": "SPPBE Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -419,6 +428,7 @@
 },
 {
     "CO": "C000193571",
+    "purchaseOrder": "",
     "projectRef": "SPPBE II Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -456,6 +466,7 @@
 },
 {
     "CO": "C000193572",
+    "purchaseOrder": "",
     "projectRef": "SPPBE II Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -493,6 +504,7 @@
 },
 {
     "CO": "C000195566",
+    "purchaseOrder": "",
     "projectRef": "Barepump for Stock",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -530,6 +542,7 @@
 },
 {
     "CO": "C000195587",
+    "purchaseOrder": "",
     "projectRef": "SPPBE III Electric",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2970RPM ODP",
@@ -567,6 +580,7 @@
 },
 {
     "CO": "C000195589",
+    "purchaseOrder": "",
     "projectRef": "SPPBE III Diesel",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -604,6 +618,7 @@
 },
 {
     "CO": "C000196336",
+    "purchaseOrder": "",
     "projectRef": "TBBM Jayapura",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -648,6 +663,7 @@
 },
 {
     "CO": "C000197404",
+    "purchaseOrder": "",
     "projectRef": "TBBM Panjang",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD58",
@@ -685,6 +701,7 @@
 },
 {
     "CO": "C000198341",
+    "purchaseOrder": "",
     "projectRef": "LPG Wayame",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -721,7 +738,211 @@
     "remarks": []
 },
 {
+    "CO": "C000198665",
+    "purchaseOrder": "2101/001/OV/RTN/R",
+    "projectRef": "Pertamina Krueng Raya",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 347,
+    "speed": 3000,
+    "orderDate": "27 Jan 2021",
+    "dueDate": "9 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/600665112491113295/YJ9S84g9rdlZOBEofFV2Y6xIUqMr_LX6-M7xgZun-VQg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Remove accessories"
+        },
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Added a 360 gal fuel tank"
+        }
+    ]
+},
+{
+    "CO": "C000198760",
+    "purchaseOrder": "2101/002/OV/RTN/R",
+    "projectRef": "SPPBE IV Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "10 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397766412877679/woqXBEbPn8eVgpm0nDfDKGW1WZPVwRqi-FLAgIR6YWAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198761",
+    "purchaseOrder": "2101/002/OV/RTN/R",
+    "projectRef": "SPPBE IV Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "10 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397784087674816/S2bZHLmlniJ5ckQpD6XLPGGNwABvrdSW-NbBAHiWYWAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198903",
+    "purchaseOrder": "2101/005/OV/R",
+    "projectRef": "LPG Kupang Cooling Pump",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM TEFC",
+    "pumpModel": "8x6x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 353,
+    "speed": 2950,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "24 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601439954337316739/Trvpw7xPTd_ggAwn2nxsH8z7b7gwqd1Y-sb9ABXi-WAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199031",
+    "purchaseOrder": "2101/003/OV/R",
+    "projectRef": "TBBM Bau Bau",
+    "driverType": "Diesel",
+    "driverInfo": "DS0H-UFAA68",
+    "pumpModel": "17JMC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 610,
+    "speed": 1770,
+    "orderDate": "2 Feb 2021",
+    "dueDate": "2 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601951163591474773/7IvyMElR0IYhE20bibhbSPQ4jx--ibRX-kr9AyoWPWgg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000189254",
+    "purchaseOrder": "",
     "projectRef": "Jabil Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -766,6 +987,7 @@
 },
 {
     "CO": "C000189480",
+    "purchaseOrder": "",
     "projectRef": "Mahle Changshu",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF40",
@@ -810,6 +1032,7 @@
 },
 {
     "CO": "C000189861",
+    "purchaseOrder": "",
     "projectRef": "Mali Air Port",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2950RPM TEFC",
@@ -854,6 +1077,7 @@
 },
 {
     "CO": "C000189862",
+    "purchaseOrder": "",
     "projectRef": "Mali Air Port",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2950RPM TEFC",
@@ -898,6 +1122,7 @@
 },
 {
     "CO": "C000190083",
+    "purchaseOrder": "",
     "projectRef": "Indonesia Banten Power Plant",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -954,6 +1179,7 @@
 },
 {
     "CO": "C000190125",
+    "purchaseOrder": "",
     "projectRef": "Indonesia Banten Power Plant",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -998,6 +1224,7 @@
 },
 {
     "CO": "C000190369",
+    "purchaseOrder": "",
     "projectRef": "IKEA Fuzhou",
     "driverType": "Diesel",
     "driverInfo": "DP6H-UFAA70",
@@ -1035,6 +1262,7 @@
 },
 {
     "CO": "C000190447",
+    "purchaseOrder": "",
     "projectRef": "Emerson Suzhou",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1072,6 +1300,7 @@
 },
 {
     "CO": "C000190872",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 50HP 1475RPM TEFC",
@@ -1103,7 +1332,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/575300454588659503/ux_xQnstA-kd1Oz3oCisH5e_aNlIO29D-xb.gaMAfTQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588557274789483/0MVd6kYWqJoP8q4mtIZmcqu6pfef7-KS-9bZg18UqUgg_"
     },
     "remarks": [
         {
@@ -1122,6 +1351,7 @@
 },
 {
     "CO": "C000190873",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF58",
@@ -1153,7 +1383,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/575300450929129242/RzRe-uYoLSaX0waVx9eeVNE9ortZvvzp-9L.AYNEfTQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588558860236418/0JMVr-2FaHRyChldk3CtHoCO1X48BtwD-K7cAj9EqUgg_"
     },
     "remarks": [
         {
@@ -1178,6 +1408,7 @@
 },
 {
     "CO": "C00190874",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "DR8H-UFAA40",
@@ -1209,7 +1440,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/596349241601865749/vj_1xf3FZI41E_CPROKVjmnQgABn44_f-FLAAitkfTQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588559332095626/I83CXFssrEL4rGo12V5pqA5OXCg3NxE0-e7dghN4qUgg_"
     },
     "remarks": [
         {
@@ -1234,6 +1465,7 @@
 },
 {
     "CO": "C000190907",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 1470RPM TEFC",
@@ -1265,7 +1497,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/596349268109867190/7brlY0sDEW_D5L6jc6pHN1xv9mCRAM7P-QLBAAeIfTQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588559913006734/pZS61BPfB5-LmyO3jVXZhqNlMm3rhzJM-1bdA.w4rUgg_"
     },
     "remarks": [
         {
@@ -1284,6 +1516,7 @@
 },
 {
     "CO": "C000190927",
+    "purchaseOrder": "",
     "projectRef": "BOE Chongqing",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1321,6 +1554,7 @@
 },
 {
     "CO": "C000190928",
+    "purchaseOrder": "",
     "projectRef": "BOE Chongqing",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1358,6 +1592,7 @@
 },
 {
     "CO": "C000191143",
+    "purchaseOrder": "",
     "projectRef": "Huike Guangzhou",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1395,6 +1630,7 @@
 },
 {
     "CO": "C000191144",
+    "purchaseOrder": "",
     "projectRef": "Huike Guangzhou",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1432,6 +1668,7 @@
 },
 {
     "CO": "C000192436",
+    "purchaseOrder": "",
     "projectRef": "Shanghai GTA Semiconductor",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1469,6 +1706,7 @@
 },
 {
     "CO": "C000192781",
+    "purchaseOrder": "",
     "projectRef": "Evonik Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -1506,6 +1744,7 @@
 },
 {
     "CO": "C000192782",
+    "purchaseOrder": "",
     "projectRef": "Evonik Shanghai",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2950RPM ODP",
@@ -1543,6 +1782,7 @@
 },
 {
     "CO": "C000193160",
+    "purchaseOrder": "",
     "projectRef": "IKEA Nanning",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFAA80",
@@ -1580,6 +1820,7 @@
 },
 {
     "CO": "C000193367",
+    "purchaseOrder": "",
     "projectRef": "HK Changsha P1",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1617,6 +1858,7 @@
 },
 {
     "CO": "C000193368",
+    "purchaseOrder": "",
     "projectRef": "HK Changsha P2",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1654,6 +1896,7 @@
 },
 {
     "CO": "C000193369",
+    "purchaseOrder": "",
     "projectRef": "HK Changsha P3",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1691,6 +1934,7 @@
 },
 {
     "CO": "C000193375",
+    "purchaseOrder": "",
     "projectRef": "HK Beihai",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1728,6 +1972,7 @@
 },
 {
     "CO": "C000193376",
+    "purchaseOrder": "",
     "projectRef": "HK Beihai P1",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1765,6 +2010,7 @@
 },
 {
     "CO": "C000193398",
+    "purchaseOrder": "",
     "projectRef": "Bourns Xiamen",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -1802,6 +2048,7 @@
 },
 {
     "CO": "C000193784",
+    "purchaseOrder": "",
     "projectRef": "Newly Weds Nantong",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2970RPM ODP",
@@ -1839,6 +2086,7 @@
 },
 {
     "CO": "C000193787",
+    "purchaseOrder": "",
     "projectRef": "Steelcase Dongguan",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1889,6 +2137,7 @@
 },
 {
     "CO": "C000194730",
+    "purchaseOrder": "",
     "projectRef": "Sitara Chemical",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1926,6 +2175,7 @@
 },
 {
     "CO": "C000194748",
+    "purchaseOrder": "",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 1780RPM ODP",
@@ -1963,6 +2213,7 @@
 },
 {
     "CO": "C000194749",
+    "purchaseOrder": "",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 50HP 3575RPM ODP",
@@ -2000,6 +2251,7 @@
 },
 {
     "CO": "C000194750",
+    "purchaseOrder": "",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 30HP 3525RPM ODP",
@@ -2037,6 +2289,7 @@
 },
 {
     "CO": "C000194931",
+    "purchaseOrder": "",
     "projectRef": "Pesi Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -2074,6 +2327,7 @@
 },
 {
     "CO": "C000195868",
+    "purchaseOrder": "",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "DP6H-UFAA70",
@@ -2118,6 +2372,7 @@
 },
 {
     "CO": "C000195869",
+    "purchaseOrder": "",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -2162,6 +2417,7 @@
 },
 {
     "CO": "C000195870",
+    "purchaseOrder": "",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -2199,6 +2455,7 @@
 },
 {
     "CO": "C000197230",
+    "purchaseOrder": "",
     "projectRef": "ATS Shanghai",
     "driverType": "Electric",
     "driverInfo": "WEG 40HP 2950RPM ODP",
@@ -2228,14 +2485,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/598571476469202398/HcUHOBMqZSjMzxTO1cVxA8nnIqNnBbFJ-m7PADCOjTgg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602115836368433341/36k-MKEuJkLKuNqIaIX1JtiVW-Z6QcjV-7bAgOjElWwg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197243",
+    "purchaseOrder": "",
     "projectRef": "Corning Bengbu",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2980RPM ODP",
@@ -2273,6 +2531,7 @@
 },
 {
     "CO": "C000197308",
+    "purchaseOrder": "",
     "projectRef": "Corning Bengbu",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -2302,7 +2561,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600484569667386265/6a_lDlMJMxQr2oWnyCg4vWsfAm44tGfr-j7xAxfZZVQg_",
         "submittal": "",
         "iom": ""
     },
@@ -2310,6 +2569,7 @@
 },
 {
     "CO": "C000197423",
+    "purchaseOrder": "",
     "projectRef": "Cummins Beijing",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -2330,8 +2590,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2347,6 +2607,7 @@
 },
 {
     "CO": "C000197427",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -2391,6 +2652,7 @@
 },
 {
     "CO": "C000197476",
+    "purchaseOrder": "",
     "projectRef": "Replacement for C085356-002",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -2420,7 +2682,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600772814278013075/Vkzi_LYCFZ1SD9pBU_2SIQaDW7RGGRdw-zLCgwdJfVgg_",
         "submittal": "",
         "iom": ""
     },
@@ -2428,6 +2690,7 @@
 },
 {
     "CO": "C000197636",
+    "purchaseOrder": "",
     "projectRef": "Continental Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -2448,8 +2711,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2465,6 +2728,7 @@
 },
 {
     "CO": "C000197688",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFM0",
@@ -2509,6 +2773,7 @@
 },
 {
     "CO": "C000197868",
+    "purchaseOrder": "",
     "projectRef": "Corning Bengbu",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -2529,8 +2794,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2546,6 +2811,7 @@
 },
 {
     "CO": "C000197924",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -2566,8 +2832,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2583,6 +2849,7 @@
 },
 {
     "CO": "C000197925",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -2603,8 +2870,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2620,6 +2887,7 @@
 },
 {
     "CO": "C000198052",
+    "purchaseOrder": "",
     "projectRef": "DOW Zhangjiagang",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2950RPM ODP",
@@ -2630,6 +2898,120 @@
     "speed": 2950,
     "orderDate": "5 Jan 2021",
     "dueDate": "10 Feb 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198555",
+    "purchaseOrder": "",
+    "projectRef": "Shanghai ABB",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 500,
+    "head": 266,
+    "speed": 2800,
+    "orderDate": "22 Jan 2021",
+    "dueDate": "8 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198804",
+    "purchaseOrder": "",
+    "projectRef": "Pesi Guangzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 280,
+    "speed": 2100,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "17 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198807",
+    "purchaseOrder": "CG-2021-013-001",
+    "projectRef": "GF Kunshan",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF22",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 219,
+    "speed": 2600,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "17 Mar 2021",
     "status": {
         "order": [
             "in progress",
@@ -2657,6 +3039,7 @@
 },
 {
     "CO": "C000187745",
+    "purchaseOrder": "",
     "projectRef": "First Solar Kulim",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -2694,6 +3077,7 @@
 },
 {
     "CO": "C000191587",
+    "purchaseOrder": "",
     "projectRef": "Fatty Chemical (M) Sdn Bhd",
     "driverType": "Electric",
     "driverInfo": "NIDEC 150HP 2970RPM ODP",
@@ -2731,6 +3115,7 @@
 },
 {
     "CO": "C000194076",
+    "purchaseOrder": "",
     "projectRef": "Kimberley Clark",
     "driverType": "Diesel",
     "driverInfo": "DS0H-UFAA68",
@@ -2775,6 +3160,7 @@
 },
 {
     "CO": "C000194079",
+    "purchaseOrder": "",
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFADJ0",
@@ -2812,6 +3198,7 @@
 },
 {
     "CO": "C000194080",
+    "purchaseOrder": "",
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -2849,6 +3236,7 @@
 },
 {
     "CO": "C000194387",
+    "purchaseOrder": "",
     "projectRef": " ",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -2886,6 +3274,7 @@
 },
 {
     "CO": "C000195454",
+    "purchaseOrder": "",
     "projectRef": "Dell",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -2923,6 +3312,7 @@
 },
 {
     "CO": "C000195499",
+    "purchaseOrder": "",
     "projectRef": "Smith and Nephew",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAT0",
@@ -2960,6 +3350,7 @@
 },
 {
     "CO": "C000195564",
+    "purchaseOrder": "",
     "projectRef": "Smith and Nephew",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3004,6 +3395,7 @@
 },
 {
     "CO": "C000197020",
+    "purchaseOrder": "",
     "projectRef": "Mattel Factory",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF84",
@@ -3033,7 +3425,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600484595825163225/2M5iUf6NuTXQ1YXXXMTc1W_pqBJiS8ep-a7xAJOJZVQg_",
         "submittal": "",
         "iom": ""
     },
@@ -3041,6 +3433,7 @@
 },
 {
     "CO": "C000197919",
+    "purchaseOrder": "",
     "projectRef": "UCT Batu Kawan",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFADJ0",
@@ -3078,6 +3471,7 @@
 },
 {
     "CO": "C000197982",
+    "purchaseOrder": "",
     "projectRef": "UCT Batu Kawan",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3115,6 +3509,7 @@
 },
 {
     "CO": "C000188477",
+    "purchaseOrder": "",
     "projectRef": "Telkom Regional VI - Kalimanta",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -3152,6 +3547,7 @@
 },
 {
     "CO": "C000188485",
+    "purchaseOrder": "",
     "projectRef": "Telkom Regional VI - Kalimanta",
     "driverType": "Electric",
     "driverInfo": "WEG 60HP 2970RPM ODP",
@@ -3189,6 +3585,7 @@
 },
 {
     "CO": "C000189927",
+    "purchaseOrder": "",
     "projectRef": "Uptown Mall BSB City - Semaran",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF54",
@@ -3226,6 +3623,7 @@
 },
 {
     "CO": "C000189928",
+    "purchaseOrder": "",
     "projectRef": "Uptown Mall BSB City - Semaran",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2950RPM ODP",
@@ -3270,6 +3668,7 @@
 },
 {
     "CO": "C000190099",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3320,6 +3719,7 @@
 },
 {
     "CO": "C000190103",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3370,6 +3770,7 @@
 },
 {
     "CO": "C000190107",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3420,6 +3821,7 @@
 },
 {
     "CO": "C000190114",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3470,6 +3872,7 @@
 },
 {
     "CO": "C000190117",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3520,6 +3923,7 @@
 },
 {
     "CO": "C000190120",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3570,6 +3974,7 @@
 },
 {
     "CO": "C000192455",
+    "purchaseOrder": "",
     "projectRef": "Telkom Solo, Mataram, Banjarma",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -3607,6 +4012,7 @@
 },
 {
     "CO": "C000192457",
+    "purchaseOrder": "",
     "projectRef": "Telkom Solo, Mataram, Banjarma",
     "driverType": "Electric",
     "driverInfo": "WEG 60HP 2970RPM ODP",
@@ -3644,6 +4050,7 @@
 },
 {
     "CO": "C000192458",
+    "purchaseOrder": "",
     "projectRef": "Telkom Medan",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -3681,6 +4088,7 @@
 },
 {
     "CO": "C000192459",
+    "purchaseOrder": "",
     "projectRef": "Telkom Medan",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2980RPM ODP",
@@ -3718,6 +4126,7 @@
 },
 {
     "CO": "C000192660",
+    "purchaseOrder": "",
     "projectRef": "Telkom Tasikmalaya, Denpasar",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -3755,6 +4164,7 @@
 },
 {
     "CO": "C000192662",
+    "purchaseOrder": "",
     "projectRef": "Telkom Tasikmalaya, Denpasar",
     "driverType": "Electric",
     "driverInfo": "WEG 60HP 2970RPM ODP",
@@ -3792,6 +4202,7 @@
 },
 {
     "CO": "C000193063",
+    "purchaseOrder": "",
     "projectRef": "Cartenz",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 2960RPM ODP",
@@ -3842,6 +4253,7 @@
 },
 {
     "CO": "C000193064",
+    "purchaseOrder": "",
     "projectRef": "Cartenz",
     "driverType": "Electric",
     "driverInfo": "WEG 125HP 2950RPM ODP",
@@ -3879,6 +4291,7 @@
 },
 {
     "CO": "C000193582",
+    "purchaseOrder": "",
     "projectRef": "Kapal Api - Surabaya",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -3916,6 +4329,7 @@
 },
 {
     "CO": "C000193583",
+    "purchaseOrder": "",
     "projectRef": "Kapal Api - Surabaya",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2950RPM ODP",
@@ -3953,6 +4367,7 @@
 },
 {
     "CO": "C000195886",
+    "purchaseOrder": "",
     "projectRef": "Replacement C0106943",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -3997,6 +4412,7 @@
 },
 {
     "CO": "C000189870",
+    "purchaseOrder": "",
     "projectRef": "IICH @ Healthcity Novena",
     "driverType": "Electric",
     "driverInfo": "Customer Supplied 110kW",
@@ -4034,6 +4450,7 @@
 },
 {
     "CO": "C000189900",
+    "purchaseOrder": "",
     "projectRef": "Replacement - C0125512",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4071,6 +4488,7 @@
 },
 {
     "CO": "C000192617",
+    "purchaseOrder": "",
     "projectRef": "VTP 8 Pasir Ris",
     "driverType": "Electric",
     "driverInfo": "NIDEC 30HP 1475RPM WP-I",
@@ -4115,6 +4533,7 @@
 },
 {
     "CO": "C000192761",
+    "purchaseOrder": "",
     "projectRef": "Nghi Son Project",
     "driverType": "Electric",
     "driverInfo": "WEG 125HP 2950RPM ODP",
@@ -4152,6 +4571,7 @@
 },
 {
     "CO": "C000192762",
+    "purchaseOrder": "",
     "projectRef": "Nghi Son Project",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -4196,6 +4616,7 @@
 },
 {
     "CO": "C000193361",
+    "purchaseOrder": "",
     "projectRef": "Blk 383 Bukit Batok West Ave 5",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4240,6 +4661,7 @@
 },
 {
     "CO": "C000194088",
+    "purchaseOrder": "",
     "projectRef": "Shwe Lin Pan",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4277,6 +4699,7 @@
 },
 {
     "CO": "C000194814",
+    "purchaseOrder": "",
     "projectRef": "RWS",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4297,8 +4720,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "awaiting",
+            "danger"
         ],
         "terms": [
             "ex-works",
@@ -4327,6 +4750,7 @@
 },
 {
     "CO": "C000196894",
+    "purchaseOrder": "",
     "projectRef": "Tampines CC HDB",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4356,7 +4780,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/598571551192825323/p2iDz5lpZlhy5vF51XhYcTm9tE8hAf-o-yLOgmyyjTgg_",
         "submittal": "",
         "iom": ""
     },
@@ -4372,11 +4796,184 @@
             "type": "change order",
             "overview": "shipping",
             "description": "Controllers will be shipped separately."
+        },
+        {
+            "date": "21 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Controllers shipping with an HVAC order"
         }
     ]
 },
 {
+    "CO": "C000198484",
+    "purchaseOrder": 21121008.0,
+    "projectRef": "CTE - KPE - FB4",
+    "driverType": "Electric",
+    "driverInfo": "250kW 2980RPM TEFC",
+    "pumpModel": "5x4x12 DMD",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 731,
+    "speed": 2970,
+    "orderDate": "19 Jan 2021",
+    "dueDate": "25 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/599223374364851816/T9w_BPZdvauM11aU01dkymcC96KSJ9he-wb6go4HeUAg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add AST, NZ options to JP controller"
+        }
+    ]
+},
+{
+    "CO": "C000198487",
+    "purchaseOrder": 21121008.0,
+    "projectRef": "CTE - KPE - FB2",
+    "driverType": "Electric",
+    "driverInfo": "250kW 2980RPM TEFC",
+    "pumpModel": "5x4x12 DMD",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 673,
+    "speed": 2960,
+    "orderDate": "19 Jan 2021",
+    "dueDate": "25 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/599221807739878403/9sUK4Q5rk1RKl8uvFqmicH6oJ7RKgTY--TLzAJxbdUAg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add AST, NZ options to JP controller"
+        }
+    ]
+},
+{
+    "CO": "C000198892",
+    "purchaseOrder": 21121020.0,
+    "projectRef": "Cam Ranh Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "26 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601574564660559614/G9_jLYFZWT7WXlOAsY2CfY465-hCB1F8-vL.AsAU5WQg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198894",
+    "purchaseOrder": 21121020.0,
+    "projectRef": "Cam Ranh",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "26 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000192003",
+    "purchaseOrder": "",
     "projectRef": "An Sinh Hospital",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2950RPM TEFC",
@@ -4421,6 +5018,7 @@
 },
 {
     "CO": "C000192004",
+    "purchaseOrder": "",
     "projectRef": "An Sinh Hospital",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2950RPM TEFC",
@@ -4465,6 +5063,7 @@
 },
 {
     "CO": "C000192119",
+    "purchaseOrder": "",
     "projectRef": "Teys Bros",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF52",
@@ -4502,6 +5101,7 @@
 },
 {
     "CO": "C000192654",
+    "purchaseOrder": "",
     "projectRef": "Pfizer",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF94",
@@ -4539,6 +5139,7 @@
 },
 {
     "CO": "C000197232",
+    "purchaseOrder": "",
     "projectRef": "Coles OCADO",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -4551,16 +5152,16 @@
     "dueDate": "22 Jan 2021",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -4576,6 +5177,7 @@
 },
 {
     "CO": "C000198307",
+    "purchaseOrder": "",
     "projectRef": "Wetherhill Park",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -4596,8 +5198,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -4613,6 +5215,7 @@
 },
 {
     "CO": "C000194082",
+    "purchaseOrder": "",
     "projectRef": "Replacement for C0135330",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4650,6 +5253,7 @@
 },
 {
     "CO": "C000197475",
+    "purchaseOrder": "",
     "projectRef": "Replacement for C0153331",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -4686,7 +5290,53 @@
     "remarks": []
 },
 {
+    "CO": "C000198878",
+    "purchaseOrder": 107652.0,
+    "projectRef": "Koodaideri",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 266,
+    "speed": 2800,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "19 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "3 Feb 2021",
+            "type": "change order",
+            "overview": "destination temp",
+            "description": "Change engine destination temperature to 120\u00b0F."
+        }
+    ]
+},
+{
     "CO": "C000195595",
+    "purchaseOrder": "",
     "projectRef": "ST Muar",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -4731,6 +5381,7 @@
 },
 {
     "CO": "C000197282",
+    "purchaseOrder": "",
     "projectRef": "Boral",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF62-P1",
@@ -4751,8 +5402,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -4760,7 +5411,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/599220794135984752/LOrcZ5_Xb2hFd5TqSzx1Ozn5HLZx1HLR--7qATkncUAg_",
         "submittal": "",
         "iom": ""
     },
