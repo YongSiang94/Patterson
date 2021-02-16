@@ -2523,9 +2523,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603973488801265455/CRWd2zCcoDbABZeG2s8F8OBdpZJyQlyG-kLcgmby-YQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602221524893612706/4kWhMezXW9EDpx9ZJmak3EUPSKinmlj0-BLbAOgq-YQg_"
     },
     "remarks": []
 },
@@ -2599,7 +2599,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950224714544590/rMPNqE8VHjfq1tl3CjRT853idFysEzFe-ELgAENm-YQg_",
         "submittal": "",
         "iom": ""
     },
@@ -2720,7 +2720,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603943267995791463/r_pZHPkRXhwkuhv8_X2vp5uELG-FrRrm-lLjAr.6-YQg_",
         "submittal": "",
         "iom": ""
     },
@@ -3011,7 +3011,7 @@
     "head": 219,
     "speed": 2600,
     "orderDate": "29 Jan 2021",
-    "dueDate": "17 Mar 2021",
+    "dueDate": "16 Apr 2021",
     "status": {
         "order": [
             "in progress",
@@ -3033,6 +3033,89 @@
     "documents": {
         "test": "",
         "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Feb 2021",
+            "type": "change order",
+            "overview": "date",
+            "description": "due date changed to 16 Apr 2021"
+        }
+    ]
+},
+{
+    "CO": "C000199261",
+    "purchaseOrder": "CG-2021-009-002",
+    "projectRef": "ABB Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "11 Feb 2021",
+    "dueDate": "29 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602743988822258806/7Np7PmAfocvnkiA9FV3rLYDyIf6y01JU-m7TAnSU9Ygg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199262",
+    "purchaseOrder": "CG-2021-017-001",
+    "projectRef": "Trauson Changzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 254,
+    "speed": 3000,
+    "orderDate": "11 Feb 2021",
+    "dueDate": "29 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602744009972036779/0NyCxZh3GxzqDuIeKiROT2uz4IgasZtT-HbXg6JE9Ygg_",
         "iom": ""
     },
     "remarks": []
@@ -3416,8 +3499,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "awaiting",
+            "danger"
         ],
         "terms": [
             "ex-works",
@@ -4712,16 +4795,16 @@
     "dueDate": "5 Nov 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5169,7 +5252,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950161196004742/-uFsM44VNfbd1xZt08QiLzqn2PN9AIOs-6LYAtYC-YQg_",
         "submittal": "",
         "iom": ""
     },
@@ -5283,7 +5366,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950215552087470/WsscfD-wG45SUw0-tnn8U7Ta4MFTqhBC-WrgAKOu-YQg_",
         "submittal": "",
         "iom": ""
     },
@@ -5381,7 +5464,7 @@
 },
 {
     "CO": "C000197282",
-    "purchaseOrder": "",
+    "purchaseOrder": 560220.0,
     "projectRef": "Boral",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF62-P1",
@@ -5413,8 +5496,15 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/599220794135984752/LOrcZ5_Xb2hFd5TqSzx1Ozn5HLZx1HLR--7qATkncUAg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602968869008619047/MGuXgTAiG-hHz7oIY7N4wLQnFogegQDq-ZrbAlBy-YQg_"
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "10 Feb 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "add export crating"
+        }
+    ]
 }
 ]
