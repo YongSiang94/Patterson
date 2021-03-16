@@ -760,8 +760,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -769,7 +769,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/608699966736611631/dXa_BpWTuumAZ_52yZfDmZkZJkXYNiGa-ebmgzmuJcgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/600665112491113295/YJ9S84g9rdlZOBEofFV2Y6xIUqMr_LX6-M7xgZun-VQg_",
         "iom": ""
     },
@@ -811,8 +811,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -849,8 +849,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -925,8 +925,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
