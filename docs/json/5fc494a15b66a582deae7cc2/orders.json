@@ -722,12 +722,12 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "LC",
+            "warning"
         ],
         "terms": [
-            "ex-works",
-            "primary"
+            "CIF",
+            "success"
         ]
     },
     "documents": {
@@ -760,8 +760,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -811,8 +811,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -849,8 +849,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
