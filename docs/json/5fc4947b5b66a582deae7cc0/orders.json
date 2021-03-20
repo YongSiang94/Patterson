@@ -820,7 +820,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946013590928705/Qv30_rVsddPj6AeJd7vYPIRgcgmxiyL--lr3AhcT2dgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397766412877679/woqXBEbPn8eVgpm0nDfDKGW1WZPVwRqi-FLAgIR6YWAg_",
         "iom": ""
     },
@@ -858,7 +858,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946011653160231/LGwAmskcNwrZ6L7Z4nEBDCDunFyI_tR5-zr0gx9L2dgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397784087674816/S2bZHLmlniJ5ckQpD6XLPGGNwABvrdSW-NbBAHiWYWAg_",
         "iom": ""
     },
@@ -972,7 +972,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498001838726/F5r3_dMnYfoauTj54jSokHK7DltqmCU2-I7Vgwq6MdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271434392314049/1vh9_a6iZeZNXBb1TTjl1qQLVXpONAff-5L0ACUQfTQg_"
     },
@@ -1062,7 +1062,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498303828620/aHH3o8lILp7UBz9r0X3OScImiQvCXh9E-b7XAW72MdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436489466053/yyHw-4AcgRpo3Q0tcAaUIyCVwI8Kl-3Y-Tb4Azl0fTQg_"
     },
@@ -1107,7 +1107,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498607915666/IHlf8nwMkEtGLCvqKH-J-o7zppXcBgnj-s7WASMyMdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436569157831/fz3NycwaByG973ED2-ZNyKyXPl5bcdM4-cb5AHWYfTQg_"
     },
@@ -2841,7 +2841,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547505379619554/WgOg_RuAoKE5CsVXs_nyZYPJ2G_NsRGI-ILMgcUGMdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661103828645939/7Emelk74aeK07TrTAj52UXYUotUXcY7D-nrjAuxNLawg_"
     },
@@ -2879,7 +2879,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547503039197905/CRRJcq39NTzb6G0gjsFOMKEyAE0KP27c-UrNg9EqMdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661106833864791/T3kN5fvHGRBkuNSxT_lP5CscbfbxzJvB-FrlgjyhLawg_"
     },
@@ -2946,8 +2946,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2984,8 +2984,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -2993,7 +2993,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946326209183329/osQi_HYYl7mBDE5As1Nu3nxCxSrSzL6B-pr4g1Pr2dgg_",
         "submittal": "",
         "iom": ""
     },
@@ -3022,8 +3022,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3067,8 +3067,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3105,8 +3105,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3342,7 +3342,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547493948043870/ieVnGiDKosQIJdiLyghOviVsxDSEvHv9-b7TgfIiMdQg_",
         "submittal": "",
         "iom": ""
     },
@@ -3418,7 +3418,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547502881911495/x1rZ3QMaJvWiYMBbaIkHDTLQXUgE3q-9-sbOgY1iMdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653949880873028/pkPtcsHl78l85Ob4b-yKW49hPqWsvDOe-.rug.KEkTQg_"
     },
@@ -3577,7 +3577,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547310837313955/G8IWx1pSPzkVkExZfIdAEgMoexx3zw__-JLKAix6MdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781797380406694/RiXjbHI6OrS6VQPMnX6IGxdQCk7eZfFe-B70gfuckTQg_"
     },
@@ -3833,7 +3833,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547494390542961/yWphluU8C7fq8pgIFxrWy-WfytA0g4tI-qLRgepSMdQg_",
         "submittal": "",
         "iom": ""
     },
@@ -3871,9 +3871,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547494646395512/X8GGHWqQu3T-CKeM0kyqWYjmgpW3Dvcr-8bTgLKWMdQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/609546484026752883/cQ3v65-zk4fK1gSHvrB3IOg4PWiRJrcA-wL9gpFOLdQg_"
     },
     "remarks": []
 },
@@ -3909,7 +3909,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609546303042535182/KrVKJIWYvoSmpszVfdkjAD7Q4lCCR1EL-VL-AxTCLdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271437045211341/vngMGl9H4WTYcSZl5niqGHevJRdnEr4V--r2AfjQlTQg_"
     },
@@ -3947,7 +3947,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547501917221547/Sdj5kk2EnmGBHpqEtH2n_Vb2OA9iPgcB-H7RgTXCMdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436999073995/cofTnmMCrteuxDvE9Uu81I9M8-v_kF-8-Hr7gjj4lTQg_"
     },
@@ -4145,7 +4145,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609546909029281969/8u5H6LZ9c3EeCHozCu2rls7xTlsMWCax-VLFA1cWLdQg_",
         "submittal": "",
         "iom": ""
     },
@@ -4196,7 +4196,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547501980136116/Xv7eqHlFg2_t4obnkN0HBjmMH5sQlwh3-BbQgOGuMdQg_",
         "submittal": "",
         "iom": ""
     },
@@ -4526,7 +4526,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609546719834718193/uwrtkL77SC_0GR229miXH_eh20znNPNL-nLCgUZuLdQg_",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/592971643435922731/9m6lJ69vRc4J_dyjvWyA1fixiAC6Rg9R-ZLZAPRMqTQg_"
     },
@@ -5660,7 +5660,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946231805885937/Gf1-0hsEc7FE-J7DhKlYkDy5cwf_4OwU-PL4AuOn2dgg_",
         "submittal": "",
         "iom": ""
     },
