@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000192119",
+    "purchaseOrder": "",
     "projectRef": "Teys Bros",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF52",
@@ -30,21 +31,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349389245561674/ExRVqw3B6zR3oD90bJZ2xq_9ADIWmq5Q-jLiARI8qTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/570495725717206947/J1qfoA5rM4Rl9AAzl_RLsET0Qs87DHkC-a7jgx4kqTQg_"
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000192654",
+    "purchaseOrder": "",
     "projectRef": "Pfizer",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF94",
@@ -74,21 +69,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/568479799314522115/lKMbaIA6nW7MS6BDMF507DbRVRsI2w4a-rLhAtJUqTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/573333651087990785/zOhw5a-NWl0k4rZRwZKl0kQVdwzmCCTs-y7iALJwqTQg_"
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000197232",
+    "purchaseOrder": 14826.0,
     "projectRef": "Coles OCADO",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -101,6 +90,44 @@
     "dueDate": "22 Jan 2021",
     "status": {
         "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950161196004742/-uFsM44VNfbd1xZt08QiLzqn2PN9AIOs-6LYAtYC-YQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/606660871801845552/uLyouE_qTzXF3Hj5N4VjKXSpvewqkj1e-drcA2dxKawg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198307",
+    "purchaseOrder": "",
+    "projectRef": "Wetherhill Park",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA98",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 351,
+    "speed": 1750,
+    "orderDate": "14 Jan 2021",
+    "dueDate": "10 Mar 2021",
+    "status": {
+        "order": [
             "TBA",
             "TBA"
         ],
@@ -109,8 +136,46 @@
             "TBA"
         ],
         "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/608094538436753215/JMft_7CTNtbdAIkWW9tZN9x4ZBTVjabA-yrHA4F1zcAg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/610364287761824958/A_bKG_fosUY4zf56c7EriGj3jDupZPBc-Bb2ApBpzeAg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000200513",
+    "purchaseOrder": 16534.0,
+    "projectRef": "Replacement for C0114263",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E3F11A",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 254,
+    "speed": 3000,
+    "orderDate": "22 Mar 2021",
+    "dueDate": "17 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
             "TBA",
             "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
         ],
         "terms": [
             "ex-works",
@@ -119,9 +184,22 @@
     },
     "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/609369843147259529/ADizWKyDOzziG3keKRzkuu9mLCIl9kwh-pL.AGCLrdAg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "7 Apr 2021",
+            "type": "change order",
+            "overview": "information",
+            "description": "Controller S/N: 00-886-763-02-RE"
+        },
+        {
+            "date": "7 Apr 2021",
+            "type": "change order",
+            "overview": "information",
+            "description": "Duetz S/N: 11259273"
+        }
+    ]
 }
 ]
