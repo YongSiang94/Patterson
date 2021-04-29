@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000188477",
+    "purchaseOrder": "",
     "projectRef": "Telkom Regional VI - Kalimanta",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -30,21 +31,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547494390542961/yWphluU8C7fq8pgIFxrWy-WfytA0g4tI-qLRgepSMdQg_",
+        "submittal": "",
+        "iom": ""
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000188485",
+    "purchaseOrder": "",
     "projectRef": "Telkom Regional VI - Kalimanta",
     "driverType": "Electric",
     "driverInfo": "WEG 60HP 2970RPM ODP",
@@ -74,21 +69,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547494646395512/X8GGHWqQu3T-CKeM0kyqWYjmgpW3Dvcr-8bTgLKWMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/609546484026752883/cQ3v65-zk4fK1gSHvrB3IOg4PWiRJrcA-wL9gpFOLdQg_"
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000189927",
+    "purchaseOrder": "",
     "projectRef": "Uptown Mall BSB City - Semaran",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF54",
@@ -118,21 +107,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609546303042535182/KrVKJIWYvoSmpszVfdkjAD7Q4lCCR1EL-VL-AxTCLdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271437045211341/vngMGl9H4WTYcSZl5niqGHevJRdnEr4V--r2AfjQlTQg_"
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000189928",
+    "purchaseOrder": "",
     "projectRef": "Uptown Mall BSB City - Semaran",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2950RPM ODP",
@@ -162,9 +145,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547501917221547/Sdj5kk2EnmGBHpqEtH2n_Vb2OA9iPgcB-H7RgTXCMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436999073995/cofTnmMCrteuxDvE9Uu81I9M8-v_kF-8-Hr7gjj4lTQg_"
     },
     "remarks": [
         {
@@ -177,6 +160,7 @@
 },
 {
     "CO": "C000190099",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -206,9 +190,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349086865601645/BSEvHmSYAiwHnHRxcXdlE7xBrolZB0F0-RL7g9UklTQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -227,6 +211,7 @@
 },
 {
     "CO": "C000190103",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -256,9 +241,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349159328495089/m6ZNJZGFRroiJshaot33isudaOlTf6y0-aL4A1FElTQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -277,6 +262,7 @@
 },
 {
     "CO": "C000190107",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -306,9 +292,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349188766217905/8r71wm_VRuM9FtsQQv8Ue4kF3ZQAWzWG-hb7AxFglTQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -327,6 +313,7 @@
 },
 {
     "CO": "C000190114",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -356,9 +343,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609546909029281969/8u5H6LZ9c3EeCHozCu2rls7xTlsMWCax-VLFA1cWLdQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -377,6 +364,7 @@
 },
 {
     "CO": "C000190117",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -406,9 +394,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547501980136116/Xv7eqHlFg2_t4obnkN0HBjmMH5sQlwh3-BbQgOGuMdQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -427,6 +415,7 @@
 },
 {
     "CO": "C000190120",
+    "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -456,9 +445,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349213783144286/8AlDxyd3wPr471m2_QOj8aumiHtYQgVV-2L5gKIQlTQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -477,6 +466,7 @@
 },
 {
     "CO": "C000192455",
+    "purchaseOrder": "",
     "projectRef": "Telkom Solo, Mataram, Banjarma",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -506,14 +496,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349417032825826/F8IzwYvbW9sfb8PoBQT6Ue7Inw_7_rg_-.L5g5o0lTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/572690285293772821/WngjsdupYXBqc9jIdtrG-6fxIOeKUcOR-Gb.AxJQlTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192457",
+    "purchaseOrder": "",
     "projectRef": "Telkom Solo, Mataram, Banjarma",
     "driverType": "Electric",
     "driverInfo": "WEG 60HP 2970RPM ODP",
@@ -543,14 +534,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349443144465539/i89fyeyFQCA0nrJ8TN6uS6hqdpeDoWfB-fL9gwK8lTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677922360434689/vZW6Zor5uDK0dOdgUHMUuRwGAVOAJt02-XL8gk6klTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192458",
+    "purchaseOrder": "",
     "projectRef": "Telkom Medan",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -580,14 +572,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/569059509079683822/tjeNxRgVdYghMNo6zLggOp9UNBI_yXei-nb9gDrglTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677924061224963/dt2_31BdgA-TQ8u3Z4nvJtbuuLbMQJkn-vr.AEr4lTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192459",
+    "purchaseOrder": "",
     "projectRef": "Telkom Medan",
     "driverType": "Electric",
     "driverInfo": "WEG 100HP 2980RPM ODP",
@@ -617,14 +610,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/569059508492481256/fnI5L2UtHUE-Fn3_A2Iq2F6uzL7uD_kq-.b.AdMolTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677926519087109/CNHpjjRzQ8onMOptz2BQkNV6dZLIxiwS-4r-g4cQlTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192660",
+    "purchaseOrder": "",
     "projectRef": "Telkom Tasikmalaya, Denpasar",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -654,14 +648,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349514399399383/L_G8SxnFQ-WQon_5cAyUtx0Nf0rw4HEK-5bUA2vcpTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677928645599239/2ON-tdHjfQebLVtNXCv2nILvSU8NV-be-AraASv0pTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192662",
+    "purchaseOrder": "",
     "projectRef": "Telkom Tasikmalaya, Denpasar",
     "driverType": "Electric",
     "driverInfo": "WEG 60HP 2970RPM ODP",
@@ -691,14 +686,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349541276499567/dumxwQWCYHZWYjm7rZE1v8KGJf5XrRHK-PrZAbQgqTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677931109752841/1303xE-NSSLst4TcrpWoasSCu9qBsw2X-H7YgYAMqTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193063",
+    "purchaseOrder": "",
     "projectRef": "Cartenz",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 2960RPM ODP",
@@ -728,9 +724,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609546719834718193/uwrtkL77SC_0GR229miXH_eh20znNPNL-nLCgUZuLdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/592971643435922731/9m6lJ69vRc4J_dyjvWyA1fixiAC6Rg9R-ZLZAPRMqTQg_"
     },
     "remarks": [
         {
@@ -749,6 +745,7 @@
 },
 {
     "CO": "C000193064",
+    "purchaseOrder": "",
     "projectRef": "Cartenz",
     "driverType": "Electric",
     "driverInfo": "WEG 125HP 2950RPM ODP",
@@ -778,14 +775,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596348735957548848/B4qiVydQ8EkCeLh-Sys5LjdvCoW3amFR-iLbAJRwqTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/592971644761322818/eF0oODO9FDL1cSYFEkXl9hoOkhhytgu2-pbbgcCEqTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193582",
+    "purchaseOrder": "",
     "projectRef": "Kapal Api - Surabaya",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -815,14 +813,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575120362803606256/A1cyiZ1CgmRWHgv2eL6a8pSItv9VExEs-6rZgQzAqTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/579927258735620722/70ws2LQKG4LEMGQkoDWg-uNKDSm26mpm-ybZgHSoqTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193583",
+    "purchaseOrder": "",
     "projectRef": "Kapal Api - Surabaya",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2950RPM ODP",
@@ -852,14 +851,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575120355138515658/cRvgjtUFhRFVlPAP1bRH2GPyXxMtvd5t-F7dgrjcqTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/579927260182655642/vhmTgnmt2Mcw58dLsdHhqRYHvIQ93NtP-O7fg70AqTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000195886",
+    "purchaseOrder": "",
     "projectRef": "Replacement C0106943",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -889,9 +889,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/591423717731514662/tSGawsdERnq2OyRUEWzMYY6cWW7-tcb0-W7fApkgqTQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
