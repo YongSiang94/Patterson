@@ -1,94 +1,7 @@
 [
 {
-    "CO": "C000189408",
-    "projectRef": "Ninh Phuoc",
-    "driverType": "Electric",
-    "driverInfo": "WEG 100HP 2950RPM ODP",
-    "pumpModel": "6x5x11B SSC",
-    "pumpType": "hsc",
-    "capacity": 1000,
-    "head": 300,
-    "speed": 2950,
-    "orderDate": "3 Mar 2020",
-    "dueDate": "13 Apr 2020",
-    "status": {
-        "order": [
-            "TBA",
-            "TBA"
-        ],
-        "shipment": [
-            "TBA",
-            "TBA"
-        ],
-        "payment": [
-            "TBA",
-            "TBA"
-        ],
-        "terms": [
-            "ex-works",
-            "primary"
-        ]
-    },
-    "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
-    },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-{
-    "CO": "C000189409",
-    "projectRef": "Ninh Phuoc",
-    "driverType": "Diesel",
-    "driverInfo": "JU4H-UF34",
-    "pumpModel": "6x5x11B SSC",
-    "pumpType": "hsc",
-    "capacity": 1000,
-    "head": 300,
-    "speed": 3000,
-    "orderDate": "2 Mar 2020",
-    "dueDate": "13 Apr 2020",
-    "status": {
-        "order": [
-            "TBA",
-            "TBA"
-        ],
-        "shipment": [
-            "TBA",
-            "TBA"
-        ],
-        "payment": [
-            "TBA",
-            "TBA"
-        ],
-        "terms": [
-            "ex-works",
-            "primary"
-        ]
-    },
-    "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
-    },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
-},
-{
     "CO": "C000189870",
+    "purchaseOrder": "",
     "projectRef": "IICH @ Healthcity Novena",
     "driverType": "Electric",
     "driverInfo": "Customer Supplied 110kW",
@@ -118,21 +31,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349115766453541/jMtEwJcphNloQj4IIqlBLHJzx3PG2mny-UbygisceTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436726444233/WUW1vp5EWOaOUUvcTRTS0RouYujqEdW9-G7wAbbQeTQg_"
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000189900",
+    "purchaseOrder": "",
     "projectRef": "Replacement - C0125512",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -166,17 +73,11 @@
         "submittal": "",
         "iom": ""
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000192617",
+    "purchaseOrder": "",
     "projectRef": "VTP 8 Pasir Ris",
     "driverType": "Electric",
     "driverInfo": "NIDEC 30HP 1475RPM WP-I",
@@ -206,9 +107,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349482002595131/qPHMFNzUGGBmP_dgJ0ErY8QongDd6Zmv-sbxAXekeTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/577750828813688833/GyGexrx1q5bouOnnttAgzyKw8fMa1Xav-kbxA59weTQg_"
     },
     "remarks": [
         {
@@ -221,6 +122,7 @@
 },
 {
     "CO": "C000192761",
+    "purchaseOrder": "",
     "projectRef": "Nghi Son Project",
     "driverType": "Electric",
     "driverInfo": "WEG 125HP 2950RPM ODP",
@@ -250,21 +152,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349570378678025/HVlW_hqoglevFuM6pm8FlQmGJ4TVxICg-1bzAPvIeTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/573053262144512001/-nucyok6Otk5z_bVLU04zMce0rlPslSd-Ar2gYv4eTQg_"
     },
-    "remarks": [
-        {
-            "date": "REMEMBER TO END OF WITH A MERGED CELL \"END\"",
-            "type": "",
-            "overview": "",
-            "description": ""
-        }
-    ]
+    "remarks": []
 },
 {
     "CO": "C000192762",
+    "purchaseOrder": "",
     "projectRef": "Nghi Son Project",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -294,9 +190,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349586837127041/-4hCWslkRT7PCnwJLZCCp8Stf2xQxPAh-Tb2AVBEfTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/573053264304578563/d8d4lLkAjpvGwAUh22v3xBZMXc5FsAxm-JL0AKgofTQg_"
     },
     "remarks": [
         {
@@ -309,6 +205,7 @@
 },
 {
     "CO": "C000193361",
+    "purchaseOrder": "",
     "projectRef": "Blk 383 Bukit Batok West Ave 5",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -353,6 +250,7 @@
 },
 {
     "CO": "C000194088",
+    "purchaseOrder": "",
     "projectRef": "Shwe Lin Pan",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -390,6 +288,7 @@
 },
 {
     "CO": "C000194814",
+    "purchaseOrder": "",
     "projectRef": "RWS",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -402,16 +301,16 @@
     "dueDate": "5 Nov 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -419,7 +318,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/586642869243132527/PILKU-dGzVV87_5oH7gBJV76m42Yqi-U-gb2AgSsfTQg_",
         "submittal": "",
         "iom": ""
     },
@@ -440,6 +339,7 @@
 },
 {
     "CO": "C000196894",
+    "purchaseOrder": "",
     "projectRef": "Tampines CC HDB",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -460,6 +360,293 @@
             "TBA"
         ],
         "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/598571551192825323/p2iDz5lpZlhy5vF51XhYcTm9tE8hAf-o-yLOgmyyjTgg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "13 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add crating to barepump."
+        },
+        {
+            "date": "13 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Controllers will be shipped separately."
+        },
+        {
+            "date": "21 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Controllers shipping with an HVAC order"
+        }
+    ]
+},
+{
+    "CO": "C000198484",
+    "purchaseOrder": 21121008.0,
+    "projectRef": "CTE - KPE - FB4",
+    "driverType": "Electric",
+    "driverInfo": "250kW 2980RPM TEFC",
+    "pumpModel": "5x4x12 DMD",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 731,
+    "speed": 2970,
+    "orderDate": "19 Jan 2021",
+    "dueDate": "25 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/599223374364851816/T9w_BPZdvauM11aU01dkymcC96KSJ9he-wb6go4HeUAg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add AST, NZ options to JP controller"
+        },
+        {
+            "date": "12 Apr 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Shipping direct from Canada"
+        }
+    ]
+},
+{
+    "CO": "C000198487",
+    "purchaseOrder": 21121008.0,
+    "projectRef": "CTE - KPE - FB2",
+    "driverType": "Electric",
+    "driverInfo": "250kW 2980RPM TEFC",
+    "pumpModel": "5x4x12 DMD",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 673,
+    "speed": 2960,
+    "orderDate": "19 Jan 2021",
+    "dueDate": "25 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/599221807739878403/9sUK4Q5rk1RKl8uvFqmicH6oJ7RKgTY--TLzAJxbdUAg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "1 Feb 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add AST, NZ options to JP controller"
+        },
+        {
+            "date": "12 Apr 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Shipping direct from Canada"
+        }
+    ]
+},
+{
+    "CO": "C000198892",
+    "purchaseOrder": 21121020.0,
+    "projectRef": "Cam Ranh Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "26 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/614174777495567216/rmkfMirpQjez9VVsceoEdfbZWLzxvKb4-q7vgMcf8hQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601574564660559614/G9_jLYFZWT7WXlOAsY2CfY465-hCB1F8-vL.AsAU5WQg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "17 Feb 2021",
+            "type": "change order",
+            "overview": "jockey pump",
+            "description": "Corrected speed to 2860RPM"
+        }
+    ]
+},
+{
+    "CO": "C000198894",
+    "purchaseOrder": 21121020.0,
+    "projectRef": "Cam Ranh",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "26 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/615894065640160339/ne1TMyrKgU754nWaQ-YwYrCBw5pUVgxi-27zgYg0ejAg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199810",
+    "purchaseOrder": 21121046.0,
+    "projectRef": "REPUBLIC OF SINGAPORE (PRIME MINISTER OFFICE)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 243,
+    "speed": 2970,
+    "orderDate": "2 Mar 2021",
+    "dueDate": "12 Apr 2021",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "TBA",
+            "TBA"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/614169633999599348/AvtMZowHnjmYMJ50LxyVijparPVSU0gm-dbcA1U34hQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606665649497882402/0aht4FWahH0YdmlOIH-ROc81p_tXK-oY-ybGggD80bAg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "12 Apr 2021",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Pump cancelled and replace by C000201174"
+        }
+    ]
+},
+{
+    "CO": "C000201174",
+    "purchaseOrder": 21121088.0,
+    "projectRef": "REPUBLIC OF SINGAPORE (PRIME MINISTER OFFICE)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x3x11A ES",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 245,
+    "speed": 2950,
+    "orderDate": "12 Apr 2021",
+    "dueDate": "27 May 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
             "TBA",
             "TBA"
         ],
@@ -470,9 +657,16 @@
     },
     "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614259421584864693/I-J9KvmQorKpWtsb1XX_jQRK5s0y47KH-.LXAhLhJhgg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "22 Apr 2021",
+            "type": "change order",
+            "overview": "secondary duty",
+            "description": "2280 l/min @ 70m"
+        }
+    ]
 }
 ]
