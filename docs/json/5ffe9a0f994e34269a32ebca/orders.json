@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000187745",
+    "purchaseOrder": "",
     "projectRef": "First Solar Kulim",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -30,14 +31,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547493948043870/ieVnGiDKosQIJdiLyghOviVsxDSEvHv9-b7TgfIiMdQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": []
 },
 {
     "CO": "C000191587",
+    "purchaseOrder": "",
     "projectRef": "Fatty Chemical (M) Sdn Bhd",
     "driverType": "Electric",
     "driverInfo": "NIDEC 150HP 2970RPM ODP",
@@ -67,14 +69,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/569059511684346677/Zvu4Pgk5MR0Pqq-bgszZFKHJa4n5SyOt-17sgDJckTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/573683537838911877/sOpS8OVVEmAfBJ3GO1CtP1Id0C1icm_3-trvAApAkTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194076",
+    "purchaseOrder": "",
     "projectRef": "Kimberley Clark",
     "driverType": "Diesel",
     "driverInfo": "DS0H-UFAA68",
@@ -104,9 +107,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547502881911495/x1rZ3QMaJvWiYMBbaIkHDTLQXUgE3q-9-sbOgY1iMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653949880873028/pkPtcsHl78l85Ob4b-yKW49hPqWsvDOe-.rug.KEkTQg_"
     },
     "remarks": [
         {
@@ -119,6 +122,7 @@
 },
 {
     "CO": "C000194079",
+    "purchaseOrder": "",
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFADJ0",
@@ -148,14 +152,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/577569793394122761/Lq16WetgvDQa-q3XdVIhTo0NeVhTS5rB-Q7zgW7EkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653953374728287/YmhwM7jx_aQ0TBUL5BR0_PEviRLdX7LL-G7wgaKokTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194080",
+    "purchaseOrder": "",
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -185,14 +190,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/577837069378827799/aFHVFLAkGyOtc4WT9nRuBkSRFuiGzhF2-eLxgrcQkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653951569080408/OJ0DuvDfzVvLBSbg8iimDOXZVE68UMH0-nLwgHswkTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194387",
+    "purchaseOrder": "",
     "projectRef": " ",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -222,14 +228,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/580007202851437760/2PT5pNUcDo4yfagXc_BcUZxoPPU48yuJ-5Lxget8kTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653953292939357/NV9Uppg8R87KZ8co8f8s1HMdleoQa9Fl-ybwAiNkkTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000195454",
+    "purchaseOrder": "",
     "projectRef": "Dell",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -259,14 +266,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547310837313955/G8IWx1pSPzkVkExZfIdAEgMoexx3zw__-JLKAix6MdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781797380406694/RiXjbHI6OrS6VQPMnX6IGxdQCk7eZfFe-B70gfuckTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000195499",
+    "purchaseOrder": "",
     "projectRef": "Smith and Nephew",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAT0",
@@ -296,14 +304,15 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/588259351173578546/-UhoaCoGJvaqM_JWktv1X51kdEVIFIGO-Rr0gKfUkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781799467072960/vpsJDWtOd6LH2ZdGy8YfDgT-l5hwdKgo-Kb0AUu4kTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000195564",
+    "purchaseOrder": "",
     "projectRef": "Smith and Nephew",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -333,9 +342,9 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/588816836343150601/bMadKI4oHhubl9SR8Yp9-TR0iynZxpGk-ar1AQPskTQg_",
+        "submittal": "",
+        "iom": ""
     },
     "remarks": [
         {
@@ -348,6 +357,7 @@
 },
 {
     "CO": "C000197020",
+    "purchaseOrder": 110138.0,
     "projectRef": "Mattel Factory",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF84",
@@ -368,23 +378,31 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
-            "ex-works",
-            "primary"
+            "CIF",
+            "success"
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600484595825163225/2M5iUf6NuTXQ1YXXXMTc1W_pqBJiS8ep-a7xAJOJZVQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/610914667019154397/ePPz44FWcvGYA3SGxmtoOiCIUSa7KFrF-EbRg8Kpnegg_"
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "3 Mar 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight terms to CIF Penang Port"
+        }
+    ]
 },
 {
     "CO": "C000197919",
+    "purchaseOrder": 110157.0,
     "projectRef": "UCT Batu Kawan",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFADJ0",
@@ -405,23 +423,43 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
-            "ex-works",
-            "primary"
+            "CIF",
+            "success"
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/616880914938507705/OTIKZc1e8OAfUhVB2yP48gxeOrI1FgIa-ArIAl.WZjwg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/616879487230980139/6DdaavUJj6zO_2tVXsquA_LOdrijaeFF-irAAusaYjwg_"
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "3 Mar 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight terms to CIF Penang Port"
+        },
+        {
+            "date": "6 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export crating"
+        },
+        {
+            "date": "17 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
 },
 {
     "CO": "C000197982",
+    "purchaseOrder": 110158.0,
     "projectRef": "UCT Batu Kawan",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -442,8 +480,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -451,10 +489,35 @@
         ]
     },
     "documents": {
-        "test": "NA",
-        "submittal": "NA",
-        "iom": "NA"
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606989827511988259/9tdSOthaX9UrN8t3QcChm3NMT-506exl-abDgCQ52bAg_",
+        "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "2 Mar 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight terms to CIF Penang Port"
+        },
+        {
+            "date": "6 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight to exworks"
+        },
+        {
+            "date": "6 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export crating"
+        },
+        {
+            "date": "21 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
 }
 ]
