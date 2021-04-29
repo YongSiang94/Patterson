@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000189254",
+    "purchaseOrder": "",
     "projectRef": "Jabil Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -30,9 +31,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498001838726/F5r3_dMnYfoauTj54jSokHK7DltqmCU2-I7Vgwq6MdQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271434392314049/1vh9_a6iZeZNXBb1TTjl1qQLVXpONAff-5L0ACUQfTQg_"
     },
     "remarks": [
         {
@@ -45,6 +46,7 @@
 },
 {
     "CO": "C000189480",
+    "purchaseOrder": "",
     "projectRef": "Mahle Changshu",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF40",
@@ -74,9 +76,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271378991849633/6sLAU-Q1nsrtmNzvuWY6an22qxfRPUvV-Lb5gK1MfTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436208447683/j-rTlaB3dckpO35ywErog1F0QK7zBoOb-Db7ARksfTQg_"
     },
     "remarks": [
         {
@@ -89,6 +91,7 @@
 },
 {
     "CO": "C000189861",
+    "purchaseOrder": "",
     "projectRef": "Mali Air Port",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2950RPM TEFC",
@@ -118,9 +121,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498303828620/aHH3o8lILp7UBz9r0X3OScImiQvCXh9E-b7XAW72MdQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436489466053/yyHw-4AcgRpo3Q0tcAaUIyCVwI8Kl-3Y-Tb4Azl0fTQg_"
     },
     "remarks": [
         {
@@ -133,6 +136,7 @@
 },
 {
     "CO": "C000189862",
+    "purchaseOrder": "",
     "projectRef": "Mali Air Port",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2950RPM TEFC",
@@ -162,9 +166,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498607915666/IHlf8nwMkEtGLCvqKH-J-o7zppXcBgnj-s7WASMyMdQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436569157831/fz3NycwaByG973ED2-ZNyKyXPl5bcdM4-cb5AHWYfTQg_"
     },
     "remarks": [
         {
@@ -177,6 +181,7 @@
 },
 {
     "CO": "C000190083",
+    "purchaseOrder": "",
     "projectRef": "Indonesia Banten Power Plant",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -206,9 +211,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271379094610085/fDltzxL_NvRYtU-lBFL7QYiM2spEdB0Z-m77gqXEfTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722743256752133/PaJ4LpouReO7k97JIRqj7TSO_w8XkHJk-u77A4HofTQg_"
     },
     "remarks": [
         {
@@ -233,6 +238,7 @@
 },
 {
     "CO": "C000190125",
+    "purchaseOrder": "",
     "projectRef": "Indonesia Banten Power Plant",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -262,7 +268,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564082729864437789/K4N04_RG2rSVSQrpS8s_PKG0shQ2GmQF-376g-oQfTQg_",
         "submittal": "",
         "iom": ""
     },
@@ -277,6 +283,7 @@
 },
 {
     "CO": "C000190369",
+    "purchaseOrder": "",
     "projectRef": "IKEA Fuzhou",
     "driverType": "Diesel",
     "driverInfo": "DP6H-UFAA70",
@@ -306,14 +313,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564082731831566367/DSIYC3PCm25CtPEAQ4nzgn4alBDP5oz3-Cb8gUI4fTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/566242291046457345/GyW38eGTt7aM8Abt6ooVxVLJ_MrbBPyq-Kb.AvJYfTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000190447",
+    "purchaseOrder": "",
     "projectRef": "Emerson Suzhou",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -343,14 +351,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271379149136039/JBun7kluelcr_qsSWJZoAFQ4w5WfMFDL-cr8AtKUfTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271437370269903/O_5Wrfp2oYCI23NHir1P4_YXDyaGMng7-Rr8A9Z4fTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000190872",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 50HP 1475RPM TEFC",
@@ -380,9 +389,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575300454588659503/ux_xQnstA-kd1Oz3oCisH5e_aNlIO29D-xb.gaMAfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588557274789483/0MVd6kYWqJoP8q4mtIZmcqu6pfef7-KS-9bZg18UqUgg_"
     },
     "remarks": [
         {
@@ -401,6 +410,7 @@
 },
 {
     "CO": "C000190873",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF58",
@@ -430,9 +440,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575300450929129242/RzRe-uYoLSaX0waVx9eeVNE9ortZvvzp-9L.AYNEfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588558860236418/0JMVr-2FaHRyChldk3CtHoCO1X48BtwD-K7cAj9EqUgg_"
     },
     "remarks": [
         {
@@ -457,6 +467,7 @@
 },
 {
     "CO": "C00190874",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "DR8H-UFAA40",
@@ -486,9 +497,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349241601865749/vj_1xf3FZI41E_CPROKVjmnQgABn44_f-FLAAitkfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588559332095626/I83CXFssrEL4rGo12V5pqA5OXCg3NxE0-e7dghN4qUgg_"
     },
     "remarks": [
         {
@@ -513,6 +524,7 @@
 },
 {
     "CO": "C000190907",
+    "purchaseOrder": "",
     "projectRef": "Jharsuguda Power Plant (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 1470RPM TEFC",
@@ -542,9 +554,9 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
-        "iom": ""
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349268109867190/7brlY0sDEW_D5L6jc6pHN1xv9mCRAM7P-QLBAAeIfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588559913006734/pZS61BPfB5-LmyO3jVXZhqNlMm3rhzJM-1bdA.w4rUgg_"
     },
     "remarks": [
         {
@@ -563,6 +575,7 @@
 },
 {
     "CO": "C000190927",
+    "purchaseOrder": "",
     "projectRef": "BOE Chongqing",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -592,14 +605,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560872623311986691/ZkS19DEliClaxvv7zWg4nuINciNhtcp2-YrBgGe4fTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722745536356359/Hn2bGaeEVWNuUaOozN8oijIuq8QMWMJJ-grBgdvYfTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000190928",
+    "purchaseOrder": "",
     "projectRef": "BOE Chongqing",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -629,14 +643,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560872617020530689/6YGPr2HHh5GfX0WZEbSGsggBSxymZ4p3-y7CANAUgTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722747826446345/q4Pta090yDDplLEUOcprRXXeqY2tit7h-q7DgtP4fTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000191143",
+    "purchaseOrder": "",
     "projectRef": "Huike Guangzhou",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -666,14 +681,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564081889925701641/tkNvz4xspPmg4q1N95DlIGOKoD7QTll2-8LAAeRQgTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563883502867619841/PYBNO-yW-kO7_SenMrWU9FWbBojZ2b3k-KLHAgx8gTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000191144",
+    "purchaseOrder": "",
     "projectRef": "Huike Guangzhou",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -703,14 +719,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564081891538411531/RbpoixUv0pQK1YQ1LKwKgWHSsAc6mGst-jrHA2DwgTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563883503064752131/xgJjjfN0WWQHd8a471hsKy459iY8Qywz-T7EA4y4gTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192436",
+    "purchaseOrder": "",
     "projectRef": "Shanghai GTA Semiconductor",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -740,14 +757,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/566163761893777409/PE8fXqJHN5zNYPpzM4Si7Tfme2KmN0OR-sLGgf0UgTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/569320777537593345/n_F9iTVE5wkNqp6PVZRzQT9B-hg5JTZH-zbHAHU0gTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192781",
+    "purchaseOrder": "",
     "projectRef": "Evonik Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -777,14 +795,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/569513775185572567/jGuxCIgRkizPmeiWX13WVyu_P2bcy-z9-GbIgLV8gTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/574455225010659477/7Vm1omjjHnJxmqJ6uV0nRXlVdewE-vKl-.LEAdVkgTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000192782",
+    "purchaseOrder": "",
     "projectRef": "Evonik Shanghai",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2950RPM ODP",
@@ -814,14 +833,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/567783957760876545/5ujeSejOKaOO5zTIGG5gLtin2VuEM_w_-NrJgZWYgTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/574455225994223767/gSkgegcRQ3YH0WEVEd-0upVLnKZrz6U_-VrKg.WwgTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193160",
+    "purchaseOrder": "",
     "projectRef": "IKEA Nanning",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFAA80",
@@ -851,14 +871,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572500502980370435/wViMkoW7LQcp5BCDTs96rhSpcDQi64kI-n7LAqHogTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749283869504049/aU5GiRmnkoKPlk1YgQ2Xa9efYD-gJRhi-f7LAeHQgTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193367",
+    "purchaseOrder": "",
     "projectRef": "HK Changsha P1",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -888,7 +909,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596348711926283928/UARe-7qfsH2Cy5f_LlGfoAV6dX-nzSGz-vLKgoYMgTQg_",
         "submittal": "",
         "iom": ""
     },
@@ -896,6 +917,7 @@
 },
 {
     "CO": "C000193368",
+    "purchaseOrder": "",
     "projectRef": "HK Changsha P2",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -925,7 +947,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949401494927403/VlubO8G2M6h52Jr62-KH0Z3FhYuj7ZdW-97LgK5QgTQg_",
         "submittal": "",
         "iom": ""
     },
@@ -933,6 +955,7 @@
 },
 {
     "CO": "C000193369",
+    "purchaseOrder": "",
     "projectRef": "HK Changsha P3",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -962,7 +985,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949402686109788/RpZCDgLyxj947rPuJ0hUm7nU2YeRLmOS-RbPg.J0gTQg_",
         "submittal": "",
         "iom": ""
     },
@@ -970,6 +993,7 @@
 },
 {
     "CO": "C000193375",
+    "purchaseOrder": "",
     "projectRef": "HK Beihai",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -999,14 +1023,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949402220542028/sX0-z_cZ_uH8hw9pnSw2affGOf3bJ3zB-kbOge64gTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749285664666172/1Fmxz0tsgq0uqO7nSaESWD3dL1BSS77U-ZbMA76cgTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193376",
+    "purchaseOrder": "",
     "projectRef": "HK Beihai P1",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1036,14 +1061,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949402128267336/lX5I0MgLn1b3QDE4E2847kTd62pXpKGG-z7PAbrkgTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749285714997824/LhY1V8LZo6dVRYVdUdA1_uRI4LFuEzwA-7LPApsAgTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193398",
+    "purchaseOrder": "",
     "projectRef": "Bourns Xiamen",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -1073,14 +1099,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949577278208214/a2S3r9lr-JwDUM2Z4qU5c9VDy7RHJGKP-NbRgQc8gTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749290068685389/usXFLnxk7PQgVbEjGMH6C8tGdiV2Hb0X-ELTgoMcgTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193784",
+    "purchaseOrder": "",
     "projectRef": "Newly Weds Nantong",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2970RPM ODP",
@@ -1110,14 +1137,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575120159488913929/pU1uZQeN1FgVriRKF8Uo5ARkGmn1jeLN-zLSg3DIhTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/579652410071364134/BeQwK4EXVMtbtmnBiGKTxGEd2RGZpHcS-DbXAJkAhTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000193787",
+    "purchaseOrder": "",
     "projectRef": "Steelcase Dongguan",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1147,9 +1175,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/585270729921049876/Cr47NDRijilUvHJiRiEQ4wvvSJI7LjQZ-erUgLGIhTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/586459776074956578/jHdD5f-wIVgNeXTYvqYgk9IfgimMByJ0-obVgf2ghTQg_"
     },
     "remarks": [
         {
@@ -1168,6 +1196,7 @@
 },
 {
     "CO": "C000194730",
+    "purchaseOrder": "",
     "projectRef": "Sitara Chemical",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1197,14 +1226,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/583195538667647984/9cq-JSiHtom5pP3XhtIzjzqQwbyVqvpz-tbYAZBwiTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166319638098217/b6PUwVckH-tWkH1r6ubfUHzkD5OtO8CG-mLbApRQiTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194748",
+    "purchaseOrder": "",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 1780RPM ODP",
@@ -1234,14 +1264,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/583195552554988554/QCT0ZXv5xNTHRxtdjYIysov2GD-JoCLY-57agUiYiTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166319313039652/Ea9UEUJrgInixike7J8IxwN5zcfLhGHY-D7cACC4iTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194749",
+    "purchaseOrder": "",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 50HP 3575RPM ODP",
@@ -1271,14 +1302,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/582815773813161219/VRec9UExKBeoe8XF4nitJr3YYdLaf1tZ-mrdgtW8iTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166320072208694/hMMNJZeTUxTqtxhbIAZx507t_4J_9-Qv-eLfAzmUiTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194750",
+    "purchaseOrder": "",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 30HP 3525RPM ODP",
@@ -1308,14 +1340,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/581547007171147613/sMKKykFfr7imY9VZ-GSRGDfP9fmCiwFu-urcg2XoiTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166325665313120/6rF9-0MElTgWqNZDroKeizKC62Isy17k-27dAWoEiTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000194931",
+    "purchaseOrder": "",
     "projectRef": "Pesi Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -1345,7 +1378,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/587619849331586613/_WSZrwSo-ClRELakFXUGsktgfqZrI_lY-PLpAOA8kTQg_",
         "submittal": "",
         "iom": ""
     },
@@ -1353,6 +1386,7 @@
 },
 {
     "CO": "C000195868",
+    "purchaseOrder": "",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "DP6H-UFAA70",
@@ -1382,9 +1416,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/589072848086154749/jofXzRpjLqwkS5c87Aad_Wr2VopMtyEB-WbrAZBgkTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/593884059136997196/hL3F3yI780iRplk67ppJvNSm82PaoXaS-g7pA2iAkTQg_"
     },
     "remarks": [
         {
@@ -1397,6 +1431,7 @@
 },
 {
     "CO": "C000195869",
+    "purchaseOrder": "",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1426,9 +1461,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/589072848702717458/n1Hg5g9etyj4NcxhuoGuxkgvkqEviMRt-x7rgAzMkTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/593996198029865873/Ct7CBs6yGD-Nk0aiIned9QJ3_dqwks28-p7oA7iokTQg_"
     },
     "remarks": [
         {
@@ -1441,6 +1476,7 @@
 },
 {
     "CO": "C000195870",
+    "purchaseOrder": "",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1470,14 +1506,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/589072848635608590/tKNwIez--i3KR7SHHr_HDjrtHb3LKal4-77rACz0kTQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/593996203480363987/VmzNbQoeTv1Dypa1igpPytlK_ixKnB0b-DLsAA0QkTQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197230",
+    "purchaseOrder": "",
     "projectRef": "ATS Shanghai",
     "driverType": "Electric",
     "driverInfo": "WEG 40HP 2950RPM ODP",
@@ -1507,14 +1544,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/598571476469202398/HcUHOBMqZSjMzxTO1cVxA8nnIqNnBbFJ-m7PADCOjTgg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602115836368433341/36k-MKEuJkLKuNqIaIX1JtiVW-Z6QcjV-7bAgOjElWwg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197243",
+    "purchaseOrder": "",
     "projectRef": "Corning Bengbu",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2980RPM ODP",
@@ -1544,14 +1582,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603973488801265455/CRWd2zCcoDbABZeG2s8F8OBdpZJyQlyG-kLcgmby-YQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602221524893612706/4kWhMezXW9EDpx9ZJmak3EUPSKinmlj0-BLbAOgq-YQg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197308",
+    "purchaseOrder": "",
     "projectRef": "Corning Bengbu",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -1581,7 +1620,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600484569667386265/6a_lDlMJMxQr2oWnyCg4vWsfAm44tGfr-j7xAxfZZVQg_",
         "submittal": "",
         "iom": ""
     },
@@ -1589,6 +1628,7 @@
 },
 {
     "CO": "C000197423",
+    "purchaseOrder": "",
     "projectRef": "Cummins Beijing",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1609,8 +1649,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1618,14 +1658,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950224714544590/rMPNqE8VHjfq1tl3CjRT853idFysEzFe-ELgAENm-YQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863579222643/eMgHy3iIVnPeE9vlty2mUjCUWLh377gF-vbKASkQScgg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197427",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1670,6 +1711,7 @@
 },
 {
     "CO": "C000197476",
+    "purchaseOrder": "",
     "projectRef": "Replacement for C085356-002",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -1699,7 +1741,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600772814278013075/Vkzi_LYCFZ1SD9pBU_2SIQaDW7RGGRdw-zLCgwdJfVgg_",
         "submittal": "",
         "iom": ""
     },
@@ -1707,6 +1749,7 @@
 },
 {
     "CO": "C000197636",
+    "purchaseOrder": "",
     "projectRef": "Continental Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1727,8 +1770,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1736,14 +1779,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603943267995791463/r_pZHPkRXhwkuhv8_X2vp5uELG-FrRrm-lLjAr.6-YQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863696663164/8DlVcFVQQZOk5sDNyyKdE1rcGgv5KHQS-.7IA4lQScgg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197688",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFM0",
@@ -1788,6 +1832,7 @@
 },
 {
     "CO": "C000197868",
+    "purchaseOrder": "",
     "projectRef": "Corning Bengbu",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1808,8 +1853,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1817,14 +1862,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/606989545182904153/EL1poQ47N1jy5pav6B00gQm2LxG3WuxP-n7.gQs91bAg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089513161832235/SQ-5V0jztolqT7ijkavSoFfr-3o4K2cn-Z7igooCUfgg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197924",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1845,8 +1891,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1854,14 +1900,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547505379619554/WgOg_RuAoKE5CsVXs_nyZYPJ2G_NsRGI-ILMgcUGMdQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661103828645939/7Emelk74aeK07TrTAj52UXYUotUXcY7D-nrjAuxNLawg_"
     },
     "remarks": []
 },
 {
     "CO": "C000197925",
+    "purchaseOrder": "",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1882,8 +1929,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1891,14 +1938,15 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547503039197905/CRRJcq39NTzb6G0gjsFOMKEyAE0KP27c-UrNg9EqMdQg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661106833864791/T3kN5fvHGRBkuNSxT_lP5CscbfbxzJvB-FrlgjyhLawg_"
     },
     "remarks": []
 },
 {
     "CO": "C000198052",
+    "purchaseOrder": "",
     "projectRef": "DOW Zhangjiagang",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2950RPM ODP",
@@ -1919,6 +1967,431 @@
             "warning"
         ],
         "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/608271844778228768/sEU0qqn1r7G9KjpQq-tg1j6oLRzc6J84-hLwA-x8EcQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863765869185/ZLjCNEHvtcAdZGTXJlkcuSMShb1OpaLb-PbNgzWUScgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198555",
+    "purchaseOrder": "",
+    "projectRef": "Shanghai ABB",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 500,
+    "head": 266,
+    "speed": 2800,
+    "orderDate": "22 Jan 2021",
+    "dueDate": "8 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/608271853795982400/tjeuFn6AZ8uzgTq9YiEMdrnidbwdqS_0-wrzgIjUEcQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089515024103243/xJ0bURwY-O79GMQHnhmEGKvbxn4sZkf3-0bcgfGSUfgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198804",
+    "purchaseOrder": "CG-2021-015-001",
+    "projectRef": "Pesi Guangzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 280,
+    "speed": 2100,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "17 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946326209183329/osQi_HYYl7mBDE5As1Nu3nxCxSrSzL6B-pr4g1Pr2dgg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089515093309263/UtlpW4j7Ia9wD2_DPgftorKORqFCdNZk-FriA23GUfgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198807",
+    "purchaseOrder": "CG-2021-013-001",
+    "projectRef": "GF Kunshan",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF22",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 219,
+    "speed": 2600,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "16 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/614169633680832234/KX8eIePJEC4tzTY2tMupOBDF0u7LnYpm-I7dAMiD4hQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Feb 2021",
+            "type": "change order",
+            "overview": "date",
+            "description": "due date changed to 16 Apr 2021"
+        }
+    ]
+},
+{
+    "CO": "C000199261",
+    "purchaseOrder": "CG-2021-009-002",
+    "projectRef": "ABB Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "11 Feb 2021",
+    "dueDate": "29 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/614257997157282822/eDOAUarsf3XaeYzsrdi3X6w8hvXOp5cf-RbTgdXJIhgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602743988822258806/7Np7PmAfocvnkiA9FV3rLYDyIf6y01JU-m7TAnSU9Ygg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199262",
+    "purchaseOrder": "CG-2021-017-001",
+    "projectRef": "Trauson Changzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 254,
+    "speed": 3000,
+    "orderDate": "11 Feb 2021",
+    "dueDate": "29 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/615894090139090035/Neq4LE1_HG1KrKosVU2aYyoDzAl0zYZM-C73AyxQejAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602744009972036779/0NyCxZh3GxzqDuIeKiROT2uz4IgasZtT-HbXg6JE9Ygg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199630",
+    "purchaseOrder": "CG-2021-025-001",
+    "projectRef": "Pfizer Chongqing Logistic Ware",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 2100,
+    "orderDate": "22 Feb 2021",
+    "dueDate": "12 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/605246890398758833/jts-1QoE3dYtl9mQV0RjlLo-modNoCfS-dbwAdiDdaAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199800",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Electric 1250GPM)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606667691870172143/l3Uzc_UuKORtvGw5ow1EReU9q4yaQzpk-5rVAWQlSawg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199801",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Diesel 1250GPM)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606667696091739165/hM8Zh8ZDVVfFadhXigKuDyrOtDMLu162-BLbgGg9Sawg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199802",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Electric 1000GPM)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 231,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606666928280351237/TqjoaTiMNjXE-IMet-lE6CdKe_VLXZ6--ILbAuhRSawg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199803",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Diesel 1000GPM)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 231,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/605977482530700501/I6NxOZcDbg0y5LIUHdpLwY-Aqn4Do330-kbGg2SFQawg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000201101",
+    "purchaseOrder": "CG-2021-036-001",
+    "projectRef": "IKEA SHANGHAI",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA60",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 365,
+    "speed": 2100,
+    "orderDate": "12 Apr 2021",
+    "dueDate": "15 Jun 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
             "awaiting",
             "danger"
         ],
@@ -1929,7 +2402,90 @@
     },
     "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614261172914403258/B-KPy3Ol7hxsMKgNEyUigClgC5Kd1G3g-pbhAy2FLhgg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "19 Apr 2021",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Remove waste cone from order"
+        }
+    ]
+},
+{
+    "CO": "C000201431",
+    "purchaseOrder": "CG-2021-041-001",
+    "projectRef": "Berry Qingdao",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 2100,
+    "orderDate": "21 Apr 2021",
+    "dueDate": "29 Jun 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614634337341586483/MXxBkzpQE5SpA8nkUNSiMAWk1_zIJm1z-d7zg-O8djAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000201566",
+    "purchaseOrder": "CG-2021-045-001",
+    "projectRef": "Cummins Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA50",
+    "pumpModel": "17JHC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 278,
+    "speed": 1770,
+    "orderDate": "23 Apr 2021",
+    "dueDate": "23 Jul 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850943296516465/te2tY90QcpV_sZHoYs35ErSIH5xchuzY-dL6AroEYjgg_",
         "iom": ""
     },
     "remarks": []
