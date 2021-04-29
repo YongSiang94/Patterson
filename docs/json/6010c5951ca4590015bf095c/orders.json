@@ -1,0 +1,47 @@
+[
+{
+    "CO": "C000195595",
+    "purchaseOrder": "",
+    "projectRef": "ST Muar",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 335,
+    "speed": 2970,
+    "orderDate": "8 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/587619849436444215/n2_XKP_TZNeIhy_92fUm_GtpLKDs4_Ip-g7ngIsMqTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588812004936955008/vKZYhQMdSVSCkiWWOt6bKwb3i_Szip_E-sLnAFckqTQg_"
+    },
+    "remarks": [
+        {
+            "date": "15 Oct 2020",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export crating"
+        }
+    ]
+}
+]
