@@ -199,6 +199,12 @@
             "type": "change order",
             "overview": "information",
             "description": "Duetz S/N: 11259273"
+        },
+        {
+            "date": "11 May 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Flanges to be covered with wood prior to shipment"
         }
     ]
 }
