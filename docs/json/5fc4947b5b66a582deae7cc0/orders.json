@@ -3185,16 +3185,16 @@
     "dueDate": "15 Apr 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "pending",
             "warning"
         ],
         "payment": [
-            "paid",
-            "success"
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
@@ -3202,7 +3202,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619517170105237231/MDTMvsYwCMJZBFcLJgMagUCNvSMCMQPb-Qr-AF7z3mAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606667691870172143/l3Uzc_UuKORtvGw5ow1EReU9q4yaQzpk-5rVAWQlSawg_",
         "iom": ""
     },
@@ -3223,16 +3223,16 @@
     "dueDate": "15 Apr 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "pending",
             "warning"
         ],
         "payment": [
-            "paid",
-            "success"
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
@@ -3240,7 +3240,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619517169713069793/DYmLxYtnRJI0_hwIpi9VgPjsB1kjlPa1-fr.AXMz3mAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606667696091739165/hM8Zh8ZDVVfFadhXigKuDyrOtDMLu162-BLbgGg9Sawg_",
         "iom": ""
     },
@@ -4077,6 +4077,44 @@
             "description": "Add export boxing"
         }
     ]
+},
+{
+    "CO": "C000202141",
+    "purchaseOrder": "110212/110215",
+    "projectRef": "AMD Penang",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA88",
+    "pumpModel": "17JMC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 347,
+    "speed": 1770,
+    "orderDate": "11 May 2021",
+    "dueDate": "13 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/617248636453040566/pvvgE_eDedfusHVwnDM7l4kAHWm482xy-obDAfZD4mAg_",
+        "iom": ""
+    },
+    "remarks": []
 },
 {
     "CO": "C000188477",
