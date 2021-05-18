@@ -618,7 +618,7 @@
 },
 {
     "CO": "C000196336",
-    "purchaseOrder": "",
+    "purchaseOrder": "2010/049/OV/R",
     "projectRef": "TBBM Jayapura",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD28",
@@ -658,6 +658,18 @@
             "type": "change order",
             "overview": "L/C",
             "description": "Change to 100% L/C with CAD or AT SIGHT."
+        },
+        {
+            "date": "7 May 2021",
+            "type": "update",
+            "overview": "paint",
+            "description": "Upgrade to PI-812 for pump"
+        },
+        {
+            "date": "7 May 2021",
+            "type": "update",
+            "overview": "paint",
+            "description": "Upgrade to PI-324 for fuel tank"
         }
     ]
 },
