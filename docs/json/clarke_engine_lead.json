@@ -1,5 +1,8 @@
 [
-"May 10, 2021",
+{
+    "current": "May 10, 2021",
+    "previous": "May 3, 2021"
+},
 {
     "model": "JU4H-UF10",
     "updatedLead": 6.0,
