@@ -2488,7 +2488,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850943296516465/te2tY90QcpV_sZHoYs35ErSIH5xchuzY-dL6AroEYjgg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "18 May 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Controller voltage to be 24V"
+        }
+    ]
 },
 {
     "CO": "C000201780",
