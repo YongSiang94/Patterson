@@ -764,12 +764,12 @@
     "dueDate": "9 Mar 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -783,7 +783,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/608699966736611631/dXa_BpWTuumAZ_52yZfDmZkZJkXYNiGa-ebmgzmuJcgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/600665112491113295/YJ9S84g9rdlZOBEofFV2Y6xIUqMr_LX6-M7xgZun-VQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620767175635940944/U7uU2ZeoIdlPoWEoNDC36g4Ri0EItoB_-obfgwFx4nQg_"
     },
     "remarks": [
         {
@@ -815,12 +815,12 @@
     "dueDate": "10 Mar 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -834,7 +834,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/609946013590928705/Qv30_rVsddPj6AeJd7vYPIRgcgmxiyL--lr3AhcT2dgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397766412877679/woqXBEbPn8eVgpm0nDfDKGW1WZPVwRqi-FLAgIR6YWAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620767177034741353/sbHlqcVSaACSbeGV1wo1DK5oIxe_QVLt-JrjArGl4nQg_"
     },
     "remarks": []
 },
@@ -853,12 +853,12 @@
     "dueDate": "10 Mar 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -872,7 +872,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/609946011653160231/LGwAmskcNwrZ6L7Z4nEBDCDunFyI_tR5-zr0gx9L2dgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601397784087674816/S2bZHLmlniJ5ckQpD6XLPGGNwABvrdSW-NbBAHiWYWAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620767177244456557/PeEemgVM8v4pYtLeCYgMxXT9CnBKiGUN-f7hgJ3V4nQg_"
     },
     "remarks": []
 },
@@ -3441,7 +3441,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850943296516465/te2tY90QcpV_sZHoYs35ErSIH5xchuzY-dL6AroEYjgg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "18 May 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Controller voltage to be 24V"
+        }
+    ]
 },
 {
     "CO": "C000201780",
@@ -5569,12 +5576,12 @@
     "dueDate": "26 Mar 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "awaiting",
@@ -5588,7 +5595,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/614174777495567216/rmkfMirpQjez9VVsceoEdfbZWLzxvKb4-q7vgMcf8hQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601574564660559614/G9_jLYFZWT7WXlOAsY2CfY465-hCB1F8-vL.AsAU5WQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620712006770536473/qp1kW8Ek6tGk381wvBUDVqKHPJM2fuUi-FrlgdI94nQg_"
     },
     "remarks": [
         {
@@ -5614,12 +5621,12 @@
     "dueDate": "26 Mar 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "awaiting",
@@ -5633,7 +5640,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/615894065640160339/ne1TMyrKgU754nWaQ-YwYrCBw5pUVgxi-27zgYg0ejAg_",
         "submittal": "",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620712013108129844/dvX5SLSpb6IB7Cbr79q6kWkuBN0KQ_ks-ZrlgZpp4nQg_"
     },
     "remarks": []
 },
