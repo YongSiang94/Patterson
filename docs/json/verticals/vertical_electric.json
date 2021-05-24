@@ -70,7 +70,61 @@
         }
     ]
 },
-
+{
+    "model": "13 GLC",
+    "gpm": 750,
+    "speed": 1475,
+    "dischargeSize": 8.0,
+    "columnSize": 8.0,
+    "shaftSize": 1.6875,
+    "shaftWeight": 7.6,
+    "impellerWeight": 25.0,
+    "dischargeCenterline": 10.0,
+    "thrustFactor": 16.37,
+    "thrustArea": 47.27,
+    "impellerWR2": 2.85,
+    "sphere": 1.9375,
+    "maxWorkingPressure": 370.0,
+    "columnFrictionLoss": 0.41,
+    "minSubmergence": 25.0,
+    "strainerHeight": 6.0,
+    "strainerWidth": 15.125,
+    "firstStageHeight": 16.5,
+    "firstStageWidth": 12.875,
+    "additionalHeightPerStage": 10.75,
+    "stages": [
+        {
+            "stageNum": 3,
+            "maxTDH": 162,
+            "maxHP": 47
+        },
+        {
+            "stageNum": 4,
+            "maxTDH": 231,
+            "maxHP": 67
+        },
+        {
+            "stageNum": 5,
+            "maxTDH": 277,
+            "maxHP": 80
+        },
+        {
+            "stageNum": 6,
+            "maxTDH": 335,
+            "maxHP": 97
+        },
+        {
+            "stageNum": 7,
+            "maxTDH": 393,
+            "maxHP": 113
+        },
+        {
+            "stageNum": 8,
+            "maxTDH": 446,
+            "maxHP": 129
+        }
+    ]
+},
 {
     "model": "13 GHC",
     "gpm": 750,
@@ -143,62 +197,6 @@
             "stageNum": 12,
             "maxTDH": 705,
             "maxHP": 250
-        }
-    ]
-},
-
-{
-    "model": "13 GLC",
-    "gpm": 750,
-    "speed": 1475,
-    "dischargeSize": 8.0,
-    "columnSize": 8.0,
-    "shaftSize": 1.6875,
-    "shaftWeight": 7.6,
-    "impellerWeight": 25.0,
-    "dischargeCenterline": 10.0,
-    "thrustFactor": 16.37,
-    "thrustArea": 47.27,
-    "impellerWR2": 2.85,
-    "sphere": 1.9375,
-    "maxWorkingPressure": 370.0,
-    "columnFrictionLoss": 0.41,
-    "minSubmergence": 25.0,
-    "strainerHeight": 6.0,
-    "strainerWidth": 15.125,
-    "firstStageHeight": 16.5,
-    "firstStageWidth": 12.875,
-    "additionalHeightPerStage": 10.75,
-    "stages": [
-        {
-            "stageNum": 3,
-            "maxTDH": 162,
-            "maxHP": 47
-        },
-        {
-            "stageNum": 4,
-            "maxTDH": 231,
-            "maxHP": 67
-        },
-        {
-            "stageNum": 5,
-            "maxTDH": 277,
-            "maxHP": 80
-        },
-        {
-            "stageNum": 6,
-            "maxTDH": 335,
-            "maxHP": 97
-        },
-        {
-            "stageNum": 7,
-            "maxTDH": 393,
-            "maxHP": 113
-        },
-        {
-            "stageNum": 8,
-            "maxTDH": 446,
-            "maxHP": 129
         }
     ]
 },
