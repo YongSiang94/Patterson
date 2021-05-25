@@ -3075,8 +3075,8 @@
             "primary"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -3090,7 +3090,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/614257997157282822/eDOAUarsf3XaeYzsrdi3X6w8hvXOp5cf-RbTgdXJIhgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602743988822258806/7Np7PmAfocvnkiA9FV3rLYDyIf6y01JU-m7TAnSU9Ygg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/621419992826557011/FFhUgLPXJxao2dhEMgrvRWCnahswpzlu-7rqg4aRQoQg_"
     },
     "remarks": []
 },
@@ -3113,8 +3113,8 @@
             "primary"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -3128,7 +3128,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/615894090139090035/Neq4LE1_HG1KrKosVU2aYyoDzAl0zYZM-C73AyxQejAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602744009972036779/0NyCxZh3GxzqDuIeKiROT2uz4IgasZtT-HbXg6JE9Ygg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/621419999375962735/_mH8nFaVIKLdUAH8AiwB-mFVDrZmGNBd-UrvgGb5QoQg_"
     },
     "remarks": []
 },
@@ -3562,7 +3562,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/618056098863166532/Q8kVbEAIZg4q598iIQlOuNVmDUksArq_-FL9g8n9mlQg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "19 Jul 2021",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Change to 280gal. 8 hours capacity."
+        }
+    ]
 },
 {
     "CO": "C000202301",
@@ -3573,7 +3580,7 @@
     "pumpModel": "17JHC-3 STAGE",
     "pumpType": "vt",
     "capacity": 2500,
-    "head": 282,
+    "head": 301,
     "speed": 2350,
     "orderDate": "14 May 2021",
     "dueDate": "13 Aug 2021",
@@ -6335,12 +6342,12 @@
     "dueDate": "5 May 2021",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -6352,7 +6359,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/620889264506319696/rIm1F3UkRor7Xn6yQMUhhtXpGlBKBXno-nLtgvtFQoQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/605979312310497520/oicw2rmHibZRdtBy6GBlDrHA7wROmTh4-zrHg4hPfaAg_",
         "iom": ""
     },
