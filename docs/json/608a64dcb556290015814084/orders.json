@@ -97,12 +97,12 @@
     "dueDate": "5 May 2021",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -114,7 +114,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/620889264506319696/rIm1F3UkRor7Xn6yQMUhhtXpGlBKBXno-nLtgvtFQoQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/605979312310497520/oicw2rmHibZRdtBy6GBlDrHA7wROmTh4-zrHg4hPfaAg_",
         "iom": ""
     },
