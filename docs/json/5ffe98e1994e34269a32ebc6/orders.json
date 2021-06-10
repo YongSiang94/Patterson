@@ -2655,5 +2655,88 @@
         "iom": ""
     },
     "remarks": []
+},
+{
+    "CO": "C000202751",
+    "purchaseOrder": "CG-2021-072-001",
+    "projectRef": "CUMMINS WUHAN",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "2 Jun 2021",
+    "dueDate": "17 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622349131827953203/MEP7qXB3OBYXcvIAoDXl9uce_nr-k5zN-GLYAYLtFpwg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "9 June 2021",
+            "type": "change order",
+            "overview": "add",
+            "description": "Tornatech 8\" GT-FluxFP-0LQ0"
+        }
+    ]
+},
+{
+    "CO": "C000202898",
+    "purchaseOrder": "CG-2021-071-001",
+    "projectRef": "ESTEE LAUDER SHANGHAI",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM ODP",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 370,
+    "speed": 2950,
+    "orderDate": "9 June 2021",
+    "dueDate": "6 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622647395563388091/6KYi6LFuYaQoSzxkx3Cy_bAZ89t1U16T-O7agSjZRqwg_",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
