@@ -3607,7 +3607,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/619523849500800399/4IbF2L-z-4gjiBLMDY39nz3Y0hQ5dRAw-3bMgxT48nAg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "10 Jun 2021",
+            "type": "change order",
+            "overview": "driveshaft",
+            "description": "Changed from CDS20-SC to SC81A."
+        }
+    ]
 },
 {
     "CO": "C000202751",
@@ -3665,7 +3672,7 @@
     "capacity": 1250,
     "head": 370,
     "speed": 2950,
-    "orderDate": "9 June 2021",
+    "orderDate": "9 Jun 2021",
     "dueDate": "6 Aug 2021",
     "status": {
         "order": [
@@ -3688,6 +3695,95 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622647395563388091/6KYi6LFuYaQoSzxkx3Cy_bAZ89t1U16T-O7agSjZRqwg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Jun 2021",
+            "type": "change order",
+            "overview": "motor frame",
+            "description": "Corrected to Frame 444/5TS"
+        },
+        {
+            "date": "10 Jun 2021",
+            "type": "change order",
+            "overview": "main relief valve",
+            "description": "Corrected MRV to 250#"
+        }
+    ]
+},
+{
+    "CO": "C000202981",
+    "purchaseOrder": "CG-2021-073-001",
+    "projectRef": "LAMBWESTON HOHOT",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "10 Jun 2021",
+    "dueDate": "14 Sep 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/625493503297762508/pv8bpqcJXlIVBYIj2It9nQuUuMtQVYBA-VLXAYxczrgg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000202985",
+    "purchaseOrder": "CG-2021-081-001",
+    "projectRef": "Safran Guiyang",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "10 Jun 2021",
+    "dueDate": "23 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624312989249486287/sFmuczjGGkeSpO8ZObR2x52LZYphecPB-0bVAM18zrgg_",
         "iom": ""
     },
     "remarks": []
@@ -4247,6 +4343,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/617248636453040566/pvvgE_eDedfusHVwnDM7l4kAHWm482xy-obDAfZD4mAg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000203008",
+    "purchaseOrder": 110227.0,
+    "projectRef": "Mondelez Prai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "10 Jun 2021",
+    "dueDate": "23 Aug 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624415363366435954/iblF8MfvuI7W6VJzDgxUk2kvMtRm-rVy-dLbgNrwzrgg_",
         "iom": ""
     },
     "remarks": []
@@ -5597,6 +5731,12 @@
             "type": "change order",
             "overview": "controller",
             "description": "Shipping direct from Canada"
+        },
+        {
+            "date": "11 Jun 2021",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Serial number added. 210302072T, 210302073T, 210302074T"
         }
     ]
 },
