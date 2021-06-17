@@ -675,7 +675,7 @@
 },
 {
     "CO": "C000197404",
-    "purchaseOrder": "",
+    "purchaseOrder": "2011/051/OV/R",
     "projectRef": "TBBM Panjang",
     "driverType": "Diesel",
     "driverInfo": "C18H0-UFAD58",
@@ -688,8 +688,8 @@
     "dueDate": "9 Jun 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "pending",
@@ -705,7 +705,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/626042410102733839/qa22FPoZpYOgFUvFbi3rqsAz1wsHaEP2-0rwg5VwmsAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/591159763990001734/FcyZSbe13aaf76M9krqBfWFVQmRJ0Orp-XLRA-gKDSAg_",
         "iom": ""
     },
