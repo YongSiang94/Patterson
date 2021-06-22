@@ -1,24 +1,24 @@
 [
 {
-    "current": "June 7, 2021",
-    "previous": "May 24, 2021"
+    "current": "June 21, 2021",
+    "previous": "June 7, 2021"
 },
 {
     "model": "JU4H-UF10",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU4H-UF12",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU4H-UF14",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
@@ -41,62 +41,62 @@
 },
 {
     "model": "JU4H-UF34",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4H-UFH0",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
     "model": "JU4H-UFH2",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
     "model": "JU4H-UF40",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -1,
     "remarks": ""
 },
 {
     "model": "JU4H-UF42",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -1,
     "remarks": ""
 },
 {
     "model": "JU4H-UF50",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -1,
     "remarks": ""
 },
 {
     "model": "JU4H-UF52",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -1,
     "remarks": ""
 },
 {
     "model": "JU4H-UF58",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -1,
     "remarks": ""
 },
 {
     "model": "JU4H-UF54",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4H-UFAD5G",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 5,
     "remarks": ""
 },
 {
@@ -125,32 +125,32 @@
 },
 {
     "model": "JU4H-UFAD98",
-    "updatedLead": 18.0,
-    "changes": 10,
+    "updatedLead": 16.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4H-UFADJG-D",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4H-UFAEA0",
-    "updatedLead": 12.0,
-    "changes": 0,
+    "updatedLead": 10.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4H-UFAEE8",
-    "updatedLead": 12.0,
-    "changes": 0,
+    "updatedLead": 10.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4H-UFAEF2",
-    "updatedLead": 12.0,
-    "changes": 0,
+    "updatedLead": 10.0,
+    "changes": -2,
     "remarks": ""
 },
 {
@@ -173,14 +173,14 @@
 },
 {
     "model": "JW6H-UFADF0",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 5,
     "remarks": ""
 },
 {
     "model": "JW6H-UFADJ0",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 5,
     "remarks": ""
 },
 {
@@ -203,20 +203,20 @@
 },
 {
     "model": "JU6H-UFD0",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU6H-UFD2",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU6H-UF30",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
@@ -317,8 +317,8 @@
 },
 {
     "model": "JU6H-UFAAQ8",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
@@ -335,26 +335,26 @@
 },
 {
     "model": "JU6H-UFAAPG",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADK0-D",
-    "updatedLead": 14.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -6,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADNG",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADMG",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
@@ -371,38 +371,38 @@
 },
 {
     "model": "JU6H-UFADP0",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADQ0",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADR8",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADR0",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADS8",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "JU6H-UFADT0",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -1,
     "remarks": ""
 },
 {
@@ -413,8 +413,8 @@
 },
 {
     "model": "JU6H-UFADW8",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
@@ -539,26 +539,26 @@
 },
 {
     "model": "DS0H-UFAAN0",
-    "updatedLead": 16.0,
-    "changes": 0,
+    "updatedLead": 20.0,
+    "changes": 4,
     "remarks": ""
 },
 {
     "model": "DS0H-UFAA68",
-    "updatedLead": 16.0,
-    "changes": 0,
+    "updatedLead": 20.0,
+    "changes": 4,
     "remarks": ""
 },
 {
     "model": "DS0H-UFAA60",
-    "updatedLead": 16.0,
-    "changes": 0,
+    "updatedLead": 20.0,
+    "changes": 4,
     "remarks": ""
 },
 {
     "model": "DS0H-UFAAM0",
-    "updatedLead": 16.0,
-    "changes": 0,
+    "updatedLead": 20.0,
+    "changes": 4,
     "remarks": ""
 },
 {
@@ -581,14 +581,14 @@
 },
 {
     "model": "C18H0-UFAD18",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 5,
     "remarks": ""
 },
 {
     "model": "C18H0-UFAD10",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 5,
     "remarks": ""
 },
 {
@@ -665,26 +665,26 @@
 },
 {
     "model": "C18H0-UFAC18",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "C18H0-UFAC10",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "C18H0-UFAC28",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
     "model": "C18H0-UFAC20",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
@@ -707,26 +707,26 @@
 },
 {
     "model": "C18H0-UFAD42",
-    "updatedLead": 18.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": -3,
     "remarks": ""
 },
 {
     "model": "JU4R-UF09",
     "updatedLead": 8.0,
-    "changes": -1,
+    "changes": 0,
     "remarks": ""
 },
 {
     "model": "JU4R-UF11",
     "updatedLead": 8.0,
-    "changes": -1,
+    "changes": 0,
     "remarks": ""
 },
 {
     "model": "JU4R-UF13",
-    "updatedLead": 8.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 7,
     "remarks": ""
 },
 {
@@ -767,26 +767,26 @@
 },
 {
     "model": "JU4R-UF53",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 8.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4R-UFAEA9",
-    "updatedLead": 12.0,
-    "changes": 0,
+    "updatedLead": 10.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4R-UFAEE7",
-    "updatedLead": 12.0,
-    "changes": 0,
+    "updatedLead": 10.0,
+    "changes": -2,
     "remarks": ""
 },
 {
     "model": "JU4R-UFAEF1",
-    "updatedLead": 12.0,
-    "changes": 0,
+    "updatedLead": 10.0,
+    "changes": -2,
     "remarks": ""
 },
 {
@@ -875,8 +875,8 @@
 },
 {
     "model": "JU6R-UFAAPF",
-    "updatedLead": 9.0,
-    "changes": 0,
+    "updatedLead": 15.0,
+    "changes": 6,
     "remarks": ""
 },
 {
