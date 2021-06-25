@@ -692,8 +692,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "TBA",
+            "TBA"
         ],
         "payment": [
             "partial",
@@ -707,7 +707,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/626042410102733839/qa22FPoZpYOgFUvFbi3rqsAz1wsHaEP2-0rwg5VwmsAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/591159763990001734/FcyZSbe13aaf76M9krqBfWFVQmRJ0Orp-XLRA-gKDSAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/627036230864910951/W7H9gmypFGWmHJd_CMcvoOlegm01SbKv-.7fAsic-tQg_"
     },
     "remarks": []
 },
