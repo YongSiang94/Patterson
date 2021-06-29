@@ -613,25 +613,6 @@
 },
 
 {
-    "make": "Clarke",
-    "model": "JU6H-UFADP0",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 209
-        },
-        {
-            "speed": 2350,
-            "hp": 211
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b4fa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
-    "starter": 12
-},
-
-{
     "make": "Cummins",
     "model": "CFP5E-F20",
     "tier": 3.0,
@@ -679,59 +660,21 @@
 
 {
     "make": "Clarke",
-    "model": "JU6H-UFADQ0",
+    "model": "JU6H-UFADP0",
     "tier": 3.0,
     "rating": [
         {
             "speed": 2100,
-            "hp": 224
+            "hp": 209
         },
         {
             "speed": 2350,
-            "hp": 226
+            "hp": 211
         }
     ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d2e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b4fa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "JU6H-UFAD88",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 237
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d1d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAA50",
-    "tier": 0.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 265
-        },
-        {
-            "speed": 2100,
-            "hp": 280
-        },
-        {
-            "speed": 2350,
-            "hp": 286
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6b0b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24
 },
 
 {
@@ -805,6 +748,40 @@
 
 {
     "make": "Clarke",
+    "model": "JU6H-UFADQ0",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 224
+        },
+        {
+            "speed": 2350,
+            "hp": 226
+        }
+    ],
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d2e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "starter": 12
+},
+
+{
+    "make": "Clarke",
+    "model": "JU6H-UFAD88",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 237
+        }
+    ],
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d1d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "starter": 12
+},
+
+{
+    "make": "Clarke",
     "model": "JU6H-UFADR0",
     "tier": 3.0,
     "rating": [
@@ -833,66 +810,6 @@
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3c1839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAA88",
-    "tier": 0.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 290
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=020b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24
-},
-
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAAX8",
-    "tier": 0.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 240
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=170b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24
-},
-
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAA62",
-    "tier": 0.0,
-    "rating": [
-        {
-            "speed": 2350,
-            "hp": 300
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ed0a47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24
-},
-
-{
-    "make": "Clarke",
-    "model": "JU6H-UFADS8",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 260
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=011739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
 },
@@ -945,6 +862,21 @@
 
 {
     "make": "Clarke",
+    "model": "JU6H-UFADS8",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 260
+        }
+    ],
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=011739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "starter": 12
+},
+
+{
+    "make": "Clarke",
     "model": "JU6H-UFADT0",
     "tier": 3.0,
     "rating": [
@@ -979,25 +911,6 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=58e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAA70",
-    "tier": 0.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 312
-        },
-        {
-            "speed": 2350,
-            "hp": 316
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c0b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24
 },
 
 {
@@ -1124,44 +1037,6 @@
 
 {
     "make": "Clarke",
-    "model": "JW6H-UFADF0",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 327
-        },
-        {
-            "speed": 2100,
-            "hp": 311
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=96e238cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "JW6H-UFADJ0",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 350
-        },
-        {
-            "speed": 2100,
-            "hp": 332
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=faf338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
     "model": "DQ6H-UFAA50",
     "tier": 1.0,
     "rating": [
@@ -1171,25 +1046,6 @@
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4a1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
-    "starter": 24
-},
-
-{
-    "make": "Clarke",
-    "model": "DQ6H-UFAA60",
-    "tier": 1.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 345
-        },
-        {
-            "speed": 2100,
-            "hp": 360
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e2e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
 },
@@ -1211,6 +1067,25 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062911.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
+},
+
+{
+    "make": "Clarke",
+    "model": "DQ6H-UFAA60",
+    "tier": 1.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 345
+        },
+        {
+            "speed": 2100,
+            "hp": 360
+        }
+    ],
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e2e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
+    "starter": 24
 },
 
 {
@@ -1245,40 +1120,6 @@
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062912.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "JW6H-UFAA60",
-    "tier": 1.0,
-    "rating": [
-        {
-            "speed": 2350,
-            "hp": 360
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=922239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "DQ6H-UFAA98",
-    "tier": 1.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 300
-        },
-        {
-            "speed": 1760,
-            "hp": 410
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=400239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
-    "starter": 24
 },
 
 {
@@ -1321,21 +1162,21 @@
 
 {
     "make": "Clarke",
-    "model": "JW6H-UFAD70",
-    "tier": 3.0,
+    "model": "DQ6H-UFAA98",
+    "tier": 1.0,
     "rating": [
         {
-            "speed": 1760,
-            "hp": 376
+            "speed": 1470,
+            "hp": 300
         },
         {
-            "speed": 2100,
-            "hp": 399
+            "speed": 1760,
+            "hp": 410
         }
     ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9e1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=400239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
+    "starter": 24
 },
 
 {
@@ -1354,44 +1195,6 @@
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062915.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "JW6H-UFAA80",
-    "tier": 1.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 422
-        },
-        {
-            "speed": 2100,
-            "hp": 400
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9b2539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12
-},
-
-{
-    "make": "Clarke",
-    "model": "JW6H-UFAD80",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 422
-        },
-        {
-            "speed": 2100,
-            "hp": 400
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=eee138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
 },
 
@@ -1426,6 +1229,21 @@
 },
 
 {
+    "make": "Cummins",
+    "model": "CFP9E-F85",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 410
+        }
+    ],
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062918.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12
+},
+
+{
     "make": "Clarke",
     "model": "DR8H-UFAA40",
     "tier": 1.0,
@@ -1450,21 +1268,6 @@
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28f338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
-
-{
-    "make": "Cummins",
-    "model": "CFP9E-F85",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 410
-        }
-    ],
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062918.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12
 },
 
 {
@@ -1532,6 +1335,25 @@
 },
 
 {
+    "make": "Cummins",
+    "model": "CFP15E-F10",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 460
+        },
+        {
+            "speed": 2100,
+            "hp": 488
+        }
+    ],
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062919.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
+    "starter": 24
+},
+
+{
     "make": "Clarke",
     "model": "DR8H-UFAA5G",
     "tier": 1.0,
@@ -1585,25 +1407,6 @@
 },
 
 {
-    "make": "Cummins",
-    "model": "CFP15E-F10",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 460
-        },
-        {
-            "speed": 2100,
-            "hp": 488
-        }
-    ],
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062919.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
-    "starter": 24
-},
-
-{
     "make": "Clarke",
     "model": "DS0H-UFAAN0",
     "tier": 1.0,
@@ -1619,6 +1422,25 @@
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4b0f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
+    "starter": 24
+},
+
+{
+    "make": "Cummins",
+    "model": "CFP15E-F20",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 494
+        },
+        {
+            "speed": 2100,
+            "hp": 525
+        }
+    ],
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062920.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
 },
 
@@ -1654,19 +1476,19 @@
 
 {
     "make": "Cummins",
-    "model": "CFP15E-F20",
+    "model": "CFP15E-F30",
     "tier": 3.0,
     "rating": [
         {
             "speed": 1760,
-            "hp": 494
+            "hp": 536
         },
         {
             "speed": 2100,
-            "hp": 525
+            "hp": 564
         }
     ],
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062920.pdf",
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062921.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
 },
@@ -1698,25 +1520,6 @@
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a6397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24
-},
-
-{
-    "make": "Cummins",
-    "model": "CFP15E-F30",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 536
-        },
-        {
-            "speed": 2100,
-            "hp": 564
-        }
-    ],
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062921.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
 },
 
@@ -1885,21 +1688,6 @@
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24
-},
-
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAA78",
-    "tier": 0.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 700
-        }
-    ],
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b6647bcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
 },
