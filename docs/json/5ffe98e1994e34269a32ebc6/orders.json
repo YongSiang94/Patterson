@@ -2384,8 +2384,8 @@
     "dueDate": "15 Jun 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
@@ -2401,7 +2401,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/630024156462758525/JrzyZ6SIE-KeNcDJmbCInIBoFzZErOvt-V7tAV7RLvgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614261172914403258/B-KPy3Ol7hxsMKgNEyUigClgC5Kd1G3g-pbhAy2FLhgg_",
         "iom": ""
     },
