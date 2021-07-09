@@ -635,12 +635,12 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
@@ -650,7 +650,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/623314381175830146/CjoM8JP-EEt_U_a7flLa-0wCMS8XfNdk-RLpgs2N2pgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/584457021934321602/bJstlXxfQakY2OWyWzp43Zar2HIBJ4nt-HLQgW.iCSAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/628310172502111384/0rQpEz6I5QmQhlAdxGmmyaxcdpaD9lCv-4bRAc8o0uAg_"
     },
     "remarks": [
         {
@@ -899,8 +899,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -912,7 +912,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601439954337316739/Trvpw7xPTd_ggAwn2nxsH8z7b7gwqd1Y-sb9ABXi-WAg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "8 Jul 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add air crate to order"
+        }
+    ]
 },
 {
     "CO": "C000199031",
