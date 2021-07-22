@@ -895,22 +895,22 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
             "success"
         ],
         "terms": [
-            "ex-works",
-            "primary"
+            "TBA",
+            "TBA"
         ]
     },
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/624407598659056145/nAZWWTeAOMIieUxIUsyrvZ04r3scABvq-lrLAd4FXqgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601439954337316739/Trvpw7xPTd_ggAwn2nxsH8z7b7gwqd1Y-sb9ABXi-WAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/631493463289936204/Ix-IX70wUGDxnBKB1TuCdvXAvkSvfPpi-d7ugq6mFwwg_"
     },
     "remarks": [
         {
