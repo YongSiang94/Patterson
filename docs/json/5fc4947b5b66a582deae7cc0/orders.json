@@ -895,22 +895,22 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
             "success"
         ],
         "terms": [
-            "ex-works",
-            "primary"
+            "TBA",
+            "TBA"
         ]
     },
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/624407598659056145/nAZWWTeAOMIieUxIUsyrvZ04r3scABvq-lrLAd4FXqgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601439954337316739/Trvpw7xPTd_ggAwn2nxsH8z7b7gwqd1Y-sb9ABXi-WAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/631493463289936204/Ix-IX70wUGDxnBKB1TuCdvXAvkSvfPpi-d7ugq6mFwwg_"
     },
     "remarks": [
         {
@@ -3352,8 +3352,8 @@
             "TBA"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
@@ -3363,7 +3363,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/630024156462758525/JrzyZ6SIE-KeNcDJmbCInIBoFzZErOvt-V7tAV7RLvgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614261172914403258/B-KPy3Ol7hxsMKgNEyUigClgC5Kd1G3g-pbhAy2FLhgg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/631494940049849016/B7mP2ffHrRZfjilYI9OI56zB0fpS5BiJ-NLtgLJuFwwg_"
     },
     "remarks": [
         {
@@ -3427,8 +3427,8 @@
     "dueDate": "23 Jul 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
@@ -3444,7 +3444,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632019194124218817/7GESPmPXyZTaI3NmEDBYmH8viy2B-IhH-ILLAhTRixQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850943296516465/te2tY90QcpV_sZHoYs35ErSIH5xchuzY-dL6AroEYjgg_",
         "iom": ""
     },
@@ -3548,8 +3548,8 @@
     "dueDate": "19 Jul 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
@@ -3565,7 +3565,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632299122019317103/OK3B4xXdT5HlN5YNZOo3MXq9CZVG2TYe-6rWgOvBgxgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/618056098863166532/Q8kVbEAIZg4q598iIQlOuNVmDUksArq_-FL9g8n9mlQg_",
         "iom": ""
     },
@@ -3791,6 +3791,82 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624312989249486287/sFmuczjGGkeSpO8ZObR2x52LZYphecPB-0bVAM18zrgg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204281",
+    "purchaseOrder": "CG-2021-096-001",
+    "projectRef": "Galaxy Core Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 300,
+    "speed": 3000,
+    "orderDate": "16 Jul 2021",
+    "dueDate": "25 Feb 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/630024613933399128/nA2oCFxGb62Y6RP4k02fEXLPY5wu8wdI-l7AAmAOKwwg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204290",
+    "purchaseOrder": "CG-2021-109-001",
+    "projectRef": "Kohler Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "16 Jul 2021",
+    "dueDate": "15 Oct 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/631493209433880736/abptntOB27g4YEuAbkRi516Q5iNZGWRD-N7Egg2SKwwg_",
         "iom": ""
     },
     "remarks": []
@@ -6406,8 +6482,8 @@
     "dueDate": "12 July 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
@@ -6423,8 +6499,91 @@
         ]
     },
     "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632299116986152282/C8C0K2EsPzwQdVHeXfvGeVw6i3OaVSve-vbUgpOBgxgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850830415212807/HEhvqt9-QBWOUvUcnp7ojtyr2PU_PH_d-27eAlWiDwwg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204058",
+    "purchaseOrder": "QPO 21837",
+    "projectRef": "LUCY",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 316,
+    "speed": 2950,
+    "orderDate": "8 Jul 2021",
+    "dueDate": "29 Oct 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/627585607463384002/QWKXrFybCILE38wuDlkUckR2hiw5RRXO-wLeA4GKDwwg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Dec 2021",
+            "type": "change order",
+            "overview": "engine",
+            "description": "Change from JU6H-UF34 to JU6H-UF54"
+        }
+    ]
+},
+{
+    "CO": "C000204165",
+    "purchaseOrder": "QPO21837",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 316,
+    "speed": 2950,
+    "orderDate": "13 Jul 2021",
+    "dueDate": "10 Dec 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/631492772133648177/FBUGbxE0SDPjHVC8-5Txv8Evo83p_-Hl-oLeg8l2Dwwg_",
         "iom": ""
     },
     "remarks": []
@@ -6711,8 +6870,8 @@
 },
 {
     "CO": "C000203319",
-    "purchaseOrder": "8 GRAND AVE ROSEHILLE",
-    "projectRef": 564365.0,
+    "purchaseOrder": 564365.0,
+    "projectRef": "8 GRAND AVE ROSEHILLE",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF52-P1 PLD",
     "pumpModel": "6x5x14 SSC",
@@ -6743,6 +6902,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/626072699541697582/XPeKCGTAUcktaA7YVpihNdbbZzdp81zD-BrJAa5dUswg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000203933",
+    "purchaseOrder": 564632.0,
+    "projectRef": "KBF Project",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 208,
+    "speed": 2800,
+    "orderDate": "7 Jul 2021",
+    "dueDate": "30 Sep 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/628418299958443928/SemQ-8BqPPH5UnhRfbJqqN3m1bhG5XR4-KbjgsniDwwg_",
         "iom": ""
     },
     "remarks": []
