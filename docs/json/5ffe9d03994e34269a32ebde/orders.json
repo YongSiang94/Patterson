@@ -135,8 +135,8 @@
     "dueDate": "12 July 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
@@ -152,8 +152,91 @@
         ]
     },
     "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632299116986152282/C8C0K2EsPzwQdVHeXfvGeVw6i3OaVSve-vbUgpOBgxgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850830415212807/HEhvqt9-QBWOUvUcnp7ojtyr2PU_PH_d-27eAlWiDwwg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204058",
+    "purchaseOrder": "QPO 21837",
+    "projectRef": "LUCY",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 316,
+    "speed": 2950,
+    "orderDate": "8 Jul 2021",
+    "dueDate": "29 Oct 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/627585607463384002/QWKXrFybCILE38wuDlkUckR2hiw5RRXO-wLeA4GKDwwg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Dec 2021",
+            "type": "change order",
+            "overview": "engine",
+            "description": "Change from JU6H-UF34 to JU6H-UF54"
+        }
+    ]
+},
+{
+    "CO": "C000204165",
+    "purchaseOrder": "QPO21837",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 316,
+    "speed": 2950,
+    "orderDate": "13 Jul 2021",
+    "dueDate": "10 Dec 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/631492772133648177/FBUGbxE0SDPjHVC8-5Txv8Evo83p_-Hl-oLeg8l2Dwwg_",
         "iom": ""
     },
     "remarks": []
