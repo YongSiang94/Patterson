@@ -177,8 +177,8 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "awaiting",
@@ -192,7 +192,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/625949249208627824/lCuQdIdG7UcvZyUnmpZcYywLplFglRVy-zbJAEajRrwg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/613033609974034711/1RhzFeD3uhXMmzq9YeV9kNWkcK5h1iZT-obHgC9vugQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/628309828709692355/IyQbvYBQHGJegBmTyG1UtvdQ5KZJq8_w-J7QgBqk0uAg_"
     },
     "remarks": []
 },
@@ -236,8 +236,8 @@
 },
 {
     "CO": "C000203319",
-    "purchaseOrder": "8 GRAND AVE ROSEHILLE",
-    "projectRef": 564365.0,
+    "purchaseOrder": 564365.0,
+    "projectRef": "8 GRAND AVE ROSEHILLE",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF52-P1 PLD",
     "pumpModel": "6x5x14 SSC",
@@ -268,6 +268,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/626072699541697582/XPeKCGTAUcktaA7YVpihNdbbZzdp81zD-BrJAa5dUswg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000203933",
+    "purchaseOrder": 564632.0,
+    "projectRef": "KBF Project",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 208,
+    "speed": 2800,
+    "orderDate": "7 Jul 2021",
+    "dueDate": "30 Sep 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/628418299958443928/SemQ-8BqPPH5UnhRfbJqqN3m1bhG5XR4-KbjgsniDwwg_",
         "iom": ""
     },
     "remarks": []
