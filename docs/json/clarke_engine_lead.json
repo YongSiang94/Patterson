@@ -1,7 +1,7 @@
 [
 {
-    "current": "July 19, 2021",
-    "previous": "July 12, 2021"
+    "current": "August 2, 2021",
+    "previous": "July 19, 2021"
 },
 {
     "model": "JU4H-UF10",
@@ -41,8 +41,8 @@
 },
 {
     "model": "JU4H-UF34",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
@@ -89,8 +89,8 @@
 },
 {
     "model": "JU4H-UF54",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
@@ -137,20 +137,20 @@
 },
 {
     "model": "JU4H-UFAEA0",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
     "model": "JU4H-UFAEE8",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
     "model": "JU4H-UFAEF2",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
@@ -563,14 +563,14 @@
 },
 {
     "model": "DS0H-UFAA92",
-    "updatedLead": 16.0,
-    "changes": 0,
+    "updatedLead": 30.0,
+    "changes": 14,
     "remarks": ""
 },
 {
     "model": "DS0H-UFAA98",
-    "updatedLead": 16.0,
-    "changes": 0,
+    "updatedLead": 30.0,
+    "changes": 14,
     "remarks": ""
 },
 {
@@ -689,20 +689,20 @@
 },
 {
     "model": "C18H0-UFAD12",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 14.0,
+    "changes": 4,
     "remarks": ""
 },
 {
     "model": "C18H0-UFAD22",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 14.0,
+    "changes": 4,
     "remarks": ""
 },
 {
     "model": "C18H0-UFAD32",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 14.0,
+    "changes": 4,
     "remarks": ""
 },
 {
@@ -767,26 +767,26 @@
 },
 {
     "model": "JU4R-UF53",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
     "model": "JU4R-UFAEA9",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
     "model": "JU4R-UFAEE7",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
     "model": "JU4R-UFAEF1",
-    "updatedLead": 10.0,
-    "changes": 0,
+    "updatedLead": 13.0,
+    "changes": 3,
     "remarks": ""
 },
 {
