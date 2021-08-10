@@ -3552,8 +3552,8 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -3567,7 +3567,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/632299122019317103/OK3B4xXdT5HlN5YNZOo3MXq9CZVG2TYe-6rWgOvBgxgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/618056098863166532/Q8kVbEAIZg4q598iIQlOuNVmDUksArq_-FL9g8n9mlQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ky7qrqum6F1018Rdl8fF7nbbxuyr8Eak/s9a2uDT9aogKKC8v1hIVmApynnbqATu0-tb-gG8zv0gg"
     },
     "remarks": [
         {
@@ -3683,12 +3683,12 @@
     "dueDate": "6 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -3700,7 +3700,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/634844422489553700/4d5QYNBugr0JQZdQ0sQxOOIVzJ9aIwYm-dbvAralrzwg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622647395563388091/6KYi6LFuYaQoSzxkx3Cy_bAZ89t1U16T-O7agSjZRqwg_",
         "iom": ""
     },
@@ -6584,6 +6584,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/631492772133648177/FBUGbxE0SDPjHVC8-5Txv8Evo83p_-Hl-oLeg8l2Dwwg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204901",
+    "purchaseOrder": "QPO 22042",
+    "projectRef": "Replacement C0153331",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2950,
+    "orderDate": "6 Aug 2021",
+    "dueDate": "28 Sep 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/634586629360631261/pAXRBubDSn2_Q5o5DIyK7GT_aQ5DE_Tk-YLig6xSW0gg_",
         "iom": ""
     },
     "remarks": []
