@@ -2592,8 +2592,8 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -2607,7 +2607,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/632299122019317103/OK3B4xXdT5HlN5YNZOo3MXq9CZVG2TYe-6rWgOvBgxgg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/618056098863166532/Q8kVbEAIZg4q598iIQlOuNVmDUksArq_-FL9g8n9mlQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ky7qrqum6F1018Rdl8fF7nbbxuyr8Eak/s9a2uDT9aogKKC8v1hIVmApynnbqATu0-tb-gG8zv0gg"
     },
     "remarks": [
         {
