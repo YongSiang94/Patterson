@@ -2433,12 +2433,12 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
@@ -2448,7 +2448,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/630662084509612856/mpy6924tU5rM3i7-0v-VsxWVARlMswIZ-h77AqsuTwAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614634337341586483/MXxBkzpQE5SpA8nkUNSiMAWk1_zIJm1z-d7zg-O8djAg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/l5itVoVEOMNLbSH7R5TZbzfItljcWWGH/S2weOYlD-6Db_4Z5GC6OdatDjr8zxKY8--b4gWHzU2Ag"
     },
     "remarks": []
 },
@@ -2471,8 +2471,8 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -2486,7 +2486,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/632019194124218817/7GESPmPXyZTaI3NmEDBYmH8viy2B-IhH-ILLAhTRixQg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850943296516465/te2tY90QcpV_sZHoYs35ErSIH5xchuzY-dL6AroEYjgg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/l5itXRypOr1W4By5Uzd82L2Nlujmp9ok/nOZnNhTrtLJjlw3Ga5u7J_1jcQhZQmAU-rL7gaXTU2Ag"
     },
     "remarks": [
         {
