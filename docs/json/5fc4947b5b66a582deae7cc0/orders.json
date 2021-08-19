@@ -3910,6 +3910,82 @@
     "remarks": []
 },
 {
+    "CO": "C000205128",
+    "purchaseOrder": "CG-2021-112-001",
+    "projectRef": "Pfizer",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 291,
+    "speed": 2950,
+    "orderDate": "16 Aug 2021",
+    "dueDate": "30 Nov 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/l4PxM7Zs8ZlyKZaVSftlaS8BEuzIxYPr/Fu8ZYwMTAh0YpOWSyD8rpcBI9DnUEKZh-cbvgWmDR1wg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000205165",
+    "purchaseOrder": "CG-2021-112-001",
+    "projectRef": "Pfizer",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 298,
+    "speed": 2100,
+    "orderDate": "17 Aug 2021",
+    "dueDate": "30 Nov 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/kyvMVaNC61Hzeij4UDsqD14SgewFVRLa/Lc1sWiL5vLNWmhkQPIk5OgdNxi8CEuFy-I7rAB7DQ1wg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000187745",
     "purchaseOrder": "",
     "projectRef": "First Solar Kulim",
