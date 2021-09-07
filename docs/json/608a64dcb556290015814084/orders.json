@@ -211,12 +211,12 @@
     "dueDate": "19 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -228,11 +228,18 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lAWKPxUe39NZYhcLX4JdpLd0TokVbI0n/sPPQdY7fplqtlrktNae8BJnPNyfZpqFs-Kr4AyiPM4Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/623545504501905642/JXfjHObGraqbBnv7ySld-7wuWADFqESC-GbdAJY1Rqwg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "31 Aug 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add crating. Customer prefer to ship via LCL."
+        }
+    ]
 },
 {
     "CO": "C000203319",
