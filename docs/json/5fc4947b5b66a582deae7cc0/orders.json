@@ -726,12 +726,12 @@
     "dueDate": "13 Jul 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "LC",
@@ -745,7 +745,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/630750932237336089/teVnjuV81ieHlh2rZaK21XBZV2g8WXAJ-fr5AzszgwAg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/598328514604740918/-duucHfg2_lvMaPxdlxP9H3zpbHULG18-g7Fg76KwTQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/lLlBEIsFLg0LMNyY6m8XWjHtuCpVdKJs/h9hTXb5kUN_JEcM63lt42m3kkVcloAEn-urGgGYpF5Qg"
     },
     "remarks": []
 },
@@ -936,8 +936,8 @@
     "dueDate": "2 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "pending",
@@ -953,7 +953,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lF4PlkCderhAXHIfjM7MnAIP6oqo3Ix3/YefmzwCjlKaTDzqajCXofUu32Os-rofC-nrJA1-Vb5Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601951163591474773/7IvyMElR0IYhE20bibhbSPQ4jx--ibRX-kr9AyoWPWgg_",
         "iom": ""
     },
@@ -3676,12 +3676,12 @@
     "dueDate": "17 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -3693,7 +3693,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lAWJy9VubkipClI0KwYsnca9PLaV5LWY/nnnpySrNhOzIPubVWEv52xy3rYJDu_Xl-3r0g0xLM4Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622349131827953203/MEP7qXB3OBYXcvIAoDXl9uce_nr-k5zN-GLYAYLtFpwg_",
         "iom": ""
     },
@@ -3725,8 +3725,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -3740,7 +3740,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/634844422489553700/4d5QYNBugr0JQZdQ0sQxOOIVzJ9aIwYm-dbvAralrzwg_",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622647395563388091/6KYi6LFuYaQoSzxkx3Cy_bAZ89t1U16T-O7agSjZRqwg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/l8O5OdfhSdbIctP8YtOjWsEX7y3QCNQ2/IaESW5Xplb50vO8OL80snQ05iYIcuSvH-ErLAYJxF5Qg"
     },
     "remarks": [
         {
@@ -3810,12 +3810,12 @@
     "dueDate": "23 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -3827,7 +3827,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lF4PfIOcwYE25xDWugAxh8VEPxLYZQ4v/tmQ-R8hsPsM2MjAExrVyhmIqaDn1eQgk-u74gWUjM4Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624312989249486287/sFmuczjGGkeSpO8ZObR2x52LZYphecPB-0bVAM18zrgg_",
         "iom": ""
     },
@@ -4559,12 +4559,12 @@
     "dueDate": "23 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -4576,7 +4576,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lFsSb2dMWAUQ3SaBUxOFOsuQGCw7IJMR/y-Q6C1NqCZpAybPi8uMcz3QhOk1Y8X33-N79AA2vM4Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624415363366435954/iblF8MfvuI7W6VJzDgxUk2kvMtRm-rVy-dLbgNrwzrgg_",
         "iom": ""
     },
@@ -6997,12 +6997,12 @@
     "dueDate": "19 Aug 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -7014,11 +7014,18 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lAWKPxUe39NZYhcLX4JdpLd0TokVbI0n/sPPQdY7fplqtlrktNae8BJnPNyfZpqFs-Kr4AyiPM4Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/623545504501905642/JXfjHObGraqbBnv7ySld-7wuWADFqESC-GbdAJY1Rqwg_",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "31 Aug 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add crating. Customer prefer to ship via LCL."
+        }
+    ]
 },
 {
     "CO": "C000203319",
@@ -7159,6 +7166,134 @@
         "payment": [
             "paid",
             "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000203618",
+    "purchaseOrder": "A-PA-PO20210623",
+    "projectRef": "Lam Research Korea",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP / 3phase / 60Hz / 380V / ODP",
+    "pumpModel": "8x6 MAA",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 335,
+    "speed": 3570,
+    "orderDate": "29 Jun 2021",
+    "dueDate": "27 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/lLlCEzfbRpVunbJiiRvFqC9rzKJ4hwxz/ZpJ4_hN5MwDFhbb4CiqDmcLtlIMsHHQJ-hrLg06tF5Qg"
+    },
+    "remarks": [
+        {
+            "date": "20 Aug 2021",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Add motor routine test report"
+        }
+    ]
+},
+{
+    "CO": "C000203622",
+    "purchaseOrder": "A-PA-PO20210623",
+    "projectRef": "Lam Research Korea",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP / 3phase / 60Hz / 380V / ODP",
+    "pumpModel": "8x6 MAA",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 335,
+    "speed": 3570,
+    "orderDate": "29 Jun 2021",
+    "dueDate": "27 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/lLlCPaMaseDR7qKgmIgVUSs8RrVYE7MI/p69xYfH2qkB75bKokFohAPYiH-C7pXKK-6LLgR7ZF5Qg"
+    },
+    "remarks": [
+        {
+            "date": "20 Aug 2021",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Add motor routine test report"
+        }
+    ]
+},
+{
+    "CO": "C000203623",
+    "purchaseOrder": "A-PA-PO20210623",
+    "projectRef": "Lam Research Korea",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA98",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1750,
+    "orderDate": "29 Jun 2021",
+    "dueDate": "15 Sep 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
