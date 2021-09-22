@@ -940,8 +940,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "partial",
@@ -955,7 +955,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/lF4PlkCderhAXHIfjM7MnAIP6oqo3Ix3/YefmzwCjlKaTDzqajCXofUu32Os-rofC-nrJA1-Vb5Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/601951163591474773/7IvyMElR0IYhE20bibhbSPQ4jx--ibRX-kr9AyoWPWgg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/lXlFz9TIeEfgAGVkD0gZx11JSlyhyU6s/OOriSDfIiSTXiI2tGGDIzNBNlnyyoQo5-yrLgbVOU7gg"
     },
     "remarks": []
 },
