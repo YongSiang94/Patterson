@@ -207,5 +207,43 @@
             "description": "Flanges to be covered with wood prior to shipment"
         }
     ]
+},
+{
+    "CO": "C000206488",
+    "purchaseOrder": 20541.0,
+    "projectRef": "Mainfreight SA",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA60",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 374,
+    "speed": 2100,
+    "orderDate": "1 Oct 2021",
+    "dueDate": "26 Jan 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfFZkslMuxb0GZsl57mOIbLcKtZlyyQf/OxW7hpTnkxdaNef3knfbQyZPWhzfSjkX-jbmA9p_f-gg",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
