@@ -3106,7 +3106,7 @@
     "purchaseOrder": "CG-2021-130-001",
     "projectRef": "BOE Chengdu",
     "driverType": "Electric",
-    "driverInfo": "JU4H-UF55",
+    "driverInfo": "WEG 125HP ODP 2950RPM",
     "pumpModel": "6x5x11A SSC",
     "pumpType": "hsc",
     "capacity": 1251,
@@ -3135,6 +3135,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lSOjuX9ApCoEfawKHQvjW8LKzBvAq3n3/HJzva6rnIoCa7Md6X0L3IHyJ9HXVMnlW-970AijJr6gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000206486",
+    "purchaseOrder": "CG-2021-122-001",
+    "projectRef": "Kohler China",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP ODP 2950RPM",
+    "pumpModel": "5x3x11A VIP",
+    "pumpType": "vil",
+    "capacity": 500,
+    "head": 289,
+    "speed": 2950,
+    "orderDate": "1 Oct 2021",
+    "dueDate": "7 Dec 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfElKSfYkxZm6QI7YmvVQbplt8CJYAmI/R8xcZgkaGa6EfMBGFKXjbXcr91L6qOnq--rrg5n3g-gg",
         "iom": ""
     },
     "remarks": []
