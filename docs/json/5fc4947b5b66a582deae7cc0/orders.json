@@ -998,6 +998,44 @@
     "remarks": []
 },
 {
+    "CO": "C000206577",
+    "purchaseOrder": "2109/020/OV/R1",
+    "projectRef": "TBBM Sabang",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD70",
+    "pumpModel": "17JMC-4STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 428,
+    "speed": 1770,
+    "orderDate": "4 Oct 2021",
+    "dueDate": "25 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lW8aH76YK6YWEXVjrezrs8cQBZdDUWMw/NmGO1S2xfgTqj7P4EUxHCCsdEwusA-U0-9rtggOPg-gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000189254",
     "purchaseOrder": "",
     "projectRef": "Jabil Wuxi",
@@ -4104,7 +4142,7 @@
     "purchaseOrder": "CG-2021-130-001",
     "projectRef": "BOE Chengdu",
     "driverType": "Electric",
-    "driverInfo": "JU4H-UF55",
+    "driverInfo": "WEG 125HP ODP 2950RPM",
     "pumpModel": "6x5x11A SSC",
     "pumpType": "hsc",
     "capacity": 1251,
@@ -4133,6 +4171,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lSOjuX9ApCoEfawKHQvjW8LKzBvAq3n3/HJzva6rnIoCa7Md6X0L3IHyJ9HXVMnlW-970AijJr6gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000206486",
+    "purchaseOrder": "CG-2021-122-001",
+    "projectRef": "Kohler China",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP ODP 2950RPM",
+    "pumpModel": "5x3x11A VIP",
+    "pumpType": "vil",
+    "capacity": 500,
+    "head": 289,
+    "speed": 2950,
+    "orderDate": "1 Oct 2021",
+    "dueDate": "7 Dec 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfElKSfYkxZm6QI7YmvVQbplt8CJYAmI/R8xcZgkaGa6EfMBGFKXjbXcr91L6qOnq--rrg5n3g-gg",
         "iom": ""
     },
     "remarks": []
@@ -6611,6 +6687,44 @@
             "description": "Flanges to be covered with wood prior to shipment"
         }
     ]
+},
+{
+    "CO": "C000206488",
+    "purchaseOrder": 20541.0,
+    "projectRef": "Mainfreight SA",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA60",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 374,
+    "speed": 2100,
+    "orderDate": "1 Oct 2021",
+    "dueDate": "26 Jan 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfFZkslMuxb0GZsl57mOIbLcKtZlyyQf/OxW7hpTnkxdaNef3knfbQyZPWhzfSjkX-jbmA9p_f-gg",
+        "iom": ""
+    },
+    "remarks": []
 },
 {
     "CO": "C000194082",
