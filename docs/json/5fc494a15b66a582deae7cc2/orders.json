@@ -974,16 +974,16 @@
     "dueDate": "5 Oct 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "pending",
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -991,7 +991,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/loKErpw1gcyYYfSBwNC7G6NIruyhvLDc/z0FUHeLh9OtR8xC7Z8Jaw8boJmR37dvO-XbIgRSrC_Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/635734707939620558/H2F2Yh_zZ2qcW11upH4gYWfahJ3dlCCK-hbpAjBMs1Ag",
         "iom": ""
     },
