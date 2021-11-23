@@ -173,12 +173,12 @@
     "dueDate": "29 Oct 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -190,7 +190,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mL6mGDbPMngN2XGXjYEnkifIQshcaAVf/wZ_tNaIPUdqdgccKX-xJdVMH-FGSS3QB-GLXgHb9oFQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/627585607463384002/QWKXrFybCILE38wuDlkUckR2hiw5RRXO-wLeA4GKDwwg_",
         "iom": ""
     },
@@ -256,6 +256,44 @@
     "dueDate": "28 Sep 2021",
     "status": {
         "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mBYmdSRmIMz5tMSweBLexI0yswMLoOaf/-pFleObRTYw-qgFRRemJfgKEB-YqxcW5-T7YAZ-9oFQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/634586629360631261/pAXRBubDSn2_Q5o5DIyK7GT_aQ5DE_Tk-YLig6xSW0gg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000206541",
+    "purchaseOrder": 112623.0,
+    "projectRef": "Tailison Greenbushes",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP/ODP/415V/2980RPM",
+    "pumpModel": "E3J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 300,
+    "speed": 2980,
+    "orderDate": "13 Oct 2021",
+    "dueDate": "10 Feb 2022",
+    "status": {
+        "order": [
             "in progress",
             "primary"
         ],
@@ -274,9 +312,16 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/634586629360631261/pAXRBubDSn2_Q5o5DIyK7GT_aQ5DE_Tk-YLig6xSW0gg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfF3nc3S7IELnGRk2e2MRPaVp5PLepoV/A0Qd7ljD7kIhgHeth0HHRjjtfKlPci6J-J7fg5s_D_Ag",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "21 Oct 2021",
+            "type": "update",
+            "overview": "nameplate",
+            "description": "UL only"
+        }
+    ]
 }
 ]
