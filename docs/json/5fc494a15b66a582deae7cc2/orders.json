@@ -1034,5 +1034,119 @@
         "iom": ""
     },
     "remarks": []
+},
+{
+    "CO": "C000207954",
+    "purchaseOrder": "2111/023/OV/RTN/R",
+    "projectRef": "SPPBE V Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 319,
+    "speed": 2970,
+    "orderDate": "17 Nov 2021",
+    "dueDate": "1 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mLZdFR2X851wl4ILDw2e3BpHDsBHBan2/nXrUlD7Equ88TM_ISwbapbUOn3s8dgTD-CLlA2vA3FQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000207955",
+    "purchaseOrder": "2111/023/OV/RTN/R",
+    "projectRef": "SPPBE V Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 150,
+    "speed": 2970,
+    "orderDate": "17 Nov 2021",
+    "dueDate": "1 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBbWME4IyIugBGZ3sf48i7uh8d8er4FM/IFb4XvSDSlxnBdMLWXOwA_oul_JDOFbH-xLlABGI4FQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208077",
+    "purchaseOrder": "2111/024/OV/R",
+    "projectRef": "TBBM Tembilahan (1000GPM)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF50",
+    "pumpModel": "13GLC-5STAGE",
+    "pumpType": "vt",
+    "capacity": 1000,
+    "head": 324,
+    "speed": 1770,
+    "orderDate": "17 Nov 2021",
+    "dueDate": "1 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBb4z8xB9dZ7CnDPy1EUTJpjTdbYB2E3/mmaApXEFxKbQU3WntBbKriPCiGMc6NdI-87sgxcTZFAk",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
