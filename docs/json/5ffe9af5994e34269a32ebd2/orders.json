@@ -525,8 +525,8 @@
             "success"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -570,8 +570,8 @@
             "success"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -653,8 +653,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -674,5 +674,81 @@
             "description": "2280 l/min @ 70m"
         }
     ]
+},
+{
+    "CO": "C000208217",
+    "purchaseOrder": 21121316.0,
+    "projectRef": "Changi Prison (Cluster A)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "19 Nov 2021",
+    "dueDate": "27 Jan 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGZyHKMLbXCoxSCz9bmoc8mkzIntBFAo/WeUFqVN4oO4ClsSE5RJQkUT4FQZUVPZo-Zbtgvig5FQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208222",
+    "purchaseOrder": 21121316.0,
+    "projectRef": "Changi Prison (Cluster A)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "5x3x11A ES",
+    "pumpType": "es",
+    "capacity": 450,
+    "head": 152,
+    "speed": 2950,
+    "orderDate": "19 Nov 2021",
+    "dueDate": "27 Jan 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mLa2sA4M05EJLBY5k9wfnMUybmAA4scM/y5tV0HLVGdyJEIxCSVTa2FOC0bZaHIkr-6bugWkA5FQk",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
