@@ -260,8 +260,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -275,7 +275,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/lXlmCjgnl54spSGxJiv4zbwjvXJwTYNQ/Fw3VZOFPCH_RGx-aW96FUHtMsMhiE0HW-B7nAUOWV7gg",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/626072699541697582/XPeKCGTAUcktaA7YVpihNdbbZzdp81zD-BrJAa5dUswg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/m2sd7MgtQwHirtbVDXzTx3gaGrIkDauW/aG8dDGidtKhfhPy0xoSnxAkWqm6WkX9q-_rJAc21oFQk"
     },
     "remarks": []
 },
@@ -292,6 +292,44 @@
     "speed": 2800,
     "orderDate": "7 Jul 2021",
     "dueDate": "30 Sep 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/loKFwydUFjFHXdRUmunpwQsf6YmBQB44/Q3J0jEqDFMu68-to1iVkJ70uPppeMOVQ-3rJAOUbC_Ag",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/628418299958443928/SemQ-8BqPPH5UnhRfbJqqN3m1bhG5XR4-KbjgsniDwwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/m2sd6VT6XZJLak1p1rtzgtqML8f8iSeI/R95_bBQHGdfoOIpILuQv_qb4VG3gK-hi-UbPAN3loFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208157",
+    "purchaseOrder": 566891.0,
+    "projectRef": "Auburn Switchyard",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA50",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 351,
+    "speed": 2100,
+    "orderDate": "19 Nov 2021",
+    "dueDate": "28 Jul 2022",
     "status": {
         "order": [
             "in progress",
@@ -312,7 +350,7 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/628418299958443928/SemQ-8BqPPH5UnhRfbJqqN3m1bhG5XR4-KbjgsniDwwg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6PbKFtuNzYMiGgl4ijqNEEWEhDnByY/eyFliFaqy7K2CgjBh06JeYXpKl3qlJoi-r72AQaPaFAk",
         "iom": ""
     },
     "remarks": []
