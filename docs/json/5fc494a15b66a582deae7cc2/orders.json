@@ -1150,12 +1150,50 @@
     "remarks": []
 },
 {
+    "CO": "C000208076",
+    "purchaseOrder": "2111/026/OV/R",
+    "projectRef": "TBBM Tembilahan (3000GPM)",
+    "driverType": "Diesel",
+    "driverInfo": "C18H0-UFAD58",
+    "pumpModel": "18KMC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 450,
+    "speed": 1770,
+    "orderDate": "17 Nov 2021",
+    "dueDate": "1 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mDh6tvmEVwy1Qp2nA0MXty3lxvfxp75g/_s6r8ymb6owt-cm48dF77q5w8VXdhQPt-BbaghFuRHgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000208077",
     "purchaseOrder": "2111/024/OV/R",
     "projectRef": "TBBM Tembilahan (1000GPM)",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF50",
-    "pumpModel": "13GLC-5STAGE",
+    "pumpModel": "13GLC-5 STAGE",
     "pumpType": "vt",
     "capacity": 1000,
     "head": 324,
@@ -1172,8 +1210,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "TBA",
+            "TBA"
         ],
         "terms": [
             "ex-works",
@@ -1183,6 +1221,133 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBb4z8xB9dZ7CnDPy1EUTJpjTdbYB2E3/mmaApXEFxKbQU3WntBbKriPCiGMc6NdI-87sgxcTZFAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208445",
+    "purchaseOrder": "2111/025/OV/R",
+    "projectRef": "Lawe Lawe (Diesel)",
+    "driverType": "Diesel",
+    "driverInfo": "CFP23E-F40",
+    "pumpModel": "16x12x21 SSC",
+    "pumpType": "hsc",
+    "capacity": 5000,
+    "head": 437,
+    "speed": 1780,
+    "orderDate": "2 Dec 2021",
+    "dueDate": "H.F.A",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdibogrISzrw6wxyGQtU95RHAU5Crg1/TYe6QdMveiFiFZwi-EWDvlg9uLV54_jP-KLmAZ0WUHgk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "2 Dec 2021",
+            "type": "update",
+            "overview": "order",
+            "description": "Order on hold until torsional analysis results returns"
+        },
+        {
+            "date": "2 Dec 2021",
+            "type": "update",
+            "overview": "order",
+            "description": "Major items will be preordered first "
+        }
+    ]
+},
+{
+    "CO": "C000208547",
+    "purchaseOrder": "2111/025/OV/R",
+    "projectRef": "Lawe Lawe (Electric)",
+    "driverType": "Electric",
+    "driverInfo": "Siemens 800HP NEMA IP56",
+    "pumpModel": "16x12x26A SSC",
+    "pumpType": "hsc",
+    "capacity": 5000,
+    "head": 435,
+    "speed": 1475,
+    "orderDate": "3 Dec 2021",
+    "dueDate": "3 May 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdj75yLyKzDYpgdaLG4i7u4eYDvGqTS/s_7z9UnmvvFR4vINU8oIlX4E9Lo2TLog-Dr0gNUboHgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208697",
+    "purchaseOrder": "2111/025/OV/R",
+    "projectRef": "Lawe Lawe (Jockey)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 50HP 3000RPM TEFC IP56",
+    "pumpModel": "E2D11A-2",
+    "pumpType": "es",
+    "capacity": 275,
+    "head": 264,
+    "speed": 3000,
+    "orderDate": "8 Dec 2021",
+    "dueDate": "3 May 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdlKuVbQx84xsbN0SrKyoeRZeppsqde/G3ytLHZKVllApS4PcmSLzS9zRBB_gASa-6rfAj4o-LQk",
         "iom": ""
     },
     "remarks": []
