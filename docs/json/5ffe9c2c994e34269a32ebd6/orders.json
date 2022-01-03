@@ -88,5 +88,209 @@
             "description": "Add wood flange covers prior to shipping"
         }
     ]
+},
+{
+    "CO": "C000208331",
+    "purchaseOrder": "BK/PAT/11-21",
+    "projectRef": "IHG Da Nang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 40HP 2975RPM ODP",
+    "pumpModel": "6x6 VIP",
+    "pumpType": "vil",
+    "capacity": 750,
+    "head": 150,
+    "speed": 2975,
+    "orderDate": "29 Nov 2021",
+    "dueDate": "3 Feb 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGZx7evbPW0NfBrXl9MaCnArBiL3Ptia/8M8zcYsDlnnQAtAGJeKg6w72ONUEg6v--fLWAyuSQHgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208802",
+    "purchaseOrder": "BK/PAT/11-21",
+    "projectRef": "IHG Da Nang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2970,
+    "orderDate": "13 Dec 2021",
+    "dueDate": "3 Jun 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/men2XuaKpSgwMSwLA1gOfETINPCTbh4K/l3TwX0RyrOoM5SAVpvn22XTNvaXQhzrg-AbiAMfMfJAk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "16 Dec 2021",
+            "type": "change order",
+            "overview": "due date",
+            "description": "Change OA due date due to motor delivery"
+        }
+    ]
+},
+{
+    "CO": "C000208803",
+    "purchaseOrder": "BK/PAT/11-21",
+    "projectRef": "IHG Da Nang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2970,
+    "orderDate": "13 Dec 2021",
+    "dueDate": "3 Jun 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mjn1SWVVozrHQIZNhDuFrxwqHEjzkMSF/r_R-d8b88AvxhgqwhgV54Wgooiufc8mC-er3A0boAKAk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "16 Dec 2021",
+            "type": "change order",
+            "overview": "due date",
+            "description": "Change OA due date due to motor delivery"
+        }
+    ]
+},
+{
+    "CO": "C000209235",
+    "purchaseOrder": "BK/PAT/12-21",
+    "projectRef": "Diesel Firedamp",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAT0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "30 Dec 2021",
+    "dueDate": "13 Jun 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqFAmkx7FOxnzFsyLcpEJbFNyFygz32/0i7DheiejpxyZgvkhW_4MTfZFi3gR8uK-IrzA2W-TMAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209238",
+    "purchaseOrder": "BK/PAT/12-21",
+    "projectRef": "Electric Firepump & JP Pump",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP / ODP / 1470RPM",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 312,
+    "speed": 1470,
+    "orderDate": "30 Dec 2021",
+    "dueDate": "13 Jun 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqPUes7Xy1Ox1RpjVvw80YRcoeAekeO/Uo9DjUWi8i_wR5gTK2ycUw58YQ02iONA-0Lwgwu2TMAk",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
