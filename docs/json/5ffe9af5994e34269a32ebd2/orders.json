@@ -714,6 +714,44 @@
     "remarks": []
 },
 {
+    "CO": "C000208220",
+    "purchaseOrder": 21121316.0,
+    "projectRef": "Changi Prison (Cluster A)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "4x3x11A ES",
+    "pumpType": "es",
+    "capacity": 250,
+    "head": 99,
+    "speed": 2950,
+    "orderDate": "19 Nov 2021",
+    "dueDate": "27 Jan 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/maW2JUhfkNZlCM2putzhU3IDMEsAAuNn/GkKG3PZZ9wM4ElP0pi-OaIyKL2UHfBWl-D7NAuxjPIAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000208222",
     "purchaseOrder": 21121316.0,
     "projectRef": "Changi Prison (Cluster A)",
