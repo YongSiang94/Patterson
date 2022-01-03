@@ -329,7 +329,7 @@
     "head": 351,
     "speed": 2100,
     "orderDate": "19 Nov 2021",
-    "dueDate": "28 Jul 2022",
+    "dueDate": "18 May 2022",
     "status": {
         "order": [
             "in progress",
@@ -353,6 +353,19 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6PbKFtuNzYMiGgl4ijqNEEWEhDnByY/eyFliFaqy7K2CgjBh06JeYXpKl3qlJoi-r72AQaPaFAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "10 Dec 2021",
+            "type": "delivery",
+            "overview": "engine",
+            "description": "Clarke is able to improve engine delivery. OA changed to 18 May 2022."
+        },
+        {
+            "date": "29 Dec 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add Option BA - AC Input 220-240V"
+        }
+    ]
 }
 ]
