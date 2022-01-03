@@ -901,5 +901,50 @@
             "description": "Pump is UL only."
         }
     ]
+},
+{
+    "CO": "C000208366",
+    "purchaseOrder": "11056P/WRP/ST/XI-26/21",
+    "projectRef": "Telkom - 500GPM",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2950RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "29 Nov 2021",
+    "dueDate": "31 Mar 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mJXBWk2vmP4XMnKu8ZcRIcCDH93XE2jg/ngFONUtxn6JGFFz3SpUsIaa40C1RkyG8-MrRgXQuQHgk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "17 Dec 2021",
+            "type": "change order",
+            "overview": "equipment",
+            "description": "Add 10 MRV and WC"
+        }
+    ]
 }
 ]
