@@ -1,5 +1,4 @@
-[
-
+[
 {
     "make": "Clarke",
     "model": "KA4H-UFKA34",
@@ -14,11 +13,20 @@
             "hp": 50
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 3.5
+        },
+        {
+            "speed": 3000,
+            "consumption": 3.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28624dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ka4h-series/ka4h-pic26cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=62795013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFAEA0",
@@ -37,11 +45,24 @@
             "hp": 46
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 4.4
+        },
+        {
+            "speed": 2100,
+            "consumption": 5
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8e0e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF10",
@@ -60,11 +81,24 @@
             "hp": 55
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 2.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 2.8
+        },
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c0f738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF12",
@@ -79,11 +113,20 @@
             "hp": 59
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        },
+        {
+            "speed": 2600,
+            "consumption": 3.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=323e3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF14",
@@ -106,11 +149,28 @@
             "hp": 71
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        },
+        {
+            "speed": 2600,
+            "consumption": 3.4
+        },
+        {
+            "speed": 2800,
+            "consumption": 3.6
+        },
+        {
+            "speed": 3000,
+            "consumption": 3.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=90ee38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-high-speed-series/ju4h-uf-na-usaac938cf80b2683faebcff00005cb4e3.png?sfvrsn=de7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF20",
@@ -129,11 +189,24 @@
             "hp": 72
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 3.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 5.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ac2639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF22",
@@ -148,11 +221,20 @@
             "hp": 75
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        },
+        {
+            "speed": 2600,
+            "consumption": 5.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=89f538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF24",
@@ -175,11 +257,28 @@
             "hp": 83
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        },
+        {
+            "speed": 2600,
+            "consumption": 5.8
+        },
+        {
+            "speed": 2800,
+            "consumption": 6
+        },
+        {
+            "speed": 3000,
+            "consumption": 6.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4e0939cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-high-speed-series/ju4h-uf-na-usaac938cf80b2683faebcff00005cb4e3.png?sfvrsn=de7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFAEE8",
@@ -190,11 +289,16 @@
             "hp": 64
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c1fc38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFAEF2",
@@ -209,16 +313,33 @@
             "hp": 74
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 9.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 8.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9c1539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF34",
     "tier": "NSPS",
     "rating": [
+        {
+            "speed": 2350,
+            "hp": 85
+        },
+        {
+            "speed": 2600,
+            "hp": 85
+        },
         {
             "speed": 2800,
             "hp": 104
@@ -228,11 +349,28 @@
             "hp": 115
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 4.5
+        },
+        {
+            "speed": 2600,
+            "consumption": 7.8
+        },
+        {
+            "speed": 2800,
+            "consumption": 9.1
+        },
+        {
+            "speed": 3000,
+            "consumption": 8.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=7b1839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-high-speed-series/ju4h-uf-na-usaac938cf80b2683faebcff00005cb4e3.png?sfvrsn=de7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFH0",
@@ -251,11 +389,24 @@
             "hp": 98
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 3.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 4.5
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=75e538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFH2",
@@ -270,11 +421,20 @@
             "hp": 99
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 5.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 3.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=77ef38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFADJ8",
@@ -285,11 +445,16 @@
             "hp": 86
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 4.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a82939cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-ptm-us2aca38cf80b2683faebcff00005cb4e3.png?sfvrsn=5e785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFADJ2",
@@ -304,11 +469,20 @@
             "hp": 99
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 5.1
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e40339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-ptm-us2aca38cf80b2683faebcff00005cb4e3.png?sfvrsn=5e785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF40",
@@ -327,11 +501,24 @@
             "hp": 106
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 3
+        },
+        {
+            "speed": 2100,
+            "consumption": 3.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b5ea38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF42",
@@ -346,11 +533,20 @@
             "hp": 106
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        },
+        {
+            "speed": 2600,
+            "consumption": 3.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e60d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF58",
@@ -365,11 +561,20 @@
             "hp": 110
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 3.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 3.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a10439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFAD5G",
@@ -388,16 +593,33 @@
             "hp": 118
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 8.6
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=137867cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF50",
     "tier": "NSPS",
     "rating": [
+        {
+            "speed": 1470,
+            "hp": 79
+        },
         {
             "speed": 1760,
             "hp": 110
@@ -411,11 +633,28 @@
             "hp": 127
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 3.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 3.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 4.5
+        },
+        {
+            "speed": 2350,
+            "consumption": 4.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5f0a39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF52",
@@ -430,16 +669,33 @@
             "hp": 127
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 4.9
+        },
+        {
+            "speed": 2600,
+            "consumption": 7.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UF54",
     "tier": "NSPS",
     "rating": [
+        {
+            "speed": 2350,
+            "hp": 122
+        },
+        {
+            "speed": 2600,
+            "hp": 139
+        },
         {
             "speed": 2800,
             "hp": 145
@@ -449,11 +705,28 @@
             "hp": 145
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 7.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 10.3
+        },
+        {
+            "speed": 2800,
+            "consumption": 10
+        },
+        {
+            "speed": 3000,
+            "consumption": 11.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=572139cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-high-speed-series/ju4h-uf-na-usaac938cf80b2683faebcff00005cb4e3.png?sfvrsn=de7b5013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFADR0",
@@ -472,11 +745,24 @@
             "hp": 140
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8.4
+        },
+        {
+            "speed": 2100,
+            "consumption": 9.8
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f72339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFADP0",
@@ -495,11 +781,24 @@
             "hp": 130
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8.9
+        },
+        {
+            "speed": 2100,
+            "consumption": 9.8
+        },
+        {
+            "speed": 2350,
+            "consumption": 11
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a2df38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFADW8",
@@ -510,11 +809,16 @@
             "hp": 144
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d4f238cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFADY8",
@@ -525,11 +829,16 @@
             "hp": 157
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8afa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4H-UFAD98",
@@ -540,11 +849,16 @@
             "hp": 175
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 9.3
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=192639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4 ",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFD0",
@@ -563,11 +877,24 @@
             "hp": 148
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a32339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFD2",
@@ -582,11 +909,20 @@
             "hp": 148
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        },
+        {
+            "speed": 2600,
+            "consumption": 10.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=21fa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF30",
@@ -609,11 +945,28 @@
             "hp": 160
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 6.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 9.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.7
+        },
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3af938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF32",
@@ -628,16 +981,33 @@
             "hp": 160
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 11.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=472539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF34",
     "tier": "NSPS",
     "rating": [
+        {
+            "speed": 2350,
+            "hp": 160
+        },
+        {
+            "speed": 2600,
+            "hp": 160
+        },
         {
             "speed": 2800,
             "hp": 160
@@ -647,11 +1017,28 @@
             "hp": 175
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 8.3
+        },
+        {
+            "speed": 2600,
+            "consumption": 11.9
+        },
+        {
+            "speed": 2800,
+            "consumption": 9.9
+        },
+        {
+            "speed": 3000,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=720039cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFM8",
@@ -666,11 +1053,20 @@
             "hp": 175
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 8.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 10.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e4ee38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFM0",
@@ -689,11 +1085,24 @@
             "hp": 200
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.4
+        },
+        {
+            "speed": 2100,
+            "consumption": 12.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=880539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFM2",
@@ -708,11 +1117,20 @@
             "hp": 200
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 12.6
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b10039cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADMG",
@@ -727,11 +1145,20 @@
             "hp": 175
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 10.7
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bd1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF58",
@@ -746,11 +1173,20 @@
             "hp": 183
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 9
+        },
+        {
+            "speed": 1760,
+            "consumption": 10.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=53f838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF50",
@@ -769,11 +1205,24 @@
             "hp": 210
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 12.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=620439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADNG",
@@ -792,11 +1241,24 @@
             "hp": 183
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.9
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ae1b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADN0",
@@ -815,11 +1277,24 @@
             "hp": 200
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.9
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=082539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF52",
@@ -834,16 +1309,29 @@
             "hp": 210
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 12.9
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f20a39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADP0",
     "tier": 3.0,
     "rating": [
+        {
+            "speed": 1760,
+            "hp": 220
+        },
         {
             "speed": 2100,
             "hp": 209
@@ -853,16 +1341,37 @@
             "hp": 211
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 11.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b4fa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF54",
     "tier": "NSPS",
     "rating": [
+        {
+            "speed": 2350,
+            "hp": 210
+        },
+        {
+            "speed": 2600,
+            "hp": 216
+        },
         {
             "speed": 2800,
             "hp": 216
@@ -872,11 +1381,28 @@
             "hp": 216
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 10
+        },
+        {
+            "speed": 2600,
+            "consumption": 11.4
+        },
+        {
+            "speed": 2800,
+            "consumption": 11.9
+        },
+        {
+            "speed": 3000,
+            "consumption": 12.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=35f538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADP8",
@@ -887,11 +1413,16 @@
             "hp": 220
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 11.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=631e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADQ0",
@@ -906,11 +1437,20 @@
             "hp": 226
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 11.1
+        },
+        {
+            "speed": 2350,
+            "consumption": 11.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d2e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAD88",
@@ -921,11 +1461,16 @@
             "hp": 237
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 12
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d1d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADR0",
@@ -940,11 +1485,20 @@
             "hp": 240
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 11.7
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=862739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF60",
@@ -963,11 +1517,24 @@
             "hp": 240
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10f938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF62",
@@ -982,11 +1549,20 @@
             "hp": 240
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=78f438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-trwa-ls-(6-27-2017)-final.png?sfvrsn=ee8f2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAAPG",
@@ -997,11 +1573,16 @@
             "hp": 220
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 11
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=74f538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAAQ8",
@@ -1012,11 +1593,16 @@
             "hp": 227
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 16.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=34f038cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DP6H-UFAAX8",
@@ -1027,11 +1613,16 @@
             "hp": 240
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 13
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=170b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADR8",
@@ -1042,11 +1633,16 @@
             "hp": 250
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 12.3
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3c1839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAARG",
@@ -1057,16 +1653,29 @@
             "hp": 252
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 12.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=230439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF84",
     "tier": "NSPS",
     "rating": [
+        {
+            "speed": 2350,
+            "hp": 243
+        },
+        {
+            "speed": 2600,
+            "hp": 247
+        },
         {
             "speed": 2800,
             "hp": 259
@@ -1076,11 +1685,28 @@
             "hp": 275
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 11.1
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.1
+        },
+        {
+            "speed": 2800,
+            "consumption": 13.3
+        },
+        {
+            "speed": 3000,
+            "consumption": 14.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=931239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADS8",
@@ -1091,11 +1717,16 @@
             "hp": 260
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 12.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=011739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAAS0",
@@ -1106,11 +1737,16 @@
             "hp": 260
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 12.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=39f438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAAT8",
@@ -1125,11 +1761,20 @@
             "hp": 273
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 16.3
+        },
+        {
+            "speed": 1900,
+            "consumption": 16.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=812f66cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADT0",
@@ -1144,11 +1789,20 @@
             "hp": 275
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 17.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 16.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=82e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADW8",
@@ -1159,11 +1813,16 @@
             "hp": 282
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 13.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=58e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DP6H-UFAA88",
@@ -1174,11 +1833,16 @@
             "hp": 290
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 15.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=020b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAAT0",
@@ -1193,11 +1857,20 @@
             "hp": 295
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 17.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 16.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=052e66cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAAT2",
@@ -1212,11 +1885,20 @@
             "hp": 291
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 16.8
+        },
+        {
+            "speed": 2600,
+            "consumption": 17.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=982e66cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UF94",
@@ -1231,11 +1913,20 @@
             "hp": 300
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 23.5
+        },
+        {
+            "speed": 3000,
+            "consumption": 25.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a02c66cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-high-speed-series/ju6h-uf-t-hs.png?sfvrsn=5b392913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DP6H-UFAA62",
@@ -1246,11 +1937,16 @@
             "hp": 300
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 15.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ed0a47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFADX8",
@@ -1261,11 +1957,16 @@
             "hp": 305
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 14.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2b1739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6H-UFAD98",
@@ -1276,11 +1977,16 @@
             "hp": 315
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 15
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bf3e3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DP6H-UFAA70",
@@ -1295,11 +2001,20 @@
             "hp": 316
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 15.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 16.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c0b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JW6H-UFADF0",
@@ -1314,11 +2029,20 @@
             "hp": 311
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 14.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 16.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=96e238cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA50",
@@ -1329,11 +2053,16 @@
             "hp": 340
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 18.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4a1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA60",
@@ -1348,11 +2077,20 @@
             "hp": 360
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 17.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 19.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e2e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JW6H-UFADJ0",
@@ -1367,11 +2105,20 @@
             "hp": 332
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 16.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 17.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=faf338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JW6H-UFAA60",
@@ -1382,11 +2129,16 @@
             "hp": 360
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 17.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=922239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA88",
@@ -1397,11 +2149,16 @@
             "hp": 375
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 17.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ef2739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JW6H-UFAD70",
@@ -1416,11 +2173,20 @@
             "hp": 399
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 18.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 20
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9e1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DQ6H-UFAA98",
@@ -1435,11 +2201,20 @@
             "hp": 410
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 13.5
+        },
+        {
+            "speed": 1760,
+            "consumption": 18.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=400239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JW6H-UFAD80",
@@ -1454,11 +2229,20 @@
             "hp": 400
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 20
+        },
+        {
+            "speed": 2100,
+            "consumption": 20
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=eee138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DR8H-UFAA5G",
@@ -1469,11 +2253,16 @@
             "hp": 450
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 23
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e7fd38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD12",
@@ -1482,13 +2271,42 @@
         {
             "speed": 1470,
             "hp": 450
+        },
+        {
+            "speed": 1760,
+            "hp": 460
+        },
+        {
+            "speed": 1900,
+            "hp": 488
+        },
+        {
+            "speed": 2100,
+            "hp": 488
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 27.4
+        },
+        {
+            "speed": 1760,
+            "consumption": 26.5
+        },
+        {
+            "speed": 1900,
+            "consumption": 29.6
+        },
+        {
+            "speed": 2100,
+            "consumption": 31.5
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=55f68fcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/engine-images/cat18.png?sfvrsn=47b5f813_6",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD18",
@@ -1499,11 +2317,16 @@
             "hp": 460
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 30
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=783a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DR8H-UFAA40",
@@ -1530,11 +2353,32 @@
             "hp": 490
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 20
+        },
+        {
+            "speed": 1760,
+            "consumption": 23
+        },
+        {
+            "speed": 1900,
+            "consumption": 25
+        },
+        {
+            "speed": 2100,
+            "consumption": 27
+        },
+        {
+            "speed": 2350,
+            "consumption": 28
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28f338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD22",
@@ -1543,13 +2387,42 @@
         {
             "speed": 1470,
             "hp": 475
+        },
+        {
+            "speed": 1760,
+            "hp": 510
+        },
+        {
+            "speed": 1900,
+            "hp": 525
+        },
+        {
+            "speed": 2100,
+            "hp": 525
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 28.7
+        },
+        {
+            "speed": 1760,
+            "consumption": 28.5
+        },
+        {
+            "speed": 1900,
+            "consumption": 30.5
+        },
+        {
+            "speed": 2100,
+            "consumption": 32.5
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4eef8fcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/engine-images/cat18.png?sfvrsn=47b5f813_6",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD10",
@@ -1564,11 +2437,20 @@
             "hp": 488
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 30.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 30
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f1367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD32",
@@ -1577,13 +2459,42 @@
         {
             "speed": 1470,
             "hp": 491
+        },
+        {
+            "speed": 1760,
+            "hp": 542
+        },
+        {
+            "speed": 1900,
+            "hp": 556
+        },
+        {
+            "speed": 2100,
+            "hp": 556
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 32
+        },
+        {
+            "speed": 1760,
+            "consumption": 30
+        },
+        {
+            "speed": 1900,
+            "consumption": 31.5
+        },
+        {
+            "speed": 2100,
+            "consumption": 32.5
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=85ef8fcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/engine-images/cat18.png?sfvrsn=47b5f813_6",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DR8H-UFAA68",
@@ -1594,11 +2505,16 @@
             "hp": 495
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 25
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=462039cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DR8H-UFAA62",
@@ -1617,11 +2533,24 @@
             "hp": 500
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 26
+        },
+        {
+            "speed": 2100,
+            "consumption": 27
+        },
+        {
+            "speed": 2350,
+            "consumption": 29
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3f1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD28",
@@ -1632,11 +2561,16 @@
             "hp": 510
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 33
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=99377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD20",
@@ -1651,11 +2585,20 @@
             "hp": 525
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 32
+        },
+        {
+            "speed": 2100,
+            "consumption": 30.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d0397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0H-UFAAM0",
@@ -1670,11 +2613,20 @@
             "hp": 530
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 26
+        },
+        {
+            "speed": 2100,
+            "consumption": 26
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=be1739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD38",
@@ -1685,11 +2637,16 @@
             "hp": 542
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 34
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=45377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0H-UFAAN0",
@@ -1704,11 +2661,20 @@
             "hp": 575
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 27
+        },
+        {
+            "speed": 2100,
+            "consumption": 29
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4b0f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD30",
@@ -1723,11 +2689,20 @@
             "hp": 575
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 33
+        },
+        {
+            "speed": 2100,
+            "consumption": 32.3
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a6397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0H-UFAA68",
@@ -1742,11 +2717,20 @@
             "hp": 587
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 24
+        },
+        {
+            "speed": 1760,
+            "consumption": 29
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=161739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD42",
@@ -1755,13 +2739,42 @@
         {
             "speed": 1470,
             "hp": 570
+        },
+        {
+            "speed": 1760,
+            "hp": 614
+        },
+        {
+            "speed": 1900,
+            "hp": 618
+        },
+        {
+            "speed": 2100,
+            "hp": 618
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 31
+        },
+        {
+            "speed": 1760,
+            "consumption": 32
+        },
+        {
+            "speed": 1900,
+            "consumption": 33
+        },
+        {
+            "speed": 2100,
+            "consumption": 34
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bdef8fcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/engine-images/cat18.png?sfvrsn=47b5f813_6",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD48",
@@ -1772,11 +2785,16 @@
             "hp": 600
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 36
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=95387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD40",
@@ -1791,11 +2809,20 @@
             "hp": 600
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 36
+        },
+        {
+            "speed": 2100,
+            "consumption": 33
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0H-UFAA60",
@@ -1810,11 +2837,20 @@
             "hp": 606
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 31
+        },
+        {
+            "speed": 2350,
+            "consumption": 32
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e80239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0H-UFAA98",
@@ -1825,11 +2861,16 @@
             "hp": 650
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 30.3
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2d0c39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD58",
@@ -1840,11 +2881,16 @@
             "hp": 650
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 37
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD50",
@@ -1859,11 +2905,20 @@
             "hp": 650
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 35.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 36
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=dc367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD68",
@@ -1874,11 +2929,16 @@
             "hp": 687
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 39
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=1b377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2H-UFAA58",
@@ -1889,11 +2949,16 @@
             "hp": 700
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 33.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9a0b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAA78",
@@ -1904,11 +2969,16 @@
             "hp": 700
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 35
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b6647bcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD78",
@@ -1919,11 +2989,16 @@
             "hp": 700
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 41
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5a377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAD70",
@@ -1938,11 +3013,20 @@
             "hp": 700
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 38
+        },
+        {
+            "speed": 2100,
+            "consumption": 39
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0H-UFAA92",
@@ -1953,11 +3037,16 @@
             "hp": 722
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 36.3
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=941739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAC18",
@@ -1968,11 +3057,16 @@
             "hp": 755
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 39
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e9387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAC10",
@@ -1987,11 +3081,20 @@
             "hp": 755
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 39
+        },
+        {
+            "speed": 2100,
+            "consumption": 41
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d8377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAC28",
@@ -2002,11 +3105,16 @@
             "hp": 800
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 40
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8d3a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2H-UFAA50",
@@ -2025,11 +3133,24 @@
             "hp": 800
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 39.4
+        },
+        {
+            "speed": 1900,
+            "consumption": 39.9
+        },
+        {
+            "speed": 2100,
+            "consumption": 42.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=aef138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C18H0-UFAC20",
@@ -2044,11 +3165,20 @@
             "hp": 800
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 40.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 42.3
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6f377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2H-UFAA60",
@@ -2071,11 +3201,28 @@
             "hp": 880
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 38.4
+        },
+        {
+            "speed": 1760,
+            "consumption": 43.2
+        },
+        {
+            "speed": 1900,
+            "consumption": 45
+        },
+        {
+            "speed": 2100,
+            "consumption": 46.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4c2b5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC18",
@@ -2090,11 +3237,20 @@
             "hp": 850
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 37
+        },
+        {
+            "speed": 1760,
+            "consumption": 44.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=86a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC10",
@@ -2109,11 +3265,20 @@
             "hp": 850
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 45.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 45.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=78a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2H-UFAA88",
@@ -2124,11 +3289,16 @@
             "hp": 875
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 44.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=541239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2H-UFAA92",
@@ -2139,11 +3309,16 @@
             "hp": 1025
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 52
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b92a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC20",
@@ -2158,11 +3333,20 @@
             "hp": 925
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 47.6
+        },
+        {
+            "speed": 2100,
+            "consumption": 48.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a2a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2H-UFAA98",
@@ -2181,11 +3365,24 @@
             "hp": 1000
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 41.3
+        },
+        {
+            "speed": 1760,
+            "consumption": 47.7
+        },
+        {
+            "speed": 1900,
+            "consumption": 48.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3b2a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC28",
@@ -2200,11 +3397,20 @@
             "hp": 925
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 37.8
+        },
+        {
+            "speed": 1760,
+            "consumption": 47
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=94a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC30",
@@ -2219,11 +3425,20 @@
             "hp": 990
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 50.5
+        },
+        {
+            "speed": 2100,
+            "consumption": 51.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bea99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC38",
@@ -2238,11 +3453,20 @@
             "hp": 1000
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 40.8
+        },
+        {
+            "speed": 1760,
+            "consumption": 49.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b0a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC40",
@@ -2257,11 +3481,20 @@
             "hp": 1090
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 58.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 60.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=daa99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC48",
@@ -2276,11 +3509,20 @@
             "hp": 1090
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 46.5
+        },
+        {
+            "speed": 1760,
+            "consumption": 57.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=cca99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC50",
@@ -2295,11 +3537,20 @@
             "hp": 1120
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 59.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 62.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f6a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC58",
@@ -2314,11 +3565,20 @@
             "hp": 1140
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 50.3
+        },
+        {
+            "speed": 1760,
+            "consumption": 59.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e8a99dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC60",
@@ -2333,11 +3593,20 @@
             "hp": 1200
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1900,
+            "consumption": 62.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 65.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=12aa9dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "C32H0-UFAC68",
@@ -2352,19 +3621,36 @@
             "hp": 1200
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 53.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 61.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=04aa9dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/c32h/c32h0-ufac-fire-pump-engine-build.png?sfvrsn=240af513_2",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP5E-F10",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 84
+        },
+        {
             "speed": 1760,
             "hp": 95
+        },
+        {
+            "speed": 1900,
+            "hp": 98
         },
         {
             "speed": 2100,
@@ -2373,21 +3659,58 @@
         {
             "speed": 2350,
             "hp": 105
+        },
+        {
+            "speed": 2600,
+            "hp": 104
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 4.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 4.9
+        },
+        {
+            "speed": 1900,
+            "consumption": 5.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 5.4
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.8
+        },
+        {
+            "speed": 2600,
+            "consumption": 5.9
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062900.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP5E-F20",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 94
+        },
+        {
             "speed": 1760,
             "hp": 107
+        },
+        {
+            "speed": 1900,
+            "hp": 110
         },
         {
             "speed": 2100,
@@ -2396,21 +3719,58 @@
         {
             "speed": 2350,
             "hp": 118
+        },
+        {
+            "speed": 2600,
+            "hp": 117
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 4.7
+        },
+        {
+            "speed": 1760,
+            "consumption": 5.5
+        },
+        {
+            "speed": 1900,
+            "consumption": 5.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 6
+        },
+        {
+            "speed": 2350,
+            "consumption": 6.5
+        },
+        {
+            "speed": 2600,
+            "consumption": 6.6
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062901.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP5E-F30",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 104
+        },
+        {
             "speed": 1760,
             "hp": 118
+        },
+        {
+            "speed": 1900,
+            "hp": 121
         },
         {
             "speed": 2100,
@@ -2419,21 +3779,58 @@
         {
             "speed": 2350,
             "hp": 130
+        },
+        {
+            "speed": 2600,
+            "hp": 129
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 5.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 6.1
+        },
+        {
+            "speed": 1900,
+            "consumption": 6.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 6.7
+        },
+        {
+            "speed": 2350,
+            "consumption": 7.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 7.3
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062902.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP5E-F40",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 113
+        },
+        {
             "speed": 1760,
             "hp": 123
+        },
+        {
+            "speed": 1900,
+            "hp": 129
         },
         {
             "speed": 2100,
@@ -2442,21 +3839,58 @@
         {
             "speed": 2350,
             "hp": 143
+        },
+        {
+            "speed": 2600,
+            "hp": 141
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 5.7
+        },
+        {
+            "speed": 1760,
+            "consumption": 6.3
+        },
+        {
+            "speed": 1900,
+            "consumption": 6.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 7.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 7.9
+        },
+        {
+            "speed": 2600,
+            "consumption": 7.9
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062903.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP5E-F50",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 113
+        },
+        {
             "speed": 1760,
             "hp": 129
+        },
+        {
+            "speed": 1900,
+            "hp": 135
         },
         {
             "speed": 2100,
@@ -2465,21 +3899,58 @@
         {
             "speed": 2350,
             "hp": 150
+        },
+        {
+            "speed": 2600,
+            "hp": 148
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 5.7
+        },
+        {
+            "speed": 1760,
+            "consumption": 6.6
+        },
+        {
+            "speed": 1900,
+            "consumption": 7
+        },
+        {
+            "speed": 2100,
+            "consumption": 7.8
+        },
+        {
+            "speed": 2350,
+            "consumption": 8.3
+        },
+        {
+            "speed": 2600,
+            "consumption": 8.3
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062904.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP7E-F10",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 153
+        },
+        {
             "speed": 1760,
             "hp": 175
+        },
+        {
+            "speed": 1900,
+            "hp": 162
         },
         {
             "speed": 2100,
@@ -2488,21 +3959,58 @@
         {
             "speed": 2350,
             "hp": 172
+        },
+        {
+            "speed": 2600,
+            "hp": 174
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 7.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 9
+        },
+        {
+            "speed": 1900,
+            "consumption": 9.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 9
+        },
+        {
+            "speed": 2350,
+            "consumption": 9.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 9.8
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062905.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP7E-F20",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 166
+        },
+        {
             "speed": 1760,
             "hp": 190
+        },
+        {
+            "speed": 1900,
+            "hp": 176
         },
         {
             "speed": 2100,
@@ -2511,21 +4019,58 @@
         {
             "speed": 2350,
             "hp": 187
+        },
+        {
+            "speed": 2600,
+            "hp": 189
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 8.6
+        },
+        {
+            "speed": 1760,
+            "consumption": 9.8
+        },
+        {
+            "speed": 1900,
+            "consumption": 9.1
+        },
+        {
+            "speed": 2100,
+            "consumption": 9.7
+        },
+        {
+            "speed": 2350,
+            "consumption": 10
+        },
+        {
+            "speed": 2600,
+            "consumption": 10.6
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062906.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP7E-F30",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 177
+        },
+        {
             "speed": 1760,
             "hp": 205
+        },
+        {
+            "speed": 1900,
+            "hp": 190
         },
         {
             "speed": 2100,
@@ -2534,21 +4079,58 @@
         {
             "speed": 2350,
             "hp": 201
+        },
+        {
+            "speed": 2600,
+            "hp": 204
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 9.1
+        },
+        {
+            "speed": 1760,
+            "consumption": 10.6
+        },
+        {
+            "speed": 1900,
+            "consumption": 9.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.5
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        },
+        {
+            "speed": 2600,
+            "consumption": 11.5
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062907.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP7E-F40",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 192
+        },
+        {
             "speed": 1760,
             "hp": 220
+        },
+        {
+            "speed": 1900,
+            "hp": 204
         },
         {
             "speed": 2100,
@@ -2557,21 +4139,58 @@
         {
             "speed": 2350,
             "hp": 216
+        },
+        {
+            "speed": 2600,
+            "hp": 219
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 9.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 11.4
+        },
+        {
+            "speed": 1900,
+            "consumption": 10.6
+        },
+        {
+            "speed": 2100,
+            "consumption": 11.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 11.6
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.3
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062908.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP7E-F50",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 205
+        },
+        {
             "speed": 1760,
             "hp": 235
+        },
+        {
+            "speed": 1900,
+            "hp": 218
         },
         {
             "speed": 2100,
@@ -2580,21 +4199,58 @@
         {
             "speed": 2350,
             "hp": 231
+        },
+        {
+            "speed": 2600,
+            "hp": 234
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 10.6
+        },
+        {
+            "speed": 1760,
+            "consumption": 12.1
+        },
+        {
+            "speed": 1900,
+            "consumption": 11.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 12
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.4
+        },
+        {
+            "speed": 2600,
+            "consumption": 13.2
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062909.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP7E-F60",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 218
+        },
+        {
             "speed": 1760,
             "hp": 247
+        },
+        {
+            "speed": 1900,
+            "hp": 232
         },
         {
             "speed": 2100,
@@ -2603,108 +4259,262 @@
         {
             "speed": 2350,
             "hp": 245
+        },
+        {
+            "speed": 2600,
+            "hp": 249
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 11.3
+        },
+        {
+            "speed": 1760,
+            "consumption": 12.9
+        },
+        {
+            "speed": 1900,
+            "consumption": 12
+        },
+        {
+            "speed": 2100,
+            "consumption": 12.8
+        },
+        {
+            "speed": 2350,
+            "consumption": 13.1
+        },
+        {
+            "speed": 2600,
+            "consumption": 14
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062910.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F10",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 215
+        },
+        {
             "speed": 1760,
             "hp": 260
+        },
+        {
+            "speed": 1900,
+            "hp": 275
         },
         {
             "speed": 2100,
             "hp": 246
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 11.1
+        },
+        {
+            "speed": 1760,
+            "consumption": 13.4
+        },
+        {
+            "speed": 1900,
+            "consumption": 14.3
+        },
+        {
+            "speed": 2100,
+            "consumption": 12.9
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062911.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F20",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 233
+        },
+        {
             "speed": 1760,
             "hp": 282
+        },
+        {
+            "speed": 1900,
+            "hp": 299
         },
         {
             "speed": 2100,
             "hp": 268
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 12
+        },
+        {
+            "speed": 1760,
+            "consumption": 14.6
+        },
+        {
+            "speed": 1900,
+            "consumption": 15.5
+        },
+        {
+            "speed": 2100,
+            "consumption": 14
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062912.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F30",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 252
+        },
+        {
             "speed": 1760,
             "hp": 305
+        },
+        {
+            "speed": 1900,
+            "hp": 323
         },
         {
             "speed": 2100,
             "hp": 289
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 13
+        },
+        {
+            "speed": 1760,
+            "consumption": 15.8
+        },
+        {
+            "speed": 1900,
+            "consumption": 16.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 15.1
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062913.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F40",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 271
+        },
+        {
             "speed": 1760,
             "hp": 327
+        },
+        {
+            "speed": 1900,
+            "hp": 347
         },
         {
             "speed": 2100,
             "hp": 311
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 14
+        },
+        {
+            "speed": 1760,
+            "consumption": 16.9
+        },
+        {
+            "speed": 1900,
+            "consumption": 18
+        },
+        {
+            "speed": 2100,
+            "consumption": 16.3
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062914.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F50",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 291
+        },
+        {
             "speed": 1760,
             "hp": 350
+        },
+        {
+            "speed": 1900,
+            "hp": 363
         },
         {
             "speed": 2100,
             "hp": 335
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 14.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 18.1
+        },
+        {
+            "speed": 1900,
+            "consumption": 18.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 17.4
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062915.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F65",
@@ -2715,11 +4525,16 @@
             "hp": 380
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 21.8
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063349.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F75",
@@ -2730,11 +4545,16 @@
             "hp": 401
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 23
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062917.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP9E-F85",
@@ -2745,68 +4565,148 @@
             "hp": 410
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 23.5
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062918.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
     "starter": 12
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP15E-F10",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 382
+        },
+        {
             "speed": 1760,
             "hp": 460
+        },
+        {
+            "speed": 1900,
+            "hp": 488
         },
         {
             "speed": 2100,
             "hp": 488
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 19.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 22.5
+        },
+        {
+            "speed": 1900,
+            "consumption": 23.6
+        },
+        {
+            "speed": 2100,
+            "consumption": 24.7
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062919.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP15E-F20",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 410
+        },
+        {
             "speed": 1760,
             "hp": 494
+        },
+        {
+            "speed": 1900,
+            "hp": 524
         },
         {
             "speed": 2100,
             "hp": 525
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 21.4
+        },
+        {
+            "speed": 1760,
+            "consumption": 24.1
+        },
+        {
+            "speed": 1900,
+            "consumption": 25.4
+        },
+        {
+            "speed": 2100,
+            "consumption": 26.5
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062920.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP15E-F30",
     "tier": 3.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 450
+        },
+        {
             "speed": 1760,
             "hp": 536
+        },
+        {
+            "speed": 1900,
+            "hp": 575
         },
         {
             "speed": 2100,
             "hp": 564
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 23.5
+        },
+        {
+            "speed": 1760,
+            "consumption": 26.5
+        },
+        {
+            "speed": 1900,
+            "consumption": 27.9
+        },
+        {
+            "speed": 2100,
+            "consumption": 29.1
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062921.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP15E-F70",
@@ -2817,11 +4717,16 @@
             "hp": 686
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 35.9
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062922.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F10",
@@ -2832,11 +4737,16 @@
             "hp": 698
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 32.6
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063005.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F15",
@@ -2847,15 +4757,32 @@
             "hp": 698
         },
         {
+            "speed": 1900,
+            "hp": 722
+        },
+        {
             "speed": 2100,
             "hp": 751
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 33.9
+        },
+        {
+            "speed": 1900,
+            "consumption": 34.6
+        },
+        {
+            "speed": 2100,
+            "consumption": 36.3
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062923.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F20",
@@ -2866,11 +4793,16 @@
             "hp": 753
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 35.2
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063006.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F25",
@@ -2881,15 +4813,32 @@
             "hp": 755
         },
         {
+            "speed": 1900,
+            "hp": 774
+        },
+        {
             "speed": 2100,
             "hp": 801
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 34.8
+        },
+        {
+            "speed": 1900,
+            "consumption": 35.5
+        },
+        {
+            "speed": 2100,
+            "consumption": 37.3
         }
     ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062924.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F30",
@@ -2904,30 +4853,64 @@
             "hp": 801
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 32.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 37.5
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063007.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F35",
     "tier": 2.0,
     "rating": [
         {
+            "speed": 1470,
+            "hp": 700
+        },
+        {
             "speed": 1760,
             "hp": 770
+        },
+        {
+            "speed": 1900,
+            "hp": 798
         },
         {
             "speed": 2100,
             "hp": 840
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 31.8
+        },
+        {
+            "speed": 1760,
+            "consumption": 35.7
+        },
+        {
+            "speed": 1900,
+            "consumption": 36.5
+        },
+        {
+            "speed": 2100,
+            "consumption": 38.2
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062925.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F40",
@@ -2942,11 +4925,20 @@
             "hp": 850
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 34
+        },
+        {
+            "speed": 1760,
+            "consumption": 39.7
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063008.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F50",
@@ -2961,11 +4953,20 @@
             "hp": 925
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 34.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 43.3
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063009.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F60",
@@ -2980,11 +4981,20 @@
             "hp": 1000
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 37.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 46.8
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063010.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Cummins",
     "model": "CFP23E-F70",
@@ -2999,11 +5009,20 @@
             "hp": 1075
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 38.8
+        },
+        {
+            "speed": 1760,
+            "consumption": 50.3
+        }
+    ],
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063011.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UFAEA9",
@@ -3022,11 +5041,24 @@
             "hp": 42
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 4.4
+        },
+        {
+            "speed": 2100,
+            "consumption": 5
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=152939cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-it4-us92ca38cf80b2683faebcff00005cb4e3.png?sfvrsn=39785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF09",
@@ -3045,11 +5077,24 @@
             "hp": 52
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 2.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 2.8
+        },
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3bfe38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF11",
@@ -3061,14 +5106,23 @@
         },
         {
             "speed": 2600,
-            "hp": 55
+            "hp": 55.5
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        },
+        {
+            "speed": 2600,
+            "consumption": 3.4
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bcf838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF13",
@@ -3076,18 +5130,27 @@
     "rating": [
         {
             "speed": 2800,
-            "hp": 66
+            "hp": 66.5
         },
         {
             "speed": 3000,
-            "hp": 66
+            "hp": 66.5
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 3.6
+        },
+        {
+            "speed": 3000,
+            "consumption": 3.9
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=87eb38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF19",
@@ -3095,22 +5158,35 @@
     "rating": [
         {
             "speed": 1760,
-            "hp": 58
+            "hp": 58.5
         },
         {
             "speed": 2100,
-            "hp": 64
+            "hp": 64.5
         },
         {
             "speed": 2350,
             "hp": 68
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 3.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 5.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9ee038cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF21",
@@ -3122,14 +5198,23 @@
         },
         {
             "speed": 2600,
-            "hp": 70
+            "hp": 70.5
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 5.6
+        },
+        {
+            "speed": 2600,
+            "consumption": 5.8
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a70d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UFAEE7",
@@ -3140,11 +5225,16 @@
             "hp": 62
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f0eb38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-t-us89ca38cf80b2683faebcff00005cb4e3.png?sfvrsn=34785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UFAEF1",
@@ -3159,11 +5249,20 @@
             "hp": 70
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 9.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 8.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=960c39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-it4-us92ca38cf80b2683faebcff00005cb4e3.png?sfvrsn=39785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF23",
@@ -3171,18 +5270,27 @@
     "rating": [
         {
             "speed": 2800,
-            "hp": 76
+            "hp": 76.5
         },
         {
             "speed": 3000,
             "hp": 78
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 6
+        },
+        {
+            "speed": 3000,
+            "consumption": 6.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=420c39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF40",
@@ -3201,11 +5309,24 @@
             "hp": 106
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 3
+        },
+        {
+            "speed": 2100,
+            "consumption": 3.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 3.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=670839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF49",
@@ -3224,11 +5345,24 @@
             "hp": 117
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 3.8
+        },
+        {
+            "speed": 2100,
+            "consumption": 4.5
+        },
+        {
+            "speed": 2350,
+            "consumption": 4.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=20f538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF51",
@@ -3243,11 +5377,20 @@
             "hp": 119
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 4.9
+        },
+        {
+            "speed": 2600,
+            "consumption": 7.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6eec38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU4R-UF53",
@@ -3262,11 +5405,20 @@
             "hp": 133
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 10
+        },
+        {
+            "speed": 3000,
+            "consumption": 11.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d90b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4r-series---all-speeds/ju4r-uf-na-ls-(10-25-2017)-final.png?sfvrsn=44362913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAD9",
@@ -3285,11 +5437,24 @@
             "hp": 141
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 8.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2d2139cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAD1",
@@ -3304,11 +5469,20 @@
             "hp": 139
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 10.8
+        },
+        {
+            "speed": 2600,
+            "consumption": 10.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=310b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA29",
@@ -3331,11 +5505,28 @@
             "hp": 153
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 6.2
+        },
+        {
+            "speed": 1760,
+            "consumption": 9.2
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.7
+        },
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=582839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA31",
@@ -3350,11 +5541,20 @@
             "hp": 151
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 11.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8b1439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA33",
@@ -3369,11 +5569,20 @@
             "hp": 161
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 9.9
+        },
+        {
+            "speed": 3000,
+            "consumption": 10.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2e1139cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAM7",
@@ -3388,11 +5597,20 @@
             "hp": 172
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 8.9
+        },
+        {
+            "speed": 1760,
+            "consumption": 10.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=750f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAM9",
@@ -3411,11 +5629,24 @@
             "hp": 193
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.4
+        },
+        {
+            "speed": 2100,
+            "consumption": 12.2
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.6
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=35e038cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAM1",
@@ -3430,11 +5661,20 @@
             "hp": 191
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 12.6
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=aa0739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA57",
@@ -3449,11 +5689,20 @@
             "hp": 180
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 9
+        },
+        {
+            "speed": 1760,
+            "consumption": 10.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=09eb38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA49",
@@ -3472,11 +5721,24 @@
             "hp": 200
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10.7
+        },
+        {
+            "speed": 2100,
+            "consumption": 12.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 12.9
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e81739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA59",
@@ -3495,11 +5757,24 @@
             "hp": 228
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 10
+        },
+        {
+            "speed": 2100,
+            "consumption": 10.3
+        },
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e51d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA51",
@@ -3514,11 +5789,20 @@
             "hp": 201
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 12.9
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f6f438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAPF",
@@ -3529,11 +5813,16 @@
             "hp": 203
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 11
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f63c3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA53",
@@ -3548,11 +5837,20 @@
             "hp": 202
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 11.9
+        },
+        {
+            "speed": 3000,
+            "consumption": 12.4
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=1bf138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-t-ls-(10-25-2017)-final.png?sfvrsn=87342913_2",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAQ7",
@@ -3563,11 +5861,16 @@
             "hp": 222
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 16.1
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c02139cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA61",
@@ -3582,11 +5885,20 @@
             "hp": 226
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2350,
+            "consumption": 11.2
+        },
+        {
+            "speed": 2600,
+            "consumption": 12.7
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=441639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAA83",
@@ -3601,11 +5913,20 @@
             "hp": 260
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2800,
+            "consumption": 13.3
+        },
+        {
+            "speed": 3000,
+            "consumption": 14.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f5ef38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAARF",
@@ -3616,11 +5937,16 @@
             "hp": 247
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 12.8
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2df738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "JU6R-UFAAS9",
@@ -3631,11 +5957,16 @@
             "hp": 252
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 12.5
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b40f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6r-series/ju6r-uf-ta-uscaca38cf80b2683faebcff00005cb4e3.png?sfvrsn=c5785013_4",
     "starter": 12
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0R-UFAA67",
@@ -3650,11 +5981,20 @@
             "hp": 538
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 1470,
+            "consumption": 24
+        },
+        {
+            "speed": 1760,
+            "consumption": 29
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=93e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0r-series/ds0r-uff4c838cf80b2683faebcff00005cb4e3.png?sfvrsn=947a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DS0R-UFAA59",
@@ -3665,11 +6005,16 @@
             "hp": 552
         }
     ],
+    "fuel_consumption": [
+        {
+            "speed": 2100,
+            "consumption": 31
+        }
+    ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=7e1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0r-series/ds0r-uff4c838cf80b2683faebcff00005cb4e3.png?sfvrsn=947a5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2R-UFAA19",
@@ -3680,15 +6025,32 @@
             "hp": 655
         },
         {
+            "speed": 1900,
+            "hp": 655
+        },
+        {
             "speed": 2100,
             "hp": 655
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 33.8
+        },
+        {
+            "speed": 1900,
+            "consumption": 34.9
+        },
+        {
+            "speed": 2100,
+            "consumption": 36.4
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=1d3e3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2r-series/dt2r_89c938cf80b2683faebcff00005cb4e3.png?sfvrsn=ff7b5013_4",
     "starter": 24
-},
-
+},
 {
     "make": "Clarke",
     "model": "DT2R-UFAA49",
@@ -3699,13 +6061,30 @@
             "hp": 755
         },
         {
+            "speed": 1900,
+            "hp": 755
+        },
+        {
             "speed": 2100,
             "hp": 755
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "speed": 1760,
+            "consumption": 39.4
+        },
+        {
+            "speed": 1900,
+            "consumption": 39.9
+        },
+        {
+            "speed": 2100,
+            "consumption": 42.4
         }
     ],
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=743d3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dt2r-series/dt2r_89c938cf80b2683faebcff00005cb4e3.png?sfvrsn=ff7b5013_4",
     "starter": 24
-}
-
+}
 ]
