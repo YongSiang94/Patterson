@@ -38,6 +38,44 @@
     "remarks": []
 },
 {
+    "CO": "C000175272",
+    "purchaseOrder": "1811/047/OV/R1",
+    "projectRef": "LPG Belawan",
+    "driverType": "Diesel",
+    "driverInfo": "JX6H-UFADN0",
+    "pumpModel": "17JMC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 634,
+    "speed": 1770,
+    "orderDate": "15 Nov 2018",
+    "dueDate": "15 Apr 2019",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n8gcvtHzD3G7RLLjgqyh6niF7qGyBmoB/_Lh3VaOlYgfZ70vnuIa-SiIGVLgEJ00_-fL2AM2NROwk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000185628",
     "purchaseOrder": "",
     "projectRef": "LPG Dumai",
@@ -1016,8 +1054,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
