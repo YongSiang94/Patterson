@@ -1389,5 +1389,126 @@
         "iom": ""
     },
     "remarks": []
+},
+{
+    "CO": "C000209471",
+    "purchaseOrder": "2112/029/OV/R",
+    "projectRef": "Pertamina RU-VII Open Access (17JHC)",
+    "driverType": "Diesel",
+    "driverInfo": "DS0R-UFAA67",
+    "pumpModel": "17JHC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 450,
+    "speed": 1770,
+    "orderDate": "10 Jan 2022",
+    "dueDate": "5 Sep 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JOzzjUWgpH9mL6RGYfi8ppIaIweU/pSXTXrcELxwKMJ2Xirxhz5d_rb34fKYm-Jb5gDksyPAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209488",
+    "purchaseOrder": "2112/029/OV/R",
+    "projectRef": "Pertamina RU-VII Open Access (13GLC)",
+    "driverType": "Diesel",
+    "driverInfo": "JU6R-UFAAM7",
+    "pumpModel": "13GLC-6 STAGE",
+    "pumpType": "vt",
+    "capacity": 1000,
+    "head": 374,
+    "speed": 1770,
+    "orderDate": "10 Jan 2022",
+    "dueDate": "5 Sep 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JMaP7pMCeTW7u7Ub0DfMNKS20Dzb/Yuy37NDf6qjyWi5iG31Kx1XmD2-UtO7t-W76g11EyPAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209492",
+    "purchaseOrder": "2112/029/OV/R",
+    "projectRef": "Pertamina RU-VII Open Access (M6MC)",
+    "driverType": "Electric",
+    "driverInfo": "GE 20HP TEFC 3000RPM",
+    "pumpModel": "(NATIONAL) M6MC-9 STAGE",
+    "pumpType": "vt",
+    "capacity": 100,
+    "head": 375,
+    "speed": 2950,
+    "orderDate": "10 Jan 2022",
+    "dueDate": "15 Aug 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3KVY7eQNKgw1Q7m1kOLkaVd4WNREF/dcFvYDCQnpOVek3FydZS_43Yl4YEygt5-eb5g11cyPAk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "18 Jan 2022",
+            "type": "update",
+            "overview": "shipping",
+            "description": "To ship with fire pumps (C0209471 & C0209488)"
+        }
+    ]
 }
 ]

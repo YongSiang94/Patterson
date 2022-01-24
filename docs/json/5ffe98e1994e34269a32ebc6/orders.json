@@ -2896,8 +2896,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3093,8 +3093,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3123,16 +3123,16 @@
     "dueDate": "30 Dec 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3140,7 +3140,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mwaBz8aVB5CaYfBHMPQiY1PAahRoru8C/LpEZiCrmgfbHMj1KqxC6If2xLLrL5k6B-FLcAKXftMQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lSOjuX9ApCoEfawKHQvjW8LKzBvAq3n3/HJzva6rnIoCa7Md6X0L3IHyJ9HXVMnlW-970AijJr6gg",
         "iom": ""
     },
@@ -3245,8 +3245,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3283,8 +3283,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3296,7 +3296,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGarGtTD0xwUZ5dbKVJagSEcDOpQfTL5/3JAOwezHJnbpRX_LfzYa_axpsP78svnn-Tr-geRpbEQk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "11 Jan 2022",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Change factory choice motor to Baldor motor"
+        }
+    ]
 },
 {
     "CO": "C000207848",
@@ -3321,8 +3328,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3351,16 +3358,16 @@
     "dueDate": "18 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3368,7 +3375,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nCIiySGsAn0BpzlXc1mwPtFTSZN7IDqM/YgRhQzgHtowyFtMOX906mjcG0zb0cCVN-wLOA_IEePgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGbNhe331Py6oVQAZuRohI2EcSeaJGBl/hpipuJ_a5jepwHBMVPrtyyVKUqr2aoq4-VrSAztlcEQk",
         "iom": ""
     },
@@ -3397,8 +3404,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3486,7 +3493,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6arKALlFfEkCdy9WuBkEmztmYsSSF6/BxQw71gXU89uHOuGlMkzg9j2Gyix3D8e-5Lygp-Y5FQk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "20 Dec 2021",
+            "type": "change order",
+            "overview": "status",
+            "description": "Place entire order on hold"
+        }
+    ]
 },
 {
     "CO": "C000208307",
@@ -3503,12 +3517,12 @@
     "dueDate": "21 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -3520,7 +3534,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nCImfCPK3AkGldyP9pV7hx1PfwVm6Vw6/6LpTQkpkNekeTVp1iLXaRurQul9p0-M8-JbTAPKcePgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mC0JsdFQRpolrUxrJe4bDCh6V0EG9V0D/Y0oH7udyCJ8sMvKzsyf5nYVtqVQsSV5H-ZrYAWFo-Fwk",
         "iom": ""
     },
@@ -3620,7 +3634,32 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXceCREN6ezCaj9m0ecRgfk34vepyHaX/5bA3l9WNMi19K0N3zJzctgBYTVx8TKnd-97Tg4YSQHgk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "6 Jan 2022",
+            "type": "change order",
+            "overview": "delete",
+            "description": "Leak Sensing Float Switch (Not Required)"
+        },
+        {
+            "date": "18 Jan 2022",
+            "type": "change order",
+            "overview": "shipment",
+            "description": "Ship engine separately"
+        },
+        {
+            "date": "18 Jan 2022",
+            "type": "change order",
+            "overview": "pump due",
+            "description": "4 Mar 2022"
+        },
+        {
+            "date": "18 Jan 2022",
+            "type": "change order",
+            "overview": "engine due",
+            "description": "16 May 2022"
+        }
+    ]
 },
 {
     "CO": "C000208778",
@@ -3732,6 +3771,82 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mgOJxv74HozQJjU6RXlfyEMXtD8f0aTE/6WT420TUwgbfexBrrsPEFb4ZHI8pWNN1-GbpAv1heJQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209603",
+    "purchaseOrder": "CG-2022-001-001",
+    "projectRef": "Server Tianjin",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA70",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 333,
+    "speed": 2100,
+    "orderDate": "13 Jan 2022",
+    "dueDate": "1 Jul 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1BfBCvoJ2lq3JVTD3TnqukcNaOeqYCG/GCvdrV1i-Ybe-5rRaICgfI7CMxl1mY4U-0r9A4C6uOgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209635",
+    "purchaseOrder": "CG-2022-003-001",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 335,
+    "speed": 2970,
+    "orderDate": "13 Jan 2022",
+    "dueDate": "9 Mar 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1IjScSRTSSYRCWwKNxJ4xURjAENvITG/EWWuYduqqAXMuhzzlMv4JlPgqNA1PRvX-urCA5a2uOgk",
         "iom": ""
     },
     "remarks": []

@@ -946,5 +946,43 @@
             "description": "Add 10 MRV and WC"
         }
     ]
+},
+{
+    "CO": "C000024345",
+    "purchaseOrder": "12064P/WRP/XII-26/21",
+    "projectRef": "Telkom - 500GPM (Ireland)",
+    "driverType": "Electric",
+    "driverInfo": "Regal 60HP 2980RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2980,
+    "orderDate": "21 Dec 2021",
+    "dueDate": "9 May 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mynAbz3p9rSpJhMe71tDPmPGbDQmgXHX/eB-lq2KRQ0slCitfgSHV2auQyYMsRFS0-VbtgHHqkMwk",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
