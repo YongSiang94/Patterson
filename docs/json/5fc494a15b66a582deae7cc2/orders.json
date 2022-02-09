@@ -1185,7 +1185,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBbWME4IyIugBGZ3sf48i7uh8d8er4FM/IFb4XvSDSlxnBdMLWXOwA_oul_JDOFbH-xLlABGI4FQk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "21 Jan 2022",
+            "type": "change order",
+            "overview": "MRVs",
+            "description": "Additional 2 MRVs."
+        }
+    ]
 },
 {
     "CO": "C000208076",
@@ -1286,8 +1293,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1311,6 +1318,12 @@
             "type": "update",
             "overview": "order",
             "description": "Major items will be preordered first "
+        },
+        {
+            "date": "31 Jan 2022",
+            "type": "update",
+            "overview": "baseplate",
+            "description": "Complete description for base corrected. Pump + engine + controller + lifting & earthing lugs + jacking bolts + baseplate drain at least 2\" NPS along with valve piped flanged to edge of skid + driplip"
         }
     ]
 },
@@ -1337,8 +1350,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1350,7 +1363,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdj75yLyKzDYpgdaLG4i7u4eYDvGqTS/s_7z9UnmvvFR4vINU8oIlX4E9Lo2TLog-Dr0gNUboHgk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "28 Jan 2022",
+            "type": "change order",
+            "overview": "on hold",
+            "description": "Order placed on hold including buyouts due to Siemens motor issue"
+        }
+    ]
 },
 {
     "CO": "C000208697",
@@ -1375,8 +1395,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1413,8 +1433,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1426,7 +1446,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JOzzjUWgpH9mL6RGYfi8ppIaIweU/pSXTXrcELxwKMJ2Xirxhz5d_rb34fKYm-Jb5gDksyPAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "9 Feb 2022",
+            "type": "correction",
+            "overview": "curve",
+            "description": "EPC corrected to EPC23691"
+        }
+    ]
 },
 {
     "CO": "C000209488",
@@ -1451,8 +1478,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1489,8 +1516,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
