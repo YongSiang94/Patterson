@@ -4055,12 +4055,12 @@
             "primary"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -4068,7 +4068,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nQPS8NR8P4GpvIS9BCWOzt1H1xczLtyN/451rweea1no3CJhlZLcaBEcDPaQyJOBf-qLnAaEUQSQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/615615078389037722/0u5B6cBmVHwhU6RPA09xfVu0q4R_EFh4-xLVgax9slQg_",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG205UkEc0I70LvDbHbsAaHfXbDiBxU/wGKQqqpNgD8z2_jJaowa3k4mzcWP-sYU-g78A_RS3SAk"
     },
@@ -4093,12 +4093,12 @@
             "primary"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -4106,7 +4106,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nQPS8YDtLr1P4j1LcHxHGjZZJzKMXlTs/Xegj8K86F_DybdAxViviOIVDEfYvhLoF-07ngX1gQSQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/615615064919030384/4bJlRf8w2hswYXP3gU25-wBTFciW1Xlo-VLbAd39slQg_",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG1zuqmqzYkhfnAipwn5rTKJ20IZKi4/lB99lG2jlTSWl2RFCEFQLtZ80S0L0nQS-3b9gyya3SAk"
     },
@@ -6066,6 +6066,44 @@
         "test": "https://synology.pattersonsingapore.com/drive/d/s/lFsSb2dMWAUQ3SaBUxOFOsuQGCw7IJMR/y-Q6C1NqCZpAybPi8uMcz3QhOk1Y8X33-N79AA2vM4Ag",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624415363366435954/iblF8MfvuI7W6VJzDgxUk2kvMtRm-rVy-dLbgNrwzrgg_",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/m7V21MyNEFYEIENthmzbWup7oIolAQOw/3W1XAV9ptpGD1UZJ98CtmE-T3snKYP1R-rbKAnWRoFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024455",
+    "purchaseOrder": 110343.0,
+    "projectRef": "PTS Diesel Pump",
+    "driverType": "Diesel",
+    "driverInfo": "BIMOTOR - B4TF41H",
+    "pumpModel": "E4J11A-H FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 347,
+    "speed": 2980,
+    "orderDate": "20 Jan 2022",
+    "dueDate": "12 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzb4zXJrwzi3umT2kTpWF3XwAB3CKoI/J8CkickD1N1BTxtZ6O7lzRDRvl6ghB5p-CLrAg4y9SAk",
+        "iom": ""
     },
     "remarks": []
 },
