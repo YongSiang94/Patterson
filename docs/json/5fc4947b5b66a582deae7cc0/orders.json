@@ -1185,7 +1185,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBbWME4IyIugBGZ3sf48i7uh8d8er4FM/IFb4XvSDSlxnBdMLWXOwA_oul_JDOFbH-xLlABGI4FQk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "21 Jan 2022",
+            "type": "change order",
+            "overview": "MRVs",
+            "description": "Additional 2 MRVs."
+        }
+    ]
 },
 {
     "CO": "C000208076",
@@ -1286,8 +1293,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1311,6 +1318,12 @@
             "type": "update",
             "overview": "order",
             "description": "Major items will be preordered first "
+        },
+        {
+            "date": "31 Jan 2022",
+            "type": "update",
+            "overview": "baseplate",
+            "description": "Complete description for base corrected. Pump + engine + controller + lifting & earthing lugs + jacking bolts + baseplate drain at least 2\" NPS along with valve piped flanged to edge of skid + driplip"
         }
     ]
 },
@@ -1337,8 +1350,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1350,7 +1363,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdj75yLyKzDYpgdaLG4i7u4eYDvGqTS/s_7z9UnmvvFR4vINU8oIlX4E9Lo2TLog-Dr0gNUboHgk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "28 Jan 2022",
+            "type": "change order",
+            "overview": "on hold",
+            "description": "Order placed on hold including buyouts due to Siemens motor issue"
+        }
+    ]
 },
 {
     "CO": "C000208697",
@@ -1375,8 +1395,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1413,8 +1433,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1426,7 +1446,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JOzzjUWgpH9mL6RGYfi8ppIaIweU/pSXTXrcELxwKMJ2Xirxhz5d_rb34fKYm-Jb5gDksyPAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "9 Feb 2022",
+            "type": "correction",
+            "overview": "curve",
+            "description": "EPC corrected to EPC23691"
+        }
+    ]
 },
 {
     "CO": "C000209488",
@@ -1451,8 +1478,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -1489,8 +1516,8 @@
             "warning"
         ],
         "payment": [
-            "awaiting",
-            "danger"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -4043,7 +4070,7 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/615615078389037722/0u5B6cBmVHwhU6RPA09xfVu0q4R_EFh4-xLVgax9slQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG205UkEc0I70LvDbHbsAaHfXbDiBxU/wGKQqqpNgD8z2_jJaowa3k4mzcWP-sYU-g78A_RS3SAk"
     },
     "remarks": []
 },
@@ -4081,7 +4108,7 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/615615064919030384/4bJlRf8w2hswYXP3gU25-wBTFciW1Xlo-VLbAd39slQg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG1zuqmqzYkhfnAipwn5rTKJ20IZKi4/lB99lG2jlTSWl2RFCEFQLtZ80S0L0nQS-3b9gyya3SAk"
     },
     "remarks": []
 },
@@ -4719,8 +4746,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -4749,12 +4776,12 @@
     "dueDate": "19 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -4766,7 +4793,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nKdIdCzRj2vtezyXujLodM5VdW0bDNhw/VqWfGtROj4SJ8_ZcCGIvrBcl2e5RlRV6-br5glqW2SAk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/m7VQgFKw5c1fUQdTdErrGxg3GHbYZtLp/X_RDrO6N5PNtCBijDhTSXufcJBm4IKQZ-yL7gBPRaEQk",
         "iom": ""
     },
@@ -4954,8 +4981,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5037,8 +5064,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5170,6 +5197,12 @@
             "type": "change order",
             "overview": "engine due",
             "description": "16 May 2022"
+        },
+        {
+            "date": "27 Jan 2022",
+            "type": "change order",
+            "overview": "engine due",
+            "description": "Revised due date to 15 Apr 2022"
         }
     ]
 },
@@ -5359,6 +5392,82 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1IjScSRTSSYRCWwKNxJ4xURjAENvITG/EWWuYduqqAXMuhzzlMv4JlPgqNA1PRvX-urCA5a2uOgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000210215",
+    "purchaseOrder": "CG-2022-012-001",
+    "projectRef": "NRMTC Guangzhou",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "31 Jan 2022",
+    "dueDate": "4 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nNvf6GI2ayRx8rqm3ZUe7f9nkbctbP2x/1LxVY2Ch194dZrOqVUOAsSXvST_XSfmM-97cgBbMjRwk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000210216",
+    "purchaseOrder": "CG-2022-012-001",
+    "projectRef": "NRMTC Guangzhou",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 266,
+    "speed": 2950,
+    "orderDate": "31 Jan 2022",
+    "dueDate": "4 Apr 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nD2XiRl1xM47j5h1DzdOeoqHFk0YcxSt/CE92rI-qvgWfWKlZ_SNyAw1AUnXm0GTI-Orfgj20jRwk",
         "iom": ""
     },
     "remarks": []
@@ -8262,8 +8371,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
