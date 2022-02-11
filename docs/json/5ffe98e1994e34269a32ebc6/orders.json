@@ -3002,12 +3002,12 @@
     "dueDate": "30 Nov 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "partial",
@@ -3019,7 +3019,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nReaBuBnypSEjn743tJZvSDLT2Gm4ljN/FMGw8VKqqyBXGeXRwpYb01gHQEiJrWmA-jLugoEEHSgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/kyvMVaNC61Hzeij4UDsqD14SgewFVRLa/Lc1sWiL5vLNWmhkQPIk5OgdNxi8CEuFy-I7rAB7DQ1wg",
         "iom": ""
     },
@@ -3047,12 +3047,12 @@
     "dueDate": "17 Dec 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -3064,7 +3064,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nReaBc1Tea3I04SJnlvIJXkSAFg8beZi/7T5G_O9MclTsGkbeOvhwZ0AEKbiduk6y-4LtgXEwHSgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lLhLondDKQSaV7pjCCFtPgpI65VodbOK/WXVZXkGBDR6B3y8q5F4TzYdXIa-rzHyT-3rzgMrlq6gg",
         "iom": ""
     },
@@ -3275,12 +3275,12 @@
     "dueDate": "19 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -3292,7 +3292,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nRe5LEsBgZva6DjqvRbN1S8KP5X1KYpq/RM6tvoBhetOmBemqVEWSljaM2JgUrzC7-jbiAEqEFSgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGarGtTD0xwUZ5dbKVJagSEcDOpQfTL5/3JAOwezHJnbpRX_LfzYa_axpsP78svnn-Tr-geRpbEQk",
         "iom": ""
     },
@@ -3320,12 +3320,12 @@
     "dueDate": "18 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -3337,7 +3337,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nRe4WSWISVhLGHj4hqGLolz4FhGTbHk1/QfFhEiLmn3Zb3kWScRrvdHmWuU5dWiGu-MbkA9cAFSgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGbOxLb6fvFzj3Ichh229mfyRapDbE2i/qwO9Gwdufp8Sc0NFEq5qvwlR5uaDIMFw-DLVgyAtdEQk",
         "iom": ""
     },
@@ -3396,12 +3396,12 @@
     "dueDate": "24 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -3413,7 +3413,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nRe2iYRrcOWnvBAsLCfgGhAIHCa8ImXO/yRRQ35x1gJBqVusnnQ_pej3_1LPSbhUu-FrpgbDgGSgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBHp8S85pvf5N0yTehrCdlSU4Di8x6Jq/k0k1_pEZp7_BtqGl8D13al-L1Yb1JFLn-cbLgyI1cEQk",
         "iom": ""
     },
@@ -3929,6 +3929,44 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nD2XiRl1xM47j5h1DzdOeoqHFk0YcxSt/CE92rI-qvgWfWKlZ_SNyAw1AUnXm0GTI-Orfgj20jRwk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000210562",
+    "purchaseOrder": "CG-2022-014-001",
+    "projectRef": "APTIV",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA62",
+    "pumpModel": "17JHC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 302,
+    "speed": 1770,
+    "orderDate": "9 Feb 2022",
+    "dueDate": "20 May 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzSG2M3qJdNdPWmrXHoxmf3Kk0V1vGb/HUbsh5HrIwN-QZQJJV56Kproxcpaapod-dLfgsWxZSQk",
         "iom": ""
     },
     "remarks": []
