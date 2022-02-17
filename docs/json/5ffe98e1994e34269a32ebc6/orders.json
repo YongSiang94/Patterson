@@ -3469,7 +3469,7 @@
     "head": 298,
     "speed": 2970,
     "orderDate": "19 Nov 2021",
-    "dueDate": "1 Feb 2022",
+    "dueDate": "7 Apr 2022",
     "status": {
         "order": [
             "in progress",
@@ -3499,6 +3499,12 @@
             "type": "change order",
             "overview": "status",
             "description": "Place entire order on hold"
+        },
+        {
+            "date": "11 Feb 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Release order from hold. Due date to 7 Apr 2022"
         }
     ]
 },

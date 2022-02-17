@@ -1206,7 +1206,7 @@
     "head": 450,
     "speed": 1770,
     "orderDate": "17 Nov 2021",
-    "dueDate": "1 Apr 2022",
+    "dueDate": "11 May 2022",
     "status": {
         "order": [
             "in progress",
@@ -1230,7 +1230,14 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mDh6tvmEVwy1Qp2nA0MXty3lxvfxp75g/_s6r8ymb6owt-cm48dF77q5w8VXdhQPt-BbaghFuRHgk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "11 Feb 2022",
+            "type": "change order",
+            "overview": "engine",
+            "description": "Engine ETA 3 May 2022. Revised OA date to 11 May 2022."
+        }
+    ]
 },
 {
     "CO": "C000208077",
