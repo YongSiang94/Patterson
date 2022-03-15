@@ -597,6 +597,44 @@
     "remarks": []
 },
 {
+    "CO": "C000024245",
+    "purchaseOrder": 110315.0,
+    "projectRef": "Jabil Project",
+    "driverType": "Diesel",
+    "driverInfo": "BIMOTOR - B6TH42",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 289,
+    "speed": 2800,
+    "orderDate": "30 Nov 2021",
+    "dueDate": "2 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/noTplWzIExij5LhkRvpP7RbOcZM6SdWB/VhPWPFi7IEwbvlYT6uBT15iQexZ0NJk4-l73AMBG8Wwk",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/noTYkIBeHbZb7bkuRdXk1Lqu0lZNRtDt/BtEXSap0YimWGId5SHmvqCik8wGWE7cD-WrwAfDa7Wwk"
+    },
+    "remarks": []
+},
+{
     "CO": "C000024455",
     "purchaseOrder": 110343.0,
     "projectRef": "PTS Diesel Pump",

@@ -104,16 +104,16 @@
     "dueDate": "3 Feb 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "awaiting",
+            "danger"
         ],
         "terms": [
             "ex-works",
@@ -121,7 +121,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ne3jfGuwY9H0HPmqWw1Ck3ipGzh9TqZi/R68qkNWFmA8heChudGqhEKmE9dcLEW64-yrYAY8KnUwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGZx7evbPW0NfBrXl9MaCnArBiL3Ptia/8M8zcYsDlnnQAtAGJeKg6w72ONUEg6v--fLWAyuSQHgk",
         "iom": ""
     },
@@ -169,6 +169,12 @@
             "type": "change order",
             "overview": "due date",
             "description": "Change OA due date due to motor delivery"
+        },
+        {
+            "date": "24 Feb 2022",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Corrected motor frame to 445TS."
         }
     ]
 },
@@ -214,13 +220,19 @@
             "type": "change order",
             "overview": "due date",
             "description": "Change OA due date due to motor delivery"
+        },
+        {
+            "date": "24 Feb 2022",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Corrected motor frame to 445TS."
         }
     ]
 },
 {
     "CO": "C000209235",
-    "purchaseOrder": "BK/PAT/12-21",
-    "projectRef": "Diesel Firedamp",
+    "purchaseOrder": "BEK02",
+    "projectRef": "Steel Wire and Steel Cord Factory (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAT0",
     "pumpModel": "10x8 M",
@@ -253,12 +265,31 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqFAmkx7FOxnzFsyLcpEJbFNyFygz32/0i7DheiejpxyZgvkhW_4MTfZFi3gR8uK-IrzA2W-TMAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "17 Feb 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Entire order placed on hold."
+        },
+        {
+            "date": "22 Feb 2022",
+            "type": "change order",
+            "overview": "order",
+            "description": "Order description edited."
+        },
+        {
+            "date": "22 Feb 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Order release from hold."
+        }
+    ]
 },
 {
     "CO": "C000209238",
-    "purchaseOrder": "BK/PAT/12-21",
-    "projectRef": "Electric Firepump & JP Pump",
+    "purchaseOrder": "BEK02",
+    "projectRef": "Steel Wire and Steel Cord Factory (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP / ODP / 1470RPM",
     "pumpModel": "12x8 MAA",
@@ -267,7 +298,7 @@
     "head": 312,
     "speed": 1470,
     "orderDate": "30 Dec 2021",
-    "dueDate": "13 Jun 2022",
+    "dueDate": "18 Apr 2022",
     "status": {
         "order": [
             "in progress",
@@ -291,6 +322,25 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqPUes7Xy1Ox1RpjVvw80YRcoeAekeO/Uo9DjUWi8i_wR5gTK2ycUw58YQ02iONA-0Lwgwu2TMAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "17 Feb 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Entire order placed on hold."
+        },
+        {
+            "date": "22 Feb 2022",
+            "type": "change order",
+            "overview": "order",
+            "description": "Order description edited."
+        },
+        {
+            "date": "22 Feb 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Order release from hold."
+        }
+    ]
 }
 ]

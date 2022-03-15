@@ -223,16 +223,16 @@
     "dueDate": "26 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -240,9 +240,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/noQSTZp6nTCfx7OS7A8EuDjhjqKuq9vg/ScJO2hVkwatgWCTaHai0-xKZcpQjh1EZ-Jb5gTmu8Wwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfFZkslMuxb0GZsl57mOIbLcKtZlyyQf/OxW7hpTnkxdaNef3knfbQyZPWhzfSjkX-jbmA9p_f-gg",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/nmnYcCStkGpQCd3UprjKTIHkuLvtFCaA/9zQm2hWRrEYcKB-v0HKmETbzRDdwTY-p-1rygwgtgWwk"
     },
     "remarks": []
 },
@@ -261,16 +261,16 @@
     "dueDate": "28 Feb 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -278,7 +278,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nnbVcPZNgxT3ZolnqRdE01NZcXHnKmoW/OfvE673FlQNmec83mCC9EqxAbQgs41J_-b72AWTQOWwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lndkoZjlPrYBrExiS2HlkrW5m5WVyRjB/wXoSS3DmqUdx50Cvau59c5tSzOmP7KZ8-0rtAFwZaEQk",
         "iom": ""
     },

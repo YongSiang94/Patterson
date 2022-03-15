@@ -690,12 +690,12 @@
     "dueDate": "27 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -707,7 +707,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ngVehDf1RZJtDzbo5FFifIPkdD7bGzpj/s-DaB-DcYcrFcRgw7nvUITB-vUSvv6CF-rLBAgXGdVQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGZyHKMLbXCoxSCz9bmoc8mkzIntBFAo/WeUFqVN4oO4ClsSE5RJQkUT4FQZUVPZo-Zbtgvig5FQk",
         "iom": ""
     },
@@ -728,12 +728,12 @@
     "dueDate": "27 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -745,7 +745,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nUYKnqeGx6F9SItULpBGPWynMrThRYyY/g2xt_gDwNi0mlW2On0dRgRwvViLo-aMq-w78gYvqcVQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/maW2JUhfkNZlCM2putzhU3IDMEsAAuNn/GkKG3PZZ9wM4ElP0pi-OaIyKL2UHfBWl-D7NAuxjPIAk",
         "iom": ""
     },
@@ -766,12 +766,12 @@
     "dueDate": "27 Jan 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -783,7 +783,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nUYKVPQoZnoNCvW41pyNNiDtvGnNi5Iv/AF_Yj7g7aiG7QtsTm1lkb2qtUaToUND2-VL-ANN2cVQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mLa2sA4M05EJLBY5k9wfnMUybmAA4scM/y5tV0HLVGdyJEIxCSVTa2FOC0bZaHIkr-6bugWkA5FQk",
         "iom": ""
     },
