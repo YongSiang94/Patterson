@@ -1346,7 +1346,7 @@
     "head": 435,
     "speed": 1475,
     "orderDate": "3 Dec 2021",
-    "dueDate": "3 May 2022",
+    "dueDate": "16 Aug 2022",
     "status": {
         "order": [
             "in progress",
@@ -1376,6 +1376,18 @@
             "type": "change order",
             "overview": "on hold",
             "description": "Order placed on hold including buyouts due to Siemens motor issue"
+        },
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "Released from hold without any changes. Adjusted lead time to match due date"
+        },
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "All buyouts except motor to be here early July 2022."
         }
     ]
 },
@@ -1391,7 +1403,7 @@
     "head": 264,
     "speed": 3000,
     "orderDate": "8 Dec 2021",
-    "dueDate": "3 May 2022",
+    "dueDate": "16 Aug 2022",
     "status": {
         "order": [
             "in progress",
@@ -1415,7 +1427,20 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdlKuVbQx84xsbN0SrKyoeRZeppsqde/G3ytLHZKVllApS4PcmSLzS9zRBB_gASa-6rfAj4o-LQk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "Electric order (C0208547) released from hold. Adjusted lead time to match due date"
+        },
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "All buyouts to be here early July 2022"
+        }
+    ]
 },
 {
     "CO": "C000209471",
@@ -4434,12 +4459,12 @@
     "dueDate": "25 Feb 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -4451,7 +4476,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nsdsxi8fZkIT0iU8mQfHdGosQ8iyLLZ5/jkdgp7xw5GqTOOlhpdrZ9B0VikUN8OMp-kr6A0bGWZwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/630024613933399128/nA2oCFxGb62Y6RP4k02fEXLPY5wu8wdI-l7AAmAOKwwg_",
         "iom": ""
     },
@@ -5026,8 +5051,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5280,8 +5305,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5386,16 +5411,16 @@
     "dueDate": "9 Mar 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5403,7 +5428,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/o3QVvuFDx7YSTFykFMk4knRJyQOEQ1pj/T4Qg2suuS4x35zAWKy6KnR5exkaoRj6k-0r4gbLyWZwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1IjScSRTSSYRCWwKNxJ4xURjAENvITG/EWWuYduqqAXMuhzzlMv4JlPgqNA1PRvX-urCA5a2uOgk",
         "iom": ""
     },
@@ -5432,8 +5457,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5470,8 +5495,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -7122,8 +7147,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -8586,8 +8611,8 @@
             "TBA"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",

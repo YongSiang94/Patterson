@@ -2888,12 +2888,12 @@
     "dueDate": "25 Feb 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -2905,7 +2905,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nsdsxi8fZkIT0iU8mQfHdGosQ8iyLLZ5/jkdgp7xw5GqTOOlhpdrZ9B0VikUN8OMp-kr6A0bGWZwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/630024613933399128/nA2oCFxGb62Y6RP4k02fEXLPY5wu8wdI-l7AAmAOKwwg_",
         "iom": ""
     },
@@ -3480,8 +3480,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3734,8 +3734,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3840,16 +3840,16 @@
     "dueDate": "9 Mar 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3857,7 +3857,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/o3QVvuFDx7YSTFykFMk4knRJyQOEQ1pj/T4Qg2suuS4x35zAWKy6KnR5exkaoRj6k-0r4gbLyWZwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1IjScSRTSSYRCWwKNxJ4xURjAENvITG/EWWuYduqqAXMuhzzlMv4JlPgqNA1PRvX-urCA5a2uOgk",
         "iom": ""
     },
@@ -3886,8 +3886,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -3924,8 +3924,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
