@@ -1,6 +1,6 @@
 [
 {
-    "current": "March 28, 2022"
+    "current": "April 11, 2022"
 },
 {
     "model": "JU4H-UF10",
@@ -12,7 +12,7 @@
 },
 {
     "model": "JU4H-UF14",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU4H-UF20",
@@ -32,11 +32,11 @@
 },
 {
     "model": "JU4H-UFH0",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU4H-UFH2",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU4H-UF40",
@@ -68,19 +68,19 @@
 },
 {
     "model": "JU4H-UFADP0",
-    "updatedLead": 22.0
+    "updatedLead": 27.0
 },
 {
     "model": "JU4H-UFADR0",
-    "updatedLead": 22.0
+    "updatedLead": 27.0
 },
 {
     "model": "JU4H-UFADW8",
-    "updatedLead": 22.0
+    "updatedLead": 27.0
 },
 {
     "model": "JU4H-UFADY8",
-    "updatedLead": 22.0
+    "updatedLead": 27.0
 },
 {
     "model": "JU4H-UFAD98",
@@ -112,7 +112,7 @@
 },
 {
     "model": "JW6H-UFADD0-D",
-    "updatedLead": 33.0
+    "updatedLead": 22.0
 },
 {
     "model": "JW6H-UFADF0",
@@ -212,7 +212,7 @@
 },
 {
     "model": "JU6H-UFAAQ8",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFAARG",
@@ -224,7 +224,7 @@
 },
 {
     "model": "JU6H-UFAAPG",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADK0-D",
@@ -232,11 +232,11 @@
 },
 {
     "model": "JU6H-UFADNG",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADMG",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADN0",
@@ -248,23 +248,23 @@
 },
 {
     "model": "JU6H-UFADP0",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADQ0",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADR8",
-    "updatedLead": 3.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADR0",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADS8",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADT0",
@@ -276,7 +276,7 @@
 },
 {
     "model": "JU6H-UFADW8",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6H-UFADX8",
@@ -484,7 +484,7 @@
 },
 {
     "model": "JU4R-UF13",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU4R-UF19",
@@ -508,7 +508,7 @@
 },
 {
     "model": "JU4R-UF51",
-    "updatedLead": 22.0
+    "updatedLead": 6.0
 },
 {
     "model": "JU4R-UF53",
@@ -584,7 +584,7 @@
 },
 {
     "model": "JU6R-UFAAPF",
-    "updatedLead": 30.0
+    "updatedLead": 22.0
 },
 {
     "model": "JU6R-UFAAQ7",
