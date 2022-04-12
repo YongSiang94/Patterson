@@ -1134,8 +1134,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1172,8 +1172,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1271,7 +1271,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/oF0q6987cjchLpIfvfW29N8tBW2waviP/QKFZrBn0s9uibcjZ2f7W8Vc9Wo4kUCne-drmg9huWcAk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBb4z8xB9dZ7CnDPy1EUTJpjTdbYB2E3/mmaApXEFxKbQU3WntBbKriPCiGMc6NdI-87sgxcTZFAk",
         "iom": ""
     },
@@ -1346,7 +1346,7 @@
     "head": 435,
     "speed": 1475,
     "orderDate": "3 Dec 2021",
-    "dueDate": "3 May 2022",
+    "dueDate": "16 Aug 2022",
     "status": {
         "order": [
             "in progress",
@@ -1376,6 +1376,18 @@
             "type": "change order",
             "overview": "on hold",
             "description": "Order placed on hold including buyouts due to Siemens motor issue"
+        },
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "Released from hold without any changes. Adjusted lead time to match due date"
+        },
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "All buyouts except motor to be here early July 2022."
         }
     ]
 },
@@ -1391,7 +1403,7 @@
     "head": 264,
     "speed": 3000,
     "orderDate": "8 Dec 2021",
-    "dueDate": "3 May 2022",
+    "dueDate": "16 Aug 2022",
     "status": {
         "order": [
             "in progress",
@@ -1415,7 +1427,20 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXdlKuVbQx84xsbN0SrKyoeRZeppsqde/G3ytLHZKVllApS4PcmSLzS9zRBB_gASa-6rfAj4o-LQk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "Electric order (C0208547) released from hold. Adjusted lead time to match due date"
+        },
+        {
+            "date": "16 Mar 2022",
+            "type": "change order",
+            "overview": "update",
+            "description": "All buyouts to be here early July 2022"
+        }
+    ]
 },
 {
     "CO": "C000209471",

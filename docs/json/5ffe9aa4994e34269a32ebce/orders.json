@@ -925,8 +925,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "ex-works",
@@ -981,6 +981,158 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mynAbz3p9rSpJhMe71tDPmPGbDQmgXHX/eB-lq2KRQ0slCitfgSHV2auQyYMsRFS0-VbtgHHqkMwk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212120",
+    "purchaseOrder": "3015P",
+    "projectRef": "Electric Firepumps",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 275,
+    "speed": 2970,
+    "orderDate": "1 Apr 2022",
+    "dueDate": "16 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o2bO0vGqFtKBf73AVGi9AZzEa4ceqHUG/7s4_Q-noL3ULSDq7zeoRrjL9tVxF_xA5-XrXA-Iubawk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212123",
+    "purchaseOrder": "3015P",
+    "projectRef": "Diesel Firepumps",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "1 Apr 2022",
+    "dueDate": "17 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o8wWZVbOwZba2NFryDoyRrJb7dCRsagd/sWyxb5FEgUbna5d78c5FRqKjqs0N23ce-5bUgWc2bawk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212125",
+    "purchaseOrder": "3014P",
+    "projectRef": "750GPM Diesel Fire Pump",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 273,
+    "speed": 2980,
+    "orderDate": "1 Apr 2022",
+    "dueDate": "21 Sep 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o2bPV8dKFER2pYosliDKgf6FfeTb6aEY/kSWDAdnt4P8YyGmrF4XcdPI0Hg4GpYKl-brOANh6aawk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212126",
+    "purchaseOrder": "3014P",
+    "projectRef": "Telkom Indonesia",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2980RPM ODP",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 273,
+    "speed": 2980,
+    "orderDate": "1 Apr 2022",
+    "dueDate": "21 Sep 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o8wOVBSehc5BGR7gNKOZkVJ8lG0Ptg3s/3083nuQvqfHtP4D8eZeoAuESgWSd-GAL-jbSgQj2bawk",
         "iom": ""
     },
     "remarks": []

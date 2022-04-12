@@ -2892,8 +2892,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -2907,7 +2907,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/nsdsxi8fZkIT0iU8mQfHdGosQ8iyLLZ5/jkdgp7xw5GqTOOlhpdrZ9B0VikUN8OMp-kr6A0bGWZwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/630024613933399128/nA2oCFxGb62Y6RP4k02fEXLPY5wu8wdI-l7AAmAOKwwg_",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/oA1GgYwGs32cUKcu3pxHP1Uy5tEXSeSf/-CFFNY-11DD9fHk7iXO-2cnyH9oYYdyE-XrLgc7cEbgk"
     },
     "remarks": []
 },
@@ -3438,8 +3438,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -3453,7 +3453,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/ns7wneb580gXh5D2bb2aJiKUYE2ddmak/-VIlXIIVfe_Z0zwJS7U52diezpErH0jt-w74gVkidXgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6bzmWC2EVMEc27RN22IoaazAoymw47/qr7lO5CFvhPtLsKNjhswEDQA6exmAzqq-gr8AsrhyJQk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/oA1Gh59k8Se4yfnVHzJHXxr7npeWfQjU/zjttM6gzsYHDL-wAgBnCzbhEMsK5-35P-lLKgn70Ebgk"
     },
     "remarks": []
 },
@@ -3601,6 +3601,18 @@
             "type": "update",
             "overview": "shipping",
             "description": "Ship separately from C0208364"
+        },
+        {
+            "date": "31 Mar 2022",
+            "type": "update",
+            "overview": "listing",
+            "description": "Pump will only be UL listed."
+        },
+        {
+            "date": "31 Mar 2022",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Motor details: TECHTOP VHS 447TP350U4B S/N 02 211221."
         }
     ]
 },
@@ -3726,12 +3738,12 @@
     "dueDate": "28 Mar 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -3743,7 +3755,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/oDHk6JB6C72WMvVMr2JzwarFLJgzXUTf/KWUb1w6P82nGbbK5GWDfDVLl11WZqp8n-YLogoeL5bgk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mgOK2T7Y1XZ65yWSzapHI9fp6ga0Ne0v/FiprFW_5kT9ZD6dvraNvzDNUPCRiF5XK-3LnAZVBeJQk",
         "iom": ""
     },
@@ -3973,6 +3985,120 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzSG2M3qJdNdPWmrXHoxmf3Kk0V1vGb/HUbsh5HrIwN-QZQJJV56Kproxcpaapod-dLfgsWxZSQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212165",
+    "purchaseOrder": "CG-2022-040-001",
+    "projectRef": "HKC Mianyang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 254,
+    "speed": 2950,
+    "orderDate": "4 Apr 2022",
+    "dueDate": "2 Jun 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212166",
+    "purchaseOrder": "CG-2022-040-001",
+    "projectRef": "HKC Mianyang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 298,
+    "speed": 2970,
+    "orderDate": "4 Apr 2022",
+    "dueDate": "2 Jun 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212237",
+    "purchaseOrder": "CG-2022-030-001",
+    "projectRef": "IKEA Xian",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF94",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 388,
+    "speed": 3000,
+    "orderDate": "5 Apr 2022",
+    "dueDate": "27 Sep 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
         "iom": ""
     },
     "remarks": []
