@@ -1,6 +1,6 @@
 [
 {
-    "current": "April 11, 2022"
+    "current": "April 18, 2022"
 },
 {
     "model": "JU4H-UF10",
@@ -12,7 +12,7 @@
 },
 {
     "model": "JU4H-UF14",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4H-UF20",
@@ -24,19 +24,19 @@
 },
 {
     "model": "JU4H-UF24",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4H-UF34",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4H-UFH0",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4H-UFH2",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4H-UF40",
@@ -60,7 +60,7 @@
 },
 {
     "model": "JU4H-UF54",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4H-UFAD5G",
@@ -104,35 +104,35 @@
 },
 {
     "model": "JU4H-UFADJ2",
-    "updatedLead": 28.0
-},
-{
-    "model": "JU4H-UFADJ8",
-    "updatedLead": 28.0
-},
-{
-    "model": "JW6H-UFADD0-D",
     "updatedLead": 22.0
 },
 {
+    "model": "JU4H-UFADJ8",
+    "updatedLead": 22.0
+},
+{
+    "model": "JW6H-UFADD0-D",
+    "updatedLead": 20.0
+},
+{
     "model": "JW6H-UFADF0",
-    "updatedLead": 4.0
+    "updatedLead": 8.0
 },
 {
     "model": "JW6H-UFADJ0",
-    "updatedLead": 4.0
+    "updatedLead": 8.0
 },
 {
     "model": "JW6H-UFAA60",
-    "updatedLead": 4.0
+    "updatedLead": 8.0
 },
 {
     "model": "JW6H-UFAD70",
-    "updatedLead": 4.0
+    "updatedLead": 8.0
 },
 {
     "model": "JW6H-UFAD80",
-    "updatedLead": 4.0
+    "updatedLead": 8.0
 },
 {
     "model": "JU6H-UFD0",
@@ -184,35 +184,35 @@
 },
 {
     "model": "JU6H-UF60",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UF62",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UF84",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UF94",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAAT0",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAAT2",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAAT8",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAAQ8",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAARG",
@@ -224,7 +224,7 @@
 },
 {
     "model": "JU6H-UFAAPG",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADK0-D",
@@ -232,11 +232,11 @@
 },
 {
     "model": "JU6H-UFADNG",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADMG",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADN0",
@@ -248,27 +248,27 @@
 },
 {
     "model": "JU6H-UFADP0",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADQ0",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADR8",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADR0",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADS8",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADT0",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAD88",
@@ -276,27 +276,27 @@
 },
 {
     "model": "JU6H-UFADW8",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFADX8",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6H-UFAD98",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DT2H-UFAA60",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DT2H-UFAA98",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DT2H-UFAA92",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DT2H-UFAA58",
@@ -328,35 +328,35 @@
 },
 {
     "model": "DQ6H-UFAA50",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DQ6H-UFAA60",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DQ6H-UFAA88",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DQ6H-UFAA98",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DR8H-UFAA40",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DR8H-UFAA5G",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DR8H-UFAA68",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DR8H-UFAA62",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DS0H-UFAAN0",
@@ -484,7 +484,7 @@
 },
 {
     "model": "JU4R-UF13",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4R-UF19",
@@ -496,7 +496,7 @@
 },
 {
     "model": "JU4R-UF23",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4R-UF40",
@@ -512,7 +512,7 @@
 },
 {
     "model": "JU4R-UF53",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU4R-UFAEA9",
@@ -576,15 +576,15 @@
 },
 {
     "model": "JU6R-UFAA59",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6R-UFAA61",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6R-UFAAPF",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6R-UFAAQ7",
@@ -596,11 +596,11 @@
 },
 {
     "model": "JU6R-UFAAS9",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "JU6R-UFAA83",
-    "updatedLead": 22.0
+    "updatedLead": 20.0
 },
 {
     "model": "DS0R-UFAA59",
