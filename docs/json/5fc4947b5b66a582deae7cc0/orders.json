@@ -1254,8 +1254,8 @@
     "dueDate": "1 Apr 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "collected",
