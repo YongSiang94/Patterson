@@ -1096,8 +1096,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1258,8 +1258,8 @@
             "primary"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -1273,7 +1273,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/oF0q6987cjchLpIfvfW29N8tBW2waviP/QKFZrBn0s9uibcjZ2f7W8Vc9Wo4kUCne-drmg9huWcAk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBb4z8xB9dZ7CnDPy1EUTJpjTdbYB2E3/mmaApXEFxKbQU3WntBbKriPCiGMc6NdI-87sgxcTZFAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/pSwL0djGhQQwRxoVpX6CrOojhDX0mFmo/dzZUaVN7lz5ntYe77_h-YxTp2RBkeY6I-hLwgKv84qwk"
     },
     "remarks": []
 },
@@ -1289,7 +1289,7 @@
     "head": 437,
     "speed": 1780,
     "orderDate": "2 Dec 2021",
-    "dueDate": "H.F.A",
+    "dueDate": "16 Aug 2022",
     "status": {
         "order": [
             "in progress",
@@ -1331,6 +1331,12 @@
             "type": "update",
             "overview": "baseplate",
             "description": "Complete description for base corrected. Pump + engine + controller + lifting & earthing lugs + jacking bolts + baseplate drain at least 2\" NPS along with valve piped flanged to edge of skid + driplip"
+        },
+        {
+            "date": "10 Jun 2022",
+            "type": "update",
+            "overview": "order",
+            "description": "Order released from hold. OA due to same dates as electric and jockey. "
         }
     ]
 },
@@ -1499,7 +1505,7 @@
     "head": 374,
     "speed": 1770,
     "orderDate": "10 Jan 2022",
-    "dueDate": "5 Sep 2022",
+    "dueDate": "18 Nov 2022",
     "status": {
         "order": [
             "in progress",
@@ -1523,7 +1529,26 @@
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JMaP7pMCeTW7u7Ub0DfMNKS20Dzb/Yuy37NDf6qjyWi5iG31Kx1XmD2-UtO7t-W76g11EyPAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "10 Jun 2022",
+            "type": "change order",
+            "overview": "material",
+            "description": "Packing box to 316SS from Cast Iron."
+        },
+        {
+            "date": "16 Jun 2022",
+            "type": "correction",
+            "overview": "curve",
+            "description": "Curve changed to EPC24215"
+        },
+        {
+            "date": "16 Jun 2022",
+            "type": "correction",
+            "overview": "material",
+            "description": "Diffuser and suction bell reordered. Change OA date to 18 Nov 2022"
+        }
+    ]
 },
 {
     "CO": "C000209492",
