@@ -698,8 +698,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -736,8 +736,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -774,8 +774,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -788,5 +788,50 @@
         "iom": ""
     },
     "remarks": []
+},
+{
+    "CO": "C000213205",
+    "purchaseOrder": 22121091.0,
+    "projectRef": "HDB Woodlands",
+    "driverType": "Electric",
+    "driverInfo": "20HP 2950RPM",
+    "pumpModel": "4x3x11A ES",
+    "pumpType": "es",
+    "capacity": 300,
+    "head": 155,
+    "speed": 2950,
+    "orderDate": "5 May 2022",
+    "dueDate": "13 Jul 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/oZNv8DApKwTrN0vYG3qx8l1Jlw0rDIQv/o8Oy1zCFcOPquxqPO-vXPCJp2mEtGxuc-n7pAFmYegAk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "5 May 2022",
+            "type": "update",
+            "overview": "listing",
+            "description": "Pump is UL only."
+        }
+    ]
 }
 ]

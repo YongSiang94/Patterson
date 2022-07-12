@@ -108,8 +108,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "awaiting",
@@ -123,7 +123,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/ne3jfGuwY9H0HPmqWw1Ck3ipGzh9TqZi/R68qkNWFmA8heChudGqhEKmE9dcLEW64-yrYAY8KnUwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGZx7evbPW0NfBrXl9MaCnArBiL3Ptia/8M8zcYsDlnnQAtAGJeKg6w72ONUEg6v--fLWAyuSQHgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/ou4GmpioQMCL1P6njuCOQMnJSfsLhQvh/kxBg4niweV4KMsz20XwJSCvB40QvlprJ-A7cAHUc9qwk"
     },
     "remarks": []
 },
@@ -142,12 +142,12 @@
     "dueDate": "3 Jun 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -159,7 +159,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/pLfV5Vgh7DnzxbVEFtARWSgEI5jjpFmn/W3XeV79tKKJpFrOLfDi9GoHhGTiGoVA0-sLTAXrI8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/men2XuaKpSgwMSwLA1gOfETINPCTbh4K/l3TwX0RyrOoM5SAVpvn22XTNvaXQhzrg-AbiAMfMfJAk",
         "iom": ""
     },
@@ -193,12 +193,12 @@
     "dueDate": "3 Jun 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -210,7 +210,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/pPYZbMTcFk0VSqG6ZHypss3j8fDL7ov8/neUk40GFCUzhJ2lSS3ENiqr_7NMAETJZ-ArUAFso8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mjn1SWVVozrHQIZNhDuFrxwqHEjzkMSF/r_R-d8b88AvxhgqwhgV54Wgooiufc8mC-er3A0boAKAk",
         "iom": ""
     },
@@ -244,12 +244,12 @@
     "dueDate": "13 Jun 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -261,7 +261,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/pReF6cHPyaDUig6Z7BoPs5COFU0I32ie/05eflCrl9wK_gRVJ48ZyM515m05AWEH6-qrXAv-M8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqFAmkx7FOxnzFsyLcpEJbFNyFygz32/0i7DheiejpxyZgvkhW_4MTfZFi3gR8uK-IrzA2W-TMAk",
         "iom": ""
     },
@@ -283,6 +283,12 @@
             "type": "change order",
             "overview": "status",
             "description": "Order release from hold."
+        },
+        {
+            "date": "28 Mar 2022",
+            "type": "change order",
+            "overview": "payment",
+            "description": "Payment terms change to 100% LC."
         }
     ]
 },
@@ -301,12 +307,12 @@
     "dueDate": "18 Apr 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -318,9 +324,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/p0L3x3K1LAdEKxv9iKofif6ny1wQCVq6/zLx9ZwIV4C88jlCnMqOCrxJoKjaUDBf8-9rUg6-48qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqPUes7Xy1Ox1RpjVvw80YRcoeAekeO/Uo9DjUWi8i_wR5gTK2ycUw58YQ02iONA-0Lwgwu2TMAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/pSXf2BHeZ7J0Z18XgvECOzi9mdFJIPRv/uZ9Ab9cn_ab4Bo5OgnSVgKn6iO9z4tBI-GLggVH49qwk"
     },
     "remarks": [
         {

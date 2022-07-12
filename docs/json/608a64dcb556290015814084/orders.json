@@ -332,12 +332,12 @@
     "dueDate": "18 May 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "paid",
@@ -349,7 +349,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/pLfV5E5Z2oS4p3K5wzj1NWeCuVndBg78/eLebnnZ80OMOXZJPxBxv2Ox9vkHiFqRC-5LMAgHw8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6PbKFtuNzYMiGgl4ijqNEEWEhDnByY/eyFliFaqy7K2CgjBh06JeYXpKl3qlJoi-r72AQaPaFAk",
         "iom": ""
     },
@@ -367,5 +367,43 @@
             "description": "Add Option BA - AC Input 220-240V"
         }
     ]
+},
+{
+    "CO": "C000214916",
+    "purchaseOrder": 570230.0,
+    "projectRef": "TTI Project",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF94",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 393,
+    "speed": 3000,
+    "orderDate": "29 Jun 2022",
+    "dueDate": "4 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]

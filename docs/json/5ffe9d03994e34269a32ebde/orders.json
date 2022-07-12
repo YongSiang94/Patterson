@@ -323,5 +323,50 @@
             "description": "UL only"
         }
     ]
+},
+{
+    "CO": "C000214201",
+    "purchaseOrder": "QPO23827",
+    "projectRef": "BARE PUMP FOR C041336-001",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 402,
+    "speed": 2100,
+    "orderDate": "6 Jun 2022",
+    "dueDate": "10 Aug 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Oct 2021",
+            "type": "update",
+            "overview": "nameplate",
+            "description": "UL only"
+        }
+    ]
 }
 ]
