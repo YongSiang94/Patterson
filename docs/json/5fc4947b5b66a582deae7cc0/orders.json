@@ -1,4 +1,4 @@
-[
+[
 {
     "CO": "C000165097",
     "purchaseOrder": "1712/056/OV/R",
@@ -36,7 +36,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000175272",
     "purchaseOrder": "1811/047/OV/R1",
@@ -74,7 +74,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000185628",
     "purchaseOrder": "",
@@ -119,7 +119,7 @@
             "description": "Duty changed to 538ft."
         }
     ]
-},
+},
 {
     "CO": "C000186009",
     "purchaseOrder": "",
@@ -170,7 +170,7 @@
             "description": "Add spare parts purchase"
         }
     ]
-},
+},
 {
     "CO": "C000186309",
     "purchaseOrder": "",
@@ -215,7 +215,7 @@
             "description": "Change pump length"
         }
     ]
-},
+},
 {
     "CO": "C000187372",
     "purchaseOrder": "",
@@ -260,7 +260,7 @@
             "description": "Change from IP55 to IP65"
         }
     ]
-},
+},
 {
     "CO": "C000188743",
     "purchaseOrder": "",
@@ -311,7 +311,7 @@
             "description": "Due date changed to 4 Aug 2020"
         }
     ]
-},
+},
 {
     "CO": "C000191304",
     "purchaseOrder": "",
@@ -380,7 +380,7 @@
             "description": "Added non-mechanical run test"
         }
     ]
-},
+},
 {
     "CO": "C000192058",
     "purchaseOrder": "",
@@ -425,7 +425,7 @@
             "description": "Due date changed to 8 Oct 2020."
         }
     ]
-},
+},
 {
     "CO": "C000193336",
     "purchaseOrder": "",
@@ -463,7 +463,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/584180411442181841/p-Dz9V1gCiO-WJAA3EFmZA6aLFSXl4D7-FLSAcbHmRwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193337",
     "purchaseOrder": "",
@@ -501,7 +501,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/584180490500617997/PHsqk0sunrdoNwo36qbaTe-gaW_G9QIg-OLRgbL3mRwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193571",
     "purchaseOrder": "",
@@ -539,7 +539,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/584180433669895917/d0wMyzj9OS1SSRmjob5teDzAt2Qi6tRv-NbZAeGjnRwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193572",
     "purchaseOrder": "",
@@ -577,7 +577,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/584261087537445448/XiWyrlwNtDkujl9Bx7Mocd4kEW29UJbs-YrYABXfnRwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195566",
     "purchaseOrder": "",
@@ -615,7 +615,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195587",
     "purchaseOrder": "",
@@ -653,7 +653,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/595782019846290997/ySlrcmtsaKstwymiH-faBpPN9u3ChyVK-2LeA7ADoRwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195589",
     "purchaseOrder": "",
@@ -691,7 +691,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/595782023421935179/fkFgjcupuj9EW1v6lacopYMUiwUAvQFZ-Lrmg7pzoRwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000196336",
     "purchaseOrder": "2010/049/OV/R",
@@ -748,7 +748,7 @@
             "description": "Upgrade to PI-324 for fuel tank"
         }
     ]
-},
+},
 {
     "CO": "C000197404",
     "purchaseOrder": "2011/051/OV/R",
@@ -786,7 +786,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/627036230864910951/W7H9gmypFGWmHJd_CMcvoOlegm01SbKv-.7fAsic-tQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198341",
     "purchaseOrder": "",
@@ -824,7 +824,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/lLlBEIsFLg0LMNyY6m8XWjHtuCpVdKJs/h9hTXb5kUN_JEcM63lt42m3kkVcloAEn-urGgGYpF5Qg"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198665",
     "purchaseOrder": "2101/001/OV/RTN/R",
@@ -875,7 +875,7 @@
             "description": "Added a 360 gal fuel tank"
         }
     ]
-},
+},
 {
     "CO": "C000198760",
     "purchaseOrder": "2101/002/OV/RTN/R",
@@ -913,7 +913,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/620767177034741353/sbHlqcVSaACSbeGV1wo1DK5oIxe_QVLt-JrjArGl4nQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198761",
     "purchaseOrder": "2101/002/OV/RTN/R",
@@ -951,7 +951,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/620767177244456557/PeEemgVM8v4pYtLeCYgMxXT9CnBKiGUN-f7hgJ3V4nQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198903",
     "purchaseOrder": "2101/005/OV/R",
@@ -996,7 +996,7 @@
             "description": "Add air crate to order"
         }
     ]
-},
+},
 {
     "CO": "C000199031",
     "purchaseOrder": "2101/003/OV/R",
@@ -1034,7 +1034,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/lXlFz9TIeEfgAGVkD0gZx11JSlyhyU6s/OOriSDfIiSTXiI2tGGDIzNBNlnyyoQo5-yrLgbVOU7gg"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000205023",
     "purchaseOrder": "2108/014/OV/RTN/R",
@@ -1072,7 +1072,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000206577",
     "purchaseOrder": "2109/020/OV/R1",
@@ -1110,7 +1110,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207954",
     "purchaseOrder": "2111/023/OV/RTN/R",
@@ -1148,7 +1148,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207955",
     "purchaseOrder": "2111/023/OV/RTN/R",
@@ -1193,7 +1193,7 @@
             "description": "Additional 2 MRVs."
         }
     ]
-},
+},
 {
     "CO": "C000208076",
     "purchaseOrder": "2111/026/OV/R",
@@ -1209,12 +1209,12 @@
     "dueDate": "11 May 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -1228,7 +1228,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/p0L3D7qw0Qd5LkV06fL2NRzZJpjKLURO/kjCxlULJTuXF_Tt7Glaeh9w23A1dIzRt-n7NgKGM8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mDh6tvmEVwy1Qp2nA0MXty3lxvfxp75g/_s6r8ymb6owt-cm48dF77q5w8VXdhQPt-BbaghFuRHgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/pTR4C4FEqzbyHmHeyQN6bvxmBuktfH1s/OMZztQexf-sahRuiEuYOVI8BNVGj-XC0-vr1goC6Mrgk"
     },
     "remarks": [
         {
@@ -1238,7 +1238,7 @@
             "description": "Engine ETA 3 May 2022. Revised OA date to 11 May 2022."
         }
     ]
-},
+},
 {
     "CO": "C000208077",
     "purchaseOrder": "2111/024/OV/R",
@@ -1276,7 +1276,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/pSwL0djGhQQwRxoVpX6CrOojhDX0mFmo/dzZUaVN7lz5ntYe77_h-YxTp2RBkeY6I-hLwgKv84qwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208445",
     "purchaseOrder": "2111/025/OV/R",
@@ -1339,7 +1339,7 @@
             "description": "Order released from hold. OA due to same dates as electric and jockey. "
         }
     ]
-},
+},
 {
     "CO": "C000208547",
     "purchaseOrder": "2111/025/OV/R",
@@ -1396,7 +1396,7 @@
             "description": "All buyouts except motor to be here early July 2022."
         }
     ]
-},
+},
 {
     "CO": "C000208697",
     "purchaseOrder": "2111/025/OV/R",
@@ -1447,7 +1447,7 @@
             "description": "All buyouts to be here early July 2022"
         }
     ]
-},
+},
 {
     "CO": "C000209471",
     "purchaseOrder": "2112/029/OV/R",
@@ -1492,7 +1492,7 @@
             "description": "EPC corrected to EPC23691"
         }
     ]
-},
+},
 {
     "CO": "C000209488",
     "purchaseOrder": "2112/029/OV/R",
@@ -1549,7 +1549,7 @@
             "description": "Diffuser and suction bell reordered. Change OA date to 18 Nov 2022"
         }
     ]
-},
+},
 {
     "CO": "C000209492",
     "purchaseOrder": "2112/029/OV/R",
@@ -1594,7 +1594,7 @@
             "description": "To ship with fire pumps (C0209471 & C0209488)"
         }
     ]
-},
+},
 {
     "CO": "C000189254",
     "purchaseOrder": "",
@@ -1639,7 +1639,7 @@
             "description": "Add 20 175# CRVs"
         }
     ]
-},
+},
 {
     "CO": "C000189480",
     "purchaseOrder": "",
@@ -1684,7 +1684,7 @@
             "description": "Due date changed to 12 May 2020"
         }
     ]
-},
+},
 {
     "CO": "C000189861",
     "purchaseOrder": "",
@@ -1729,7 +1729,7 @@
             "description": "Change CRV to 300#"
         }
     ]
-},
+},
 {
     "CO": "C000189862",
     "purchaseOrder": "",
@@ -1774,7 +1774,7 @@
             "description": "Change CRV to 300#"
         }
     ]
-},
+},
 {
     "CO": "C000190083",
     "purchaseOrder": "",
@@ -1831,7 +1831,7 @@
             "description": "Change controller option K8B to K7A."
         }
     ]
-},
+},
 {
     "CO": "C000190125",
     "purchaseOrder": "",
@@ -1876,7 +1876,7 @@
             "description": "Due date changed to 26 Jun 2020 due to controller lead time"
         }
     ]
-},
+},
 {
     "CO": "C000190369",
     "purchaseOrder": "",
@@ -1914,7 +1914,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/566242291046457345/GyW38eGTt7aM8Abt6ooVxVLJ_MrbBPyq-Kb.AvJYfTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000190447",
     "purchaseOrder": "",
@@ -1952,7 +1952,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271437370269903/O_5Wrfp2oYCI23NHir1P4_YXDyaGMng7-Rr8A9Z4fTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000190872",
     "purchaseOrder": "",
@@ -2003,7 +2003,7 @@
             "description": "Add export boxing"
         }
     ]
-},
+},
 {
     "CO": "C000190873",
     "purchaseOrder": "",
@@ -2060,7 +2060,7 @@
             "description": "Add export boxing"
         }
     ]
-},
+},
 {
     "CO": "C00190874",
     "purchaseOrder": "",
@@ -2117,7 +2117,7 @@
             "description": "Add export boxing"
         }
     ]
-},
+},
 {
     "CO": "C000190907",
     "purchaseOrder": "",
@@ -2168,7 +2168,7 @@
             "description": "Add export boxing"
         }
     ]
-},
+},
 {
     "CO": "C000190927",
     "purchaseOrder": "",
@@ -2206,7 +2206,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722745536356359/Hn2bGaeEVWNuUaOozN8oijIuq8QMWMJJ-grBgdvYfTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000190928",
     "purchaseOrder": "",
@@ -2244,7 +2244,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722747826446345/q4Pta090yDDplLEUOcprRXXeqY2tit7h-q7DgtP4fTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000191143",
     "purchaseOrder": "",
@@ -2282,7 +2282,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/563883502867619841/PYBNO-yW-kO7_SenMrWU9FWbBojZ2b3k-KLHAgx8gTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000191144",
     "purchaseOrder": "",
@@ -2320,7 +2320,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/563883503064752131/xgJjjfN0WWQHd8a471hsKy459iY8Qywz-T7EA4y4gTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192436",
     "purchaseOrder": "",
@@ -2358,7 +2358,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/569320777537593345/n_F9iTVE5wkNqp6PVZRzQT9B-hg5JTZH-zbHAHU0gTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192781",
     "purchaseOrder": "",
@@ -2396,7 +2396,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/574455225010659477/7Vm1omjjHnJxmqJ6uV0nRXlVdewE-vKl-.LEAdVkgTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192782",
     "purchaseOrder": "",
@@ -2434,7 +2434,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/574455225994223767/gSkgegcRQ3YH0WEVEd-0upVLnKZrz6U_-VrKg.WwgTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193160",
     "purchaseOrder": "",
@@ -2472,7 +2472,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749283869504049/aU5GiRmnkoKPlk1YgQ2Xa9efYD-gJRhi-f7LAeHQgTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193367",
     "purchaseOrder": "",
@@ -2510,7 +2510,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193368",
     "purchaseOrder": "",
@@ -2548,7 +2548,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193369",
     "purchaseOrder": "",
@@ -2586,7 +2586,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193375",
     "purchaseOrder": "",
@@ -2624,7 +2624,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749285664666172/1Fmxz0tsgq0uqO7nSaESWD3dL1BSS77U-ZbMA76cgTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193376",
     "purchaseOrder": "",
@@ -2662,7 +2662,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749285714997824/LhY1V8LZo6dVRYVdUdA1_uRI4LFuEzwA-7LPApsAgTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193398",
     "purchaseOrder": "",
@@ -2700,7 +2700,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749290068685389/usXFLnxk7PQgVbEjGMH6C8tGdiV2Hb0X-ELTgoMcgTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193784",
     "purchaseOrder": "",
@@ -2738,7 +2738,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/579652410071364134/BeQwK4EXVMtbtmnBiGKTxGEd2RGZpHcS-DbXAJkAhTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193787",
     "purchaseOrder": "",
@@ -2789,7 +2789,7 @@
             "description": "Due date changed to 27 Oct 2020."
         }
     ]
-},
+},
 {
     "CO": "C000194730",
     "purchaseOrder": "",
@@ -2827,7 +2827,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166319638098217/b6PUwVckH-tWkH1r6ubfUHzkD5OtO8CG-mLbApRQiTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194748",
     "purchaseOrder": "",
@@ -2865,7 +2865,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166319313039652/Ea9UEUJrgInixike7J8IxwN5zcfLhGHY-D7cACC4iTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194749",
     "purchaseOrder": "",
@@ -2903,7 +2903,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166320072208694/hMMNJZeTUxTqtxhbIAZx507t_4J_9-Qv-eLfAzmUiTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194750",
     "purchaseOrder": "",
@@ -2941,7 +2941,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166325665313120/6rF9-0MElTgWqNZDroKeizKC62Isy17k-27dAWoEiTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194931",
     "purchaseOrder": "",
@@ -2979,7 +2979,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195868",
     "purchaseOrder": "",
@@ -3024,7 +3024,7 @@
             "description": "Delete flow meter FT-FluxFP-0LR0-G 8.0 IN"
         }
     ]
-},
+},
 {
     "CO": "C000195869",
     "purchaseOrder": "",
@@ -3069,7 +3069,7 @@
             "description": "Delete flow meter FT-FluxFP-0LR0-G 8.0 IN"
         }
     ]
-},
+},
 {
     "CO": "C000195870",
     "purchaseOrder": "",
@@ -3107,7 +3107,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/593996203480363987/VmzNbQoeTv1Dypa1igpPytlK_ixKnB0b-DLsAA0QkTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197230",
     "purchaseOrder": "",
@@ -3145,7 +3145,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/602115836368433341/36k-MKEuJkLKuNqIaIX1JtiVW-Z6QcjV-7bAgOjElWwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197243",
     "purchaseOrder": "",
@@ -3183,7 +3183,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/602221524893612706/4kWhMezXW9EDpx9ZJmak3EUPSKinmlj0-BLbAOgq-YQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197308",
     "purchaseOrder": "",
@@ -3221,7 +3221,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197423",
     "purchaseOrder": "",
@@ -3259,7 +3259,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863579222643/eMgHy3iIVnPeE9vlty2mUjCUWLh377gF-vbKASkQScgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197427",
     "purchaseOrder": "",
@@ -3304,7 +3304,7 @@
             "description": "Cancel order."
         }
     ]
-},
+},
 {
     "CO": "C000197476",
     "purchaseOrder": "",
@@ -3342,7 +3342,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197636",
     "purchaseOrder": "",
@@ -3380,7 +3380,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863696663164/8DlVcFVQQZOk5sDNyyKdE1rcGgv5KHQS-.7IA4lQScgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197688",
     "purchaseOrder": "",
@@ -3425,7 +3425,7 @@
             "description": "Cancel order."
         }
     ]
-},
+},
 {
     "CO": "C000197868",
     "purchaseOrder": "",
@@ -3463,7 +3463,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089513161832235/SQ-5V0jztolqT7ijkavSoFfr-3o4K2cn-Z7igooCUfgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197924",
     "purchaseOrder": "",
@@ -3501,7 +3501,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661103828645939/7Emelk74aeK07TrTAj52UXYUotUXcY7D-nrjAuxNLawg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197925",
     "purchaseOrder": "",
@@ -3539,7 +3539,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661106833864791/T3kN5fvHGRBkuNSxT_lP5CscbfbxzJvB-FrlgjyhLawg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198052",
     "purchaseOrder": "",
@@ -3577,7 +3577,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863765869185/ZLjCNEHvtcAdZGTXJlkcuSMShb1OpaLb-PbNgzWUScgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198555",
     "purchaseOrder": "",
@@ -3615,7 +3615,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089515024103243/xJ0bURwY-O79GMQHnhmEGKvbxn4sZkf3-0bcgfGSUfgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198804",
     "purchaseOrder": "CG-2021-015-001",
@@ -3653,7 +3653,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089515093309263/UtlpW4j7Ia9wD2_DPgftorKORqFCdNZk-FriA23GUfgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198807",
     "purchaseOrder": "CG-2021-013-001",
@@ -3698,7 +3698,7 @@
             "description": "due date changed to 16 Apr 2021"
         }
     ]
-},
+},
 {
     "CO": "C000199261",
     "purchaseOrder": "CG-2021-009-002",
@@ -3736,7 +3736,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/621419992826557011/FFhUgLPXJxao2dhEMgrvRWCnahswpzlu-7rqg4aRQoQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199262",
     "purchaseOrder": "CG-2021-017-001",
@@ -3774,7 +3774,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/621419999375962735/_mH8nFaVIKLdUAH8AiwB-mFVDrZmGNBd-UrvgGb5QoQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199630",
     "purchaseOrder": "CG-2021-025-001",
@@ -3812,7 +3812,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/620163888423416622/H0zoojCK9xymmSpoVCzb4TlH7XeX6FPt-ebTgIns8nAg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199800",
     "purchaseOrder": "CG-2021-020-001",
@@ -3850,7 +3850,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313981456561576/l-PxPKCZi5S5W4hVH2C5L9vHWo7vrQ_H-y7dg6rp1pgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199801",
     "purchaseOrder": "CG-2021-020-001",
@@ -3888,7 +3888,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313982924567993/96HLdYgvRVSrrA49vpdkhzMZ31Ct6J02-S7iAcsV1pgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199802",
     "purchaseOrder": "CG-2021-020-001",
@@ -3926,7 +3926,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313984298202558/LhDtVs0RZowEzug6MXM031UrwF9zf0lq-p7iAPdJ1pgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199803",
     "purchaseOrder": "CG-2021-020-001",
@@ -3964,7 +3964,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313986909156815/y98oS7o-j-LOHBKhu3r-koyk5SiJRXEz-57jAv-F1pgg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000201101",
     "purchaseOrder": "CG-2021-036-001",
@@ -4009,7 +4009,7 @@
             "description": "Remove waste cone from order"
         }
     ]
-},
+},
 {
     "CO": "C000201431",
     "purchaseOrder": "CG-2021-041-001",
@@ -4047,7 +4047,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/l5itVoVEOMNLbSH7R5TZbzfItljcWWGH/S2weOYlD-6Db_4Z5GC6OdatDjr8zxKY8--b4gWHzU2Ag"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000201566",
     "purchaseOrder": "CG-2021-045-001",
@@ -4092,7 +4092,7 @@
             "description": "Controller voltage to be 24V"
         }
     ]
-},
+},
 {
     "CO": "C000201780",
     "purchaseOrder": "Z21HLBWT0631",
@@ -4130,7 +4130,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG205UkEc0I70LvDbHbsAaHfXbDiBxU/wGKQqqpNgD8z2_jJaowa3k4mzcWP-sYU-g78A_RS3SAk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000201783",
     "purchaseOrder": "Z21HLBWT0631",
@@ -4168,7 +4168,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG1zuqmqzYkhfnAipwn5rTKJ20IZKi4/lB99lG2jlTSWl2RFCEFQLtZ80S0L0nQS-3b9gyya3SAk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000201936",
     "purchaseOrder": "CG-2021-055-001",
@@ -4213,7 +4213,7 @@
             "description": "Change to 280gal. 8 hours capacity."
         }
     ]
-},
+},
 {
     "CO": "C000202301",
     "purchaseOrder": "CG-2021-059-001",
@@ -4258,7 +4258,7 @@
             "description": "Changed from CDS20-SC to SC81A."
         }
     ]
-},
+},
 {
     "CO": "C000202751",
     "purchaseOrder": "CG-2021-072-001",
@@ -4303,7 +4303,7 @@
             "description": "Tornatech 8\" GT-FluxFP-0LQ0"
         }
     ]
-},
+},
 {
     "CO": "C000202898",
     "purchaseOrder": "CG-2021-071-001",
@@ -4354,7 +4354,7 @@
             "description": "Corrected MRV to 250#"
         }
     ]
-},
+},
 {
     "CO": "C000202981",
     "purchaseOrder": "CG-2021-073-001",
@@ -4392,7 +4392,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/mKMKTP81Uu9GAL0PV2uAQnYZopoW6lG5/n0ZQGi0ASzIBEziiofNtj6v_a3upIVo2-PLIALVFoFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000202985",
     "purchaseOrder": "CG-2021-081-001",
@@ -4430,7 +4430,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/lSOAkuwW7AoYqusPDrODFrnjN1AfwNyW/5_knFpimhlVUh2KXdaqpAg-86XL5w-ms-UrpA5thp6gg"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204183",
     "purchaseOrder": "CG-2021-101-001",
@@ -4468,7 +4468,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/mKMKUIcbQhzPx0d29k4PrZt3OJdNMhuN/ORsSBTVjjESnHyV4_70iSLL2d1zL3NiS-oLNAuX9oFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204281",
     "purchaseOrder": "CG-2021-096-001",
@@ -4506,7 +4506,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/oA1GgYwGs32cUKcu3pxHP1Uy5tEXSeSf/-CFFNY-11DD9fHk7iXO-2cnyH9oYYdyE-XrLgc7cEbgk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204290",
     "purchaseOrder": "CG-2021-109-001",
@@ -4544,7 +4544,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/mKMKUJBngrefwzFgGSfHeoBAF4YQqNQF/LMyLPqqD59ESYN253Ezo5Gco93ayTIgC-AbRAHZdoFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000205128",
     "purchaseOrder": "CG-2021-112-001",
@@ -4582,7 +4582,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000205165",
     "purchaseOrder": "CG-2021-112-001",
@@ -4627,7 +4627,7 @@
             "description": "Controller to ship with C000205128"
         }
     ]
-},
+},
 {
     "CO": "C000205839",
     "purchaseOrder": "CG-2021-128-001",
@@ -4665,7 +4665,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000205844",
     "purchaseOrder": "CG-2021-130-001",
@@ -4703,7 +4703,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000205845",
     "purchaseOrder": "CG-2021-130-001",
@@ -4741,7 +4741,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000206486",
     "purchaseOrder": "CG-2021-122-001",
@@ -4779,7 +4779,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207194",
     "purchaseOrder": "CG-2021-136-001",
@@ -4817,7 +4817,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/oRri2X16ST0uEISNh4RqHKBXhEgVftMm/C32LmDcj-sPuldINadHJyUpzej4cmBTz-dbmg21M0fgk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207629",
     "purchaseOrder": "CG-2021-162-001",
@@ -4855,7 +4855,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207672",
     "purchaseOrder": "CG-2021-162-001",
@@ -4900,7 +4900,7 @@
             "description": "Change factory choice motor to Baldor motor"
         }
     ]
-},
+},
 {
     "CO": "C000207848",
     "purchaseOrder": "CG-2021-164-001",
@@ -4938,7 +4938,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngDccxc55wwUTE4timhqwrGTMnfYLK2v/6VJ-PTBqZx8STTi3dOQV6OC7NWViO8Q6-V76AzKucVQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207849",
     "purchaseOrder": "CG-2021-164-001",
@@ -4976,7 +4976,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngaU9UXEXa1PpvJQvgNntsBBljWVUQmV/f4zlwM88mk67TrQ9Ia5h7EQZqnEUvXR9-vb4AirecVQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207850",
     "purchaseOrder": "CG-2021-164-001",
@@ -5014,7 +5014,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngDcd9FdQcXlWG9KKKEMZRn4dN7eMkZQ/6dlK3xc3AE4C0_DE7XAzHgiWNb_PT3Tx-_76Ao8CcVQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208158",
     "purchaseOrder": "CG-2021-150-001",
@@ -5052,7 +5052,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/oA1Gh59k8Se4yfnVHzJHXxr7npeWfQjU/zjttM6gzsYHDL-wAgBnCzbhEMsK5-35P-lLKgn70Ebgk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208224",
     "purchaseOrder": "CG-2021-172-001",
@@ -5103,7 +5103,7 @@
             "description": "Release order from hold. Due date to 7 Apr 2022"
         }
     ]
-},
+},
 {
     "CO": "C000208307",
     "purchaseOrder": "CG-2021-136-002",
@@ -5148,7 +5148,7 @@
             "description": "Eaton controller to ship with C0207194. Due date for that would be 3 Mar 2022."
         }
     ]
-},
+},
 {
     "CO": "C000208362",
     "purchaseOrder": "CG-2021-170-001",
@@ -5211,7 +5211,7 @@
             "description": "Motor details: TECHTOP VHS 447TP350U4B S/N 02 211221."
         }
     ]
-},
+},
 {
     "CO": "C000208364",
     "purchaseOrder": "CG-2021-170-001",
@@ -5280,7 +5280,7 @@
             "description": "Revised due date to 15 Apr 2022"
         }
     ]
-},
+},
 {
     "CO": "C000208778",
     "purchaseOrder": "CG-2021-175-001",
@@ -5318,7 +5318,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208779",
     "purchaseOrder": "CG-2021-175-001",
@@ -5356,7 +5356,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/pEqisBXy684ng8ci2My8xRIfHx8glpMf/Fv_3UkJ5wT391gGPAoxo-nXZ_-CL1T9l-vreAeW49qwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208780",
     "purchaseOrder": "CG-2021-175-001",
@@ -5394,7 +5394,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000209603",
     "purchaseOrder": "CG-2022-001-001",
@@ -5432,7 +5432,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000209635",
     "purchaseOrder": "CG-2022-003-001",
@@ -5470,7 +5470,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000210215",
     "purchaseOrder": "CG-2022-012-001",
@@ -5508,7 +5508,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/pEqj24NvwD9mdsOCtAWDPz1OnoXNeHao/CjyPRotA23URVCPIP28Rk3CFahltu6OV-UrgA9oc9qwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000210216",
     "purchaseOrder": "CG-2022-012-001",
@@ -5546,7 +5546,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/pEqizPBOED5mscmLpG9ZPCofm9binZQE/gFW2bI6kGZvwAUUXsMuuzvh_SaF84fFE-jbiA25Q9qwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000210562",
     "purchaseOrder": "CG-2022-014-001",
@@ -5584,7 +5584,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000212165",
     "purchaseOrder": "CG-2022-040-001",
@@ -5635,7 +5635,7 @@
             "description": "Order placed on hold. "
         }
     ]
-},
+},
 {
     "CO": "C000212166",
     "purchaseOrder": "CG-2022-040-001",
@@ -5686,7 +5686,7 @@
             "description": "Order placed on hold. "
         }
     ]
-},
+},
 {
     "CO": "C000212237",
     "purchaseOrder": "CG-2022-030-001",
@@ -5737,7 +5737,7 @@
             "description": "Pump discharge pressure changed to 145psi (335TDH)."
         }
     ]
-},
+},
 {
     "CO": "C000214410",
     "purchaseOrder": "CG-2022-056-001",
@@ -5775,7 +5775,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000187745",
     "purchaseOrder": "",
@@ -5813,7 +5813,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000191587",
     "purchaseOrder": "",
@@ -5851,7 +5851,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/573683537838911877/sOpS8OVVEmAfBJ3GO1CtP1Id0C1icm_3-trvAApAkTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194076",
     "purchaseOrder": "",
@@ -5896,7 +5896,7 @@
             "description": "Add 1 flow meter FT-FluxFP-0LS0"
         }
     ]
-},
+},
 {
     "CO": "C000194079",
     "purchaseOrder": "",
@@ -5934,7 +5934,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653953374728287/YmhwM7jx_aQ0TBUL5BR0_PEviRLdX7LL-G7wgaKokTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194080",
     "purchaseOrder": "",
@@ -5972,7 +5972,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653951569080408/OJ0DuvDfzVvLBSbg8iimDOXZVE68UMH0-nLwgHswkTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194387",
     "purchaseOrder": "",
@@ -6010,7 +6010,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653953292939357/NV9Uppg8R87KZ8co8f8s1HMdleoQa9Fl-ybwAiNkkTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195454",
     "purchaseOrder": "",
@@ -6048,7 +6048,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781797380406694/RiXjbHI6OrS6VQPMnX6IGxdQCk7eZfFe-B70gfuckTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195499",
     "purchaseOrder": "",
@@ -6086,7 +6086,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781799467072960/vpsJDWtOd6LH2ZdGy8YfDgT-l5hwdKgo-Kb0AUu4kTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195564",
     "purchaseOrder": "",
@@ -6131,7 +6131,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000197020",
     "purchaseOrder": 110138.0,
@@ -6176,7 +6176,7 @@
             "description": "Change freight terms to CIF Penang Port"
         }
     ]
-},
+},
 {
     "CO": "C000197919",
     "purchaseOrder": 110157.0,
@@ -6233,7 +6233,7 @@
             "description": "Add export boxing"
         }
     ]
-},
+},
 {
     "CO": "C000197982",
     "purchaseOrder": 110158.0,
@@ -6296,7 +6296,7 @@
             "description": "Add export boxing"
         }
     ]
-},
+},
 {
     "CO": "C000202141",
     "purchaseOrder": "110212/110215",
@@ -6334,7 +6334,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/m7V3daeU6FQIcKyIS0SfO4lxo1dvzczJ/wxfwYaRA-JVNZR378pOSsiWCv3ZiEiDJ-4rFgiUFoFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000203008",
     "purchaseOrder": 110227.0,
@@ -6372,7 +6372,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/m7V21MyNEFYEIENthmzbWup7oIolAQOw/3W1XAV9ptpGD1UZJ98CtmE-T3snKYP1R-rbKAnWRoFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000024245",
     "purchaseOrder": 110315.0,
@@ -6410,7 +6410,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/noTYkIBeHbZb7bkuRdXk1Lqu0lZNRtDt/BtEXSap0YimWGId5SHmvqCik8wGWE7cD-WrwAfDa7Wwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000024455",
     "purchaseOrder": 110343.0,
@@ -6448,7 +6448,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000213275",
     "purchaseOrder": 110448.0,
@@ -6486,7 +6486,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000213308",
     "purchaseOrder": 110448.0,
@@ -6524,7 +6524,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000214143",
     "purchaseOrder": 110458.0,
@@ -6562,7 +6562,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000214144",
     "purchaseOrder": 110458.0,
@@ -6600,7 +6600,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000188477",
     "purchaseOrder": "",
@@ -6638,7 +6638,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000188485",
     "purchaseOrder": "",
@@ -6676,7 +6676,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/609546484026752883/cQ3v65-zk4fK1gSHvrB3IOg4PWiRJrcA-wL9gpFOLdQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000189927",
     "purchaseOrder": "",
@@ -6714,7 +6714,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271437045211341/vngMGl9H4WTYcSZl5niqGHevJRdnEr4V--r2AfjQlTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000189928",
     "purchaseOrder": "",
@@ -6759,7 +6759,7 @@
             "description": "Change CRV to 300#"
         }
     ]
-},
+},
 {
     "CO": "C000190099",
     "purchaseOrder": "",
@@ -6810,7 +6810,7 @@
             "description": "Due date changed to 1 Jul 2020"
         }
     ]
-},
+},
 {
     "CO": "C000190103",
     "purchaseOrder": "",
@@ -6861,7 +6861,7 @@
             "description": "Due date changed to 1 Jul 2020"
         }
     ]
-},
+},
 {
     "CO": "C000190107",
     "purchaseOrder": "",
@@ -6912,7 +6912,7 @@
             "description": "Due date changed to 1 Jul 2020"
         }
     ]
-},
+},
 {
     "CO": "C000190114",
     "purchaseOrder": "",
@@ -6963,7 +6963,7 @@
             "description": "Due date changed to 1 Jul 2020"
         }
     ]
-},
+},
 {
     "CO": "C000190117",
     "purchaseOrder": "",
@@ -7014,7 +7014,7 @@
             "description": "Due date changed to 1 Jul 2020"
         }
     ]
-},
+},
 {
     "CO": "C000190120",
     "purchaseOrder": "",
@@ -7065,7 +7065,7 @@
             "description": "Due date changed to 1 Jul 2020"
         }
     ]
-},
+},
 {
     "CO": "C000192455",
     "purchaseOrder": "",
@@ -7103,7 +7103,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/572690285293772821/WngjsdupYXBqc9jIdtrG-6fxIOeKUcOR-Gb.AxJQlTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192457",
     "purchaseOrder": "",
@@ -7141,7 +7141,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677922360434689/vZW6Zor5uDK0dOdgUHMUuRwGAVOAJt02-XL8gk6klTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192458",
     "purchaseOrder": "",
@@ -7179,7 +7179,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677924061224963/dt2_31BdgA-TQ8u3Z4nvJtbuuLbMQJkn-vr.AEr4lTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192459",
     "purchaseOrder": "",
@@ -7217,7 +7217,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677926519087109/CNHpjjRzQ8onMOptz2BQkNV6dZLIxiwS-4r-g4cQlTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192660",
     "purchaseOrder": "",
@@ -7255,7 +7255,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677928645599239/2ON-tdHjfQebLVtNXCv2nILvSU8NV-be-AraASv0pTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192662",
     "purchaseOrder": "",
@@ -7293,7 +7293,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/572677931109752841/1303xE-NSSLst4TcrpWoasSCu9qBsw2X-H7YgYAMqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193063",
     "purchaseOrder": "",
@@ -7344,7 +7344,7 @@
             "description": "Motor frame corrected to 447/9TS."
         }
     ]
-},
+},
 {
     "CO": "C000193064",
     "purchaseOrder": "",
@@ -7382,7 +7382,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/592971644761322818/eF0oODO9FDL1cSYFEkXl9hoOkhhytgu2-pbbgcCEqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193582",
     "purchaseOrder": "",
@@ -7420,7 +7420,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/579927258735620722/70ws2LQKG4LEMGQkoDWg-uNKDSm26mpm-ybZgHSoqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000193583",
     "purchaseOrder": "",
@@ -7458,7 +7458,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/579927260182655642/vhmTgnmt2Mcw58dLsdHhqRYHvIQ93NtP-O7fg70AqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000195886",
     "purchaseOrder": "",
@@ -7503,7 +7503,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000208366",
     "purchaseOrder": "11056P/WRP/ST/XI-26/21",
@@ -7548,7 +7548,7 @@
             "description": "Add 10 MRV and WC"
         }
     ]
-},
+},
 {
     "CO": "C000024345",
     "purchaseOrder": "12064P/WRP/XII-26/21",
@@ -7586,7 +7586,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000212120",
     "purchaseOrder": "3015P",
@@ -7624,7 +7624,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000212123",
     "purchaseOrder": "3015P",
@@ -7662,7 +7662,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000212125",
     "purchaseOrder": "3014P",
@@ -7700,7 +7700,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000212126",
     "purchaseOrder": "3014P",
@@ -7738,7 +7738,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000189870",
     "purchaseOrder": "",
@@ -7776,7 +7776,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436726444233/WUW1vp5EWOaOUUvcTRTS0RouYujqEdW9-G7wAbbQeTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000189900",
     "purchaseOrder": "",
@@ -7814,7 +7814,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192617",
     "purchaseOrder": "",
@@ -7859,7 +7859,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000192761",
     "purchaseOrder": "",
@@ -7897,7 +7897,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/573053262144512001/-nucyok6Otk5z_bVLU04zMce0rlPslSd-Ar2gYv4eTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192762",
     "purchaseOrder": "",
@@ -7942,7 +7942,7 @@
             "description": "Change secondary design to 550m3/h @ 90m."
         }
     ]
-},
+},
 {
     "CO": "C000193361",
     "purchaseOrder": "",
@@ -7987,7 +7987,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000194088",
     "purchaseOrder": "",
@@ -8025,7 +8025,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194814",
     "purchaseOrder": "",
@@ -8076,7 +8076,7 @@
             "description": "Marathon WAA055580"
         }
     ]
-},
+},
 {
     "CO": "C000196894",
     "purchaseOrder": "",
@@ -8133,7 +8133,7 @@
             "description": "Controllers shipping with an HVAC order"
         }
     ]
-},
+},
 {
     "CO": "C000198484",
     "purchaseOrder": 21121008.0,
@@ -8190,7 +8190,7 @@
             "description": "Serial number added. 210302072T, 210302073T, 210302074T"
         }
     ]
-},
+},
 {
     "CO": "C000198487",
     "purchaseOrder": 21121008.0,
@@ -8241,7 +8241,7 @@
             "description": "Shipping direct from Canada"
         }
     ]
-},
+},
 {
     "CO": "C000198892",
     "purchaseOrder": 21121020.0,
@@ -8286,7 +8286,7 @@
             "description": "Corrected speed to 2860RPM"
         }
     ]
-},
+},
 {
     "CO": "C000198894",
     "purchaseOrder": 21121020.0,
@@ -8324,7 +8324,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/620712013108129844/dvX5SLSpb6IB7Cbr79q6kWkuBN0KQ_ks-ZrlgZpp4nQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199810",
     "purchaseOrder": 21121046.0,
@@ -8369,7 +8369,7 @@
             "description": "Pump cancelled and replace by C000201174"
         }
     ]
-},
+},
 {
     "CO": "C000201174",
     "purchaseOrder": 21121088.0,
@@ -8414,7 +8414,7 @@
             "description": "2280 l/min @ 70m"
         }
     ]
-},
+},
 {
     "CO": "C000208217",
     "purchaseOrder": 21121316.0,
@@ -8452,7 +8452,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208220",
     "purchaseOrder": 21121316.0,
@@ -8490,7 +8490,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208222",
     "purchaseOrder": 21121316.0,
@@ -8528,7 +8528,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000213205",
     "purchaseOrder": 22121091.0,
@@ -8573,7 +8573,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000192003",
     "purchaseOrder": "",
@@ -8618,7 +8618,7 @@
             "description": "Add wood flange covers prior to shipping"
         }
     ]
-},
+},
 {
     "CO": "C000192004",
     "purchaseOrder": "",
@@ -8663,7 +8663,7 @@
             "description": "Add wood flange covers prior to shipping"
         }
     ]
-},
+},
 {
     "CO": "C000208331",
     "purchaseOrder": "BK/PAT/11-21",
@@ -8701,7 +8701,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/ou4GmpioQMCL1P6njuCOQMnJSfsLhQvh/kxBg4niweV4KMsz20XwJSCvB40QvlprJ-A7cAHUc9qwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208802",
     "purchaseOrder": "BK/PAT/11-21",
@@ -8752,7 +8752,7 @@
             "description": "Corrected motor frame to 445TS."
         }
     ]
-},
+},
 {
     "CO": "C000208803",
     "purchaseOrder": "BK/PAT/11-21",
@@ -8803,7 +8803,7 @@
             "description": "Corrected motor frame to 445TS."
         }
     ]
-},
+},
 {
     "CO": "C000209235",
     "purchaseOrder": "BEK02",
@@ -8866,7 +8866,7 @@
             "description": "Payment terms change to 100% LC."
         }
     ]
-},
+},
 {
     "CO": "C000209238",
     "purchaseOrder": "BEK02",
@@ -8923,7 +8923,7 @@
             "description": "Order release from hold."
         }
     ]
-},
+},
 {
     "CO": "C000192119",
     "purchaseOrder": "",
@@ -8961,7 +8961,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/570495725717206947/J1qfoA5rM4Rl9AAzl_RLsET0Qs87DHkC-a7jgx4kqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192654",
     "purchaseOrder": "",
@@ -8999,7 +8999,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/573333651087990785/zOhw5a-NWl0k4rZRwZKl0kQVdwzmCCTs-y7iALJwqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197232",
     "purchaseOrder": 14826.0,
@@ -9037,7 +9037,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/606660871801845552/uLyouE_qTzXF3Hj5N4VjKXSpvewqkj1e-drcA2dxKawg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198307",
     "purchaseOrder": "",
@@ -9075,7 +9075,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/610364287761824958/A_bKG_fosUY4zf56c7EriGj3jDupZPBc-Bb2ApBpzeAg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000200513",
     "purchaseOrder": 16534.0,
@@ -9132,7 +9132,7 @@
             "description": "Flanges to be covered with wood prior to shipment"
         }
     ]
-},
+},
 {
     "CO": "C000206488",
     "purchaseOrder": 20541.0,
@@ -9170,7 +9170,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nmnYcCStkGpQCd3UprjKTIHkuLvtFCaA/9zQm2hWRrEYcKB-v0HKmETbzRDdwTY-p-1rygwgtgWwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207103",
     "purchaseOrder": 20741.0,
@@ -9208,7 +9208,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194082",
     "purchaseOrder": "",
@@ -9246,7 +9246,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197475",
     "purchaseOrder": "",
@@ -9284,7 +9284,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198878",
     "purchaseOrder": 107652.0,
@@ -9329,7 +9329,7 @@
             "description": "Change engine destination temperature to 120\u00b0F."
         }
     ]
-},
+},
 {
     "CO": "C000201788",
     "purchaseOrder": "QPO21338",
@@ -9367,7 +9367,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204058",
     "purchaseOrder": "QPO 21837",
@@ -9412,7 +9412,7 @@
             "description": "Change from JU6H-UF34 to JU6H-UF54"
         }
     ]
-},
+},
 {
     "CO": "C000204165",
     "purchaseOrder": "QPO21837",
@@ -9450,7 +9450,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204901",
     "purchaseOrder": "QPO 22042",
@@ -9488,7 +9488,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000206541",
     "purchaseOrder": 112623.0,
@@ -9533,7 +9533,7 @@
             "description": "UL only"
         }
     ]
-},
+},
 {
     "CO": "C000214201",
     "purchaseOrder": "QPO23827",
@@ -9578,7 +9578,7 @@
             "description": "UL only"
         }
     ]
-},
+},
 {
     "CO": "C000195595",
     "purchaseOrder": "",
@@ -9623,7 +9623,7 @@
             "description": "Add export crating"
         }
     ]
-},
+},
 {
     "CO": "C000197282",
     "purchaseOrder": 560220.0,
@@ -9668,7 +9668,7 @@
             "description": "add export crating"
         }
     ]
-},
+},
 {
     "CO": "C000199807",
     "purchaseOrder": 562189.0,
@@ -9706,7 +9706,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/625777959021623750/1EEeFHByoNxa8yvQvhvhjIBN0NyolXN8-X7qAUvw1rwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199808",
     "purchaseOrder": 562191.0,
@@ -9744,7 +9744,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/625777958658816452/vnr5eaZLKMmk5ucVD4H1r40h19kW7ll7-n7oAHQU2rwg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199873",
     "purchaseOrder": 562310.0,
@@ -9782,7 +9782,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/624310735131949963/EsOZqqe6T6EcYeS1XcqUfNGoCXwotfim-xrtAnFv.qQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000200911",
     "purchaseOrder": 562821.0,
@@ -9820,7 +9820,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/628309828709692355/IyQbvYBQHGJegBmTyG1UtvdQ5KZJq8_w-J7QgBqk0uAg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000202909",
     "purchaseOrder": 564158.0,
@@ -9865,7 +9865,7 @@
             "description": "Add crating. Customer prefer to ship via LCL."
         }
     ]
-},
+},
 {
     "CO": "C000203319",
     "purchaseOrder": 564365.0,
@@ -9903,7 +9903,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/m2sd7MgtQwHirtbVDXzTx3gaGrIkDauW/aG8dDGidtKhfhPy0xoSnxAkWqm6WkX9q-_rJAc21oFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000203933",
     "purchaseOrder": 564632.0,
@@ -9941,7 +9941,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/m2sd6VT6XZJLak1p1rtzgtqML8f8iSeI/R95_bBQHGdfoOIpILuQv_qb4VG3gK-hi-UbPAN3loFQk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208157",
     "purchaseOrder": 566891.0,
@@ -9992,7 +9992,7 @@
             "description": "Add Option BA - AC Input 220-240V"
         }
     ]
-},
+},
 {
     "CO": "C000214916",
     "purchaseOrder": 570230.0,
@@ -10030,7 +10030,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000104171",
     "purchaseOrder": "PGB0078-LEKAS",
@@ -10068,7 +10068,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000166604",
     "purchaseOrder": "009/CR/TH18/PTS/SE",
@@ -10106,7 +10106,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000176729",
     "purchaseOrder": 18120181.0,
@@ -10144,7 +10144,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nOWvQ8A5G4c6iuq0HMjeLbfH5fl3aDiF/AhZMnPr7qnKk9ybt_z9wqAU9uYjdjquV-prTAaGQDSgk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000176730",
     "purchaseOrder": 18120181.0,
@@ -10182,7 +10182,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nOWvQMDECQZMp1SbhuClRYmBdgcKITVV/mRqzYm51Oyfb7wmvswDgpxSeQxZ1MBvI-xrSgiGoDSgk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000203618",
     "purchaseOrder": "A-PA-PO20210623",
@@ -10227,7 +10227,7 @@
             "description": "Add motor routine test report"
         }
     ]
-},
+},
 {
     "CO": "C000203622",
     "purchaseOrder": "A-PA-PO20210623",
@@ -10272,7 +10272,7 @@
             "description": "Add motor routine test report"
         }
     ]
-},
+},
 {
     "CO": "C000203623",
     "purchaseOrder": "A-PA-PO20210623",
@@ -10310,7 +10310,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/loKD8YYSFSIvFofXxa40sXnSFPfqaFu0/-t6KGw1s4LVVR_qsoUB_7BBKkYKYFgrR-k7Og9F_C_Ag"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208098",
     "purchaseOrder": "AL182184",
@@ -10348,5 +10348,5 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/oWuo70APnCYy2oyMgmjjebVuoELPRdHq/K4RfhZE4s-3Xivl7GU6aE-Q6uPbXYieK-G7nAY0c0fgk"
     },
     "remarks": []
-}
+}
 ]
