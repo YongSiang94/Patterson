@@ -1,4 +1,4 @@
-[
+[
 {
     "CO": "C000194082",
     "purchaseOrder": "",
@@ -36,7 +36,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197475",
     "purchaseOrder": "",
@@ -74,7 +74,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198878",
     "purchaseOrder": 107652.0,
@@ -119,7 +119,7 @@
             "description": "Change engine destination temperature to 120\u00b0F."
         }
     ]
-},
+},
 {
     "CO": "C000201788",
     "purchaseOrder": "QPO21338",
@@ -157,7 +157,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204058",
     "purchaseOrder": "QPO 21837",
@@ -202,7 +202,7 @@
             "description": "Change from JU6H-UF34 to JU6H-UF54"
         }
     ]
-},
+},
 {
     "CO": "C000204165",
     "purchaseOrder": "QPO21837",
@@ -240,7 +240,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000204901",
     "purchaseOrder": "QPO 22042",
@@ -278,7 +278,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000206541",
     "purchaseOrder": 112623.0,
@@ -294,8 +294,8 @@
     "dueDate": "10 Feb 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "cancelled",
+            "danger"
         ],
         "shipment": [
             "TBA",
@@ -312,7 +312,7 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfF3nc3S7IELnGRk2e2MRPaVp5PLepoV/A0Qd7ljD7kIhgHeth0HHRjjtfKlPci6J-J7fg5s_D_Ag",
+        "submittal": "",
         "iom": ""
     },
     "remarks": [
@@ -321,9 +321,21 @@
             "type": "update",
             "overview": "nameplate",
             "description": "UL only"
+        },
+        {
+            "date": "22 Nov 2021",
+            "type": "update",
+            "overview": "order",
+            "description": "Put order on hold"
+        },
+        {
+            "date": "10 Aug 2022",
+            "type": "update",
+            "overview": "order",
+            "description": "Cancel order"
         }
     ]
-},
+},
 {
     "CO": "C000214201",
     "purchaseOrder": "QPO23827",
@@ -357,7 +369,7 @@
     },
     "documents": {
         "test": "",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/ou4F64ScSaXeUkcZHds1NFrpcMMNHt1H/pYCnbw4_TFhJY7MrQBuZcuxaXlQT9YEb-h7eAE9J-wAk",
         "iom": ""
     },
     "remarks": [
@@ -368,5 +380,81 @@
             "description": "UL only"
         }
     ]
-}
+},
+{
+    "CO": "C000216201",
+    "purchaseOrder": "QPO117680",
+    "projectRef": "Tailison Greenbushes",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA88",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 1780,
+    "orderDate": "9 Aug 2022",
+    "dueDate": "3 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/puNDZfDdfDIdcmYoCYTPmH1BA6d0oiO1/1hok9qNcF4IQ9-388lTjpDJYhlPfXR9_-vrYAcFN-wAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000216228",
+    "purchaseOrder": "QPO117680",
+    "projectRef": "Tailison Greenbushes",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 3000,
+    "orderDate": "9 Aug 2022",
+    "dueDate": "3 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/puNDf1KJrGnHWcG7GSqmFGBCDPuSBhdO/78SzVJzLF1kDElItR5cQBjL8VZDg3RN5-irYAw0d-wAk",
+        "iom": ""
+    },
+    "remarks": []
+}
 ]
