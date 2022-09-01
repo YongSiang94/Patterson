@@ -1107,7 +1107,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/p64k8ndlHBV7RV60oO5GXGL7RIL0Eh9C/Ng9h_8av50Zc2MLdphoLQN5zXncNdmnK-1bLAzCc8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lW8aH76YK6YWEXVjrezrs8cQBZdDUWMw/NmGO1S2xfgTqj7P4EUxHCCsdEwusA-U0-9rtggOPg-gg",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/q9IffTDV6I1NgiFHXi8IdOcKoYCqpCNQ/MKL_sMAbv3xI6jk8RTdC5niIE5CeNQt5-sLQgx0YSzAk"
     },
     "remarks": []
 },
@@ -1592,6 +1592,12 @@
             "type": "update",
             "overview": "shipping",
             "description": "To ship with fire pumps (C0209471 & C0209488)"
+        },
+        {
+            "date": "10 Aug 2022",
+            "type": "change order",
+            "overview": "order",
+            "description": "Add National Ni-Al-Bronze bearings as spares"
         }
     ]
 }
