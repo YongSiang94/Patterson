@@ -1,4 +1,4 @@
-[
+[
 {
     "CO": "C000189870",
     "purchaseOrder": "",
@@ -36,7 +36,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436726444233/WUW1vp5EWOaOUUvcTRTS0RouYujqEdW9-G7wAbbQeTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000189900",
     "purchaseOrder": "",
@@ -74,7 +74,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192617",
     "purchaseOrder": "",
@@ -119,7 +119,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000192761",
     "purchaseOrder": "",
@@ -157,7 +157,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/573053262144512001/-nucyok6Otk5z_bVLU04zMce0rlPslSd-Ar2gYv4eTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192762",
     "purchaseOrder": "",
@@ -202,7 +202,7 @@
             "description": "Change secondary design to 550m3/h @ 90m."
         }
     ]
-},
+},
 {
     "CO": "C000193361",
     "purchaseOrder": "",
@@ -247,7 +247,7 @@
             "description": "Pump is UL only."
         }
     ]
-},
+},
 {
     "CO": "C000194088",
     "purchaseOrder": "",
@@ -285,7 +285,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000194814",
     "purchaseOrder": "",
@@ -336,7 +336,7 @@
             "description": "Marathon WAA055580"
         }
     ]
-},
+},
 {
     "CO": "C000196894",
     "purchaseOrder": "",
@@ -393,7 +393,7 @@
             "description": "Controllers shipping with an HVAC order"
         }
     ]
-},
+},
 {
     "CO": "C000198484",
     "purchaseOrder": 21121008.0,
@@ -450,7 +450,7 @@
             "description": "Serial number added. 210302072T, 210302073T, 210302074T"
         }
     ]
-},
+},
 {
     "CO": "C000198487",
     "purchaseOrder": 21121008.0,
@@ -501,7 +501,7 @@
             "description": "Shipping direct from Canada"
         }
     ]
-},
+},
 {
     "CO": "C000198892",
     "purchaseOrder": 21121020.0,
@@ -546,7 +546,7 @@
             "description": "Corrected speed to 2860RPM"
         }
     ]
-},
+},
 {
     "CO": "C000198894",
     "purchaseOrder": 21121020.0,
@@ -584,7 +584,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/620712013108129844/dvX5SLSpb6IB7Cbr79q6kWkuBN0KQ_ks-ZrlgZpp4nQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000199810",
     "purchaseOrder": 21121046.0,
@@ -629,7 +629,7 @@
             "description": "Pump cancelled and replace by C000201174"
         }
     ]
-},
+},
 {
     "CO": "C000201174",
     "purchaseOrder": 21121088.0,
@@ -674,7 +674,7 @@
             "description": "2280 l/min @ 70m"
         }
     ]
-},
+},
 {
     "CO": "C000208217",
     "purchaseOrder": 21121316.0,
@@ -712,7 +712,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208220",
     "purchaseOrder": 21121316.0,
@@ -750,7 +750,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208222",
     "purchaseOrder": 21121316.0,
@@ -788,7 +788,7 @@
         "iom": ""
     },
     "remarks": []
-},
+},
 {
     "CO": "C000213205",
     "purchaseOrder": 22121091.0,
@@ -804,12 +804,12 @@
     "dueDate": "13 Jul 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -821,7 +821,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/q7na2JvIcyzpgmq6Q3vlBj9yoCjOjKZO/r1bCxWSuxpNGM_iT1-Tt4mxi8zcmnzLc-obVg1n8SzAk",
         "submittal": "https://synology.pattersonsingapore.com/d/s/oZNv8DApKwTrN0vYG3qx8l1Jlw0rDIQv/o8Oy1zCFcOPquxqPO-vXPCJp2mEtGxuc-n7pAFmYegAk",
         "iom": ""
     },
@@ -833,5 +833,5 @@
             "description": "Pump is UL only."
         }
     ]
-}
+}
 ]
