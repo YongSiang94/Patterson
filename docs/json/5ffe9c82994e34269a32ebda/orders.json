@@ -1,4 +1,4 @@
-[
+[
 {
     "CO": "C000192119",
     "purchaseOrder": "",
@@ -36,7 +36,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/570495725717206947/J1qfoA5rM4Rl9AAzl_RLsET0Qs87DHkC-a7jgx4kqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000192654",
     "purchaseOrder": "",
@@ -74,7 +74,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/573333651087990785/zOhw5a-NWl0k4rZRwZKl0kQVdwzmCCTs-y7iALJwqTQg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000197232",
     "purchaseOrder": 14826.0,
@@ -112,7 +112,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/606660871801845552/uLyouE_qTzXF3Hj5N4VjKXSpvewqkj1e-drcA2dxKawg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000198307",
     "purchaseOrder": "",
@@ -150,7 +150,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/610364287761824958/A_bKG_fosUY4zf56c7EriGj3jDupZPBc-Bb2ApBpzeAg_"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000200513",
     "purchaseOrder": 16534.0,
@@ -207,7 +207,7 @@
             "description": "Flanges to be covered with wood prior to shipment"
         }
     ]
-},
+},
 {
     "CO": "C000206488",
     "purchaseOrder": 20541.0,
@@ -245,7 +245,7 @@
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/nmnYcCStkGpQCd3UprjKTIHkuLvtFCaA/9zQm2hWRrEYcKB-v0HKmETbzRDdwTY-p-1rygwgtgWwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000207103",
     "purchaseOrder": 20741.0,
@@ -283,5 +283,5 @@
         "iom": ""
     },
     "remarks": []
-}
+}
 ]
