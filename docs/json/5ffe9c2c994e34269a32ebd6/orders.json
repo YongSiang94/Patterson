@@ -1,4 +1,4 @@
-[
+[
 {
     "CO": "C000192003",
     "purchaseOrder": "",
@@ -43,7 +43,7 @@
             "description": "Add wood flange covers prior to shipping"
         }
     ]
-},
+},
 {
     "CO": "C000192004",
     "purchaseOrder": "",
@@ -88,7 +88,7 @@
             "description": "Add wood flange covers prior to shipping"
         }
     ]
-},
+},
 {
     "CO": "C000208331",
     "purchaseOrder": "BK/PAT/11-21",
@@ -126,7 +126,7 @@
         "iom": "https://synology.pattersonsingapore.com/d/s/ou4GmpioQMCL1P6njuCOQMnJSfsLhQvh/kxBg4niweV4KMsz20XwJSCvB40QvlprJ-A7cAHUc9qwk"
     },
     "remarks": []
-},
+},
 {
     "CO": "C000208802",
     "purchaseOrder": "BK/PAT/11-21",
@@ -150,8 +150,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -177,7 +177,7 @@
             "description": "Corrected motor frame to 445TS."
         }
     ]
-},
+},
 {
     "CO": "C000208803",
     "purchaseOrder": "BK/PAT/11-21",
@@ -201,8 +201,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -228,7 +228,7 @@
             "description": "Corrected motor frame to 445TS."
         }
     ]
-},
+},
 {
     "CO": "C000209235",
     "purchaseOrder": "BEK02",
@@ -291,7 +291,7 @@
             "description": "Payment terms change to 100% LC."
         }
     ]
-},
+},
 {
     "CO": "C000209238",
     "purchaseOrder": "BEK02",
@@ -348,5 +348,5 @@
             "description": "Order release from hold."
         }
     ]
-}
+}
 ]
