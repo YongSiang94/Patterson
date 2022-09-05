@@ -4255,5 +4255,43 @@
         "iom": ""
     },
     "remarks": []
+},
+{
+    "CO": "C000216947",
+    "purchaseOrder": "CG-2022-113-001",
+    "projectRef": "APTIV Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF50",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 231,
+    "speed": 2100,
+    "orderDate": "1 Sep 2022",
+    "dueDate": "16 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/q8UZPIuPU5LtNUIfqfEqNnPMn3wdGgb6/oNUzhmYX9RhK7ukUu4LHf0MbQ0A-14H6-PLnA1N79zgk",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
