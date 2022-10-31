@@ -1490,6 +1490,12 @@
             "type": "correction",
             "overview": "curve",
             "description": "EPC corrected to EPC23691"
+        },
+        {
+            "date": "18 Oct 2022",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add 3 Combined High & Low Level Fuel Switch."
         }
     ]
 },
@@ -1547,6 +1553,12 @@
             "type": "correction",
             "overview": "material",
             "description": "Diffuser and suction bell reordered. Change OA date to 18 Nov 2022"
+        },
+        {
+            "date": "18 Oct 2022",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add 1 Combined High & Low Fuel Level Switch."
         }
     ]
 },
@@ -6570,6 +6582,82 @@
     "remarks": []
 },
 {
+    "CO": "C000024740",
+    "purchaseOrder": 110425.0,
+    "projectRef": "Dexcom",
+    "driverType": "Electric",
+    "driverInfo": "Regal - 75HP 2980RPM TEFC",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 254,
+    "speed": 2980,
+    "orderDate": "28 Apr 2022",
+    "dueDate": "20 Jul 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qxRgGmVgc5YIN0GYCtQARMgVmisaiHZY/Rwa22gkOsm9iaGeI3ABd5gXL9qEwq4om-Ib3AnBj48gk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/pvWOoYBVgkLJcVANA1nhusCcdF6VyHne/WPTa4v09I2Ek8J6UVHDlpuockMIFKIb4-arzAy6T38gk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024742",
+    "purchaseOrder": 110425.0,
+    "projectRef": "",
+    "driverType": "Electric",
+    "driverInfo": "Lincoln - 250HP 2980RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 370,
+    "speed": 2970,
+    "orderDate": "28 Apr 2022",
+    "dueDate": "20 Jul 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qxRhnYGL9DrlGzrhGaGxlamcECFeC59l/ECa5hzG1jlB1xsBCEvipmCqRlXIGa7LL-jb1gQTf48gk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/pyYZtzqF77KbUJLsKkI4mUQAcXpPPoTx/45RS8WdvOvhv5VYa4kw8tXw7wT5QZLBv-1b2gv0X48gk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000213275",
     "purchaseOrder": 110448.0,
     "projectRef": "Fuji Kulim",
@@ -7936,6 +8024,82 @@
     "remarks": []
 },
 {
+    "CO": "C000218149",
+    "purchaseOrder": "9061P",
+    "projectRef": "Indigo Hotel - Bandung Pakar",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 450,
+    "speed": 3000,
+    "orderDate": "7 Oct 2022",
+    "dueDate": "8 Feb 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/qhGeqLdkwB9ixyqg6mk6oVB9dPoaepJp/KWS8N9XU4V6UMkhS5cwYnWP1ESZ9nVQx-8LzAZdZr5gk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000218151",
+    "purchaseOrder": "9061P",
+    "projectRef": "Indigo Hotel - Bandung Pakar",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM ODP",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 450,
+    "speed": 2950,
+    "orderDate": "7 Oct 2022",
+    "dueDate": "8 Feb 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/qaBBB6IZjxMDQWiNrhwc7Po0h7MxxIBP/JQfQZufcNBS_aH4EagRT9G5o9X4qRXhy-17sgfxBr5gk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
     "CO": "C000189870",
     "purchaseOrder": "",
     "projectRef": "IICH @ Healthcity Novena",
@@ -8748,8 +8912,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -9861,7 +10025,14 @@
         "submittal": "https://synology.pattersonsingapore.com/d/s/puNDf1KJrGnHWcG7GSqmFGBCDPuSBhdO/78SzVJzLF1kDElItR5cQBjL8VZDg3RN5-irYAw0d-wAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "11 Oct 2022",
+            "type": "change order",
+            "overview": "pump duty",
+            "description": "1760GPM @ 335ft. EPC4526"
+        }
+    ]
 },
 {
     "CO": "C000195595",
@@ -10354,6 +10525,51 @@
     "remarks": []
 },
 {
+    "CO": "C000217259",
+    "purchaseOrder": 571712.0,
+    "projectRef": "Tronox Balranald",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 353,
+    "speed": 3000,
+    "orderDate": "12 Sep 2022",
+    "dueDate": "16 Jan 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/qDbOWJtHUi4Qk7dDpdxbCJq3R9u5M5bv/TcbYDrLehiAYjVQIezrj7c6H_H16tnUR-3LWAD3nt0wk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "15 Sep 2022",
+            "type": "payment",
+            "overview": "downpayment",
+            "description": "Paid 25% downpayment."
+        }
+    ]
+},
+{
     "CO": "C000104171",
     "purchaseOrder": "PGB0078-LEKAS",
     "projectRef": "LEKAS",
@@ -10732,8 +10948,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "partial",
+            "primary"
         ],
         "terms": [
             "CIF",
@@ -10745,6 +10961,13 @@
         "submittal": "https://synology.pattersonsingapore.com/d/s/q1nW827kHVyULXjmaF8y5tfIIpEBYwb5/PDqABQKmm9S4NGIFVhOsaBjawqGfcqaa-urRA4WThxgk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "24 Aug 2022",
+            "type": "payment",
+            "overview": "downpayment",
+            "description": "Paid $3712.20 via credit card."
+        }
+    ]
 }
 ]
