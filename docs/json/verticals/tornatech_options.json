@@ -1,0 +1,392 @@
+[
+{
+    "optionCode": "A02",
+    "description": "OVERSPEED ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A03",
+    "description": "LOW OIL PRESSURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A04",
+    "description": "HIGH COOLANT TEMPERATURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A05",
+    "description": "FAILURE TO START ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A06",
+    "description": "BATTERY 1 & 2 FAILURE ALARM CONTACT",
+    "pricing": 200.0
+},
+{
+    "optionCode": "A07",
+    "description": "CHARGER 1 & 2 FAILURE ALARM CONTACT",
+    "pricing": 200.0
+},
+{
+    "optionCode": "A08",
+    "description": "AC FAILURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A09",
+    "description": "SYSTEM OVERPRESSURE ALARM CONTACT (FOR ENGINES WITH PLD)",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A11",
+    "description": "EXTRA CONTROLLER TROUBLE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "A12",
+    "description": "EXTRA ENGINE TROUBLE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "Ax",
+    "description": "ADDITIONAL ENGINE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B01",
+    "description": "LOW FUEL LEVEL ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B02",
+    "description": "WATER RESERVOIR LEVEL LOW ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B03",
+    "description": "WATER RESERVOIR EMPTY ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B04",
+    "description": "LOW AMBIENT PUMP ROOM TEMPERATURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B05",
+    "description": "HIGH FUEL LEVEL ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B06",
+    "description": "LOW SYSTEM PRESSURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B07",
+    "description": "LOW SUCTION PRESSURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B08",
+    "description": "PUMP ON DEMAND ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B09",
+    "description": "FUEL TANK LEAK ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B10",
+    "description": "MAIN RELIEF VALVE OPEN ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B11",
+    "description": "FLOW METER LOOP VALVE OPEN ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B12",
+    "description": "WATER RESERVOIR LEVEL HIGH ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "B13",
+    "description": "HIGH PUMP ROOM TEMPERATURE ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "Bx",
+    "description": "OTHER ADDITION ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "D28A",
+    "description": "FIELD PROGRAMMABLE I/O BOARD - 5 INPUT / 5 OUTPUT",
+    "pricing": 444.0
+},
+{
+    "optionCode": "C06",
+    "description": "NICKEL - CADMIUM BATTERY CHARGERS (BATTERY DATA SHEET REQUIRED)",
+    "pricing": 0.0
+},
+{
+    "optionCode": "C09",
+    "description": "NON PRESSURE ACTUATED CONTROLLER W/O PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE",
+    "pricing": "RF"
+},
+{
+    "optionCode": "C14",
+    "description": "DELAYED AUTOMATIC START ON AC POWER FAILURE (FACTORY SET AT 15 MINUTES)",
+    "pricing": 0.0
+},
+{
+    "optionCode": "C19",
+    "description": "LOCKOUT / INTERLOCK CIRCUIT FROM EQUIPMENT INSTALLED INSIDE THE PUMP ROOM",
+    "pricing": 200.0
+},
+{
+    "optionCode": "D04",
+    "description": "PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE FOR FRESH WATER RATED 0-500PSI",
+    "pricing": 0.0
+},
+{
+    "optionCode": "D06",
+    "description": "PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE FOR SEAWATER RATED 0-500PSI",
+    "pricing": 978.0
+},
+{
+    "optionCode": "D11",
+    "description": "LOW SUCTION PRESSURE TRANSDUCER FOR FRESH WATER RATED FOR 0-300PSI WITH VISUAL INDICATION AND ALARM CONTACT",
+    "pricing": 444.0
+},
+{
+    "optionCode": "D11A",
+    "description": "LOW SUCTION PRESSURE TRANSDUCER FOR SEAWATER RATED FOR 0-300PSI WIT VISUAL INDICATION AND ALARM CONTACT",
+    "pricing": 756.0
+},
+{
+    "optionCode": "C08",
+    "description": "FOAM PUMP APPLICATION W/O PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE",
+    "pricing": "RF"
+},
+{
+    "optionCode": "C08A",
+    "description": "FOAM PUMP APPLICATION WITH PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE",
+    "pricing": "RF"
+},
+{
+    "optionCode": "C20",
+    "description": "DUMP VALVE CIRCUITRY FOR FOAM (ADDITIVE) PUMP APPLICATION",
+    "pricing": 356.0
+},
+{
+    "optionCode": "Bx79",
+    "description": "LOW FOAM ADDITIVE PRESSURE C/W VISUAL INDICATION AND ALARM CONTACT",
+    "pricing": 100.0
+},
+{
+    "optionCode": "C15",
+    "description": "LOW ZONE PUMP CONTROL FUNCTION",
+    "pricing": 50.0
+},
+{
+    "optionCode": "C16",
+    "description": "MEDIUM ZONE PUMP CONTROL FUNCTION",
+    "pricing": 500.0
+},
+{
+    "optionCode": "C17",
+    "description": "HIGH ZONE PUMP CONTROL FUNCTION",
+    "pricing": 450.0
+},
+{
+    "optionCode": "C13",
+    "description": "LOUVER ACTIVATION CIRCUITS",
+    "pricing": 261.0
+},
+{
+    "optionCode": "D02",
+    "description": "NEMA 4 ASSEMBLY",
+    "pricing": 1778.0
+},
+{
+    "optionCode": "D03A",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 304 PAINTED RED",
+    "pricing": 6056.0
+},
+{
+    "optionCode": "D03B",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 304 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D03C",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 316 PAINTED RED",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D03D",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 316 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D01",
+    "description": "NEMA 12 ASSEMBLY",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D01A",
+    "description": "NEMA 3R ASSEMBLY",
+    "pricing": 422.0
+},
+{
+    "optionCode": "D20",
+    "description": "NEMA 3 ASSEMBLY",
+    "pricing": 667.0
+},
+{
+    "optionCode": "D21",
+    "description": "IP54 ASSEMBLY",
+    "pricing": 422.0
+},
+{
+    "optionCode": "D22",
+    "description": "IP55 ASSEMBLY",
+    "pricing": 556.0
+},
+{
+    "optionCode": "D23",
+    "description": "IP56 ASSEMBLY",
+    "pricing": 778.0
+},
+{
+    "optionCode": "D24",
+    "description": "IP66 ASSEMBLY",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D25",
+    "description": "MOUNTING STAND (STEEL, PAINTED)",
+    "pricing": 222.0
+},
+{
+    "optionCode": "D25A",
+    "description": "MOUNTING STAND STAINLESS STEEL - 304 PAINTED",
+    "pricing": 2333.0
+},
+{
+    "optionCode": "D25B",
+    "description": "MOUNTING STAND STAINLESS STEEL - 304 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D25C",
+    "description": "MOUNTING STAND STAINLESS STEEL - 316 PAINTED",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D25D",
+    "description": "MOUNTING STAND STAINLESS STEEL - 316 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "optionCode": "D09A",
+    "description": "ANTI-CONDENSATION HEATER & THERMOSTAT",
+    "pricing": 356.0
+},
+{
+    "optionCode": "D09B",
+    "description": "ANTI-CONDENSATION HEATER & HUMIDISTAT",
+    "pricing": 356.0
+},
+{
+    "optionCode": "D09C",
+    "description": "ANTI-CONDENSATION HETER & THERMOSTAT & HUMIDISTAT",
+    "pricing": 489.0
+},
+{
+    "optionCode": "D12",
+    "description": "TROPICALIZATION",
+    "pricing": 444.0
+},
+{
+    "optionCode": "D34A",
+    "description": "CONTROLLER RATED FOR 55\u00b0C AMBIENT TEMPERATURE",
+    "pricing": 0.0
+},
+{
+    "optionCode": "D07A",
+    "description": "LOW FUEL LEVEL FLOAT 1-1/4\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 256.0
+},
+{
+    "optionCode": "D07B",
+    "description": "LOW FUEL LEVEL FLOAT 1-1/2\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 256.0
+},
+{
+    "optionCode": "D08A",
+    "description": "HIGH FUEL LEVEL FLOAT 1-1/4\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 256.0
+},
+{
+    "optionCode": "D08B",
+    "description": "HIGH FUEL LEVEL FLOAT 1-1/2\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 256.0
+},
+{
+    "optionCode": "D26",
+    "description": "COMBINED LOW AND HIGH FUEL LEVEL FLOAT SWITCH 1-1/4\"",
+    "pricing": 1417.0
+},
+{
+    "optionCode": "D26A",
+    "description": "COMBINED LOW AND HIGH FUEL LEVEL FLOAT SWITCH 1-1/2\"",
+    "pricing": 1417.0
+},
+{
+    "optionCode": "D27",
+    "description": "FUEL LEVEL PROBE LEVEL INDICATION 2\"",
+    "pricing": 4667.0
+},
+{
+    "optionCode": "C07",
+    "description": "ENGINE BLOCK HEATER CIRCUIT - 3KW MAX",
+    "pricing": 289.0
+},
+{
+    "optionCode": "C07A",
+    "description": "ENGINE BLOCK HEATER CIRCUIT - 6KW MAX",
+    "pricing": 433.0
+},
+{
+    "optionCode": "D32",
+    "description": "MODBUS RTU PROVISION",
+    "pricing": 3000.0
+},
+{
+    "optionCode": "C05",
+    "description": "CE MARK WITH FACTORY CERTIFICATE",
+    "pricing": 0.0
+},
+{
+    "optionCode": "SPK550",
+    "description": "SPARE PARTS KIT FOR GPD DIESEL ENGINE DRIVEN",
+    "pricing": 1283.0
+},
+{
+    "optionCode": "SPK551",
+    "description": "SPARE PARTS KIT FOR GPD DIESEL ENGINE DRIVEN",
+    "pricing": 2944.0
+},
+{
+    "optionCode": "SPK552",
+    "description": "SPARE PARTS KIT FOR GPD DIESEL ENGINE DRIVEN",
+    "pricing": 4900.0
+}
+]
