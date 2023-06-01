@@ -1,5 +1,43 @@
 [
 {
+    "CO": "C000133031",
+    "purchaseOrder": 1409.0,
+    "projectRef": "TBBM Tanjung Wangi",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAA60",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 402,
+    "speed": 1770,
+    "orderDate": "18 Sep 2014",
+    "dueDate": "10 Mar 2015",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/tLlWKHGIvVolPPMUZ8D3VDFBsOvU0ntt/1oGSkmHeSxHpQYE_5XCH17yfjoBwnMGx-ErlAmpcrbQo"
+    },
+    "remarks": []
+},
+{
     "CO": "C000165097",
     "purchaseOrder": "1712/056/OV/R",
     "projectRef": "Pertamina TBBM Siak",
@@ -1337,6 +1375,18 @@
             "type": "update",
             "overview": "order",
             "description": "Order released from hold. OA due to same dates as electric and jockey. "
+        },
+        {
+            "date": "7 Mar 2023",
+            "type": "change order",
+            "overview": "packaging",
+            "description": "Corrected OA to export boxing instead of standard packaging"
+        },
+        {
+            "date": "16 Mar 2023",
+            "type": "change order",
+            "overview": "packaging",
+            "description": "Cummins engine is too huge to be export boxed. Only the skid will go on standard packaging. The rest of the equipment will be by export boxing."
         }
     ]
 },
@@ -1480,9 +1530,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rwuE5EmMxGMqDi1LYchEv1cUiWREGA1o/DYGka08foH_6NAykRUvmqiV3ykXLEnhP-n7gAoey5Wgo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JOzzjUWgpH9mL6RGYfi8ppIaIweU/pSXTXrcELxwKMJ2Xirxhz5d_rb34fKYm-Jb5gDksyPAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ryua3e7hLXj7cBEpkqxPnL1O1H1AWKh4/szqxHwKOqqL75_SdGvB102ZsOuIXksCh-bbYA19W4Wgo"
     },
     "remarks": [
         {
@@ -1531,9 +1581,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rULHPp1LeVbam61J0EkjpEsPoViYEAcs/iANh9AzNFktQ2Y7ZvkeIlxAk4B7LR2St-JrPAQSa3Wgo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n9p3JMaP7pMCeTW7u7Ub0DfMNKS20Dzb/Yuy37NDf6qjyWi5iG31Kx1XmD2-UtO7t-W76g11EyPAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ryua4gYdsL67e9eS7vJzUdtczoWaNZs0/rCohXre5hCBz4wcapMJijuUoOq6QKdzp-NrYgJ8-4Wgo"
     },
     "remarks": [
         {
@@ -1612,6 +1662,348 @@
             "description": "Add National Ni-Al-Bronze bearings as spares"
         }
     ]
+},
+{
+    "CO": "C000218922",
+    "purchaseOrder": "2211/016/OV/R",
+    "projectRef": "Pertamina TBBM Pangkalan Bun",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFADX8",
+    "pumpModel": "17JMC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 365,
+    "speed": 1770,
+    "orderDate": "04 Jan 2023",
+    "dueDate": "18 Jul 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rgsuRGt0mYITkxvoDHl7OKfa4hLUr42J/wz2nwdIkbn9cDGJj763jBiGH5N9zn1RH-wLBgBx78ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000219096",
+    "purchaseOrder": "2211/014/OV/R",
+    "projectRef": "Pertamina Sumbagsel",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFD0",
+    "pumpModel": "13GLC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 1000,
+    "head": 335,
+    "speed": 1770,
+    "orderDate": "04 Jan 2023",
+    "dueDate": "18 Jul 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rgstjM1pXqnHwPrPeSjIBsdqNW6yU2gA/CCGrF6fsop_X_TzDSwBwH1fISU6vbPUF-6LCgSyb8ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000220000",
+    "purchaseOrder": "2211/013/0V/R",
+    "projectRef": "PLC Project",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP ODP 2950RPM",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 520,
+    "speed": 2950,
+    "orderDate": "13 Dec 2022",
+    "dueDate": "10 Apr 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rRkkUczMxioh4RHchi1rc4nDi9BJxxpd/MzdnJ1EpJ_AVEYQ8RpiOjaKV-Ge6rtRQ-8b9gcYf7ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000220001",
+    "purchaseOrder": "2211/013/0V/R",
+    "projectRef": "PLC Project",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 520,
+    "speed": 2800,
+    "orderDate": "13 Dec 2022",
+    "dueDate": "10 Apr 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rd43mhSV3sZlKKh4YA3Gz6rRLKwi5LtE/KJzsEnIBs1LA9zucBwhszWhHzSoxqZOd-KrCA8Kj7ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000220002",
+    "purchaseOrder": "2211/013/0V/R",
+    "projectRef": "PLC Project",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP ODP 2980RPM",
+    "pumpModel": "E4J11A",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 261,
+    "speed": 2980,
+    "orderDate": "13 Dec 2022",
+    "dueDate": "10 Apr 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rd43mm0590wm4BC33HGCNKqNPc05pQP2/RpHPK9tdK0gEwsKJjI9bEoIhM0DnX9m4-XrCAKcb7ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000220003",
+    "purchaseOrder": "2211/013/0V/R",
+    "projectRef": "PLC Project",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP ODP 2960RPM",
+    "pumpModel": "5x4x12B DMD",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 772,
+    "speed": 2960,
+    "orderDate": "13 Dec 2022",
+    "dueDate": "10 Apr 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rd43ouYktgpFhBSf25oXRlaNS3IODRz6/E2le645EFFtyHozd4QMTh6LIZdLIRsm1-j7Cg2-f7ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000220248",
+    "purchaseOrder": "2211/015/0V/R",
+    "projectRef": "Pertamina IT Banjarmasin",
+    "driverType": "Diesel",
+    "driverInfo": "DR8H-UFAA40",
+    "pumpModel": "17JHC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 457,
+    "speed": 1770,
+    "orderDate": "16 Dec 2022",
+    "dueDate": "02 May 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rO3uQAn0F2kDlwcVfVR9RKD8Ki6WHV7O/PSjUg0owUeGso_mD3crWdI2Muw0EgA_f-b7GADgX9ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000222740",
+    "purchaseOrder": "2303/008/OV/R-R1",
+    "projectRef": "Pertamina IT Tanjung Wangi",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD70",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 415,
+    "speed": 1770,
+    "orderDate": "13 Mar 2023",
+    "dueDate": "06 Oct 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/sfZrTmJLRP0o2x9GHuRWGYT60j4UGZ02/Bnp3dPcnKoqZH79kB26RgqAINxRdYnC1-pbGgbz_9ewo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000224999",
+    "purchaseOrder": "2305/012/0V/R",
+    "projectRef": "Pertamina IT Pontianak",
+    "driverType": "Diesel",
+    "driverInfo": "DT2H-UFAA88",
+    "pumpModel": "19RMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 4000,
+    "head": 491,
+    "speed": 1770,
+    "orderDate": "31 May 2023",
+    "dueDate": "13 Oct 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tgkxVCj9Mhn7ugVTD3nqbt6CJvw2gPDA/fp_VCUSfpVGFvGPeozkPsHMWAS5aqsvT-FbKAC5D9ewo",
+        "iom": ""
+    },
+    "remarks": []
 },
 {
     "CO": "C000189254",
@@ -5432,8 +5824,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -5447,7 +5839,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/pScPDkzX1CpFUSaORsZExXzztSgN8OWm/PGusqz2bFR_lMteP23zlj59HapSCq5UV-e7agNBU9qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1BfBCvoJ2lq3JVTD3TnqukcNaOeqYCG/GCvdrV1i-Ybe-5rRaICgfI7CMxl1mY4U-0r9A4C6uOgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rGIQeYxKfOuHlaOaMIJD0LPBOTLbmKd2/1i0UZWQATRvukQ3_CDeKOfm4axylD3o--BLbA7sS4Wgo"
     },
     "remarks": []
 },
@@ -5618,8 +6010,8 @@
     "dueDate": "2 Jun 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "cancelled",
+            "danger"
         ],
         "shipment": [
             "TBA",
@@ -5651,6 +6043,12 @@
             "type": "change order",
             "overview": "status",
             "description": "Order placed on hold. "
+        },
+        {
+            "date": "4 Jan 2023",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Order cancelled"
         }
     ]
 },
@@ -5669,8 +6067,8 @@
     "dueDate": "2 Jun 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "cancelled",
+            "danger"
         ],
         "shipment": [
             "TBA",
@@ -5702,6 +6100,12 @@
             "type": "change order",
             "overview": "status",
             "description": "Order placed on hold. "
+        },
+        {
+            "date": "4 Jan 2023",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Order cancelled"
         }
     ]
 },
@@ -5720,16 +6124,16 @@
     "dueDate": "27 Sep 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5737,7 +6141,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKiAdE4HbUu0YluqWHRYEJoZkeKaGCi/aI952rV-DtINS3qC3AHiljBNWKiCQVRl-JLrguT0sbQo",
         "submittal": "",
         "iom": ""
     },
@@ -5771,12 +6175,12 @@
     "dueDate": "22 Aug 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -5788,7 +6192,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qXrlXZupnNeuFtltjAlyDPJ5AHMn4xHX/pNRTIZEPE8Je0Hw2S9vFVTz2Qbz_2lZc-xrFAeda2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/p7EPVK5WvmI21Wz0478fbuBxGEihpi3l/jjMVM_tTqtyUCPBNi8htnVazVKY7ipv8-4LOAAxBGvQk",
         "iom": ""
     },
@@ -5817,8 +6221,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5855,8 +6259,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5885,6 +6289,44 @@
     "dueDate": "16 Nov 2022",
     "status": {
         "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKiDpmTlq5Uvijw61FmVtGoBKioNDA6/DAO3b7JVHsxBFvFx5yKsCIK8TlYSNvf3-TrHgvL-2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/q8UZPIuPU5LtNUIfqfEqNnPMn3wdGgb6/oNUzhmYX9RhK7ukUu4LHf0MbQ0A-14H6-PLnA1N79zgk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapRrl0sR3iQb7rfMSQiTGoXHlyMK3ey/KUbOjxeHDkboyLK19X8DL8pS2Cgb0SKd-GLSAW2S4Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000223765",
+    "purchaseOrder": "CG-2023-052-001",
+    "projectRef": "ROHM AND HAAS DONGGUAN",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF12",
+    "pumpModel": "4x3x11A ES",
+    "pumpType": "es",
+    "capacity": 250,
+    "head": 127,
+    "speed": 2600,
+    "orderDate": "19 Apr 2023",
+    "dueDate": "11 Jul 2023",
+    "status": {
+        "order": [
             "in progress",
             "primary"
         ],
@@ -5893,8 +6335,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -5903,14 +6345,52 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/q8UZPIuPU5LtNUIfqfEqNnPMn3wdGgb6/oNUzhmYX9RhK7ukUu4LHf0MbQ0A-14H6-PLnA1N79zgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tCoj5qHvxE5dMFP2SljlVGuAf0VviVjA/uuCEhD_vSwLse9I5JBKeWybS5K0LULRP-eLCgruEmbQo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000223766",
+    "purchaseOrder": "CG-2023-052-001",
+    "projectRef": "ROHM AND HAAS DONGGUAN",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF12",
+    "pumpModel": "5x3x11A ES",
+    "pumpType": "es",
+    "capacity": 400,
+    "head": 199,
+    "speed": 2600,
+    "orderDate": "19 Apr 2023",
+    "dueDate": "11 Jul 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tCyKHG9fJe5RBUfH9kBa0MhDUa8qGTmu/AFOL7MFT-f3KK_zDU4IOittaV-zy_Ve1-CbGgWDgnbQo",
         "iom": ""
     },
     "remarks": []
 },
 {
     "CO": "C000187745",
-    "purchaseOrder": "",
+    "purchaseOrder": 110001.0,
     "projectRef": "First Solar Kulim",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -5948,7 +6428,7 @@
 },
 {
     "CO": "C000191587",
-    "purchaseOrder": "",
+    "purchaseOrder": 110048.0,
     "projectRef": "Fatty Chemical (M) Sdn Bhd",
     "driverType": "Electric",
     "driverInfo": "NIDEC 150HP 2970RPM ODP",
@@ -5986,7 +6466,7 @@
 },
 {
     "CO": "C000194076",
-    "purchaseOrder": "",
+    "purchaseOrder": 110096.0,
     "projectRef": "Kimberley Clark",
     "driverType": "Diesel",
     "driverInfo": "DS0H-UFAA68",
@@ -6031,7 +6511,7 @@
 },
 {
     "CO": "C000194079",
-    "purchaseOrder": "",
+    "purchaseOrder": 110104.0,
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFADJ0",
@@ -6069,7 +6549,7 @@
 },
 {
     "CO": "C000194080",
-    "purchaseOrder": "",
+    "purchaseOrder": 110105.0,
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -6107,8 +6587,8 @@
 },
 {
     "CO": "C000194387",
-    "purchaseOrder": "",
-    "projectRef": " ",
+    "purchaseOrder": 110102.0,
+    "projectRef": "N.P.",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
     "pumpModel": "8x6 YR",
@@ -6145,7 +6625,7 @@
 },
 {
     "CO": "C000195454",
-    "purchaseOrder": "",
+    "purchaseOrder": 110120.0,
     "projectRef": "Dell",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -6183,7 +6663,7 @@
 },
 {
     "CO": "C000195499",
-    "purchaseOrder": "",
+    "purchaseOrder": 110119.0,
     "projectRef": "Smith and Nephew",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAT0",
@@ -6221,7 +6701,7 @@
 },
 {
     "CO": "C000195564",
-    "purchaseOrder": "",
+    "purchaseOrder": 110119.0,
     "projectRef": "Smith and Nephew",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -6537,7 +7017,7 @@
         ]
     },
     "documents": {
-        "test": "https://synology.pattersonsingapore.com/drive/d/s/noTplWzIExij5LhkRvpP7RbOcZM6SdWB/VhPWPFi7IEwbvlYT6uBT15iQexZ0NJk4-l73AMBG8Wwk",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tUyHRrpnJbWzibTbfsr2nD9gzR7BmpLg/pxe3SvrkVEcDXMrrT1sGdTk1xVGQl7sx-cLZgPXMpbQo",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/noTYkIBeHbZb7bkuRdXk1Lqu0lZNRtDt/BtEXSap0YimWGId5SHmvqCik8wGWE7cD-WrwAfDa7Wwk"
     },
@@ -6558,12 +7038,12 @@
     "dueDate": "12 Apr 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -6575,9 +7055,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tV25Nxfl7hoqI6H5IxNKzfrUjzWbbhX8/hM-6FsPyaz7EmXGl5S4wzfluIOjmcpWD-xrMAOqY1bQo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzb4zXJrwzi3umT2kTpWF3XwAB3CKoI/J8CkickD1N1BTxtZ6O7lzRDRvl6ghB5p-CLrAg4y9SAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/tV21WZZvmtXjPK3UFEQu6JPaGbtZoSEe/A2W7-kPeR1lBFA8TNm5jfevJkcE9e3F5-WbOAyY01bQo"
     },
     "remarks": []
 },
@@ -6622,7 +7102,7 @@
 {
     "CO": "C000024742",
     "purchaseOrder": 110425.0,
-    "projectRef": "",
+    "projectRef": "Electric Fire Pump",
     "driverType": "Electric",
     "driverInfo": "Lincoln - 250HP 2980RPM ODP",
     "pumpModel": "8x6x13B SSC",
@@ -6672,16 +7152,16 @@
     "dueDate": "23 Sep 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -6689,9 +7169,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ssAOEQOH3A4nIOeYg9s2SxrIodZryOZj/ByS9yfL1xaPpGRzBpRvDyKCoucJdgDXI-jLAgyHi2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/oaV2i83L3GHRrLqnSD7Qg2oDnrJt3DhZ/v4dvIclkzvmCl5fmunkTYBXxHrhAFtbt-hbOAiwSRxgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rrx9LPZHVQkb7L3hHOO4z5GWqbSS5bbh/1vUC-CpfinB8KRL4Jrnje4ABAaPRRHRv-Q7VgcZ24Wgo"
     },
     "remarks": []
 },
@@ -6710,16 +7190,16 @@
     "dueDate": "23 Sep 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -6727,11 +7207,18 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ssAOEFkJfYNCpVw86tXgOjNtTUDdC3Tk/nzIVQj9PDLCBCyOB__PNj2cKB2UvjadS-TLBgC2q2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxpkKuJ6NhanTRvAdBO944ay9s5sBkh6/-tf-HpQWVlKjXy3C0nzDNDt9OOdVbOok-g74AuCtF8wk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "4 Nov 2022",
+            "type": "change order",
+            "overview": "listing",
+            "description": "Pump to be only NFPA20"
+        }
+    ]
 },
 {
     "CO": "C000214143",
@@ -6748,16 +7235,16 @@
     "dueDate": "31 Oct 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -6765,9 +7252,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rOqlVNmrRnvyRLCFqKgyQpK0O6WdRMVS/KhhVOmH43GA37_9vVCAurPReUas2729R-b7pgxk8sbQo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/p7qRxxVTqyNywGS2o1jlQeKhO71HzGVH/T3pRVr5jTCga8BGgneginv-FGKMIQGMM-GbOAsN2Qxgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapSSdjOJH4FpK1aV7Evk02FioUhakTu/JCzOju_zJluh_-S0IPGQ_UnYETmJnxb--YLRAX2-4Wgo"
     },
     "remarks": []
 },
@@ -6786,16 +7273,16 @@
     "dueDate": "31 Oct 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -6803,9 +7290,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rrwRMTKf0NSXwcdQtAcp6zmyfE5Au2H0/0BwOnhWLhZCmCZHqsAaB4JU9Ri4V9JNQ-t7rAHlksbQo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/oz2Aw9L4MamcgQCjCqa7X9ju2Btioyo0/ObZvoHqkYR2sgnhkkl0JJw-sNCEATSzj-6LKAEdSQxgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapSc5B45jbimnqYG0waAbUSTwianNiX/TzvndrPE_xKZDGxHStdrnc1XfUrcyGUV-lrTgOna4Wgo"
     },
     "remarks": []
 },
@@ -6824,8 +7311,8 @@
     "dueDate": "4 Jan 2023",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "cancelled",
+            "danger"
         ],
         "shipment": [
             "TBA",
@@ -6841,7 +7328,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sP62bPPl725ClypkFkYkvvmJlOPhJUl4/KrXi3jJkM305J8VGGNOpJ6xeJTYB6ksA-srKAWwu3Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/pyrZWVUP4bRRVkHf6q48DQwVsTjRwHZV/xVwBgm566mugUaII5gTPzXIvGDG1wYlR-s7JgoMiQxgk",
         "iom": ""
     },
@@ -6862,8 +7349,46 @@
     "dueDate": "4 Jan 2023",
     "status": {
         "order": [
-            "in progress",
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
             "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sP62dp0MfGyTtuchs0nM7XiuXI1kOPdP/m3OUHVjG_kCOCgWunNGguvG_SHfdmwWR-6rLAeBa3Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/pyrZpAKbgxdEW9s2cDTuj9JT7hOAJoVr/xmV6fO1ee_Qm3WMQdxZuwroFmuUVj2FU-HLJglmuQxgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000218890",
+    "purchaseOrder": "110458 [1]",
+    "projectRef": "Intel Pelican Alpha Building - Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF54",
+    "pumpModel": "8x6x13A ES",
+    "pumpType": "es",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "31 Oct 2022",
+    "dueDate": "17 Feb 2023",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
         ],
         "shipment": [
             "TBA",
@@ -6880,8 +7405,274 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/pyrZpAKbgxdEW9s2cDTuj9JT7hOAJoVr/xmV6fO1ee_Qm3WMQdxZuwroFmuUVj2FU-HLJglmuQxgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxpCQIVTbcBCDjJySoGRD8mMqjAzpjCD/L0lHNpJabnVdT9RUGoZrBagoaziZW3-w-drugu5BD8wk",
         "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000218891",
+    "purchaseOrder": "110458 [1]",
+    "projectRef": "Intel Pelican Alpha Building - Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2980RPM TEFC",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 196,
+    "speed": 2980,
+    "orderDate": "31 Oct 2022",
+    "dueDate": "17 Feb 2023",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qlvz4RDLOZOuPdERlfGMUExYsjIto7Q9/DDhimYSxChVehO2-xPhNAkYg4Cd7z9wT-d7rAqk1D8wk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000218892",
+    "purchaseOrder": "110458 [1]",
+    "projectRef": "Intel Pelican Alpha Building - Electric (End Suction)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2970RPM TEFC",
+    "pumpModel": "8x6x13A ES",
+    "pumpType": "es",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "31 Oct 2022",
+    "dueDate": "17 Feb 2023",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxpQKOYIgPvALNzaalM9tmQBE7Fa3qEJ/5KCeNWUhU-pWMHrbTIyVYbRAPuHgoqCJ-27yA9DpE8wk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000218893",
+    "purchaseOrder": "110458 [1]",
+    "projectRef": "Intel Pelican Alpha Building - Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF12",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 196,
+    "speed": 2600,
+    "orderDate": "31 Oct 2022",
+    "dueDate": "17 Feb 2023",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxpLNwIaxSHIWC5ldPy5h2egIxMdEFgC/k0-uCltCZGDeCue_EcogmRq9l4oR8v6i-Qrwgz_lD8wk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000166365",
+    "purchaseOrder": "1010P/WRP/ST/I-23/18",
+    "projectRef": "Southgate Tanjung Barat - Jkt",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2960RPM ODP",
+    "pumpModel": "5x4x12B DMD",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 624,
+    "speed": 2960,
+    "orderDate": "24 Jan 2018",
+    "dueDate": "14 Mar 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rKVPJiDRMEsSTZ8cZDIgmSAZk8edTyjn/ZFpzrU6lpczuKG6rv1yHTzSzcoVO_l-2-WbjgP8S5Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000166366",
+    "purchaseOrder": "1010P/WRP/ST/I-23/18",
+    "projectRef": "Southgate Tanjung Barat - Jkt",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF54",
+    "pumpModel": "5x4x12B DMD",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 624,
+    "speed": 3000,
+    "orderDate": "24 Jan 2018",
+    "dueDate": "14 Mar 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rKVPJoScDjW4TYZIEacPb6BurKqKZcmA/SPe-bbGZOrQCZa0zN5WkGS_Ls79XiQuH-DrjgP565Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000166367",
+    "purchaseOrder": "1010P/WRP/ST/I-23/18",
+    "projectRef": "Southgate Tanjung Barat - Jkt",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM ODP",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 393,
+    "speed": 2950,
+    "orderDate": "24 Jan 2018",
+    "dueDate": "14 Mar 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rKVPJoB15d1sogCE0MegxhXuTph8QoGF/AGa91MOGH8z8N_Ks78Gr4nSm8mkhQUu2-yLfgimC5Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000166368",
+    "purchaseOrder": "1010P/WRP/ST/I-23/18",
+    "projectRef": "Southgate Tanjung Barat - Jkt",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF54",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 393,
+    "speed": 3000,
+    "orderDate": "24 Jan 2018",
+    "dueDate": "14 Mar 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rKVPLAL5APhFnEQvpqZ11gil3Yxx2xjl/gflwoObhlf8h8oQ7R_QaV0lYCmRLMBFI-gbcAvzq5Wgo"
     },
     "remarks": []
 },
@@ -7820,9 +8611,9 @@
         ]
     },
     "documents": {
-        "test": "https://synology.pattersonsingapore.com/d/s/ppnIIluqJBnxfXyQL7bZ9CYmPus8y3tj/iDgyYtM_vfjQzLQ5vFMbKEibDmBoMHXk-prXgI_9GvQk",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ppnIIluqJBnxfXyQL7bZ9CYmPus8y3tj/iDgyYtM_vfjQzLQ5vFMbKEibDmBoMHXk-prXgI_9GvQk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mJXBWk2vmP4XMnKu8ZcRIcCDH93XE2jg/ngFONUtxn6JGFFz3SpUsIaa40C1RkyG8-MrRgXQuQHgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/r9slSS4LMRLV82uNS9lqwb3ETxbfCIlB/BVv_2YGDWDKwYwtqHqZT7NZKYyDW_pzS-orbASeC4Wgo"
     },
     "remarks": [
         {
@@ -7832,6 +8623,82 @@
             "description": "Add 10 MRV and WC"
         }
     ]
+},
+{
+    "CO": "C000024197",
+    "purchaseOrder": "11502P/WRP/ST/XI-26",
+    "projectRef": "Telkom - 500GPM (Ireland)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "22 Nov 2021",
+    "dueDate": "7 Apr 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tUy8YLE3lfYZ6B02A9vrKAbgM5LI7Er9/3OFYPb5rY14BYO6OGFkTJa-1D4E4p9Mh-aLNgHfkobQo",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024200",
+    "purchaseOrder": "11055P/WRP/ST/XI-26",
+    "projectRef": "Telkom - 500GPM (Ireland)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 273,
+    "speed": 2970,
+    "orderDate": "22 Nov 2021",
+    "dueDate": "7 Apr 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sE6HIzVNcfN8CmBT3q3SbIMJTM0DbJFB/ldIClLOfNjPbS3mj_iYT4lc08wiHKNRj-F7NgA80obQo",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
 },
 {
     "CO": "C000024345",
@@ -7848,12 +8715,12 @@
     "dueDate": "9 May 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -7865,7 +8732,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sEQnhX7aeTSvahRtB5YbygOS3TfrbwMa/kXNQVnrfD7w4Ix7R23IZoTmcYGLIeppK-_7Ggb0sobQo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mynAbz3p9rSpJhMe71tDPmPGbDQmgXHX/eB-lq2KRQ0slCitfgSHV2auQyYMsRFS0-VbtgHHqkMwk",
         "iom": ""
     },
@@ -7894,8 +8761,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -7903,7 +8770,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rTzympjqtoGuoLEU9kxGYgmBMRwLHFgH/MaPYY09WfsEP_mUS7aS2bjCfiiRujbTP-CbwAtJwsbQo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o2bO0vGqFtKBf73AVGi9AZzEa4ceqHUG/7s4_Q-noL3ULSDq7zeoRrjL9tVxF_xA5-XrXA-Iubawk",
         "iom": ""
     },
@@ -7932,8 +8799,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -7941,7 +8808,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rU00HuSvJwfM1rN7F6DNfgBxhBfwuv1Q/c_oYRvtEwYYBzq96yhzvFpDc5TUiDLyw-RbzgyaksbQo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o8wWZVbOwZba2NFryDoyRrJb7dCRsagd/sWyxb5FEgUbna5d78c5FRqKjqs0N23ce-5bUgWc2bawk",
         "iom": ""
     },
@@ -7970,8 +8837,8 @@
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -7979,7 +8846,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rTrusAmBtPOJN2zRHa6K8kzfIDgqOvPZ/C-wCYe_LyCUHtu5VpUAcuExmI880nfLp-grygkbIsbQo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o2bPV8dKFER2pYosliDKgf6FfeTb6aEY/kSWDAdnt4P8YyGmrF4XcdPI0Hg4GpYKl-brOANh6aawk",
         "iom": ""
     },
@@ -8008,8 +8875,46 @@
             "TBA"
         ],
         "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rTzxmAVI1RhtGh7YL6sRKBUgDWcgnUUa/KAzYYlUY0GK2UrIiU5S_WjEokLrkinbe-9rngOzEsbQo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o8wOVBSehc5BGR7gNKOZkVJ8lG0Ptg3s/3083nuQvqfHtP4D8eZeoAuESgWSd-GAL-jbSgQj2bawk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000217194",
+    "purchaseOrder": "12077P",
+    "projectRef": "Stock Pump",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E4J11A ES",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 349,
+    "speed": 2980,
+    "orderDate": "16 Jan 2023",
+    "dueDate": "4 Apr 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
             "TBA",
             "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -8018,7 +8923,7 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/o8wOVBSehc5BGR7gNKOZkVJ8lG0Ptg3s/3083nuQvqfHtP4D8eZeoAuESgWSd-GAL-jbSgQj2bawk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/rfQ1c7hGIsBqg4ebdY1zb8DEu0s77qsK/YXX_WthhDiqodg_Y5cssgbkrNI3rq5U1-cLmAnlvCWwo",
         "iom": ""
     },
     "remarks": []
@@ -8038,12 +8943,12 @@
     "dueDate": "8 Feb 2023",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -8055,9 +8960,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/t2C20DSzRDvdPH33USAIuyrmpJ3SO5Ef/M5TAv45nrPPsex4JH4QBc6l4h3NZXsFI-DrAg6Fi2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/qhGeqLdkwB9ixyqg6mk6oVB9dPoaepJp/KWS8N9XU4V6UMkhS5cwYnWP1ESZ9nVQx-8LzAZdZr5gk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/t2ZFte3Gf18nBk7UyT4xLugFKCx7AFOy/A_sDp2-6jmH7_NB5DkZ1EqSFOUjy8NjU-h7_g7kC2Wgo"
     },
     "remarks": []
 },
@@ -8076,12 +8981,12 @@
     "dueDate": "8 Feb 2023",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -8093,9 +8998,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/t2C20Pfk21lYv3YyoLApiLUsdffnTVbR/H4v0XoHv1uEpcBCDTyEpKGFUQFAB9bZw-0L_gFk-2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/qaBBB6IZjxMDQWiNrhwc7Po0h7MxxIBP/JQfQZufcNBS_aH4EagRT9G5o9X4qRXhy-17sgfxBr5gk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/t2ZFuzDjm18joWCxS3ugpJrHvB4P3RhW/e92x5PPEXKflBQ8dcp8otQRz3kqQ--hG-Ob9gSjO2Wgo"
     },
     "remarks": []
 },
@@ -8935,6 +9840,293 @@
     ]
 },
 {
+    "CO": "C000223139",
+    "purchaseOrder": 23121065.0,
+    "projectRef": "SIT Campus At Punggol (Sprinkle)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E4J11A",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 283,
+    "speed": 2980,
+    "orderDate": "27 Mar 2023",
+    "dueDate": "26 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "LC",
+            "warning"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/t7WiH44WZDqdfBBpahZ2G9vwdCJwUIH8/6QACKRd_ZdmC_Apc_5EHaKpOmF6EGTad-Dr3gSZz7Wgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Apr 2023",
+            "type": "change order",
+            "overview": "payment",
+            "description": "LC at sight."
+        }
+    ]
+},
+{
+    "CO": "C000223142",
+    "purchaseOrder": 23121065.0,
+    "projectRef": "SIT Campus At Punggol (Monitor)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "4x3x11A ES",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 308,
+    "speed": 2970,
+    "orderDate": "27 Mar 2023",
+    "dueDate": "26 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "LC",
+            "warning"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/t7WjCMCoKrBTsdzzvgKcJUQnKKvGlL5a/d7hvhKDYb0agvUm4IBQK58kpU2FtUHA3-Z70AutX7Wgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Apr 2023",
+            "type": "change order",
+            "overview": "payment",
+            "description": "LC at sight."
+        }
+    ]
+},
+{
+    "CO": "C000223144",
+    "purchaseOrder": 23121065.0,
+    "projectRef": "SIT Campus At Punggol (Hydrant)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 216,
+    "speed": 1470,
+    "orderDate": "27 Mar 2023",
+    "dueDate": "26 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "LC",
+            "warning"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/t7WjH7hEkOHaqqhvlMEJYamceC1yfG63/foY6xn5GS2HRg7S6iSioDlmdjGFhS45G-tL3gsfn7Wgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Apr 2023",
+            "type": "change order",
+            "overview": "payment",
+            "description": "LC at sight."
+        }
+    ]
+},
+{
+    "CO": "C000224419",
+    "purchaseOrder": 23221295.0,
+    "projectRef": "220kV Vinh Hao DFP",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 296,
+    "speed": 2950,
+    "orderDate": "10 May 2023",
+    "dueDate": "7 Aug 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tWLqKF6feLOJXxpk1qhgos97I3yD4cb5/NEF9_t6erTAnryHeW3QqrCO4Vs2_EiXg-576A7KI7bgo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000224420",
+    "purchaseOrder": 23221295.0,
+    "projectRef": "220kV Vinh Hao EFP",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 296,
+    "speed": 2950,
+    "orderDate": "10 May 2023",
+    "dueDate": "7 Aug 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tWLqR7JNT7Xd8jGd1UvJ8iRsNv7nfCy0/-1pMrjhTyvQzEscKkbu_NKwXYmt5ty1t-o74guHo7bgo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000161996",
+    "purchaseOrder": "01/BCATL-PPC/07-17",
+    "projectRef": "SONGHAU",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD70",
+    "pumpModel": "10x8 MH",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 416,
+    "speed": 2100,
+    "orderDate": "29 Aug 2017",
+    "dueDate": "15 Jan 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271368936005675/uuIsvYd7q0fMM7q7rAJZbe1yY7dGsuYL-BbFg1K22Wgo",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/t3KGWqY2794dcBTa41aNgDX820pXvhuN/Ns1GZ904UWhnNJVpKfQxQOO8hv6iRueq-6L5AoRq2Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000162053",
+    "purchaseOrder": "01/BCATL-PPC/07-17",
+    "projectRef": "SONGHAU",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP 2970RPM TEFC",
+    "pumpModel": "8x6x13B SSCH",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 427,
+    "speed": 2970,
+    "orderDate": "29 Aug 2017",
+    "dueDate": "15 Jan 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271369059737647/KKyYox0q0bV-IC_HUENLg7WcMR868tLj-yLBAr5q2Wgo",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/t3KGWks3VjXZuTfawTTGYUEEo3P8EaDW/UdKBAPpaoc_2TOtLqxudWqDLXBjEx3Fw-DLyAZR-zWgo"
+    },
+    "remarks": []
+},
+{
     "CO": "C000192003",
     "purchaseOrder": "",
     "projectRef": "An Sinh Hospital",
@@ -9081,8 +10273,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -9096,7 +10288,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/pLfV5Vgh7DnzxbVEFtARWSgEI5jjpFmn/W3XeV79tKKJpFrOLfDi9GoHhGTiGoVA0-sLTAXrI8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/men2XuaKpSgwMSwLA1gOfETINPCTbh4K/l3TwX0RyrOoM5SAVpvn22XTNvaXQhzrg-AbiAMfMfJAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rO3uPGs1bnQWz67roLQqn4SJsfhmDjUv/GCnwrSQQVCB1DQ1eIRQSccHUVfs_J2s4-0rVg-7m4Wgo"
     },
     "remarks": [
         {
@@ -9132,8 +10324,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -9147,7 +10339,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/pPYZbMTcFk0VSqG6ZHypss3j8fDL7ov8/neUk40GFCUzhJ2lSS3ENiqr_7NMAETJZ-ArUAFso8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mjn1SWVVozrHQIZNhDuFrxwqHEjzkMSF/r_R-d8b88AvxhgqwhgV54Wgooiufc8mC-er3A0boAKAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rO3uQHsyUuz1SWOHc66LNTRioNVO5OCP/i28BwLtkUTGgk1lYfnOBkh4s3I08B6Tr-rbUgsbC4Wgo"
     },
     "remarks": [
         {
@@ -9183,8 +10375,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -9198,7 +10390,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/pReF6cHPyaDUig6Z7BoPs5COFU0I32ie/05eflCrl9wK_gRVJ48ZyM515m05AWEH6-qrXAv-M8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/muqFAmkx7FOxnzFsyLcpEJbFNyFygz32/0i7DheiejpxyZgvkhW_4MTfZFi3gR8uK-IrzA2W-TMAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rAn9OKPHZNgkZqWy9WNhP5sytpECWkOC/e9skCHQqBqmNr1LURTwpfBK19Dr4WCDt-e7XANqm4Wgo"
     },
     "remarks": [
         {
@@ -9565,7 +10757,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/nnbVcPZNgxT3ZolnqRdE01NZcXHnKmoW/OfvE673FlQNmec83mCC9EqxAbQgs41J_-b72AWTQOWwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lndkoZjlPrYBrExiS2HlkrW5m5WVyRjB/wXoSS3DmqUdx50Cvau59c5tSzOmP7KZ8-0rtAFwZaEQk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rO3uOZaCGZrbxaufSEMI4XWv5ETv1NEN/2nnigDOWTgqFuvBeArUeTRYJklbxvcSM-K7cAaPi4Wgo"
     },
     "remarks": []
 },
@@ -9921,12 +11113,12 @@
     "dueDate": "10 Aug 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -9938,7 +11130,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sMfMPJ8W4OEN5cElJePeYWddAkbkNWZN/WXN1Www32kCVlm0IfzARbKQfygGpccFW-87pgkmQsbQo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/ou4F64ScSaXeUkcZHds1NFrpcMMNHt1H/pYCnbw4_TFhJY7MrQBuZcuxaXlQT9YEb-h7eAE9J-wAk",
         "iom": ""
     },
@@ -10004,12 +11196,12 @@
     "dueDate": "3 Nov 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -10021,7 +11213,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKi94iS3NVk5hu9qBeQryxiK9AbwzKX/NDlqlFiHGSqajfyWDylqg4T9DM-lyxFk-QLKAMvS2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/puNDf1KJrGnHWcG7GSqmFGBCDPuSBhdO/78SzVJzLF1kDElItR5cQBjL8VZDg3RN5-irYAw0d-wAk",
         "iom": ""
     },
@@ -10416,8 +11608,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -10431,7 +11623,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/pLfV5E5Z2oS4p3K5wzj1NWeCuVndBg78/eLebnnZ80OMOXZJPxBxv2Ox9vkHiFqRC-5LMAgHw8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6PbKFtuNzYMiGgl4ijqNEEWEhDnByY/eyFliFaqy7K2CgjBh06JeYXpKl3qlJoi-r72AQaPaFAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rO3uOvrhysityuV6jO97zewsdTaUm89x/QBaToknEsAorJ0IIIHlJp3s4ShqoNlIY-3bbAHu64Wgo"
     },
     "remarks": [
         {
@@ -10471,8 +11663,8 @@
             "TBA"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -10480,9 +11672,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUMVfsBOg7rVLEZ2cw0LhTrUPUXHK8Sl/ofgWf3Z6drS8Hr5v6U3NyIlyxXNTuz1b-_rGAxOO2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/pI95prFo0MfDW3PodTNfoWN4K9Krg3vR/UKBISKObOBqErV9_cELW72hKOnKDCliH-OLrgBN1dvQk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapUIjLHjvG7y1LGz8zrP1ZnpAfWVlYw/UgRZgnwERHVpgHYMWDmLfc5zm7VoJ_Vg-0LSAj4O4Wgo"
     },
     "remarks": []
 },
@@ -10509,8 +11701,8 @@
             "TBA"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -10520,7 +11712,7 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/d/s/pYtPp2RVsMupzzalQgYGA2BkIX7R9Suf/G9Xx1GyV5XPue79zMqhZ22PaY2g-fMIn-a7qgieVdvQk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapUqfy7fZBbDO80iovH8VHMkwRMpEVr/31DhYZS2ih6JIrAsidrUV7zc1UzA2I2T-DLVg34-4Wgo"
     },
     "remarks": []
 },
@@ -10640,6 +11832,82 @@
     },
     "documents": {
         "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000223978",
+    "purchaseOrder": "ZDA-PO112138",
+    "projectRef": "Replacement (C000111372)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 374,
+    "speed": 2950,
+    "orderDate": "25 Apr 2023",
+    "dueDate": "23 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tGELIUma7wulegCgN34nYkv4gNtMQDV9/7h212fmUEXwv70sAViIomIW8Wb88KEjr-cL9g7QAmbQo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000137701",
+    "purchaseOrder": 4600000464.0,
+    "projectRef": "Laugfs Gas PLC - 2500GPM",
+    "driverType": "Diesel",
+    "driverInfo": "DR8H-UFAA40",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 439,
+    "speed": 2100,
+    "orderDate": "24 Mar 2015",
+    "dueDate": "12 May 2015",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qsusaMBgQ78nKKOaQXCEam6soxJtBt46/vzCmjGeZeFnNOSzu5hP1y-PaF962ucmF-zrfgRI0qbQo",
         "submittal": "",
         "iom": ""
     },
@@ -10902,12 +12170,12 @@
     "dueDate": "16 Dec 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -10919,7 +12187,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/s5hMKazTax6mtJTWNvgkNwXgQnC3l1yc/SS76f_K1RoN9cPKHG9f2i1lng67N2k7t-eLIAugC3Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/pt68utpOToDj4DFK388dNZzL47Ne4yf6/uUlRgEUJyW8z6xT50lJMC2v_6uSGIlRY-xr5AoBv8wQk",
         "iom": ""
     },
@@ -10940,6 +12208,63 @@
     "dueDate": "2 Nov 2022",
     "status": {
         "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "DAP",
+            "success"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rU00FYzV9fKvVV2z4Nm96LCJ70kU2K7H/nXAStWVOyf8SUqzQg1W-vaVvLjn1gpKX-irHg5sq2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/q1nW827kHVyULXjmaF8y5tfIIpEBYwb5/PDqABQKmm9S4NGIFVhOsaBjawqGfcqaa-urRA4WThxgk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "24 Aug 2022",
+            "type": "payment",
+            "overview": "downpayment",
+            "description": "Paid $3712.20 via credit card."
+        },
+        {
+            "date": "4 Nov 2022",
+            "type": "change order",
+            "overview": "packaging",
+            "description": "Add export crating"
+        },
+        {
+            "date": "4 Nov 2022",
+            "type": "change order",
+            "overview": "terms",
+            "description": "Change from CIF to DAP Perth Seaport"
+        }
+    ]
+},
+{
+    "CO": "C000218944",
+    "purchaseOrder": "PAP001",
+    "projectRef": "Replacement for C0181685",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E3F11A",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 254,
+    "speed": 3000,
+    "orderDate": "31 Oct 2022",
+    "dueDate": "15 Feb 2023",
+    "status": {
+        "order": [
             "in progress",
             "primary"
         ],
@@ -10952,21 +12277,90 @@
             "primary"
         ],
         "terms": [
-            "CIF",
-            "success"
+            "ex-works",
+            "primary"
         ]
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/q1nW827kHVyULXjmaF8y5tfIIpEBYwb5/PDqABQKmm9S4NGIFVhOsaBjawqGfcqaa-urRA4WThxgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxTnZELTh7aCRj8LayiN09nO9FFvTaks/jbjvtQX3sAxTl0qmzUYmmBcpTjCAg3IY-Xb1AsY1E8wk",
         "iom": ""
     },
     "remarks": [
         {
-            "date": "24 Aug 2022",
+            "date": "1 Nov 2022",
             "type": "payment",
             "overview": "downpayment",
-            "description": "Paid $3712.20 via credit card."
+            "description": "Receipt of downpayment $3708"
+        },
+        {
+            "date": "7 Nov 2022",
+            "type": "listing",
+            "overview": "UL FM",
+            "description": "Driver (DFP42011T10-30) and controller (887332-01RE)  serial number provided."
+        },
+        {
+            "date": "3 Mar 2023",
+            "type": "change order",
+            "overview": "packaging",
+            "description": "Add export crating to order"
+        }
+    ]
+},
+{
+    "CO": "C000221769",
+    "purchaseOrder": "PO230010",
+    "projectRef": "CRISP Project",
+    "driverType": "Diesel",
+    "driverInfo": "C32H0-UFAC28",
+    "pumpModel": "16x12x21 SSC",
+    "pumpType": "hsc",
+    "capacity": 5000,
+    "head": 444,
+    "speed": 1780,
+    "orderDate": "10 Feb 2023",
+    "dueDate": "12 Jul 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/sCj1O2AYOxRAnSCfWASynZbJMuQNxjui/7JfZpUGWm1wMsNsICEASS2tBw0h8N5fU-tr2A6OemWgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "25 Apr 2023",
+            "type": "change order",
+            "overview": "scope",
+            "description": "Remove pressure reducing valve  - to return excess charges (prepay) back to Pumport"
+        },
+        {
+            "date": "25 Apr 2023",
+            "type": "change order",
+            "overview": "scope",
+            "description": "Add 3/4\" 300# 55L-60 for jockeys"
+        },
+        {
+            "date": "25 Apr 2023",
+            "type": "change order",
+            "overview": "scope",
+            "description": "Jockey pump controller corrected to 30kW"
         }
     ]
 }
