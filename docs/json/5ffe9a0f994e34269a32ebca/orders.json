@@ -1,7 +1,7 @@
 [
 {
     "CO": "C000187745",
-    "purchaseOrder": "",
+    "purchaseOrder": 110001.0,
     "projectRef": "First Solar Kulim",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -39,7 +39,7 @@
 },
 {
     "CO": "C000191587",
-    "purchaseOrder": "",
+    "purchaseOrder": 110048.0,
     "projectRef": "Fatty Chemical (M) Sdn Bhd",
     "driverType": "Electric",
     "driverInfo": "NIDEC 150HP 2970RPM ODP",
@@ -77,7 +77,7 @@
 },
 {
     "CO": "C000194076",
-    "purchaseOrder": "",
+    "purchaseOrder": 110096.0,
     "projectRef": "Kimberley Clark",
     "driverType": "Diesel",
     "driverInfo": "DS0H-UFAA68",
@@ -122,7 +122,7 @@
 },
 {
     "CO": "C000194079",
-    "purchaseOrder": "",
+    "purchaseOrder": 110104.0,
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFADJ0",
@@ -160,7 +160,7 @@
 },
 {
     "CO": "C000194080",
-    "purchaseOrder": "",
+    "purchaseOrder": 110105.0,
     "projectRef": "Lam Research",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF54",
@@ -198,8 +198,8 @@
 },
 {
     "CO": "C000194387",
-    "purchaseOrder": "",
-    "projectRef": " ",
+    "purchaseOrder": 110102.0,
+    "projectRef": "N.P.",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
     "pumpModel": "8x6 YR",
@@ -236,7 +236,7 @@
 },
 {
     "CO": "C000195454",
-    "purchaseOrder": "",
+    "purchaseOrder": 110120.0,
     "projectRef": "Dell",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -274,7 +274,7 @@
 },
 {
     "CO": "C000195499",
-    "purchaseOrder": "",
+    "purchaseOrder": 110119.0,
     "projectRef": "Smith and Nephew",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAT0",
@@ -312,7 +312,7 @@
 },
 {
     "CO": "C000195564",
-    "purchaseOrder": "",
+    "purchaseOrder": 110119.0,
     "projectRef": "Smith and Nephew",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -628,7 +628,7 @@
         ]
     },
     "documents": {
-        "test": "https://synology.pattersonsingapore.com/drive/d/s/noTplWzIExij5LhkRvpP7RbOcZM6SdWB/VhPWPFi7IEwbvlYT6uBT15iQexZ0NJk4-l73AMBG8Wwk",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tUyHRrpnJbWzibTbfsr2nD9gzR7BmpLg/pxe3SvrkVEcDXMrrT1sGdTk1xVGQl7sx-cLZgPXMpbQo",
         "submittal": "",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/noTYkIBeHbZb7bkuRdXk1Lqu0lZNRtDt/BtEXSap0YimWGId5SHmvqCik8wGWE7cD-WrwAfDa7Wwk"
     },
@@ -649,12 +649,12 @@
     "dueDate": "12 Apr 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -666,9 +666,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tV25Nxfl7hoqI6H5IxNKzfrUjzWbbhX8/hM-6FsPyaz7EmXGl5S4wzfluIOjmcpWD-xrMAOqY1bQo",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzb4zXJrwzi3umT2kTpWF3XwAB3CKoI/J8CkickD1N1BTxtZ6O7lzRDRvl6ghB5p-CLrAg4y9SAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/tV21WZZvmtXjPK3UFEQu6JPaGbtZoSEe/A2W7-kPeR1lBFA8TNm5jfevJkcE9e3F5-WbOAyY01bQo"
     },
     "remarks": []
 },
@@ -713,7 +713,7 @@
 {
     "CO": "C000024742",
     "purchaseOrder": 110425.0,
-    "projectRef": "",
+    "projectRef": "Electric Fire Pump",
     "driverType": "Electric",
     "driverInfo": "Lincoln - 250HP 2980RPM ODP",
     "pumpModel": "8x6x13B SSC",
@@ -763,16 +763,16 @@
     "dueDate": "23 Sep 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -780,9 +780,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ssAOEQOH3A4nIOeYg9s2SxrIodZryOZj/ByS9yfL1xaPpGRzBpRvDyKCoucJdgDXI-jLAgyHi2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/oaV2i83L3GHRrLqnSD7Qg2oDnrJt3DhZ/v4dvIclkzvmCl5fmunkTYBXxHrhAFtbt-hbOAiwSRxgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rrx9LPZHVQkb7L3hHOO4z5GWqbSS5bbh/1vUC-CpfinB8KRL4Jrnje4ABAaPRRHRv-Q7VgcZ24Wgo"
     },
     "remarks": []
 },
@@ -801,16 +801,16 @@
     "dueDate": "23 Sep 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -818,11 +818,18 @@
         ]
     },
     "documents": {
-        "test": "",
-        "submittal": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ssAOEFkJfYNCpVw86tXgOjNtTUDdC3Tk/nzIVQj9PDLCBCyOB__PNj2cKB2UvjadS-TLBgC2q2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxpkKuJ6NhanTRvAdBO944ay9s5sBkh6/-tf-HpQWVlKjXy3C0nzDNDt9OOdVbOok-g74AuCtF8wk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "4 Nov 2022",
+            "type": "change order",
+            "overview": "listing",
+            "description": "Pump to be only NFPA20"
+        }
+    ]
 },
 {
     "CO": "C000214143",
@@ -839,16 +846,16 @@
     "dueDate": "31 Oct 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -856,9 +863,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rOqlVNmrRnvyRLCFqKgyQpK0O6WdRMVS/KhhVOmH43GA37_9vVCAurPReUas2729R-b7pgxk8sbQo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/p7qRxxVTqyNywGS2o1jlQeKhO71HzGVH/T3pRVr5jTCga8BGgneginv-FGKMIQGMM-GbOAsN2Qxgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapSSdjOJH4FpK1aV7Evk02FioUhakTu/JCzOju_zJluh_-S0IPGQ_UnYETmJnxb--YLRAX2-4Wgo"
     },
     "remarks": []
 },
@@ -877,16 +884,16 @@
     "dueDate": "31 Oct 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -894,85 +901,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rrwRMTKf0NSXwcdQtAcp6zmyfE5Au2H0/0BwOnhWLhZCmCZHqsAaB4JU9Ri4V9JNQ-t7rAHlksbQo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/oz2Aw9L4MamcgQCjCqa7X9ju2Btioyo0/ObZvoHqkYR2sgnhkkl0JJw-sNCEATSzj-6LKAEdSQxgk",
-        "iom": ""
-    },
-    "remarks": []
-},
-{
-    "CO": "C000216600",
-    "purchaseOrder": 110530.0,
-    "projectRef": "Mattel 1",
-    "driverType": "Diesel",
-    "driverInfo": "JU6H-UF84",
-    "pumpModel": "8x6x13B SSC",
-    "pumpType": "hsc",
-    "capacity": 2000,
-    "head": 347,
-    "speed": 3000,
-    "orderDate": "22 Aug 2022",
-    "dueDate": "4 Jan 2023",
-    "status": {
-        "order": [
-            "in progress",
-            "primary"
-        ],
-        "shipment": [
-            "TBA",
-            "TBA"
-        ],
-        "payment": [
-            "TBA",
-            "TBA"
-        ],
-        "terms": [
-            "ex-works",
-            "primary"
-        ]
-    },
-    "documents": {
-        "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/pyrZWVUP4bRRVkHf6q48DQwVsTjRwHZV/xVwBgm566mugUaII5gTPzXIvGDG1wYlR-s7JgoMiQxgk",
-        "iom": ""
-    },
-    "remarks": []
-},
-{
-    "CO": "C000216601",
-    "purchaseOrder": 110532.0,
-    "projectRef": "Mattel 2",
-    "driverType": "Diesel",
-    "driverInfo": "JU6H-UF84",
-    "pumpModel": "8x6x13B SSC",
-    "pumpType": "hsc",
-    "capacity": 2000,
-    "head": 347,
-    "speed": 3000,
-    "orderDate": "22 Aug 2022",
-    "dueDate": "4 Jan 2023",
-    "status": {
-        "order": [
-            "in progress",
-            "primary"
-        ],
-        "shipment": [
-            "TBA",
-            "TBA"
-        ],
-        "payment": [
-            "TBA",
-            "TBA"
-        ],
-        "terms": [
-            "ex-works",
-            "primary"
-        ]
-    },
-    "documents": {
-        "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/pyrZpAKbgxdEW9s2cDTuj9JT7hOAJoVr/xmV6fO1ee_Qm3WMQdxZuwroFmuUVj2FU-HLJglmuQxgk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapSc5B45jbimnqYG0waAbUSTwianNiX/TzvndrPE_xKZDGxHStdrnc1XfUrcyGUV-lrTgOna4Wgo"
     },
     "remarks": []
 }

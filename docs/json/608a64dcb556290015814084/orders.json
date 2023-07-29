@@ -336,8 +336,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "paid",
@@ -351,7 +351,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/d/s/pLfV5E5Z2oS4p3K5wzj1NWeCuVndBg78/eLebnnZ80OMOXZJPxBxv2Ox9vkHiFqRC-5LMAgHw8qwk",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6PbKFtuNzYMiGgl4ijqNEEWEhDnByY/eyFliFaqy7K2CgjBh06JeYXpKl3qlJoi-r72AQaPaFAk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rO3uOvrhysityuV6jO97zewsdTaUm89x/QBaToknEsAorJ0IIIHlJp3s4ShqoNlIY-3bbAHu64Wgo"
     },
     "remarks": [
         {
@@ -391,8 +391,8 @@
             "TBA"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -400,9 +400,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUMVfsBOg7rVLEZ2cw0LhTrUPUXHK8Sl/ofgWf3Z6drS8Hr5v6U3NyIlyxXNTuz1b-_rGAxOO2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/pI95prFo0MfDW3PodTNfoWN4K9Krg3vR/UKBISKObOBqErV9_cELW72hKOnKDCliH-OLrgBN1dvQk",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapUIjLHjvG7y1LGz8zrP1ZnpAfWVlYw/UgRZgnwERHVpgHYMWDmLfc5zm7VoJ_Vg-0LSAj4O4Wgo"
     },
     "remarks": []
 },
@@ -429,6 +429,44 @@
             "TBA"
         ],
         "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/pYtPp2RVsMupzzalQgYGA2BkIX7R9Suf/G9Xx1GyV5XPue79zMqhZ22PaY2g-fMIn-a7qgieVdvQk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapUqfy7fZBbDO80iovH8VHMkwRMpEVr/31DhYZS2ih6JIrAsidrUV7zc1UzA2I2T-DLVg34-4Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000217259",
+    "purchaseOrder": 571712.0,
+    "projectRef": "Tronox Balranald",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 353,
+    "speed": 3000,
+    "orderDate": "12 Sep 2022",
+    "dueDate": "16 Jan 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
             "partial",
             "primary"
         ],
@@ -439,9 +477,61 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/pYtPp2RVsMupzzalQgYGA2BkIX7R9Suf/G9Xx1GyV5XPue79zMqhZ22PaY2g-fMIn-a7qgieVdvQk",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/qDbOWJtHUi4Qk7dDpdxbCJq3R9u5M5bv/TcbYDrLehiAYjVQIezrj7c6H_H16tnUR-3LWAD3nt0wk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "15 Sep 2022",
+            "type": "payment",
+            "overview": "downpayment",
+            "description": "Paid 25% downpayment."
+        }
+    ]
+},
+{
+    "CO": "C000225400",
+    "purchaseOrder": 576570.0,
+    "projectRef": "Symbion",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF94",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 393,
+    "speed": 3000,
+    "orderDate": "16 Jun 2023",
+    "dueDate": "30 Aug 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/uERiYmt6nTgrtZt0snmYsDthvIUORnSr/vVJXcs--B0wi2TcA22wyz1rJki7BSJ_M-sbwAqj1wkAo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "20 Jun 2023",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add controller option code BA"
+        }
+    ]
 }
 ]

@@ -812,8 +812,8 @@
             "warning"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -831,6 +831,224 @@
             "type": "update",
             "overview": "listing",
             "description": "Pump is UL only."
+        }
+    ]
+},
+{
+    "CO": "C000223139",
+    "purchaseOrder": 23121065.0,
+    "projectRef": "SIT Campus At Punggol (Sprinkle)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E4J11A",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 283,
+    "speed": 2980,
+    "orderDate": "27 Mar 2023",
+    "dueDate": "26 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "LC",
+            "warning"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/t7WiH44WZDqdfBBpahZ2G9vwdCJwUIH8/6QACKRd_ZdmC_Apc_5EHaKpOmF6EGTad-Dr3gSZz7Wgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Apr 2023",
+            "type": "change order",
+            "overview": "payment",
+            "description": "LC at sight."
+        }
+    ]
+},
+{
+    "CO": "C000223142",
+    "purchaseOrder": 23121065.0,
+    "projectRef": "SIT Campus At Punggol (Monitor)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "4x3x11A ES",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 308,
+    "speed": 2970,
+    "orderDate": "27 Mar 2023",
+    "dueDate": "26 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "LC",
+            "warning"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/t7WjCMCoKrBTsdzzvgKcJUQnKKvGlL5a/d7hvhKDYb0agvUm4IBQK58kpU2FtUHA3-Z70AutX7Wgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Apr 2023",
+            "type": "change order",
+            "overview": "payment",
+            "description": "LC at sight."
+        }
+    ]
+},
+{
+    "CO": "C000223144",
+    "purchaseOrder": 23121065.0,
+    "projectRef": "SIT Campus At Punggol (Hydrant)",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 216,
+    "speed": 1470,
+    "orderDate": "27 Mar 2023",
+    "dueDate": "26 Jun 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "LC",
+            "warning"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/t7WjH7hEkOHaqqhvlMEJYamceC1yfG63/foY6xn5GS2HRg7S6iSioDlmdjGFhS45G-tL3gsfn7Wgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "10 Apr 2023",
+            "type": "change order",
+            "overview": "payment",
+            "description": "LC at sight."
+        }
+    ]
+},
+{
+    "CO": "C000224419",
+    "purchaseOrder": 23221295.0,
+    "projectRef": "220kV Vinh Hao DFP",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 296,
+    "speed": 2950,
+    "orderDate": "10 May 2023",
+    "dueDate": "7 Aug 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tWLqKF6feLOJXxpk1qhgos97I3yD4cb5/NEF9_t6erTAnryHeW3QqrCO4Vs2_EiXg-576A7KI7bgo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000224420",
+    "purchaseOrder": 23221295.0,
+    "projectRef": "220kV Vinh Hao EFP",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 296,
+    "speed": 2950,
+    "orderDate": "10 May 2023",
+    "dueDate": "7 Aug 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tWLqR7JNT7Xd8jGd1UvJ8iRsNv7nfCy0/-1pMrjhTyvQzEscKkbu_NKwXYmt5ty1t-o74guHo7bgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "20 Jun 2023",
+            "type": "correction",
+            "overview": "jockey pump",
+            "description": "Revised speed from 2850RPM to 2890RPM"
         }
     ]
 }

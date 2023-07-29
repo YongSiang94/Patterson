@@ -351,12 +351,12 @@
     "dueDate": "10 Aug 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -368,7 +368,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sMfMPJ8W4OEN5cElJePeYWddAkbkNWZN/WXN1Www32kCVlm0IfzARbKQfygGpccFW-87pgkmQsbQo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/ou4F64ScSaXeUkcZHds1NFrpcMMNHt1H/pYCnbw4_TFhJY7MrQBuZcuxaXlQT9YEb-h7eAE9J-wAk",
         "iom": ""
     },
@@ -434,12 +434,12 @@
     "dueDate": "3 Nov 2022",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -451,10 +451,17 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKi94iS3NVk5hu9qBeQryxiK9AbwzKX/NDlqlFiHGSqajfyWDylqg4T9DM-lyxFk-QLKAMvS2Wgo",
         "submittal": "https://synology.pattersonsingapore.com/d/s/puNDf1KJrGnHWcG7GSqmFGBCDPuSBhdO/78SzVJzLF1kDElItR5cQBjL8VZDg3RN5-irYAw0d-wAk",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "11 Oct 2022",
+            "type": "change order",
+            "overview": "pump duty",
+            "description": "1760GPM @ 335ft. EPC4526"
+        }
+    ]
 }
 ]
