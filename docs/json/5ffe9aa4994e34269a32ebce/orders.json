@@ -1494,6 +1494,165 @@
     "dueDate": "15 Sep 2023",
     "status": {
         "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/vR7YjoBrahzha5LYOWFltMkjlFJX0yHO/14mQEkkd0DJzgMkuqHon8QUd7N63HaX1-Erjg2us92Qo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/uRBuSWepfCgc0aDDl0wB3Lbq22JURXzv/Qrjl-NG_eO04C2zGXoOVnapECyVmt9Y4-LrUgV6UvoQo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000226951",
+    "purchaseOrder": "8051P/WRP/ST/VIII/28/23/P",
+    "projectRef": "JIS School - EFP",
+    "driverType": "Electric",
+    "driverInfo": "Nidec 100HP / 1475RPM/ WP-I",
+    "pumpModel": "13GLC-7 STAGE",
+    "pumpType": "vt",
+    "capacity": 750,
+    "head": 379,
+    "speed": 1475,
+    "orderDate": "09 Aug 2023",
+    "dueDate": "10 Nov 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wmvcxoNZP5AnGyZnLk7E3AdgKmuk9Mc3/NWU_sPmoDa39Oc61kc3ya5T_bQzNTImF-QrWg_6xDFgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/ungaufO8b58KGGnoseFwJe79N8CX72Xm/WOjonnxyB4QnNMzIn1fJmvKNHu__nki--q7Eg6sjFqwo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000226953",
+    "purchaseOrder": "8051P/WRP/ST/VIII/28/23/P",
+    "projectRef": "JIS School - DFP",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF50",
+    "pumpModel": "12DHC-6 STAGE",
+    "pumpType": "vt",
+    "capacity": 750,
+    "head": 379,
+    "speed": 1770,
+    "orderDate": "09 Aug 2023",
+    "dueDate": "10 Nov 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wmvcxhqnPZtAnu5jOFO3hMKyWyjdPodz/g3vRSwuSHas37xs7zwZPvBmfwTBZtwIm-qbUAnMNDFgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/ungccIIW6FCJx4wpPf1xt5RnwZCClOIt/seMD9y-TdUKaZAAWnF25JVDkzn_j6bUM-5LHAquzFqwo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Aug 2023",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Add 4\" Main Relief Valve 250# Inlet"
+        }
+    ]
+},
+{
+    "CO": "C000227906",
+    "purchaseOrder": "9055P",
+    "projectRef": "Replacement C098160",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 347,
+    "speed": 2350,
+    "orderDate": "13 Sept 2023",
+    "dueDate": "06 Nov 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wy0pEHvztYrVfv6Nhd0IXR1JbZK6MHLc/z-CvrdNVB8ygg0Jn5fWu_-y7pvtxky1V-mrjg7J9EFgs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/v7a76cluqagWssW8HnTinPdZGv5GkfLG/nBxYwSlo57utshFmijnXs3d-YF1a1jTr-R7yAZMa_vwo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000230797",
+    "purchaseOrder": "12079P",
+    "projectRef": "Glass Factory - Kendal",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF54",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 328,
+    "speed": 3000,
+    "orderDate": "19 Dec 2023",
+    "dueDate": "14 Mar 2024",
+    "status": {
+        "order": [
             "in progress",
             "primary"
         ],
@@ -1512,9 +1671,16 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/uRBuSWepfCgc0aDDl0wB3Lbq22JURXzv/Qrjl-NG_eO04C2zGXoOVnapECyVmt9Y4-LrUgV6UvoQo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wQrkexFTQd7I8Dk1MsMnlMjKa4jdl7bY/ntrgMzJE9WbjjsLl3gwboxO1pfIuT3Kb-D76AtPRMFQs",
         "iom": ""
     },
-    "remarks": []
+    "remarks": [
+        {
+            "date": "11 Jan 2024",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Add 1 6\" MRV 2050B-4KG1 150# 20-300 PSI"
+        }
+    ]
 }
 ]
