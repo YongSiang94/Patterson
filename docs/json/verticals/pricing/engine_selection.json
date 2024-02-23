@@ -622,23 +622,6 @@
 },
 {
     "make": "Clarke",
-    "model": "JU4H-UFAD98",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 175,
-            "fuel_consumption": 9.3
-        }
-    ],
-    "price": 29.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=192639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4 ",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
     "model": "JU6H-UFADNG",
     "tier": 3.0,
     "rating": [
