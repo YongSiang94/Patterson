@@ -21,63 +21,63 @@
     "firstStageHeight": 15.625,
     "firstStageWidth": 11.75,
     "additionalHeightPerStage": 9.625,
-    "fiveFtExtensionPrice": 4079.0,
-    "tenFtExtensionPrice": 4117.0,
-    "soleplatePrice": 1954.0,
+    "fiveFtExtensionPrice": 4249.0,
+    "tenFtExtensionPrice": 4289.0,
+    "soleplatePrice": 2304.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 208.0,
             "maxHP": 39.0,
-            "pricing": 33334.0
+            "pricing": 34723.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 277.0,
             "maxHP": 53.0,
-            "pricing": 36372.0
+            "pricing": 37888.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 347.0,
             "maxHP": 67.0,
-            "pricing": 39734.0
+            "pricing": 41390.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 416.0,
             "maxHP": 81.0,
-            "pricing": 42773.0
+            "pricing": 44555.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 485.0,
             "maxHP": 95.0,
-            "pricing": 45811.0
+            "pricing": 47720.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 554.0,
             "maxHP": 109.0,
-            "pricing": 48849.0
+            "pricing": 50885.0
         },
         {
             "stageNum": 9.0,
             "maxTDH": 624.0,
             "maxHP": 123.0,
-            "pricing": 51888.0
+            "pricing": 54050.0
         },
         {
             "stageNum": 10.0,
             "maxTDH": 693.0,
             "maxHP": 137.0,
-            "pricing": 54926.0
+            "pricing": 57215.0
         },
         {
             "stageNum": 11.0,
             "maxTDH": 769.0,
             "maxHP": 152.0,
-            "pricing": 57965.0
+            "pricing": 60380.0
         }
     ]
 },
@@ -103,45 +103,45 @@
     "firstStageHeight": 16.5,
     "firstStageWidth": 12.875,
     "additionalHeightPerStage": 10.75,
-    "fiveFtExtensionPrice": 4493.0,
-    "tenFtExtensionPrice": 5707.0,
-    "soleplatePrice": 2045.0,
+    "fiveFtExtensionPrice": 4680.0,
+    "tenFtExtensionPrice": 5945.0,
+    "soleplatePrice": 2419.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 162.0,
             "maxHP": 58.0,
-            "pricing": 31636.0
+            "pricing": 32954.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 219.0,
             "maxHP": 79.0,
-            "pricing": 34346.0
+            "pricing": 35777.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 277.0,
             "maxHP": 100.0,
-            "pricing": 37055.0
+            "pricing": 38599.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 335.0,
             "maxHP": 121.0,
-            "pricing": 39764.0
+            "pricing": 41421.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 393.0,
             "maxHP": 142.0,
-            "pricing": 42474.0
+            "pricing": 44243.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 471.0,
             "maxHP": 170.0,
-            "pricing": 45183.0
+            "pricing": 47066.0
         },
         {
             "stageNum": 9.0,
@@ -191,63 +191,63 @@
     "firstStageHeight": 15.625,
     "firstStageWidth": 11.75,
     "additionalHeightPerStage": 9.625,
-    "fiveFtExtensionPrice": 4079.0,
-    "tenFtExtensionPrice": 4117.0,
-    "soleplatePrice": 1954.0,
+    "fiveFtExtensionPrice": 4249.0,
+    "tenFtExtensionPrice": 4289.0,
+    "soleplatePrice": 2304.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 231.0,
             "maxHP": 68.0,
-            "pricing": 33251.0
+            "pricing": 34637.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 312.0,
             "maxHP": 92.0,
-            "pricing": 36105.0
+            "pricing": 37609.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 381.0,
             "maxHP": 114.0,
-            "pricing": 38958.0
+            "pricing": 40582.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 462.0,
             "maxHP": 139.0,
-            "pricing": 41812.0
+            "pricing": 43554.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 543.0,
             "maxHP": 164.0,
-            "pricing": 44665.0
+            "pricing": 46527.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 612.0,
             "maxHP": 185.0,
-            "pricing": 47519.0
+            "pricing": 49499.0
         },
         {
             "stageNum": 9.0,
             "maxTDH": 693.0,
             "maxHP": 210.0,
-            "pricing": 50373.0
+            "pricing": 52472.0
         },
         {
             "stageNum": 10.0,
             "maxTDH": 774.0,
             "maxHP": 235.0,
-            "pricing": 53226.0
+            "pricing": 55444.0
         },
         {
             "stageNum": 11.0,
             "maxTDH": 850.0,
             "maxHP": 258.0,
-            "pricing": 56080.0
+            "pricing": 58416.0
         }
     ]
 },
@@ -273,45 +273,45 @@
     "firstStageHeight": 16.5,
     "firstStageWidth": 12.875,
     "additionalHeightPerStage": 10.75,
-    "fiveFtExtensionPrice": 4493.0,
-    "tenFtExtensionPrice": 5707.0,
-    "soleplatePrice": 2045.0,
+    "fiveFtExtensionPrice": 4680.0,
+    "tenFtExtensionPrice": 5945.0,
+    "soleplatePrice": 2419.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 254.0,
             "maxHP": 84.0,
-            "pricing": 31818.0
+            "pricing": 33143.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 335.0,
             "maxHP": 112.0,
-            "pricing": 35557.0
+            "pricing": 37038.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 418.0,
             "maxHP": 140.0,
-            "pricing": 39296.0
+            "pricing": 40924.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 504.0,
             "maxHP": 168.0,
-            "pricing": 41812.0
+            "pricing": 43554.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 587.0,
             "maxHP": 197.0,
-            "pricing": 46775.0
+            "pricing": 48724.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 670.0,
             "maxHP": 224.0,
-            "pricing": 50514.0
+            "pricing": 52619.0
         },
         {
             "stageNum": 9.0,
@@ -361,45 +361,45 @@
     "firstStageHeight": 16.5,
     "firstStageWidth": 12.875,
     "additionalHeightPerStage": 10.75,
-    "fiveFtExtensionPrice": 4493.0,
-    "tenFtExtensionPrice": 5707.0,
-    "soleplatePrice": 2045.0,
+    "fiveFtExtensionPrice": 4680.0,
+    "tenFtExtensionPrice": 5945.0,
+    "soleplatePrice": 2419.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 162.0,
             "maxHP": 66.0,
-            "pricing": 31636.0
+            "pricing": 32954.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 219.0,
             "maxHP": 88.0,
-            "pricing": 34346.0
+            "pricing": 35777.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 266.0,
             "maxHP": 106.0,
-            "pricing": 37055.0
+            "pricing": 38599.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 323.0,
             "maxHP": 128.0,
-            "pricing": 39764.0
+            "pricing": 41421.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 381.0,
             "maxHP": 150.0,
-            "pricing": 42474.0
+            "pricing": 44243.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 450.0,
             "maxHP": 178.0,
-            "pricing": 45183.0
+            "pricing": 47066.0
         },
         {
             "stageNum": 9.0,
@@ -449,45 +449,45 @@
     "firstStageHeight": 16.5,
     "firstStageWidth": 12.875,
     "additionalHeightPerStage": 10.75,
-    "fiveFtExtensionPrice": 4493.0,
-    "tenFtExtensionPrice": 5707.0,
-    "soleplatePrice": 2045.0,
+    "fiveFtExtensionPrice": 4680.0,
+    "tenFtExtensionPrice": 5945.0,
+    "soleplatePrice": 2419.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 229.0,
             "maxHP": 82.0,
-            "pricing": 31818.0
+            "pricing": 33143.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 305.0,
             "maxHP": 110.0,
-            "pricing": 35557.0
+            "pricing": 37038.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 381.0,
             "maxHP": 139.0,
-            "pricing": 39296.0
+            "pricing": 40934.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 457.0,
             "maxHP": 167.0,
-            "pricing": 41812.0
+            "pricing": 43554.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 534.0,
             "maxHP": 195.0,
-            "pricing": 46775.0
+            "pricing": 48724.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 610.0,
             "maxHP": 224.0,
-            "pricing": 50514.0
+            "pricing": 52619.0
         },
         {
             "stageNum": 9.0,
@@ -537,45 +537,45 @@
     "firstStageHeight": 16.5,
     "firstStageWidth": 12.875,
     "additionalHeightPerStage": 10.75,
-    "fiveFtExtensionPrice": 4493.0,
-    "tenFtExtensionPrice": 5707.0,
-    "soleplatePrice": 2045.0,
+    "fiveFtExtensionPrice": 4680.0,
+    "tenFtExtensionPrice": 5945.0,
+    "soleplatePrice": 2419.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 231.0,
             "maxHP": 115.0,
-            "pricing": 31636.0
+            "pricing": 32954.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 300.0,
             "maxHP": 148.0,
-            "pricing": 34346.0
+            "pricing": 35777.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 381.0,
             "maxHP": 187.0,
-            "pricing": 37055.0
+            "pricing": 38599.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 427.0,
             "maxHP": 209.0,
-            "pricing": 39764.0
+            "pricing": 41421.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 497.0,
             "maxHP": 242.0,
-            "pricing": 42474.0
+            "pricing": 44243.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 612.0,
             "maxHP": 298.0,
-            "pricing": 45183.0
+            "pricing": 47066.0
         },
         {
             "stageNum": 9.0,
@@ -625,45 +625,45 @@
     "firstStageHeight": 17.0625,
     "firstStageWidth": 14.0,
     "additionalHeightPerStage": 11.25,
-    "fiveFtExtensionPrice": 4493.0,
-    "tenFtExtensionPrice": 5707.0,
-    "soleplatePrice": 2045.0,
+    "fiveFtExtensionPrice": 4680.0,
+    "tenFtExtensionPrice": 5945.0,
+    "soleplatePrice": 2419.0,
     "stages": [
         {
             "stageNum": 3.0,
             "maxTDH": 196.0,
             "maxHP": 101.0,
-            "pricing": 37417.0
+            "pricing": 38976.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 254.0,
             "maxHP": 130.0,
-            "pricing": 41443.0
+            "pricing": 43170.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 323.0,
             "maxHP": 164.0,
-            "pricing": 45277.0
+            "pricing": 47163.0
         },
         {
             "stageNum": 6.0,
             "maxTDH": 393.0,
             "maxHP": 199.0,
-            "pricing": 49110.0
+            "pricing": 51157.0
         },
         {
             "stageNum": 7.0,
             "maxTDH": 462.0,
             "maxHP": 233.0,
-            "pricing": 53136.0
+            "pricing": 55350.0
         },
         {
             "stageNum": 8.0,
             "maxTDH": 571.0,
             "maxHP": 288.0,
-            "pricing": 57736.0
+            "pricing": 60142.0
         }
     ]
 },
@@ -689,33 +689,33 @@
     "firstStageHeight": 21.875,
     "firstStageWidth": 16.625,
     "additionalHeightPerStage": 14.0,
-    "fiveFtExtensionPrice": 6066.0,
-    "tenFtExtensionPrice": 6834.0,
-    "soleplatePrice": 1998.0,
+    "fiveFtExtensionPrice": 6319.0,
+    "tenFtExtensionPrice": 7118.0,
+    "soleplatePrice": 3077.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 243.0,
             "maxHP": 177.0,
-            "pricing": 44320.0
+            "pricing": 46167.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 370.0,
             "maxHP": 280.0,
-            "pricing": 49688.0
+            "pricing": 51758.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 497.0,
             "maxHP": 383.0,
-            "pricing": 54288.0
+            "pricing": 56550.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 649.0,
             "maxHP": 506.0,
-            "pricing": 59655.0
+            "pricing": 62141.0
         }
     ]
 },
@@ -741,33 +741,33 @@
     "firstStageHeight": 21.875,
     "firstStageWidth": 16.625,
     "additionalHeightPerStage": 14.0,
-    "fiveFtExtensionPrice": 6066.0,
-    "tenFtExtensionPrice": 6834.0,
-    "soleplatePrice": 1998.0,
+    "fiveFtExtensionPrice": 6319.0,
+    "tenFtExtensionPrice": 7118.0,
+    "soleplatePrice": 3077.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 254.0,
             "maxHP": 242.0,
-            "pricing": 43170.0
+            "pricing": 44969.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 381.0,
             "maxHP": 367.0,
-            "pricing": 48537.0
+            "pricing": 50560.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 508.0,
             "maxHP": 491.0,
-            "pricing": 51604.0
+            "pricing": 53755.0
         },
         {
             "stageNum": 5.0,
             "maxTDH": 647.0,
             "maxHP": 627.0,
-            "pricing": 59272.0
+            "pricing": 61742.0
         }
     ]
 },
@@ -793,27 +793,27 @@
     "firstStageHeight": 26.875,
     "firstStageWidth": 18.0,
     "additionalHeightPerStage": 18.0,
-    "fiveFtExtensionPrice": 7355.0,
-    "tenFtExtensionPrice": 8826.0,
-    "soleplatePrice": 2618.0,
+    "fiveFtExtensionPrice": 7662.0,
+    "tenFtExtensionPrice": 9193.0,
+    "soleplatePrice": 3788.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 208.0,
             "maxHP": 201.0,
-            "pricing": 61191.0
+            "pricing": 63741.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 328.0,
             "maxHP": 332.0,
-            "pricing": 69625.0
+            "pricing": 72527.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 437.0,
             "maxHP": 478.0,
-            "pricing": 77293.0
+            "pricing": 80514.0
         }
     ]
 },
@@ -839,27 +839,27 @@
     "firstStageHeight": 26.875,
     "firstStageWidth": 18.0,
     "additionalHeightPerStage": 18.0,
-    "fiveFtExtensionPrice": 7355.0,
-    "tenFtExtensionPrice": 8826.0,
-    "soleplatePrice": 2618.0,
+    "fiveFtExtensionPrice": 7662.0,
+    "tenFtExtensionPrice": 9193.0,
+    "soleplatePrice": 3788.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 196.0,
             "maxHP": 203.0,
-            "pricing": 61191.0
+            "pricing": 63741.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 312.0,
             "maxHP": 332.0,
-            "pricing": 69625.0
+            "pricing": 72527.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 416.0,
             "maxHP": 478.0,
-            "pricing": 77293.0
+            "pricing": 80514.0
         }
     ]
 },
@@ -885,21 +885,21 @@
     "firstStageHeight": 26.875,
     "firstStageWidth": 18.0,
     "additionalHeightPerStage": 18.0,
-    "fiveFtExtensionPrice": 7355.0,
-    "tenFtExtensionPrice": 8826.0,
-    "soleplatePrice": 2618.0,
+    "fiveFtExtensionPrice": 7662.0,
+    "tenFtExtensionPrice": 9193.0,
+    "soleplatePrice": 3788.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 312.0,
             "maxHP": 379.0,
-            "pricing": 61191.0
+            "pricing": 63741.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 480.0,
             "maxHP": 575.0,
-            "pricing": 69625.0
+            "pricing": 72527.0
         },
         {
             "stageNum": 4.0,
@@ -931,21 +931,21 @@
     "firstStageHeight": 26.875,
     "firstStageWidth": 18.0,
     "additionalHeightPerStage": 18.0,
-    "fiveFtExtensionPrice": 7355.0,
-    "tenFtExtensionPrice": 8826.0,
-    "soleplatePrice": 2618.0,
+    "fiveFtExtensionPrice": 7662.0,
+    "tenFtExtensionPrice": 9193.0,
+    "soleplatePrice": 3788.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 300.0,
             "maxHP": 364.0,
-            "pricing": 61191.0
+            "pricing": 63741.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 462.0,
             "maxHP": 575.0,
-            "pricing": 69625.0
+            "pricing": 72527.0
         }
     ]
 },
@@ -971,27 +971,27 @@
     "firstStageHeight": 25.75,
     "firstStageWidth": 19.0,
     "additionalHeightPerStage": 16.75,
-    "fiveFtExtensionPrice": 7355.0,
-    "tenFtExtensionPrice": 8826.0,
-    "soleplatePrice": 2618.0,
+    "fiveFtExtensionPrice": 7662.0,
+    "tenFtExtensionPrice": 9193.0,
+    "soleplatePrice": 3788.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 266.0,
             "maxHP": 424.0,
-            "pricing": 60202.0
+            "pricing": 62711.0
         },
         {
             "stageNum": 3.0,
             "maxTDH": 420.0,
             "maxHP": 690.0,
-            "pricing": 68624.0
+            "pricing": 71483.0
         },
         {
             "stageNum": 4.0,
             "maxTDH": 538.0,
             "maxHP": 859.0,
-            "pricing": 77045.0
+            "pricing": 80255.0
         }
     ]
 },
@@ -1017,15 +1017,15 @@
     "firstStageHeight": 27.4375,
     "firstStageWidth": 20.5,
     "additionalHeightPerStage": 17.5625,
-    "fiveFtExtensionPrice": 9678.0,
-    "tenFtExtensionPrice": 11512.0,
-    "soleplatePrice": 4538.0,
+    "fiveFtExtensionPrice": 10081.0,
+    "tenFtExtensionPrice": 11991.0,
+    "soleplatePrice": 6004.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 409.0,
             "maxHP": 776.0,
-            "pricing": 124035.0
+            "pricing": 129203.0
         }
     ]
 },
@@ -1051,16 +1051,16 @@
     "firstStageHeight": 27.4375,
     "firstStageWidth": 20.5,
     "additionalHeightPerStage": 17.5625,
-    "fiveFtExtensionPrice": 9678.0,
-    "tenFtExtensionPrice": 11512.0,
-    "soleplatePrice": 4538.0,
+    "fiveFtExtensionPrice": 10081.0,
+    "tenFtExtensionPrice": 11991.0,
+    "soleplatePrice": 6004.0,
     "stages": [
         {
             "stageNum": 2.0,
             "maxTDH": 370.0,
             "maxHP": 776.0,
-            "pricing": 124035.0
+            "pricing": 129203.0
         }
     ]
-},
+}
 ]
