@@ -1,0 +1,32 @@
+[
+{
+    "make": "Firetrol ",
+    "model": "1100-JL12N",
+    "pricing": 7155.0
+},
+{
+    "make": "Firetrol ",
+    "model": "1100-JL24N",
+    "pricing": 7296.0
+},
+{
+    "make": "Tornatech",
+    "model": "GPD-12-120",
+    "pricing": 6868.0
+},
+{
+    "make": "Tornatech",
+    "model": "GPD-24-120",
+    "pricing": 7004.0
+},
+{
+    "make": "Tornatech",
+    "model": "GPD-12-220",
+    "pricing": 6868.0
+},
+{
+    "make": "Tornatech",
+    "model": "GPD-24-220",
+    "pricing": 7004.0
+}
+]
