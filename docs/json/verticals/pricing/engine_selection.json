@@ -1,33 +1,6 @@
 [
 {
     "make": "Clarke",
-    "model": "JU4H-UF10",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 41,
-            "fuel_consumption": 2.2
-        },
-        {
-            "speed": 2100,
-            "hp": 51,
-            "fuel_consumption": 2.8
-        },
-        {
-            "speed": 2350,
-            "hp": 55,
-            "fuel_consumption": 3.1
-        }
-    ],
-    "price": 1.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c0f738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
     "model": "JU4H-UF20",
     "tier": "NSPS",
     "rating": [
@@ -47,7 +20,7 @@
             "fuel_consumption": 5.6
         }
     ],
-    "price": 2.0,
+    "price": 63544.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ac2639cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12,
@@ -55,88 +28,27 @@
 },
 {
     "make": "Clarke",
-    "model": "JU4H-UF40",
+    "model": "JU4H-UF10",
     "tier": "NSPS",
     "rating": [
         {
             "speed": 1760,
-            "hp": 94,
-            "fuel_consumption": 3.0
+            "hp": 41,
+            "fuel_consumption": 2.2
         },
         {
             "speed": 2100,
-            "hp": 105,
-            "fuel_consumption": 3.2
+            "hp": 51,
+            "fuel_consumption": 2.8
         },
         {
             "speed": 2350,
-            "hp": 106,
+            "hp": 55,
             "fuel_consumption": 3.1
         }
     ],
-    "price": 3.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b5ea38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU4H-UF50",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 110,
-            "fuel_consumption": 3.8
-        },
-        {
-            "speed": 2100,
-            "hp": 130,
-            "fuel_consumption": 4.5
-        },
-        {
-            "speed": 2350,
-            "hp": 127,
-            "fuel_consumption": 4.9
-        }
-    ],
-    "price": 4.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5f0a39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU4H-UF52",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 2350,
-            "hp": 127,
-            "fuel_consumption": 4.9
-        }
-    ],
-    "price": 5.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU4H-UF58",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 110,
-            "fuel_consumption": 3.8
-        }
-    ],
-    "price": 6.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a10439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "price": 64221.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c0f738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
     "starter": 12,
     "muffler_count": 1
@@ -162,9 +74,124 @@
             "fuel_consumption": 5.2
         }
     ],
-    "price": 7.0,
+    "price": 72004.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=75e538cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UF40",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 94,
+            "fuel_consumption": 3.0
+        },
+        {
+            "speed": 2100,
+            "hp": 105,
+            "fuel_consumption": 3.2
+        },
+        {
+            "speed": 2350,
+            "hp": 106,
+            "fuel_consumption": 3.1
+        }
+    ],
+    "price": 73612.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b5ea38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UF58",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 110,
+            "fuel_consumption": 3.8
+        }
+    ],
+    "price": 79171.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a10439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UF50",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 110,
+            "fuel_consumption": 3.8
+        },
+        {
+            "speed": 2100,
+            "hp": 130,
+            "fuel_consumption": 4.5
+        },
+        {
+            "speed": 2350,
+            "hp": 127,
+            "fuel_consumption": 4.9
+        }
+    ],
+    "price": 83981.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5f0a39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UF52",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 2350,
+            "hp": 127,
+            "fuel_consumption": 4.9
+        }
+    ],
+    "price": 84139.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-low-speed-series/ju4h-uf-na-ls-(10-25-2017)-final.png?sfvrsn=7a582813_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFD0",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 110,
+            "fuel_consumption": 8.2
+        },
+        {
+            "speed": 2100,
+            "hp": 144,
+            "fuel_consumption": 10.2
+        },
+        {
+            "speed": 2350,
+            "hp": 148,
+            "fuel_consumption": 10.8
+        }
+    ],
+    "price": 84164.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a32339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12,
     "muffler_count": 1
 },
@@ -189,8 +216,108 @@
             "fuel_consumption": 11.2
         }
     ],
-    "price": 8.0,
+    "price": 84885.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3af938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UFAEA0",
+    "tier": "4i",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 37,
+            "fuel_consumption": 4.4
+        },
+        {
+            "speed": 2100,
+            "hp": 42,
+            "fuel_consumption": 5.0
+        },
+        {
+            "speed": 2350,
+            "hp": 46,
+            "fuel_consumption": 5.6
+        }
+    ],
+    "price": 90407.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8e0e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UFAEE8",
+    "tier": "4i",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 64,
+            "fuel_consumption": 8.0
+        }
+    ],
+    "price": 92696.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c1fc38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU4H-UFAEF2",
+    "tier": "4i",
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 74,
+            "fuel_consumption": 9.2
+        },
+        {
+            "speed": 2350,
+            "hp": 74,
+            "fuel_consumption": 8.7
+        }
+    ],
+    "price": 92696.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9c1539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFM8",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 175,
+            "fuel_consumption": 10.4
+        }
+    ],
+    "price": 92723.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e4ee38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UF58",
+    "tier": "NSPS",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 183,
+            "fuel_consumption": 10.7
+        }
+    ],
+    "price": 92764.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=53f838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12,
     "muffler_count": 1
@@ -216,96 +343,8 @@
             "fuel_consumption": 12.9
         }
     ],
-    "price": 9.0,
+    "price": 97574.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=620439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UF58",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 183,
-            "fuel_consumption": 10.7
-        }
-    ],
-    "price": 10.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=53f838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UF60",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 200,
-            "fuel_consumption": 10.0
-        },
-        {
-            "speed": 2100,
-            "hp": 240,
-            "fuel_consumption": 10.3
-        },
-        {
-            "speed": 2350,
-            "hp": 240,
-            "fuel_consumption": 11.2
-        }
-    ],
-    "price": 11.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10f938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UFD0",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 110,
-            "fuel_consumption": 8.2
-        },
-        {
-            "speed": 2100,
-            "hp": 144,
-            "fuel_consumption": 10.2
-        },
-        {
-            "speed": 2350,
-            "hp": 148,
-            "fuel_consumption": 10.8
-        }
-    ],
-    "price": 12.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a32339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UFM8",
-    "tier": "NSPS",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 175,
-            "fuel_consumption": 10.4
-        }
-    ],
-    "price": 13.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e4ee38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12,
     "muffler_count": 1
@@ -331,126 +370,9 @@
             "fuel_consumption": 12.6
         }
     ],
-    "price": 14.0,
+    "price": 98526.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=880539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UFAAQ8",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 227,
-            "fuel_consumption": 16.1
-        }
-    ],
-    "price": 15.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=34f038cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UFAARG",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 252,
-            "fuel_consumption": 12.8
-        }
-    ],
-    "price": 16.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=230439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU6H-UFAAS0",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 260,
-            "fuel_consumption": 12.5
-        }
-    ],
-    "price": 17.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=39f438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU4H-UFAEA0",
-    "tier": "4i",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 37,
-            "fuel_consumption": 4.4
-        },
-        {
-            "speed": 2100,
-            "hp": 42,
-            "fuel_consumption": 5.0
-        },
-        {
-            "speed": 2350,
-            "hp": 46,
-            "fuel_consumption": 5.6
-        }
-    ],
-    "price": 18.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8e0e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU4H-UFAEE8",
-    "tier": "4i",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 64,
-            "fuel_consumption": 8.0
-        }
-    ],
-    "price": 19.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=c1fc38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JU4H-UFAEF2",
-    "tier": "4i",
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 74,
-            "fuel_consumption": 9.2
-        },
-        {
-            "speed": 2350,
-            "hp": 74,
-            "fuel_consumption": 8.7
-        }
-    ],
-    "price": 20.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9c1539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-uf-it4-mech-usecc938cf80b2683faebcff00005cb4e3.png?sfvrsn=9c7b5013_4",
     "starter": 12,
     "muffler_count": 1
 },
@@ -465,7 +387,7 @@
             "fuel_consumption": 4.5
         }
     ],
-    "price": 21.0,
+    "price": 98985.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a82939cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-ptm-us2aca38cf80b2683faebcff00005cb4e3.png?sfvrsn=5e785013_4",
     "starter": 12,
@@ -487,7 +409,7 @@
             "fuel_consumption": 5.5
         }
     ],
-    "price": 22.0,
+    "price": 98985.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e40339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-ptm-us2aca38cf80b2683faebcff00005cb4e3.png?sfvrsn=5e785013_4",
     "starter": 12,
@@ -504,7 +426,7 @@
             "fuel_consumption": 8.7
         }
     ],
-    "price": 23.0,
+    "price": 103401.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=137867cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12,
@@ -512,23 +434,28 @@
 },
 {
     "make": "Clarke",
-    "model": "JU6H-UFADMG",
-    "tier": 3.0,
+    "model": "JU6H-UF60",
+    "tier": "NSPS",
     "rating": [
         {
+            "speed": 1760,
+            "hp": 200,
+            "fuel_consumption": 10.0
+        },
+        {
             "speed": 2100,
-            "hp": 175,
-            "fuel_consumption": 10.7
+            "hp": 240,
+            "fuel_consumption": 10.3
         },
         {
             "speed": 2350,
-            "hp": 175,
-            "fuel_consumption": 10.8
+            "hp": 240,
+            "fuel_consumption": 11.2
         }
     ],
-    "price": 24.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bd1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "price": 106078.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=10f938cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-uf-t-(6-27-2017)-final.png?sfvrsn=4882a13_2",
     "starter": 12,
     "muffler_count": 1
 },
@@ -553,9 +480,26 @@
             "fuel_consumption": 11.0
         }
     ],
-    "price": 25.0,
+    "price": 108530.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a2df38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFAAQ8",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 227,
+            "fuel_consumption": 16.1
+        }
+    ],
+    "price": 109886.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=34f038cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12,
     "muffler_count": 1
 },
@@ -580,7 +524,7 @@
             "fuel_consumption": 12.5
         }
     ],
-    "price": 26.0,
+    "price": 110512.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f72339cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
     "starter": 12,
@@ -597,9 +541,43 @@
             "fuel_consumption": 10.0
         }
     ],
-    "price": 27.0,
+    "price": 111762.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d4f238cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFAAS0",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 260,
+            "fuel_consumption": 12.5
+        }
+    ],
+    "price": 113367.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=39f438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFAARG",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 252,
+            "fuel_consumption": 12.8
+        }
+    ],
+    "price": 114409.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=230439cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-low-speed-series/ju6h-g-drive-(6-27-2017)-final.png?sfvrsn=e28c2a13_2",
     "starter": 12,
     "muffler_count": 1
 },
@@ -614,9 +592,31 @@
             "fuel_consumption": 10.6
         }
     ],
-    "price": 28.0,
+    "price": 119064.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8afa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju4h-ufad-ufae-series/ju4h-ufad-trwa-pte-us0bca38cf80b2683faebcff00005cb4e3.png?sfvrsn=7d785013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFADMG",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 175,
+            "fuel_consumption": 10.7
+        },
+        {
+            "speed": 2350,
+            "hp": 175,
+            "fuel_consumption": 10.8
+        }
+    ],
+    "price": 119556.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bd1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
     "muffler_count": 1
 },
@@ -641,7 +641,7 @@
             "fuel_consumption": 10.8
         }
     ],
-    "price": 30.0,
+    "price": 121236.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ae1b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
@@ -668,7 +668,7 @@
             "fuel_consumption": 10.8
         }
     ],
-    "price": 31.0,
+    "price": 123262.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=082539cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
@@ -685,8 +685,47 @@
             "fuel_consumption": 11.2
         }
     ],
-    "price": 32.0,
+    "price": 129812.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=631e39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DP6H-UFAA88",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 290,
+            "fuel_consumption": 15.4
+        }
+    ],
+    "price": 130295.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=020b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFADQ0",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 224,
+            "fuel_consumption": 11.1
+        },
+        {
+            "speed": 2350,
+            "hp": 226,
+            "fuel_consumption": 11.4
+        }
+    ],
+    "price": 132856.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d2e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
     "muffler_count": 1
@@ -707,7 +746,7 @@
             "fuel_consumption": 10.7
         }
     ],
-    "price": 33.0,
+    "price": 133510.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b4fa38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
@@ -715,24 +754,19 @@
 },
 {
     "make": "Clarke",
-    "model": "JU6H-UFADQ0",
-    "tier": 3.0,
+    "model": "DP6H-UFAA62",
+    "tier": "N.E.",
     "rating": [
         {
-            "speed": 2100,
-            "hp": 224,
-            "fuel_consumption": 11.1
-        },
-        {
             "speed": 2350,
-            "hp": 226,
-            "fuel_consumption": 11.4
+            "hp": 300,
+            "fuel_consumption": 15.7
         }
     ],
-    "price": 34.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d2e838cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
-    "starter": 12,
+    "price": 133522.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ed0a47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
+    "starter": 24,
     "muffler_count": 1
 },
 {
@@ -746,7 +780,7 @@
             "fuel_consumption": 12.0
         }
     ],
-    "price": 35.0,
+    "price": 134287.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d1d39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
@@ -763,7 +797,7 @@
             "fuel_consumption": 12.3
         }
     ],
-    "price": 36.0,
+    "price": 136221.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3c1839cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
@@ -785,9 +819,117 @@
             "fuel_consumption": 12.2
         }
     ],
-    "price": 37.0,
+    "price": 139869.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=862739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP5E-F20",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 107,
+            "fuel_consumption": 5.5
+        },
+        {
+            "speed": 2100,
+            "hp": 113,
+            "fuel_consumption": 6.0
+        },
+        {
+            "speed": 2350,
+            "hp": 118,
+            "fuel_consumption": 6.5
+        }
+    ],
+    "price": 141158.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062901.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP5E-F10",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 95,
+            "fuel_consumption": 4.9
+        },
+        {
+            "speed": 2100,
+            "hp": 101,
+            "fuel_consumption": 5.4
+        },
+        {
+            "speed": 2350,
+            "hp": 105,
+            "fuel_consumption": 5.8
+        }
+    ],
+    "price": 141222.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062900.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP5E-F30",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 118,
+            "fuel_consumption": 6.1
+        },
+        {
+            "speed": 2100,
+            "hp": 125,
+            "fuel_consumption": 6.7
+        },
+        {
+            "speed": 2350,
+            "hp": 130,
+            "fuel_consumption": 7.2
+        }
+    ],
+    "price": 144162.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062902.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP5E-F40",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 123,
+            "fuel_consumption": 6.3
+        },
+        {
+            "speed": 2100,
+            "hp": 136,
+            "fuel_consumption": 7.2
+        },
+        {
+            "speed": 2350,
+            "hp": 143,
+            "fuel_consumption": 7.9
+        }
+    ],
+    "price": 144226.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062903.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12,
     "muffler_count": 1
 },
@@ -802,26 +944,36 @@
             "fuel_consumption": 12.7
         }
     ],
-    "price": 38.0,
+    "price": 144253.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=011739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
     "muffler_count": 1
 },
 {
-    "make": "Clarke",
-    "model": "JU6H-UFADW8",
+    "make": "Cummins",
+    "model": "CFP5E-F50",
     "tier": 3.0,
     "rating": [
         {
             "speed": 1760,
-            "hp": 282,
-            "fuel_consumption": 13.7
+            "hp": 129,
+            "fuel_consumption": 6.6
+        },
+        {
+            "speed": 2100,
+            "hp": 146,
+            "fuel_consumption": 7.8
+        },
+        {
+            "speed": 2350,
+            "hp": 150,
+            "fuel_consumption": 8.3
         }
     ],
-    "price": 39.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=58e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "price": 144286.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062904.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
     "starter": 12,
     "muffler_count": 1
 },
@@ -846,10 +998,95 @@
             "fuel_consumption": 13.9
         }
     ],
-    "price": 40.0,
+    "price": 146783.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=82e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JU6H-UFADW8",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 282,
+            "fuel_consumption": 13.7
+        }
+    ],
+    "price": 147005.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=58e738cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD20",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 311,
+            "fuel_consumption": 16.9
+        }
+    ],
+    "price": 147583.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=2652a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD22",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 275,
+            "fuel_consumption": 15.1
+        }
+    ],
+    "price": 147583.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=1e52a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD28",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 327,
+            "fuel_consumption": 16.7
+        }
+    ],
+    "price": 147583.0,
+    "proposal": "https://www.clarkefire.com/products/engine-search/product-details/cfppinc-c13h0-ufad28-1760",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD30",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 335,
+            "fuel_consumption": 17.8
+        }
+    ],
+    "price": 148857.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=0e52a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
     "muffler_count": 1
 },
 {
@@ -863,10 +1100,27 @@
             "fuel_consumption": 14.6
         }
     ],
-    "price": 41.0,
+    "price": 150135.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2b1739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DQ6H-UFAA50",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 340,
+            "fuel_consumption": 18.7
+        }
+    ],
+    "price": 151086.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4a1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
+    "starter": 24,
     "muffler_count": 1
 },
 {
@@ -880,7 +1134,7 @@
             "fuel_consumption": 15.0
         }
     ],
-    "price": 42.0,
+    "price": 151151.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=bf3e3dcf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ju6h-ufad-low-speed-series/ju6h-uf-ta-pte-usb23f42cf80b2683faebcff00005cb4e3.png?sfvrsn=d68d2a13_2",
     "starter": 12,
@@ -902,10 +1156,98 @@
             "fuel_consumption": 16.8
         }
     ],
-    "price": 43.0,
+    "price": 151318.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=22ff38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD32",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 296,
+            "fuel_consumption": 15.9
+        }
+    ],
+    "price": 152268.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=0652a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP7E-F10",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 175,
+            "fuel_consumption": 9.0
+        },
+        {
+            "speed": 2100,
+            "hp": 171,
+            "fuel_consumption": 9.0
+        },
+        {
+            "speed": 2350,
+            "hp": 172,
+            "fuel_consumption": 9.2
+        }
+    ],
+    "price": 154459.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062905.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP7E-F20",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 190,
+            "fuel_consumption": 9.8
+        },
+        {
+            "speed": 2100,
+            "hp": 185,
+            "fuel_consumption": 9.7
+        },
+        {
+            "speed": 2350,
+            "hp": 187,
+            "fuel_consumption": 10.0
+        }
+    ],
+    "price": 154573.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062906.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD38",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 350,
+            "fuel_consumption": 18.1
+        }
+    ],
+    "price": 154697.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=fe51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
     "muffler_count": 1
 },
 {
@@ -924,105 +1266,10 @@
             "fuel_consumption": 17.6
         }
     ],
-    "price": 44.0,
+    "price": 155457.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=29e338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
     "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JW6H-UFAD70",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 376,
-            "fuel_consumption": 18.8
-        },
-        {
-            "speed": 2100,
-            "hp": 399,
-            "fuel_consumption": 20.0
-        }
-    ],
-    "price": 45.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=adec38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "JW6H-UFAD80",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 422,
-            "fuel_consumption": 20.0
-        },
-        {
-            "speed": 2100,
-            "hp": 400,
-            "fuel_consumption": 20.0
-        }
-    ],
-    "price": 46.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=85f638cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAA88",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 290,
-            "fuel_consumption": 15.4
-        }
-    ],
-    "price": 47.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=020b47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "DP6H-UFAA62",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 2350,
-            "hp": 300,
-            "fuel_consumption": 15.7
-        }
-    ],
-    "price": 48.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ed0a47cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dp6h-series/dp6h-uf-us.png?sfvrsn=34932013_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "DQ6H-UFAA50",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 340,
-            "fuel_consumption": 18.7
-        }
-    ],
-    "price": 49.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4a1f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
-    "starter": 24,
     "muffler_count": 1
 },
 {
@@ -1041,7 +1288,7 @@
             "fuel_consumption": 19.5
         }
     ],
-    "price": 50.0,
+    "price": 156199.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e2e438cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24,
@@ -1058,10 +1305,118 @@
             "fuel_consumption": 17.1
         }
     ],
-    "price": 51.0,
+    "price": 157800.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=ef2739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
     "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP7E-F30",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 205,
+            "fuel_consumption": 10.6
+        },
+        {
+            "speed": 2100,
+            "hp": 200,
+            "fuel_consumption": 10.5
+        },
+        {
+            "speed": 2350,
+            "hp": 201,
+            "fuel_consumption": 10.8
+        }
+    ],
+    "price": 161271.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062907.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP7E-F40",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 220,
+            "fuel_consumption": 11.4
+        },
+        {
+            "speed": 2100,
+            "hp": 215,
+            "fuel_consumption": 11.3
+        },
+        {
+            "speed": 2350,
+            "hp": 216,
+            "fuel_consumption": 11.6
+        }
+    ],
+    "price": 161392.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062908.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP7E-F50",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 235,
+            "fuel_consumption": 12.1
+        },
+        {
+            "speed": 2100,
+            "hp": 229,
+            "fuel_consumption": 12.0
+        },
+        {
+            "speed": 2350,
+            "hp": 231,
+            "fuel_consumption": 12.4
+        }
+    ],
+    "price": 161515.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062909.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP7E-F60",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 247,
+            "fuel_consumption": 12.9
+        },
+        {
+            "speed": 2100,
+            "hp": 244,
+            "fuel_consumption": 12.8
+        },
+        {
+            "speed": 2350,
+            "hp": 245,
+            "fuel_consumption": 13.1
+        }
+    ],
+    "price": 161639.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062910.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
+    "starter": 12,
     "muffler_count": 1
 },
 {
@@ -1080,9 +1435,333 @@
             "fuel_consumption": 18.6
         }
     ],
-    "price": 52.0,
+    "price": 164763.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=400239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dq6h-series/dq6h-uf-us91c838cf80b2683faebcff00005cb4e3.png?sfvrsn=297a5013_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD40",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 351,
+            "fuel_consumption": 18.8
+        }
+    ],
+    "price": 166349.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=f651a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD50",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 399,
+            "fuel_consumption": 20.8
+        }
+    ],
+    "price": 171639.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=ee51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD52",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 351,
+            "fuel_consumption": 18.0
+        }
+    ],
+    "price": 171639.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=e651a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD58",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 380,
+            "fuel_consumption": 19.3
+        }
+    ],
+    "price": 171639.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=de51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JW6H-UFAD70",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 376,
+            "fuel_consumption": 18.8
+        },
+        {
+            "speed": 2100,
+            "hp": 399,
+            "fuel_consumption": 20.0
+        }
+    ],
+    "price": 177266.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=adec38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP9E-F10",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 260,
+            "fuel_consumption": 13.4
+        },
+        {
+            "speed": 2100,
+            "hp": 246,
+            "fuel_consumption": 12.9
+        }
+    ],
+    "price": 180455.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062911.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP9E-F20",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 282,
+            "fuel_consumption": 14.6
+        },
+        {
+            "speed": 2100,
+            "hp": 268,
+            "fuel_consumption": 14.0
+        }
+    ],
+    "price": 184958.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062912.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD62",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 384,
+            "fuel_consumption": 19.4
+        }
+    ],
+    "price": 185128.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=ce51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "JW6H-UFAD80",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 422,
+            "fuel_consumption": 20.0
+        },
+        {
+            "speed": 2100,
+            "hp": 400,
+            "fuel_consumption": 20.0
+        }
+    ],
+    "price": 186027.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=85f638cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/jw6h-series/jw6h-uf-ta-pte-us05cb38cf80b2683faebcff00005cb4e3.png?sfvrsn=83785013_4",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD60",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 425,
+            "fuel_consumption": 22.0
+        }
+    ],
+    "price": 187558.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=d651a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD68",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 422,
+            "fuel_consumption": 21.5
+        }
+    ],
+    "price": 187558.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=6851a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP9E-F30",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 305,
+            "fuel_consumption": 15.8
+        },
+        {
+            "speed": 2100,
+            "hp": 289,
+            "fuel_consumption": 15.1
+        }
+    ],
+    "price": 188464.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062913.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP9E-F40",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 327,
+            "fuel_consumption": 16.9
+        },
+        {
+            "speed": 2100,
+            "hp": 311,
+            "fuel_consumption": 16.3
+        }
+    ],
+    "price": 188786.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062914.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP9E-F50",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 350,
+            "fuel_consumption": 18.1
+        },
+        {
+            "speed": 2100,
+            "hp": 335,
+            "fuel_consumption": 17.4
+        }
+    ],
+    "price": 191857.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062915.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD72",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 398,
+            "fuel_consumption": 19.9
+        }
+    ],
+    "price": 209958.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=4f51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD70",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 460,
+            "fuel_consumption": 23.5
+        }
+    ],
+    "price": 214817.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=5b51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C13H0-UFAD78",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 455,
+            "fuel_consumption": 23.1
+        }
+    ],
+    "price": 214817.0,
+    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=4251a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
     "starter": 24,
     "muffler_count": 1
 },
@@ -1112,45 +1791,28 @@
             "fuel_consumption": 28.0
         }
     ],
-    "price": 53.0,
+    "price": 219062.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28f338cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24,
     "muffler_count": 2
 },
 {
-    "make": "Clarke",
-    "model": "DR8H-UFAA5G",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 450,
-            "fuel_consumption": 23.0
-        }
-    ],
-    "price": 54.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e7fd38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DR8H-UFAA68",
-    "tier": "N.E.",
+    "make": "Cummins",
+    "model": "CFP9E-F65",
+    "tier": 3.0,
     "rating": [
         {
             "speed": 1760,
-            "hp": 495,
-            "fuel_consumption": 25.0
+            "hp": 380,
+            "fuel_consumption": 21.8
         }
     ],
-    "price": 55.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=462039cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
-    "starter": 24,
-    "muffler_count": 2
+    "price": 227776.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063349.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
 },
 {
     "make": "Clarke",
@@ -1168,33 +1830,62 @@
             "fuel_consumption": 29.0
         }
     ],
-    "price": 56.0,
+    "price": 229084.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3f1239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24,
     "muffler_count": 2
 },
 {
+    "make": "Cummins",
+    "model": "CFP9E-F75",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 401,
+            "fuel_consumption": 23.0
+        }
+    ],
+    "price": 231215.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062917.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
+},
+{
     "make": "Clarke",
-    "model": "DS0H-UFAAN0",
+    "model": "DR8H-UFAA68",
     "tier": "N.E.",
     "rating": [
         {
             "speed": 1760,
-            "hp": 542,
-            "fuel_consumption": 27.0
-        },
-        {
-            "speed": 2100,
-            "hp": 575,
-            "fuel_consumption": 29.0
+            "hp": 495,
+            "fuel_consumption": 25.0
         }
     ],
-    "price": 57.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4b0f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
+    "price": 234499.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=462039cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24,
     "muffler_count": 2
+},
+{
+    "make": "Cummins",
+    "model": "CFP9E-F85",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 410,
+            "fuel_consumption": 23.5
+        }
+    ],
+    "price": 234956.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062918.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
+    "starter": 12,
+    "muffler_count": 1
 },
 {
     "make": "Clarke",
@@ -1212,30 +1903,8 @@
             "fuel_consumption": 29.0
         }
     ],
-    "price": 58.0,
+    "price": 242860.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=161739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DS0H-UFAA60",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 614,
-            "fuel_consumption": 31.0
-        },
-        {
-            "speed": 2350,
-            "hp": 606,
-            "fuel_consumption": 32.0
-        }
-    ],
-    "price": 59.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e80239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24,
     "muffler_count": 2
@@ -1256,7 +1925,7 @@
             "fuel_consumption": 26.0
         }
     ],
-    "price": 60.0,
+    "price": 243742.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=be1739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24,
@@ -1264,152 +1933,40 @@
 },
 {
     "make": "Clarke",
-    "model": "DS0H-UFAA98",
+    "model": "DS0H-UFAAN0",
     "tier": "N.E.",
     "rating": [
         {
             "speed": 1760,
-            "hp": 650,
-            "fuel_consumption": 30.3
+            "hp": 542,
+            "fuel_consumption": 27.0
+        },
+        {
+            "speed": 2100,
+            "hp": 575,
+            "fuel_consumption": 29.0
         }
     ],
-    "price": 61.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2d0c39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "price": 244179.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4b0f39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
     "starter": 24,
     "muffler_count": 2
 },
 {
     "make": "Clarke",
-    "model": "DS0H-UFAA92",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 722,
-            "fuel_consumption": 36.3
-        }
-    ],
-    "price": 62.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=941739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DT2H-UFAA58",
+    "model": "DR8H-UFAA5G",
     "tier": "N.E.",
     "rating": [
         {
             "speed": 1470,
-            "hp": 700,
-            "fuel_consumption": 33.9
+            "hp": 450,
+            "fuel_consumption": 23.0
         }
     ],
-    "price": 63.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9a0b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DT2H-UFAA50",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 800,
-            "fuel_consumption": 39.4
-        },
-        {
-            "speed": 2100,
-            "hp": 800,
-            "fuel_consumption": 42.4
-        }
-    ],
-    "price": 64.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=aef138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DT2H-UFAA60",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 805,
-            "fuel_consumption": 43.2
-        },
-        {
-            "speed": 2100,
-            "hp": 880,
-            "fuel_consumption": 46.4
-        }
-    ],
-    "price": 65.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4c2b5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DT2H-UFAA88",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 875,
-            "fuel_consumption": 44.2
-        }
-    ],
-    "price": 66.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=541239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DT2H-UFAA98",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 825,
-            "fuel_consumption": 41.3
-        },
-        {
-            "speed": 1760,
-            "hp": 982,
-            "fuel_consumption": 47.7
-        }
-    ],
-    "price": 67.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3b2a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
-    "starter": 24,
-    "muffler_count": 2
-},
-{
-    "make": "Clarke",
-    "model": "DT2H-UFAA92",
-    "tier": "N.E.",
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 1025,
-            "fuel_consumption": 52.0
-        }
-    ],
-    "price": 68.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b92a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
+    "price": 245331.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e7fd38cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dr8h-series/dr8h-uf-usb2c838cf80b2683faebcff00005cb4e3.png?sfvrsn=d67a5013_4",
     "starter": 24,
     "muffler_count": 2
 },
@@ -1424,110 +1981,8 @@
             "fuel_consumption": 30.0
         }
     ],
-    "price": 69.0,
+    "price": 245747.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=783a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD28",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 510,
-            "fuel_consumption": 33.0
-        }
-    ],
-    "price": 70.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=99377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD38",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 542,
-            "fuel_consumption": 34.0
-        }
-    ],
-    "price": 71.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=45377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD48",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 600,
-            "fuel_consumption": 36.0
-        }
-    ],
-    "price": 72.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=95387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD58",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 650,
-            "fuel_consumption": 37.0
-        }
-    ],
-    "price": 73.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD68",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 687,
-            "fuel_consumption": 39.0
-        }
-    ],
-    "price": 74.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=1b377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD78",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 700,
-            "fuel_consumption": 41.0
-        }
-    ],
-    "price": 75.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5a377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24,
     "muffler_count": 1
@@ -1543,893 +1998,10 @@
             "fuel_consumption": 30.0
         }
     ],
-    "price": 76.0,
+    "price": 248242.0,
     "proposal": "https://clarkefire.com/dynamicpages/proposal?id=f1367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
     "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD20",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 525,
-            "fuel_consumption": 30.5
-        }
-    ],
-    "price": 77.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d0397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD30",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 575,
-            "fuel_consumption": 33.0
-        }
-    ],
-    "price": 78.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a6397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD40",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 600,
-            "fuel_consumption": 33.0
-        }
-    ],
-    "price": 79.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD50",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 650,
-            "fuel_consumption": 36.0
-        }
-    ],
-    "price": 80.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=dc367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAD70",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 700,
-            "fuel_consumption": 39.0
-        }
-    ],
-    "price": 81.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAC18",
-    "tier": 2.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 755,
-            "fuel_consumption": 39.0
-        }
-    ],
-    "price": 82.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e9387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAC10",
-    "tier": 2.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 755,
-            "fuel_consumption": 41.0
-        }
-    ],
-    "price": 83.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d8377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAC28",
-    "tier": 2.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 800,
-            "fuel_consumption": 40.0
-        }
-    ],
-    "price": 84.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8d3a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C18H0-UFAC20",
-    "tier": 2.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 800,
-            "fuel_consumption": 42.3
-        }
-    ],
-    "price": 85.0,
-    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6f377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD20",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 311,
-            "fuel_consumption": 16.9
-        }
-    ],
-    "price": 86.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=2652a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD22",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 275,
-            "fuel_consumption": 15.1
-        }
-    ],
-    "price": 87.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=1e52a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD28",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 327,
-            "fuel_consumption": 16.7
-        }
-    ],
-    "price": 88.0,
-    "proposal": "https://www.clarkefire.com/products/engine-search/product-details/cfppinc-c13h0-ufad28-1760",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD30",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 335,
-            "fuel_consumption": 17.8
-        }
-    ],
-    "price": 89.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=0e52a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD32",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 296,
-            "fuel_consumption": 15.9
-        }
-    ],
-    "price": 90.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=0652a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD38",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 350,
-            "fuel_consumption": 18.1
-        }
-    ],
-    "price": 91.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=fe51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD40",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 351,
-            "fuel_consumption": 18.8
-        }
-    ],
-    "price": 92.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=f651a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD50",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 399,
-            "fuel_consumption": 20.8
-        }
-    ],
-    "price": 93.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=ee51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD52",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 351,
-            "fuel_consumption": 18.0
-        }
-    ],
-    "price": 94.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=e651a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD58",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 380,
-            "fuel_consumption": 19.3
-        }
-    ],
-    "price": 95.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=de51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD60",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 425,
-            "fuel_consumption": 22.0
-        }
-    ],
-    "price": 96.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=d651a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD62",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 384,
-            "fuel_consumption": 19.4
-        }
-    ],
-    "price": 97.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=ce51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD68",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 422,
-            "fuel_consumption": 21.5
-        }
-    ],
-    "price": 98.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=6851a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD70",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 2100,
-            "hp": 460,
-            "fuel_consumption": 23.5
-        }
-    ],
-    "price": 99.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=5b51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD72",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 398,
-            "fuel_consumption": 19.9
-        }
-    ],
-    "price": 100.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=4f51a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Clarke",
-    "model": "C13H0-UFAD78",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 455,
-            "fuel_consumption": 23.1
-        }
-    ],
-    "price": 101.0,
-    "proposal": "https://www.clarkefire.com/dynamicpages/proposal?id=4251a0cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
-    "images": "https://www.clarkefire.com/images/default-source/default-album/c13h-detail-image0f40a0cf80b2683faebcff00005cb4e3.png?sfvrsn=70f2c813_0",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP5E-F10",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 95,
-            "fuel_consumption": 4.9
-        },
-        {
-            "speed": 2100,
-            "hp": 101,
-            "fuel_consumption": 5.4
-        },
-        {
-            "speed": 2350,
-            "hp": 105,
-            "fuel_consumption": 5.8
-        }
-    ],
-    "price": 102.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062900.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP5E-F20",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 107,
-            "fuel_consumption": 5.5
-        },
-        {
-            "speed": 2100,
-            "hp": 113,
-            "fuel_consumption": 6.0
-        },
-        {
-            "speed": 2350,
-            "hp": 118,
-            "fuel_consumption": 6.5
-        }
-    ],
-    "price": 103.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062901.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP5E-F30",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 118,
-            "fuel_consumption": 6.1
-        },
-        {
-            "speed": 2100,
-            "hp": 125,
-            "fuel_consumption": 6.7
-        },
-        {
-            "speed": 2350,
-            "hp": 130,
-            "fuel_consumption": 7.2
-        }
-    ],
-    "price": 104.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062902.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP5E-F40",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 123,
-            "fuel_consumption": 6.3
-        },
-        {
-            "speed": 2100,
-            "hp": 136,
-            "fuel_consumption": 7.2
-        },
-        {
-            "speed": 2350,
-            "hp": 143,
-            "fuel_consumption": 7.9
-        }
-    ],
-    "price": 105.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062903.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP5E-F50",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 129,
-            "fuel_consumption": 6.6
-        },
-        {
-            "speed": 2100,
-            "hp": 146,
-            "fuel_consumption": 7.8
-        },
-        {
-            "speed": 2350,
-            "hp": 150,
-            "fuel_consumption": 8.3
-        }
-    ],
-    "price": 106.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062904.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/cfp5e-fire-pump.png?itok=SNEeU0xe",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP7E-F10",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 175,
-            "fuel_consumption": 9.0
-        },
-        {
-            "speed": 2100,
-            "hp": 171,
-            "fuel_consumption": 9.0
-        },
-        {
-            "speed": 2350,
-            "hp": 172,
-            "fuel_consumption": 9.2
-        }
-    ],
-    "price": 107.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062905.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP7E-F20",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 190,
-            "fuel_consumption": 9.8
-        },
-        {
-            "speed": 2100,
-            "hp": 185,
-            "fuel_consumption": 9.7
-        },
-        {
-            "speed": 2350,
-            "hp": 187,
-            "fuel_consumption": 10.0
-        }
-    ],
-    "price": 108.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062906.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP7E-F30",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 205,
-            "fuel_consumption": 10.6
-        },
-        {
-            "speed": 2100,
-            "hp": 200,
-            "fuel_consumption": 10.5
-        },
-        {
-            "speed": 2350,
-            "hp": 201,
-            "fuel_consumption": 10.8
-        }
-    ],
-    "price": 109.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062907.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP7E-F40",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 220,
-            "fuel_consumption": 11.4
-        },
-        {
-            "speed": 2100,
-            "hp": 215,
-            "fuel_consumption": 11.3
-        },
-        {
-            "speed": 2350,
-            "hp": 216,
-            "fuel_consumption": 11.6
-        }
-    ],
-    "price": 110.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062908.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP7E-F50",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 235,
-            "fuel_consumption": 12.1
-        },
-        {
-            "speed": 2100,
-            "hp": 229,
-            "fuel_consumption": 12.0
-        },
-        {
-            "speed": 2350,
-            "hp": 231,
-            "fuel_consumption": 12.4
-        }
-    ],
-    "price": 111.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062909.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP7E-F60",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 247,
-            "fuel_consumption": 12.9
-        },
-        {
-            "speed": 2100,
-            "hp": 244,
-            "fuel_consumption": 12.8
-        },
-        {
-            "speed": 2350,
-            "hp": 245,
-            "fuel_consumption": 13.1
-        }
-    ],
-    "price": 112.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062910.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP7E-fire-pump-engine.png?itok=qfvNOBED",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F10",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 260,
-            "fuel_consumption": 13.4
-        },
-        {
-            "speed": 2100,
-            "hp": 246,
-            "fuel_consumption": 12.9
-        }
-    ],
-    "price": 113.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062911.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F20",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 282,
-            "fuel_consumption": 14.6
-        },
-        {
-            "speed": 2100,
-            "hp": 268,
-            "fuel_consumption": 14.0
-        }
-    ],
-    "price": 114.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062912.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F30",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 305,
-            "fuel_consumption": 15.8
-        },
-        {
-            "speed": 2100,
-            "hp": 289,
-            "fuel_consumption": 15.1
-        }
-    ],
-    "price": 115.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062913.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F40",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 327,
-            "fuel_consumption": 16.9
-        },
-        {
-            "speed": 2100,
-            "hp": 311,
-            "fuel_consumption": 16.3
-        }
-    ],
-    "price": 116.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062914.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F50",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 350,
-            "fuel_consumption": 18.1
-        },
-        {
-            "speed": 2100,
-            "hp": 335,
-            "fuel_consumption": 17.4
-        }
-    ],
-    "price": 117.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062915.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F65",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 380,
-            "fuel_consumption": 21.8
-        }
-    ],
-    "price": 118.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063349.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F75",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 401,
-            "fuel_consumption": 23.0
-        }
-    ],
-    "price": 119.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062917.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP9E-F85",
-    "tier": 3.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 410,
-            "fuel_consumption": 23.5
-        }
-    ],
-    "price": 120.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062918.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP9E-fire-pump-engine.png?itok=apmVz4ru",
-    "starter": 12,
     "muffler_count": 1
 },
 {
@@ -2448,9 +2020,99 @@
             "fuel_consumption": 24.7
         }
     ],
-    "price": 121.0,
+    "price": 256263.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062919.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD28",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 510,
+            "fuel_consumption": 33.0
+        }
+    ],
+    "price": 257451.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=99377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD20",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 525,
+            "fuel_consumption": 30.5
+        }
+    ],
+    "price": 257451.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d0397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DS0H-UFAA60",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 614,
+            "fuel_consumption": 31.0
+        },
+        {
+            "speed": 2350,
+            "hp": 606,
+            "fuel_consumption": 32.0
+        }
+    ],
+    "price": 260361.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e80239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD38",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 542,
+            "fuel_consumption": 34.0
+        }
+    ],
+    "price": 261953.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=45377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD30",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 575,
+            "fuel_consumption": 33.0
+        }
+    ],
+    "price": 261953.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=a6397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24,
     "muffler_count": 1
 },
@@ -2470,7 +2132,7 @@
             "fuel_consumption": 26.5
         }
     ],
-    "price": 122.0,
+    "price": 262733.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062920.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24,
@@ -2492,9 +2154,128 @@
             "fuel_consumption": 29.1
         }
     ],
-    "price": 123.0,
+    "price": 268850.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062921.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DS0H-UFAA98",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 650,
+            "fuel_consumption": 30.3
+        }
+    ],
+    "price": 271472.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2d0c39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Clarke",
+    "model": "DS0H-UFAA92",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 722,
+            "fuel_consumption": 36.3
+        }
+    ],
+    "price": 273506.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=941739cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/ds0h-series/ds0h-uf-usd3c838cf80b2683faebcff00005cb4e3.png?sfvrsn=b57a5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD48",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 600,
+            "fuel_consumption": 36.0
+        }
+    ],
+    "price": 279833.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=95387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD58",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 650,
+            "fuel_consumption": 37.0
+        }
+    ],
+    "price": 281431.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=28397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD40",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 600,
+            "fuel_consumption": 33.0
+        }
+    ],
+    "price": 282930.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3d397ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD50",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 650,
+            "fuel_consumption": 36.0
+        }
+    ],
+    "price": 284528.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=dc367ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD68",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 687,
+            "fuel_consumption": 39.0
+        }
+    ],
+    "price": 284801.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=1b377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24,
     "muffler_count": 1
 },
@@ -2509,28 +2290,191 @@
             "fuel_consumption": 35.9
         }
     ],
-    "price": 124.0,
+    "price": 288306.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062922.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP15E-fire-pump-engine.png?itok=ah1HcmDx",
     "starter": 24,
     "muffler_count": 1
 },
 {
-    "make": "Cummins",
-    "model": "CFP23E-F10",
+    "make": "Clarke",
+    "model": "C18H0-UFAD70",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 700,
+            "fuel_consumption": 39.0
+        }
+    ],
+    "price": 313831.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=2c387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAD78",
+    "tier": 3.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 700,
+            "fuel_consumption": 41.0
+        }
+    ],
+    "price": 320387.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=5a377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DT2H-UFAA58",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 700,
+            "fuel_consumption": 33.9
+        }
+    ],
+    "price": 353221.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=9a0b39cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Clarke",
+    "model": "DT2H-UFAA50",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 800,
+            "fuel_consumption": 39.4
+        },
+        {
+            "speed": 2100,
+            "hp": 800,
+            "fuel_consumption": 42.4
+        }
+    ],
+    "price": 370112.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=aef138cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAC18",
     "tier": 2.0,
     "rating": [
         {
             "speed": 1760,
-            "hp": 698,
-            "fuel_consumption": 32.6
+            "hp": 755,
+            "fuel_consumption": 39.0
         }
     ],
-    "price": 125.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063005.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
+    "price": 379581.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=e9387ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
     "starter": 24,
     "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAC10",
+    "tier": 2.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 755,
+            "fuel_consumption": 41.0
+        }
+    ],
+    "price": 379581.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=d8377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAC28",
+    "tier": 2.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 800,
+            "fuel_consumption": 40.0
+        }
+    ],
+    "price": 380782.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=8d3a7ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "C18H0-UFAC20",
+    "tier": 2.0,
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 800,
+            "fuel_consumption": 42.3
+        }
+    ],
+    "price": 380782.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=6f377ccf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/cat18/cat18-final-11oct18.png?sfvrsn=8fcd0b13_4",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DT2H-UFAA88",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 875,
+            "fuel_consumption": 44.2
+        }
+    ],
+    "price": 395068.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=541239cf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-dry-us47c938cf80b2683faebcff00005cb4e3.png?sfvrsn=417b5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Clarke",
+    "model": "DT2H-UFAA60",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 805,
+            "fuel_consumption": 43.2
+        },
+        {
+            "speed": 2100,
+            "hp": 880,
+            "fuel_consumption": 46.4
+        }
+    ],
+    "price": 486284.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=4c2b5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
+    "starter": 24,
+    "muffler_count": 2
 },
 {
     "make": "Cummins",
@@ -2548,25 +2492,8 @@
             "fuel_consumption": 36.3
         }
     ],
-    "price": 126.0,
+    "price": 514200.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062923.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP23E-F20",
-    "tier": 2.0,
-    "rating": [
-        {
-            "speed": 1760,
-            "hp": 753,
-            "fuel_consumption": 35.2
-        }
-    ],
-    "price": 127.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063006.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
     "muffler_count": 1
@@ -2587,30 +2514,8 @@
             "fuel_consumption": 37.3
         }
     ],
-    "price": 128.0,
+    "price": 516116.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062924.pdf",
-    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
-    "starter": 24,
-    "muffler_count": 1
-},
-{
-    "make": "Cummins",
-    "model": "CFP23E-F30",
-    "tier": 2.0,
-    "rating": [
-        {
-            "speed": 1470,
-            "hp": 724,
-            "fuel_consumption": 32.9
-        },
-        {
-            "speed": 1760,
-            "hp": 801,
-            "fuel_consumption": 37.5
-        }
-    ],
-    "price": 129.0,
-    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063007.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
     "muffler_count": 1
@@ -2631,8 +2536,86 @@
             "fuel_consumption": 38.2
         }
     ],
-    "price": 130.0,
+    "price": 519492.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0062925.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DT2H-UFAA98",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 825,
+            "fuel_consumption": 41.3
+        },
+        {
+            "speed": 1760,
+            "hp": 982,
+            "fuel_consumption": 47.7
+        }
+    ],
+    "price": 522962.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=3b2a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
+    "starter": 24,
+    "muffler_count": 2
+},
+{
+    "make": "Cummins",
+    "model": "CFP23E-F10",
+    "tier": 2.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 698,
+            "fuel_consumption": 32.6
+        }
+    ],
+    "price": 523647.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063005.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP23E-F20",
+    "tier": 2.0,
+    "rating": [
+        {
+            "speed": 1760,
+            "hp": 753,
+            "fuel_consumption": 35.2
+        }
+    ],
+    "price": 546832.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063006.pdf",
+    "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
+    "starter": 24,
+    "muffler_count": 1
+},
+{
+    "make": "Cummins",
+    "model": "CFP23E-F30",
+    "tier": 2.0,
+    "rating": [
+        {
+            "speed": 1470,
+            "hp": 724,
+            "fuel_consumption": 32.9
+        },
+        {
+            "speed": 1760,
+            "hp": 801,
+            "fuel_consumption": 37.5
+        }
+    ],
+    "price": 547537.0,
+    "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063007.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
     "muffler_count": 1
@@ -2653,7 +2636,7 @@
             "fuel_consumption": 39.7
         }
     ],
-    "price": 131.0,
+    "price": 566547.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063008.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
@@ -2675,7 +2658,7 @@
             "fuel_consumption": 43.3
         }
     ],
-    "price": 132.0,
+    "price": 599466.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063009.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
@@ -2692,7 +2675,7 @@
             "fuel_consumption": 46.8
         }
     ],
-    "price": 133.0,
+    "price": 619081.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063010.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
@@ -2709,10 +2692,27 @@
             "fuel_consumption": 50.3
         }
     ],
-    "price": 134.0,
+    "price": 637977.0,
     "proposal": "https://mart.cummins.com/imagelibrary/data/assetfiles/0063011.pdf",
     "images": "https://www.cummins.com/sites/default/files/styles/product_display/public/2018-09/CFP23E-fire-pump-engine.png?itok=7JTrSm-n",
     "starter": 24,
     "muffler_count": 1
+},
+{
+    "make": "Clarke",
+    "model": "DT2H-UFAA92",
+    "tier": "N.E.",
+    "rating": [
+        {
+            "speed": 2100,
+            "hp": 1025,
+            "fuel_consumption": 52.0
+        }
+    ],
+    "price": 650984.0,
+    "proposal": "https://clarkefire.com/dynamicpages/proposal?id=b92a5ecf-80b2-683f-aebc-ff00005cb4e3&Language=en",
+    "images": "https://clarkefire.com/images/default-source/us-product-images/dt2h-series/dt2h-uf-wet-us66c938cf80b2683faebcff00005cb4e3.png?sfvrsn=227b5013_4",
+    "starter": 24,
+    "muffler_count": 2
 }
 ]

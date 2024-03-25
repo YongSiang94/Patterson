@@ -1,0 +1,66 @@
+[
+{
+    "description": "3 MRV 150 INLET",
+    "pricing": 1498.0
+},
+{
+    "description": "4 MRV 150 INLET",
+    "pricing": 1822.0
+},
+{
+    "description": "6 MRV 150 INLET",
+    "pricing": 2483.0
+},
+{
+    "description": "8 MRV 150 INLET",
+    "pricing": 4483.0
+},
+{
+    "description": "3 MRV 300 INLET",
+    "pricing": 1921.0
+},
+{
+    "description": "4 MRV 300 INLET",
+    "pricing": 2241.0
+},
+{
+    "description": "6 MRV 300 INLET",
+    "pricing": 2838.0
+},
+{
+    "description": "8 MRV 300 INLET",
+    "pricing": 4705.0
+},
+{
+    "description": "3X5 WC",
+    "pricing": 654.0
+},
+{
+    "description": "3X6 WC",
+    "pricing": 679.0
+},
+{
+    "description": "4X6 WC",
+    "pricing": 857.0
+},
+{
+    "description": "4X8 WC",
+    "pricing": 1014.0
+},
+{
+    "description": "6X8 WC",
+    "pricing": 1092.0
+},
+{
+    "description": "6X10 WC",
+    "pricing": 1356.0
+},
+{
+    "description": "8X12 WC",
+    "pricing": 2394.0
+},
+{
+    "description": "8X14 WC",
+    "pricing": 2714.0
+}
+]

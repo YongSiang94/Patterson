@@ -1,0 +1,1022 @@
+[
+{
+    "make": "Tornatech",
+    "optionCode": "A02",
+    "description": "OVERSPEED ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A03",
+    "description": "LOW OIL PRESSURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A04",
+    "description": "HIGH COOLANT TEMPERATURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A05",
+    "description": "FAILURE TO START ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A06",
+    "description": "BATTERY 1 & 2 FAILURE ALARM CONTACT",
+    "pricing": 206.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A07",
+    "description": "CHARGER 1 & 2 FAILURE ALARM CONTACT",
+    "pricing": 206.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A08",
+    "description": "AC FAILURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A09",
+    "description": "SYSTEM OVERPRESSURE ALARM CONTACT (FOR ENGINES WITH PLD)",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A11",
+    "description": "EXTRA CONTROLLER TROUBLE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "A12",
+    "description": "EXTRA ENGINE TROUBLE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "Ax",
+    "description": "ADDITIONAL ENGINE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B01",
+    "description": "LOW FUEL LEVEL ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B02",
+    "description": "WATER RESERVOIR LEVEL LOW ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B03",
+    "description": "WATER RESERVOIR EMPTY ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B04",
+    "description": "LOW AMBIENT PUMP ROOM TEMPERATURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B05",
+    "description": "HIGH FUEL LEVEL ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B06",
+    "description": "LOW SYSTEM PRESSURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B07",
+    "description": "LOW SUCTION PRESSURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B08",
+    "description": "PUMP ON DEMAND ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B09",
+    "description": "FUEL TANK LEAK ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B10",
+    "description": "MAIN RELIEF VALVE OPEN ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B11",
+    "description": "FLOW METER LOOP VALVE OPEN ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B12",
+    "description": "WATER RESERVOIR LEVEL HIGH ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "B13",
+    "description": "HIGH PUMP ROOM TEMPERATURE ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "Bx",
+    "description": "OTHER ADDITION ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "Bx79",
+    "description": "LOW FOAM ADDITIVE PRESSURE C/W VISUAL INDICATION AND ALARM CONTACT",
+    "pricing": 103.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C05",
+    "description": "CE MARK WITH FACTORY CERTIFICATE",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C06",
+    "description": "NICKEL - CADMIUM BATTERY CHARGERS (BATTERY DATA SHEET REQUIRED)",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C07",
+    "description": "ENGINE BLOCK HEATER CIRCUIT - 3KW MAX",
+    "pricing": 297.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C07A",
+    "description": "ENGINE BLOCK HEATER CIRCUIT - 6KW MAX",
+    "pricing": 446.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C08",
+    "description": "FOAM PUMP APPLICATION W/O PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C08A",
+    "description": "FOAM PUMP APPLICATION WITH PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C09",
+    "description": "NON PRESSURE ACTUATED CONTROLLER W/O PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C13",
+    "description": "LOUVER ACTIVATION CIRCUITS",
+    "pricing": 269.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C14",
+    "description": "DELAYED AUTOMATIC START ON AC POWER FAILURE (FACTORY SET AT 15 MINUTES)",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C15",
+    "description": "LOW ZONE PUMP CONTROL FUNCTION",
+    "pricing": 51.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C16",
+    "description": "MEDIUM ZONE PUMP CONTROL FUNCTION",
+    "pricing": 514.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C17",
+    "description": "HIGH ZONE PUMP CONTROL FUNCTION",
+    "pricing": 463.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C19",
+    "description": "LOCKOUT / INTERLOCK CIRCUIT FROM EQUIPMENT INSTALLED INSIDE THE PUMP ROOM",
+    "pricing": 206.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "C20",
+    "description": "DUMP VALVE CIRCUITRY FOR FOAM (ADDITIVE) PUMP APPLICATION",
+    "pricing": 366.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D01",
+    "description": "NEMA 12 ASSEMBLY",
+    "pricing": 943.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D01A",
+    "description": "NEMA 3R ASSEMBLY",
+    "pricing": 434.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D02",
+    "description": "NEMA 4 ASSEMBLY",
+    "pricing": 1829.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D03A",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 304 PAINTED RED",
+    "pricing": 6229.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D03B",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 304 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D03C",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 316 PAINTED RED",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D03D",
+    "description": "NEMA 4X ASSEMBLY STAINLESS STEEL - 316 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D04",
+    "description": "PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE FOR FRESH WATER RATED 0-500PSI",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D06",
+    "description": "PRESSURE TRANSDUCER AND RUN TEST SOLENOID VALVE FOR SEAWATER RATED 0-500PSI",
+    "pricing": 1006.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D07A",
+    "description": "LOW FUEL LEVEL FLOAT 1-1/4\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 263.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D07B",
+    "description": "LOW FUEL LEVEL FLOAT 1-1/2\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 263.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D08A",
+    "description": "HIGH FUEL LEVEL FLOAT 1-1/4\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 263.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D08B",
+    "description": "HIGH FUEL LEVEL FLOAT 1-1/2\" (SUPPLIED AS SEPARATE ITEM)",
+    "pricing": 263.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D09A",
+    "description": "ANTI-CONDENSATION HEATER & THERMOSTAT",
+    "pricing": 366.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D09B",
+    "description": "ANTI-CONDENSATION HEATER & HUMIDISTAT",
+    "pricing": 366.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D09C",
+    "description": "ANTI-CONDENSATION HETER & THERMOSTAT & HUMIDISTAT",
+    "pricing": 503.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D11",
+    "description": "LOW SUCTION PRESSURE TRANSDUCER FOR FRESH WATER RATED FOR 0-300PSI WITH VISUAL INDICATION AND ALARM CONTACT",
+    "pricing": 457.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D11A",
+    "description": "LOW SUCTION PRESSURE TRANSDUCER FOR SEAWATER RATED FOR 0-300PSI WIT VISUAL INDICATION AND ALARM CONTACT",
+    "pricing": 777.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D12",
+    "description": "TROPICALIZATION",
+    "pricing": 457.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D17",
+    "description": "FRENCH LABELING",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D18",
+    "description": "SPANISH LABELING",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D19",
+    "description": "LABELING IN LANGUAGE OTHER THAN ENG, FREN, OR SPAN",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D20",
+    "description": "NEMA 3 ASSEMBLY",
+    "pricing": 686.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D21",
+    "description": "IP54 ASSEMBLY",
+    "pricing": 434.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D22",
+    "description": "IP55 ASSEMBLY",
+    "pricing": 571.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D23",
+    "description": "IP56 ASSEMBLY",
+    "pricing": 800.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D24",
+    "description": "IP66 ASSEMBLY",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D25",
+    "description": "MOUNTING STAND (STEEL, PAINTED)",
+    "pricing": 229.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D25A",
+    "description": "MOUNTING STAND STAINLESS STEEL - 304 PAINTED",
+    "pricing": 2400.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D25B",
+    "description": "MOUNTING STAND STAINLESS STEEL - 304 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D25C",
+    "description": "MOUNTING STAND STAINLESS STEEL - 316 PAINTED",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D25D",
+    "description": "MOUNTING STAND STAINLESS STEEL - 316 BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D26",
+    "description": "COMBINED LOW AND HIGH FUEL LEVEL FLOAT SWITCH 1-1/4\"",
+    "pricing": 1457.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D27",
+    "description": "FUEL LEVEL PROBE LEVEL INDICATION 2\"",
+    "pricing": 4800.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D28A",
+    "description": "FIELD PROGRAMMABLE I/O BOARD - 5 INPUT / 5 OUTPUT",
+    "pricing": 457.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D30",
+    "description": "REDUNDANT PRESSURE TRANSDUCER FOR FRESH WATER RATED FOR 0-500 PSI",
+    "pricing": 457.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D31",
+    "description": "REDUNDANT PRESSURE TRANSDUCER FOR SEA WATER RATED FOR 0-500 PSI",
+    "pricing": 914.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D32",
+    "description": "MODBUS RTU PROVISION",
+    "pricing": 3086.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D32A",
+    "description": "MODBUS TCP/IP PROVISION",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "D34A",
+    "description": "CONTROLLER RATED FOR 55\u00b0C AMBIENT TEMPERATURE",
+    "pricing": 0.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "SPK550",
+    "description": "SPARE PARTS KIT FOR GPD DIESEL ENGINE DRIVEN",
+    "pricing": 1320.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "SPK551",
+    "description": "SPARE PARTS KIT FOR GPD DIESEL ENGINE DRIVEN",
+    "pricing": 3029.0
+},
+{
+    "make": "Tornatech",
+    "optionCode": "SPK552",
+    "description": "SPARE PARTS KIT FOR GPD DIESEL ENGINE DRIVEN",
+    "pricing": 5040.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "1100-KS2-12",
+    "description": "SPARE PARTS KIT 12V",
+    "pricing": 3622.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "1100-KS2-24",
+    "description": "SPARE PARTS KIT 24V",
+    "pricing": 3927.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AC",
+    "description": "EXTRA CONTACTS REMOTE IND-ENGINE RNNING 2 SETS STD",
+    "pricing": 226.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AJ",
+    "description": "OVERSPEED OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AK",
+    "description": "LOW OIL PRESSURE OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AL",
+    "description": "HIGH WATER TEMPERATURE OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AM",
+    "description": "FAILED TO START OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AN",
+    "description": "BATTERY / CHARGER FAILURE OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AP1",
+    "description": "MAIN SWITCH MIS-SET IN MANUAL OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AR",
+    "description": "MAIN SWITCH MIS-SET IN OFF OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AS1",
+    "description": "MAIN SWITCH MIS-SET IN AUTO OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AT1",
+    "description": "PUMP ROOM TROUBLE CONTACT COMMON",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AU",
+    "description": "ALARM OUTPUT CONTACTS, LOW FUEL LEVEL",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AV",
+    "description": "LOW PUMP HOUE TEMPERATURE OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AW",
+    "description": "LOW RESERVOIR CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "AY1",
+    "description": "LOW SUCTION PRESSURE CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "B1",
+    "description": "0-600PSI FOR FRESH WATER",
+    "pricing": 0.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "BA",
+    "description": "200-240 VOLT OPERATION",
+    "pricing": 0.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "BTC",
+    "description": "BATTERY #1 & #2 FAILURE (FORM-C SPDT) INDIVIDUAL OUTPUTS",
+    "pricing": 238.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "C1",
+    "description": "0-300PSI PRESSURE TRANSDUCER FOR SEAWATER",
+    "pricing": 1048.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "CFC",
+    "description": "BATTERY CHARGER #1 & #2 FALURE (FORM-C SPDT) INDIVIDUAL OUTPUTS",
+    "pricing": 238.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "CPL1",
+    "description": "CONTACTS FOR REMOTE IND SYSTEM OVER PRESSURE (PLD)",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "CTS1",
+    "description": "BUILT-IN LOW SUCTION PRESSURE ALARM PANEL",
+    "pricing": 476.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "D1",
+    "description": "0-500PSI PRESSURE TRANSDUCER FOR SEAWATER",
+    "pricing": 1048.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "DVC",
+    "description": "OPERATION, DUMP VALVE CONTROL",
+    "pricing": 417.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "E",
+    "description": "NEMA 4, WATER & DUST TIGHT PAINTED STEEL - IEC IP66",
+    "pricing": 1905.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "ECMFR",
+    "description": "ALARM OUTPUT CONTACTS, ELECTRONIC ENGINE ECM FAILURE",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "ECMWR",
+    "description": "ALARM OUTPUT CONTACTS, ELECTRONIC ENGINE ECM WARNING",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EE",
+    "description": "CONTACT REMOTE INDICATION ENGINE TROUBLE (COMMON)",
+    "pricing": 226.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EF",
+    "description": "MAIN SWITCH MIS-SET ADDITIONAL CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EG1",
+    "description": "ALARM VISIBLE, MAIN RELIEF VALVE OPEN WITH ALARM OUTPUT CONTACTS",
+    "pricing": 238.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EJ1",
+    "description": "FLOW METER ON EXTERNAL DRY CONTACT INPUT, VISUAL INDICATION WITH ALARM CONTACTS",
+    "pricing": 238.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EJA",
+    "description": "PROVISION FOR 4-20 MA FLOW METER SIGNAL INPUT - DO NOT USE WITH EKA",
+    "pricing": 714.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EKA",
+    "description": "PROVISION FOR 4-20 MA FLOW METER SIGNAL INPUT - DO NOT USE WITH EJA",
+    "pricing": 1012.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EL",
+    "description": "SERIES PUMPING - HIGH ZONE",
+    "pricing": 488.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EM",
+    "description": "SERIES PUMPING - MID ZONE",
+    "pricing": 536.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "EN",
+    "description": "SERIES PUMPING - LOW ZONE",
+    "pricing": 60.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "F",
+    "description": "NEMA 4X 304 STAINLESS STEEL, BRUSHED FINISH - IEC IP66",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FD",
+    "description": "NEMA 4X 316 STAINLESS STEEL, BRUSHED FINISH - IEC IP66",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FDB",
+    "description": "NEMA 4X 316 STAINLESSS STEEL, SEAM WELDED, BRUSHED FINISH - IEC IP66",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FDP",
+    "description": "NEMA 4X, IEC 66 - 316 STAINLESS STEEL PAINTED",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FTA1100-K26A",
+    "description": "DUAL HI/LO FUEL LEVEL SW 1.25\"",
+    "pricing": 1518.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FTA1100-K26B",
+    "description": "DUAL HI/LO FUEL LEVEL SW 1.50\"",
+    "pricing": 1518.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FTA1100-K7A",
+    "description": "LOW FUEL LEVEL SWITCH (ALARM IS STANDARD) 1.25\" ADJ. FROM 2.75\" TO 27.5\"",
+    "pricing": 274.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FTA1100-K7B",
+    "description": "LOW FUEL LEVEL SWITCH (ALARM IS STANDARD) 1.50\" ADJ. FROM 2.75\" TO 27.5\"",
+    "pricing": 274.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FTA1100-K8A",
+    "description": "HIGH FUEL LEVEL SWITCH 1.25\" ADJ. FROM 2.75\" TO 10.5\"",
+    "pricing": 274.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FTA1100-K8B",
+    "description": "HIGH FUEL LEVEL SWITCH 1.50\" ADJ. FROM 2.75\" TO 10.5\"",
+    "pricing": 274.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "FXP",
+    "description": "NEMA 4X, IEC 66 - 304 STAINLESS STEEL PAINTED",
+    "pricing": 6488.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "G",
+    "description": "NEMA 12 IEC IP54",
+    "pricing": 982.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "GLS",
+    "description": "LOUVER ACTIVATION CIRCUIT",
+    "pricing": 298.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "HRTR",
+    "description": "HIGH RAW WATER TEMPERATURE",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "IEC",
+    "description": "MARKING, CE WITH EXTERNAL WET PARTS",
+    "pricing": 0.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "J",
+    "description": "SPACE HEATER WITH THERMOSTAT - 120 VOLT",
+    "pricing": 381.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "JKP",
+    "description": "SPACE HEATER 120 VOLT W/THERMOSTAT/HUMIDISTAT",
+    "pricing": 524.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "K",
+    "description": "SPACE HEATER WITH HUMIDISTAT - 120 VOLT",
+    "pricing": 381.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "KH2",
+    "description": "COMMON ALARM",
+    "pricing": 238.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LC",
+    "description": "HIGH FUEL LEVEL CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LE1",
+    "description": "FUEL SPILL OUTPUT CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LETR",
+    "description": "LOW ENGINE TEMPERATURE",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LG",
+    "description": "HIGH RESERVOIR CONTACT",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LK1",
+    "description": "FOAM PUMP APPLICATION W/ PRESSURE TRANSDUCER AND RUN TEST SOLENOID VLV.",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LK2",
+    "description": "FOAM PUMP APPLICATION W/ PRESSURE TRANSDUCER AND RUN TEST SOLENOID VLV. SS",
+    "pricing": 1048.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LK3",
+    "description": "FOAM PUMP APPLICATION W/O PRESSURE TRANSDUCER AND RUN TEST SOLENOID VLV.",
+    "pricing": 0.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LR1",
+    "description": "LOW FOAM LEVEL EXTERNAL INPUT W/ PROOF PRESSURE SWITCH",
+    "pricing": 357.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LRFR",
+    "description": "LOW RAW WATER FLOW (CLOGGED STRAINER)",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "LSPR",
+    "description": "LOW SUCTION PRESSURE (AT VARIABLE SPEED SUCTION LIMITIN ENGINE CTRLS)",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "M",
+    "description": "SPACE HEATER WITH THERMOSTAT - 240 VOLT",
+    "pricing": 381.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "MNP",
+    "description": "SPACE HEATER 240 VOLT W/THERMOSTAT/HUMIDISTAT",
+    "pricing": 524.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "N",
+    "description": "SPACE HEATER WITH HUMIDISTAT - 240 VOLT D",
+    "pricing": 381.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "N30",
+    "description": "MOUNTING STAND, PAINTED STEEL",
+    "pricing": 238.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "N30DP",
+    "description": "MOUNTING STAND, #316 STAINLESS STEEL, PAINTED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "N30F",
+    "description": "MOUNTING STAND, #304 STAINLESS STEEL, BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "N30FD",
+    "description": "MOUNTING STAND, #316 STAINLESS STEEL, BRUSHED FINISH",
+    "pricing": "RF"
+},
+{
+    "make": "Firetrol",
+    "optionCode": "N30FXP",
+    "description": "MOUNTING STAND, #304 STAINLESS STEEL, PAINTED FINISH",
+    "pricing": 2500.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "NZ",
+    "description": "INPUT TERMINALS, SHUTDOWN INTERLOCK",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "OSP",
+    "description": "SEISMIC CERTIFICATION COMPLIANT TO OSHPD (CA) RIGID BASE OR WALL MOUNT",
+    "pricing": 1786.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "PE",
+    "description": "LOW SYSTEM PRESSURE (PUMP ON DEMAND)",
+    "pricing": 119.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "S",
+    "description": "TROPICALIZATION",
+    "pricing": 357.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "SEI",
+    "description": "SEISMIC CERTIFICATION COMPLIANT TO CBC 2019, IBC 2018 FOR RIGID BASE OR WALL MOUNT",
+    "pricing": 476.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "SP1",
+    "description": "LOW SUCTION PRESSURE TRANSDUCER, 0-300 FRESHWATER",
+    "pricing": 357.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "SP2",
+    "description": "LOW SUCTION PRESSURE TRANSDUCER, 0-300 SEAWATER",
+    "pricing": 476.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "T",
+    "description": "NEMA 3R - IEC IP24, PAINTED STEEL",
+    "pricing": 452.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "U",
+    "description": "NEMA 3 - IEC IP54, PAINTED STEEL",
+    "pricing": 595.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "USBX",
+    "description": "DATA PORT, EXTERNAL USB",
+    "pricing": 179.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "XCR",
+    "description": "EXPORT PACKAGING (WOODEN CRATIN TO CONFORM TO IPPC STANDARDS)",
+    "pricing": 952.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "Y55",
+    "description": "CONTROLLER TEMPERATURE RATING, 55 DEGREE AMBIENT TEMP",
+    "pricing": 179.0
+},
+{
+    "make": "Firetrol",
+    "optionCode": "ZPM1",
+    "description": "DATA PORT RS485 MODBUS RTU",
+    "pricing": 3214.0
+}
+]

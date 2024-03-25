@@ -1,0 +1,90 @@
+[
+{
+    "description": "12 VOLT - TWO BATTERY SYSTEM",
+    "pricing": 557.0
+},
+{
+    "description": "24 VOLT - FOUR BATTERY SYSTEM",
+    "pricing": 1114.0
+},
+{
+    "description": "80 GAL, SINGLE",
+    "pricing": 4807.0
+},
+{
+    "description": "120 GAL, SINGLE",
+    "pricing": 4259.0
+},
+{
+    "description": "180 GAL, SINGLE",
+    "pricing": 5015.0
+},
+{
+    "description": "240 GAL, SINGLE",
+    "pricing": 6573.0
+},
+{
+    "description": "280 GAL, SINGLE",
+    "pricing": 5469.0
+},
+{
+    "description": "360 GAL, SINGLE",
+    "pricing": 5861.0
+},
+{
+    "description": "440 GAL, SINGLE",
+    "pricing": 5985.0
+},
+{
+    "description": "550 GAL, SINGLE",
+    "pricing": 8527.0
+},
+{
+    "description": "650 GAL, SINGLE",
+    "pricing": 12582.0
+},
+{
+    "description": "880 GAL, SINGLE",
+    "pricing": 16750.0
+},
+{
+    "description": "80 GAL, DOUBLE",
+    "pricing": 9388.0
+},
+{
+    "description": "120 GAL, DOUBLE",
+    "pricing": 10601.0
+},
+{
+    "description": "180 GAL, DOUBLE",
+    "pricing": 11049.0
+},
+{
+    "description": "240 GAL, DOUBLE",
+    "pricing": 12727.0
+},
+{
+    "description": "280 GAL, DOUBLE",
+    "pricing": 13164.0
+},
+{
+    "description": "360 GAL, DOUBLE",
+    "pricing": 12828.0
+},
+{
+    "description": "440 GAL, DOUBLE",
+    "pricing": 14843.0
+},
+{
+    "description": "550 GAL, DOUBLE",
+    "pricing": 19845.0
+},
+{
+    "description": "650 GAL, DOUBLE",
+    "pricing": 25095.0
+},
+{
+    "description": "880 GAL, DOUBLE",
+    "pricing": 27789.0
+}
+]
