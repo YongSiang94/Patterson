@@ -1,7 +1,8 @@
 [
 {
     "CO": "C000192119",
-    "purchaseOrder": "",
+    "finalDestination": "Australia",
+    "purchaseOrder": 11322.0,
     "projectRef": "Teys Bros",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF52",
@@ -39,7 +40,8 @@
 },
 {
     "CO": "C000192654",
-    "purchaseOrder": "",
+    "finalDestination": "Australia",
+    "purchaseOrder": 11685.0,
     "projectRef": "Pfizer",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF94",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000197232",
+    "finalDestination": "Australia",
     "purchaseOrder": 14826.0,
     "projectRef": "Coles OCADO",
     "driverType": "Diesel",
@@ -115,7 +118,8 @@
 },
 {
     "CO": "C000198307",
-    "purchaseOrder": "",
+    "finalDestination": "Australia",
+    "purchaseOrder": 15359.0,
     "projectRef": "Wetherhill Park",
     "driverType": "Diesel",
     "driverInfo": "DQ6H-UFAA98",
@@ -153,6 +157,7 @@
 },
 {
     "CO": "C000200513",
+    "finalDestination": "Australia",
     "purchaseOrder": 16534.0,
     "projectRef": "Replacement for C0114263",
     "driverType": "Barepump",
@@ -210,6 +215,7 @@
 },
 {
     "CO": "C000206488",
+    "finalDestination": "Australia",
     "purchaseOrder": 20541.0,
     "projectRef": "Mainfreight SA",
     "driverType": "Diesel",
@@ -248,6 +254,7 @@
 },
 {
     "CO": "C000207103",
+    "finalDestination": "Australia",
     "purchaseOrder": 20741.0,
     "projectRef": "TARAC-RNW",
     "driverType": "Diesel",
