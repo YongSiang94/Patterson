@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000166365",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1010P/WRP/ST/I-23/18",
     "projectRef": "Southgate Tanjung Barat - Jkt",
     "driverType": "Electric",
@@ -39,6 +40,7 @@
 },
 {
     "CO": "C000166366",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1010P/WRP/ST/I-23/18",
     "projectRef": "Southgate Tanjung Barat - Jkt",
     "driverType": "Diesel",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000166367",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1010P/WRP/ST/I-23/18",
     "projectRef": "Southgate Tanjung Barat - Jkt",
     "driverType": "Electric",
@@ -115,6 +118,7 @@
 },
 {
     "CO": "C000166368",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1010P/WRP/ST/I-23/18",
     "projectRef": "Southgate Tanjung Barat - Jkt",
     "driverType": "Diesel",
@@ -153,6 +157,7 @@
 },
 {
     "CO": "C000188477",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Regional VI - Kalimanta",
     "driverType": "Diesel",
@@ -191,6 +196,7 @@
 },
 {
     "CO": "C000188485",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Regional VI - Kalimanta",
     "driverType": "Electric",
@@ -229,6 +235,7 @@
 },
 {
     "CO": "C000189927",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Uptown Mall BSB City - Semaran",
     "driverType": "Diesel",
@@ -267,6 +274,7 @@
 },
 {
     "CO": "C000189928",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Uptown Mall BSB City - Semaran",
     "driverType": "Electric",
@@ -312,6 +320,7 @@
 },
 {
     "CO": "C000190099",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
@@ -363,6 +372,7 @@
 },
 {
     "CO": "C000190103",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
@@ -414,6 +424,7 @@
 },
 {
     "CO": "C000190107",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
@@ -465,6 +476,7 @@
 },
 {
     "CO": "C000190114",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
@@ -516,6 +528,7 @@
 },
 {
     "CO": "C000190117",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
@@ -567,6 +580,7 @@
 },
 {
     "CO": "C000190120",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Bareshaft Pumps",
     "driverType": "Barepump",
@@ -618,6 +632,7 @@
 },
 {
     "CO": "C000192455",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Solo, Mataram, Banjarma",
     "driverType": "Diesel",
@@ -656,6 +671,7 @@
 },
 {
     "CO": "C000192457",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Solo, Mataram, Banjarma",
     "driverType": "Electric",
@@ -694,6 +710,7 @@
 },
 {
     "CO": "C000192458",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Medan",
     "driverType": "Diesel",
@@ -732,6 +749,7 @@
 },
 {
     "CO": "C000192459",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Medan",
     "driverType": "Electric",
@@ -770,6 +788,7 @@
 },
 {
     "CO": "C000192660",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Tasikmalaya, Denpasar",
     "driverType": "Diesel",
@@ -808,6 +827,7 @@
 },
 {
     "CO": "C000192662",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Telkom Tasikmalaya, Denpasar",
     "driverType": "Electric",
@@ -846,6 +866,7 @@
 },
 {
     "CO": "C000193063",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Cartenz",
     "driverType": "Electric",
@@ -897,6 +918,7 @@
 },
 {
     "CO": "C000193064",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Cartenz",
     "driverType": "Electric",
@@ -935,6 +957,7 @@
 },
 {
     "CO": "C000193582",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Kapal Api - Surabaya",
     "driverType": "Diesel",
@@ -973,6 +996,7 @@
 },
 {
     "CO": "C000193583",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Kapal Api - Surabaya",
     "driverType": "Electric",
@@ -1011,6 +1035,7 @@
 },
 {
     "CO": "C000195886",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Replacement C0106943",
     "driverType": "Barepump",
@@ -1056,6 +1081,7 @@
 },
 {
     "CO": "C000208366",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "11056P/WRP/ST/XI-26/21",
     "projectRef": "Telkom - 500GPM",
     "driverType": "Electric",
@@ -1101,6 +1127,7 @@
 },
 {
     "CO": "C000024197",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "11502P/WRP/ST/XI-26",
     "projectRef": "Telkom - 500GPM (Ireland)",
     "driverType": "Diesel",
@@ -1139,6 +1166,7 @@
 },
 {
     "CO": "C000024200",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "11055P/WRP/ST/XI-26",
     "projectRef": "Telkom - 500GPM (Ireland)",
     "driverType": "Diesel",
@@ -1177,6 +1205,7 @@
 },
 {
     "CO": "C000024345",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "12064P/WRP/XII-26/21",
     "projectRef": "Telkom - 500GPM (Ireland)",
     "driverType": "Electric",
@@ -1215,6 +1244,7 @@
 },
 {
     "CO": "C000212120",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "3015P",
     "projectRef": "Electric Firepumps",
     "driverType": "Electric",
@@ -1253,6 +1283,7 @@
 },
 {
     "CO": "C000212123",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "3015P",
     "projectRef": "Diesel Firepumps",
     "driverType": "Diesel",
@@ -1291,6 +1322,7 @@
 },
 {
     "CO": "C000212125",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "3014P",
     "projectRef": "750GPM Diesel Fire Pump",
     "driverType": "Diesel",
@@ -1329,6 +1361,7 @@
 },
 {
     "CO": "C000212126",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "3014P",
     "projectRef": "Telkom Indonesia",
     "driverType": "Electric",
@@ -1367,6 +1400,7 @@
 },
 {
     "CO": "C000217194",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "12077P",
     "projectRef": "Stock Pump",
     "driverType": "Barepump",
@@ -1405,6 +1439,7 @@
 },
 {
     "CO": "C000218149",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "9061P",
     "projectRef": "Indigo Hotel - Bandung Pakar",
     "driverType": "Diesel",
@@ -1443,6 +1478,7 @@
 },
 {
     "CO": "C000218151",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "9061P",
     "projectRef": "Indigo Hotel - Bandung Pakar",
     "driverType": "Electric",
@@ -1481,6 +1517,7 @@
 },
 {
     "CO": "C000226442",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "7045P",
     "projectRef": "Stock",
     "driverType": "Barepump",
@@ -1502,8 +1539,8 @@
             "warning"
         ],
         "payment": [
-            "partial",
-            "primary"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1519,6 +1556,7 @@
 },
 {
     "CO": "C000226951",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "8051P/WRP/ST/VIII/28/23/P",
     "projectRef": "JIS School - EFP",
     "driverType": "Electric",
@@ -1557,6 +1595,7 @@
 },
 {
     "CO": "C000226953",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "8051P/WRP/ST/VIII/28/23/P",
     "projectRef": "JIS School - DFP",
     "driverType": "Diesel",
@@ -1602,6 +1641,7 @@
 },
 {
     "CO": "C000227906",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "9055P",
     "projectRef": "Replacement C098160",
     "driverType": "Barepump",
@@ -1615,16 +1655,16 @@
     "dueDate": "06 Nov 2023",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1640,6 +1680,7 @@
 },
 {
     "CO": "C000230797",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "12079P",
     "projectRef": "Glass Factory - Kendal",
     "driverType": "Diesel",
@@ -1670,9 +1711,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xaMrcjpHlVO0HDccFs4JMuz6Yy8oMKxn/ma_EYoZIZk_NKNx3zmazeNY2so_rv3ov-eLHAN29qVQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wQrkexFTQd7I8Dk1MsMnlMjKa4jdl7bY/ntrgMzJE9WbjjsLl3gwboxO1pfIuT3Kb-D76AtPRMFQs",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/yGx2KPPzIqct8O1oc3b5Em5jY5AAR2RD/MDHNvxcHHv-HKE4fN-C8UT-mtFYgLudL-YbygTZnSUws"
     },
     "remarks": [
         {
