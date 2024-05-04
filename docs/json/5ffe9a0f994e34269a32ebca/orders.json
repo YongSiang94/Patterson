@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000187745",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110001.0,
     "projectRef": "First Solar Kulim",
     "driverType": "Barepump",
@@ -39,6 +40,7 @@
 },
 {
     "CO": "C000191587",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110048.0,
     "projectRef": "Fatty Chemical (M) Sdn Bhd",
     "driverType": "Electric",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000194076",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110096.0,
     "projectRef": "Kimberley Clark",
     "driverType": "Diesel",
@@ -122,6 +125,7 @@
 },
 {
     "CO": "C000194079",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110104.0,
     "projectRef": "Lam Research",
     "driverType": "Diesel",
@@ -160,6 +164,7 @@
 },
 {
     "CO": "C000194080",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110105.0,
     "projectRef": "Lam Research",
     "driverType": "Diesel",
@@ -198,6 +203,7 @@
 },
 {
     "CO": "C000194387",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110102.0,
     "projectRef": "N.P.",
     "driverType": "Diesel",
@@ -236,6 +242,7 @@
 },
 {
     "CO": "C000195454",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110120.0,
     "projectRef": "Dell",
     "driverType": "Diesel",
@@ -274,6 +281,7 @@
 },
 {
     "CO": "C000195499",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110119.0,
     "projectRef": "Smith and Nephew",
     "driverType": "Diesel",
@@ -312,6 +320,7 @@
 },
 {
     "CO": "C000195564",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110119.0,
     "projectRef": "Smith and Nephew",
     "driverType": "Barepump",
@@ -357,6 +366,7 @@
 },
 {
     "CO": "C000197020",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110138.0,
     "projectRef": "Mattel Factory",
     "driverType": "Diesel",
@@ -402,6 +412,7 @@
 },
 {
     "CO": "C000197919",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110157.0,
     "projectRef": "UCT Batu Kawan",
     "driverType": "Diesel",
@@ -459,6 +470,7 @@
 },
 {
     "CO": "C000197982",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110158.0,
     "projectRef": "UCT Batu Kawan",
     "driverType": "Barepump",
@@ -522,6 +534,7 @@
 },
 {
     "CO": "C000202141",
+    "finalDestination": "Malaysia",
     "purchaseOrder": "110212/110215",
     "projectRef": "AMD Penang",
     "driverType": "Diesel",
@@ -560,6 +573,7 @@
 },
 {
     "CO": "C000203008",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110227.0,
     "projectRef": "Mondelez Prai",
     "driverType": "Diesel",
@@ -598,6 +612,7 @@
 },
 {
     "CO": "C000024245",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110315.0,
     "projectRef": "Jabil Project",
     "driverType": "Diesel",
@@ -636,6 +651,7 @@
 },
 {
     "CO": "C000024455",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110343.0,
     "projectRef": "PTS Diesel Pump",
     "driverType": "Diesel",
@@ -674,6 +690,7 @@
 },
 {
     "CO": "C000024740",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110425.0,
     "projectRef": "Dexcom",
     "driverType": "Electric",
@@ -712,6 +729,7 @@
 },
 {
     "CO": "C000024742",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110425.0,
     "projectRef": "Electric Fire Pump",
     "driverType": "Electric",
@@ -750,6 +768,7 @@
 },
 {
     "CO": "C000213275",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110448.0,
     "projectRef": "Fuji Kulim",
     "driverType": "Diesel",
@@ -788,6 +807,7 @@
 },
 {
     "CO": "C000213308",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110448.0,
     "projectRef": "Fuji Kulim",
     "driverType": "Barepump",
@@ -833,6 +853,7 @@
 },
 {
     "CO": "C000214143",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110458.0,
     "projectRef": "Intel PG10 DFP",
     "driverType": "Diesel",
@@ -871,6 +892,7 @@
 },
 {
     "CO": "C000214144",
+    "finalDestination": "Malaysia",
     "purchaseOrder": 110458.0,
     "projectRef": "Intel PG10 EFP",
     "driverType": "Electric",
