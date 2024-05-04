@@ -1,7 +1,8 @@
 [
 {
     "CO": "C000195595",
-    "purchaseOrder": "",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": "0283",
     "projectRef": "ST Muar",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
