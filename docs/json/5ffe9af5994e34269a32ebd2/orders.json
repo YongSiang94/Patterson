@@ -1,7 +1,8 @@
 [
 {
     "CO": "C000189870",
-    "purchaseOrder": "",
+    "finalDestination": "Singapore",
+    "purchaseOrder": 20121050.0,
     "projectRef": "IICH @ Healthcity Novena",
     "driverType": "Electric",
     "driverInfo": "Customer Supplied 110kW",
@@ -14,16 +15,16 @@
     "dueDate": "28 Apr 2020",
     "status": {
         "order": [
-            "TBA",
-            "TBA"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -39,7 +40,8 @@
 },
 {
     "CO": "C000189900",
-    "purchaseOrder": "",
+    "finalDestination": "Singapore",
+    "purchaseOrder": 20121049.0,
     "projectRef": "Replacement - C0125512",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -77,7 +79,8 @@
 },
 {
     "CO": "C000192617",
-    "purchaseOrder": "",
+    "finalDestination": "Singapore",
+    "purchaseOrder": "20121138/42",
     "projectRef": "VTP 8 Pasir Ris",
     "driverType": "Electric",
     "driverInfo": "NIDEC 30HP 1475RPM WP-I",
@@ -122,7 +125,8 @@
 },
 {
     "CO": "C000192761",
-    "purchaseOrder": "",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": 20121141.0,
     "projectRef": "Nghi Son Project",
     "driverType": "Electric",
     "driverInfo": "WEG 125HP 2950RPM ODP",
@@ -160,7 +164,8 @@
 },
 {
     "CO": "C000192762",
-    "purchaseOrder": "",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": 20121141.0,
     "projectRef": "Nghi Son Project",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -205,7 +210,8 @@
 },
 {
     "CO": "C000193361",
-    "purchaseOrder": "",
+    "finalDestination": "Singapore",
+    "purchaseOrder": "20121138/42",
     "projectRef": "Blk 383 Bukit Batok West Ave 5",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -250,6 +256,7 @@
 },
 {
     "CO": "C000194088",
+    "finalDestination": "Singapore",
     "purchaseOrder": "",
     "projectRef": "Shwe Lin Pan",
     "driverType": "Barepump",
@@ -288,7 +295,8 @@
 },
 {
     "CO": "C000194814",
-    "purchaseOrder": "",
+    "finalDestination": "Singapore",
+    "purchaseOrder": 20121108.0,
     "projectRef": "RWS",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -339,7 +347,8 @@
 },
 {
     "CO": "C000196894",
-    "purchaseOrder": "",
+    "finalDestination": "Singapore",
+    "purchaseOrder": 20121257.0,
     "projectRef": "Tampines CC HDB",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -396,6 +405,7 @@
 },
 {
     "CO": "C000198484",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121008.0,
     "projectRef": "CTE - KPE - FB4",
     "driverType": "Electric",
@@ -453,6 +463,7 @@
 },
 {
     "CO": "C000198487",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121008.0,
     "projectRef": "CTE - KPE - FB2",
     "driverType": "Electric",
@@ -504,6 +515,7 @@
 },
 {
     "CO": "C000198892",
+    "finalDestination": "Vietnam",
     "purchaseOrder": 21121020.0,
     "projectRef": "Cam Ranh Electric",
     "driverType": "Electric",
@@ -549,6 +561,7 @@
 },
 {
     "CO": "C000198894",
+    "finalDestination": "Vietnam",
     "purchaseOrder": 21121020.0,
     "projectRef": "Cam Ranh",
     "driverType": "Diesel",
@@ -587,6 +600,7 @@
 },
 {
     "CO": "C000199810",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121046.0,
     "projectRef": "REPUBLIC OF SINGAPORE (PRIME MINISTER OFFICE)",
     "driverType": "Barepump",
@@ -632,6 +646,7 @@
 },
 {
     "CO": "C000201174",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121088.0,
     "projectRef": "REPUBLIC OF SINGAPORE (PRIME MINISTER OFFICE)",
     "driverType": "Barepump",
@@ -677,6 +692,7 @@
 },
 {
     "CO": "C000208217",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121316.0,
     "projectRef": "Changi Prison (Cluster A)",
     "driverType": "Barepump",
@@ -715,6 +731,7 @@
 },
 {
     "CO": "C000208220",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121316.0,
     "projectRef": "Changi Prison (Cluster A)",
     "driverType": "Barepump",
@@ -753,6 +770,7 @@
 },
 {
     "CO": "C000208222",
+    "finalDestination": "Singapore",
     "purchaseOrder": 21121316.0,
     "projectRef": "Changi Prison (Cluster A)",
     "driverType": "Barepump",
@@ -791,6 +809,7 @@
 },
 {
     "CO": "C000213205",
+    "finalDestination": "Singapore",
     "purchaseOrder": 22121091.0,
     "projectRef": "HDB Woodlands",
     "driverType": "Electric",
@@ -836,6 +855,7 @@
 },
 {
     "CO": "C000223139",
+    "finalDestination": "Singapore",
     "purchaseOrder": 23121065.0,
     "projectRef": "SIT Campus At Punggol (Sprinkle)",
     "driverType": "Barepump",
@@ -881,6 +901,7 @@
 },
 {
     "CO": "C000223142",
+    "finalDestination": "Singapore",
     "purchaseOrder": 23121065.0,
     "projectRef": "SIT Campus At Punggol (Monitor)",
     "driverType": "Barepump",
@@ -926,6 +947,7 @@
 },
 {
     "CO": "C000223144",
+    "finalDestination": "Singapore",
     "purchaseOrder": 23121065.0,
     "projectRef": "SIT Campus At Punggol (Hydrant)",
     "driverType": "Barepump",
@@ -971,6 +993,7 @@
 },
 {
     "CO": "C000224419",
+    "finalDestination": "Vietnam",
     "purchaseOrder": 23221295.0,
     "projectRef": "220kV Vinh Hao DFP",
     "driverType": "Diesel",
@@ -1009,6 +1032,7 @@
 },
 {
     "CO": "C000224420",
+    "finalDestination": "Vietnam",
     "purchaseOrder": 23221295.0,
     "projectRef": "220kV Vinh Hao EFP",
     "driverType": "Electric",
