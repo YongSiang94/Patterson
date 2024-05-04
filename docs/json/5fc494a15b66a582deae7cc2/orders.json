@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000133031",
+    "finalDestination": "Indonesia",
     "purchaseOrder": 1409.0,
     "projectRef": "TBBM Tanjung Wangi",
     "driverType": "Diesel",
@@ -39,6 +40,7 @@
 },
 {
     "CO": "C000158248",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1704/022/OV/R",
     "projectRef": "Teluk Siak",
     "driverType": "Diesel",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000165097",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1712/056/OV/R",
     "projectRef": "Pertamina TBBM Siak",
     "driverType": "Diesel",
@@ -115,6 +118,7 @@
 },
 {
     "CO": "C000175272",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "1811/047/OV/R1",
     "projectRef": "LPG Belawan",
     "driverType": "Diesel",
@@ -153,6 +157,7 @@
 },
 {
     "CO": "C000185628",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "LPG Dumai",
     "driverType": "Diesel",
@@ -198,6 +203,7 @@
 },
 {
     "CO": "C000186009",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Jayapura",
     "driverType": "Diesel",
@@ -249,6 +255,7 @@
 },
 {
     "CO": "C000186309",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "LPG Balongan",
     "driverType": "Diesel",
@@ -294,6 +301,7 @@
 },
 {
     "CO": "C000187372",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "LPG Dumai Cooling Pump",
     "driverType": "Electric",
@@ -339,6 +347,7 @@
 },
 {
     "CO": "C000188743",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Tenau Kupang",
     "driverType": "Diesel",
@@ -390,6 +399,7 @@
 },
 {
     "CO": "C000191304",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "DPPU Kulon Progo",
     "driverType": "Diesel",
@@ -459,6 +469,7 @@
 },
 {
     "CO": "C000192058",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "LPG Bima Cooling Water Pump",
     "driverType": "Electric",
@@ -504,6 +515,7 @@
 },
 {
     "CO": "C000193336",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "SPPBE Diesel",
     "driverType": "Diesel",
@@ -542,6 +554,7 @@
 },
 {
     "CO": "C000193337",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "SPPBE Electric",
     "driverType": "Electric",
@@ -580,6 +593,7 @@
 },
 {
     "CO": "C000193571",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "SPPBE II Diesel",
     "driverType": "Diesel",
@@ -618,6 +632,7 @@
 },
 {
     "CO": "C000193572",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "SPPBE II Electric",
     "driverType": "Electric",
@@ -656,6 +671,7 @@
 },
 {
     "CO": "C000195566",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "Barepump for Stock",
     "driverType": "Barepump",
@@ -694,6 +710,7 @@
 },
 {
     "CO": "C000195587",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "SPPBE III Electric",
     "driverType": "Electric",
@@ -732,6 +749,7 @@
 },
 {
     "CO": "C000195589",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "SPPBE III Diesel",
     "driverType": "Diesel",
@@ -770,6 +788,7 @@
 },
 {
     "CO": "C000196336",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2010/049/OV/R",
     "projectRef": "TBBM Jayapura",
     "driverType": "Diesel",
@@ -827,6 +846,7 @@
 },
 {
     "CO": "C000197404",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2011/051/OV/R",
     "projectRef": "TBBM Panjang",
     "driverType": "Diesel",
@@ -865,6 +885,7 @@
 },
 {
     "CO": "C000198341",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "",
     "projectRef": "LPG Wayame",
     "driverType": "Diesel",
@@ -903,6 +924,7 @@
 },
 {
     "CO": "C000198665",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2101/001/OV/RTN/R",
     "projectRef": "Pertamina Krueng Raya",
     "driverType": "Diesel",
@@ -954,6 +976,7 @@
 },
 {
     "CO": "C000198760",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2101/002/OV/RTN/R",
     "projectRef": "SPPBE IV Electric",
     "driverType": "Electric",
@@ -992,6 +1015,7 @@
 },
 {
     "CO": "C000198761",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2101/002/OV/RTN/R",
     "projectRef": "SPPBE IV Diesel",
     "driverType": "Diesel",
@@ -1030,6 +1054,7 @@
 },
 {
     "CO": "C000198903",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2101/005/OV/R",
     "projectRef": "LPG Kupang Cooling Pump",
     "driverType": "Electric",
@@ -1075,6 +1100,7 @@
 },
 {
     "CO": "C000199031",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2101/003/OV/R",
     "projectRef": "TBBM Bau Bau",
     "driverType": "Diesel",
@@ -1113,6 +1139,7 @@
 },
 {
     "CO": "C000205023",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2108/014/OV/RTN/R",
     "projectRef": "Stock",
     "driverType": "Barepump",
@@ -1151,6 +1178,7 @@
 },
 {
     "CO": "C000206577",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2109/020/OV/R1",
     "projectRef": "TBBM Sabang",
     "driverType": "Diesel",
@@ -1189,6 +1217,7 @@
 },
 {
     "CO": "C000207954",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/023/OV/RTN/R",
     "projectRef": "SPPBE V Electric",
     "driverType": "Electric",
@@ -1227,6 +1256,7 @@
 },
 {
     "CO": "C000207955",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/023/OV/RTN/R",
     "projectRef": "SPPBE V Diesel",
     "driverType": "Diesel",
@@ -1272,6 +1302,7 @@
 },
 {
     "CO": "C000208076",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/026/OV/R",
     "projectRef": "TBBM Tembilahan (3000GPM)",
     "driverType": "Diesel",
@@ -1317,6 +1348,7 @@
 },
 {
     "CO": "C000208077",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/024/OV/R",
     "projectRef": "TBBM Tembilahan (1000GPM)",
     "driverType": "Diesel",
@@ -1355,6 +1387,7 @@
 },
 {
     "CO": "C000208445",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/025/OV/R",
     "projectRef": "Lawe Lawe (Diesel)",
     "driverType": "Diesel",
@@ -1430,6 +1463,7 @@
 },
 {
     "CO": "C000208547",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/025/OV/R",
     "projectRef": "Lawe Lawe (Electric)",
     "driverType": "Electric",
@@ -1493,6 +1527,7 @@
 },
 {
     "CO": "C000208697",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2111/025/OV/R",
     "projectRef": "Lawe Lawe (Jockey)",
     "driverType": "Electric",
@@ -1544,6 +1579,7 @@
 },
 {
     "CO": "C000209471",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2112/029/OV/R",
     "projectRef": "Pertamina RU-VII Open Access (17JHC)",
     "driverType": "Diesel",
@@ -1595,6 +1631,7 @@
 },
 {
     "CO": "C000209488",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2112/029/OV/R",
     "projectRef": "Pertamina RU-VII Open Access (13GLC)",
     "driverType": "Diesel",
@@ -1658,6 +1695,7 @@
 },
 {
     "CO": "C000209492",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2112/029/OV/R",
     "projectRef": "Pertamina RU-VII Open Access (M6MC)",
     "driverType": "Electric",
@@ -1709,6 +1747,7 @@
 },
 {
     "CO": "C000218922",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/016/OV/R",
     "projectRef": "Pertamina TBBM Pangkalan Bun",
     "driverType": "Diesel",
@@ -1747,6 +1786,7 @@
 },
 {
     "CO": "C000219096",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/014/OV/R",
     "projectRef": "Pertamina Sumbagsel",
     "driverType": "Diesel",
@@ -1785,6 +1825,7 @@
 },
 {
     "CO": "C000220000",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/013/0V/R",
     "projectRef": "PLC Project",
     "driverType": "Electric",
@@ -1823,6 +1864,7 @@
 },
 {
     "CO": "C000220001",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/013/0V/R",
     "projectRef": "PLC Project",
     "driverType": "Diesel",
@@ -1861,6 +1903,7 @@
 },
 {
     "CO": "C000220002",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/013/0V/R",
     "projectRef": "PLC Project",
     "driverType": "Electric",
@@ -1899,6 +1942,7 @@
 },
 {
     "CO": "C000220003",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/013/0V/R",
     "projectRef": "PLC Project",
     "driverType": "Electric",
@@ -1937,6 +1981,7 @@
 },
 {
     "CO": "C000220248",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2211/015/0V/R",
     "projectRef": "Pertamina IT Banjarmasin",
     "driverType": "Diesel",
@@ -1975,6 +2020,7 @@
 },
 {
     "CO": "C000222740",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2303/008/OV/R-R1",
     "projectRef": "Pertamina IT Tanjung Wangi",
     "driverType": "Diesel",
@@ -2013,6 +2059,7 @@
 },
 {
     "CO": "C000224999",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2305/012/0V/R",
     "projectRef": "Pertamina IT Pontianak",
     "driverType": "Diesel",
@@ -2045,12 +2092,13 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/weh9lfbHpEHXoOIRfoTdn27fLmwcmkCQ/KwD6CpXezsQu9sRDf9uVDNqLtwf85cwD-2bTAMplDFgs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tgkxVCj9Mhn7ugVTD3nqbt6CJvw2gPDA/fp_VCUSfpVGFvGPeozkPsHMWAS5aqsvT-FbKAC5D9ewo",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/xbtiPM3vTiA82jDVnaJwnkAhyxf6xhLf/IzsinH680Lh-EGbWc90B0em4-kKYciLE-i7wgLKbSUws"
     },
     "remarks": []
 },
 {
     "CO": "C000226013",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2305/013/OV/R",
     "projectRef": "IT Surabaya",
     "driverType": "Diesel",
@@ -2089,6 +2137,7 @@
 },
 {
     "CO": "C000230321",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2311/027/OV/R",
     "projectRef": "TBBM Tanjung Batu",
     "driverType": "Diesel",
@@ -2127,6 +2176,7 @@
 },
 {
     "CO": "C000231937",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2312/033/OV/R",
     "projectRef": "Pertamina Sulawesi - FT Moutong ",
     "driverType": "Diesel",
@@ -2165,6 +2215,7 @@
 },
 {
     "CO": "C000231950",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2312/033/OV/R",
     "projectRef": "Pertamina Sulawesi - FT Banggai",
     "driverType": "Diesel",
@@ -2203,6 +2254,7 @@
 },
 {
     "CO": "C000232011",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2312/032/OV/R",
     "projectRef": "Pertamina LPG Tuban - Horizontal",
     "driverType": "Diesel",
@@ -2241,6 +2293,7 @@
 },
 {
     "CO": "C000232254",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "2312/032/OV/R",
     "projectRef": "Pertamina LPG Tuban - Vertical",
     "driverType": "Diesel",
@@ -2273,6 +2326,45 @@
     "documents": {
         "test": "",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/xDwZn6JFysZEBppcSirok9TwTwIqhMcV/90ScWL5hBro8Z00g_WC58AyotyyKNwK9-_rCgjYviIAs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000233811",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "2403/006/OV/R1",
+    "projectRef": "Pertamina TBBM Biak",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA98",
+    "pumpModel": "17JMC-4STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 473,
+    "speed": 1770,
+    "orderDate": "25 Mar 2024",
+    "dueDate": "4 Oct 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/xViZXlAjZgeEVkX7CEHIiAzFT9wAJez6/rfzorTAjks6d5TtXiA5cJFL6iV2H4wdf-Brygigh9SQs",
         "iom": ""
     },
     "remarks": []
