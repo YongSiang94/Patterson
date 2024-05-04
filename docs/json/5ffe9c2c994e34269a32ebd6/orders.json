@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000161996",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "01/BCATL-PPC/07-17",
     "projectRef": "SONGHAU",
     "driverType": "Diesel",
@@ -39,6 +40,7 @@
 },
 {
     "CO": "C000162053",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "01/BCATL-PPC/07-17",
     "projectRef": "SONGHAU",
     "driverType": "Electric",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000192003",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "",
     "projectRef": "An Sinh Hospital",
     "driverType": "Electric",
@@ -122,6 +125,7 @@
 },
 {
     "CO": "C000192004",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "",
     "projectRef": "An Sinh Hospital",
     "driverType": "Electric",
@@ -167,6 +171,7 @@
 },
 {
     "CO": "C000208331",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "BK/PAT/11-21",
     "projectRef": "IHG Da Nang",
     "driverType": "Electric",
@@ -205,6 +210,7 @@
 },
 {
     "CO": "C000208802",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "BK/PAT/11-21",
     "projectRef": "IHG Da Nang",
     "driverType": "Electric",
@@ -256,6 +262,7 @@
 },
 {
     "CO": "C000208803",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "BK/PAT/11-21",
     "projectRef": "IHG Da Nang",
     "driverType": "Electric",
@@ -307,6 +314,7 @@
 },
 {
     "CO": "C000209235",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "BEK02",
     "projectRef": "Steel Wire and Steel Cord Factory (Diesel)",
     "driverType": "Diesel",
@@ -370,6 +378,7 @@
 },
 {
     "CO": "C000209238",
+    "finalDestination": "Vietnam",
     "purchaseOrder": "BEK02",
     "projectRef": "Steel Wire and Steel Cord Factory (Electric)",
     "driverType": "Electric",
@@ -424,5 +433,246 @@
             "description": "Order release from hold."
         }
     ]
+},
+{
+    "CO": "C000234282",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/03-24",
+    "projectRef": "Tien Bo Plaza",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP / ODP / 2950RPM",
+    "pumpModel": "4x3x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 400,
+    "head": 286,
+    "speed": 2950,
+    "orderDate": "14 Apr 2024",
+    "dueDate": "26 Jun 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7EbQBzW28rEbchlQZl3AdhC6GEWSVI/bu05Kr_BURsRgdoaeNcG0qD5wBm7KuTK-P7XAA9vQUws",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000234283",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/03-24",
+    "projectRef": "Tien Bo Plaza",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP / ODP / 2950RPM",
+    "pumpModel": "8x6x13 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 335,
+    "speed": 2950,
+    "orderDate": "15 Apr 2024",
+    "dueDate": "26 Jun 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7FecgKSb5AkyS2ZBLzIUGCeaof8wFP/uQLW7bhcwLYscG-PN4foyzuU_EnpxD0p-ZrUgCeHQUws",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000234285",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/03-24",
+    "projectRef": "Tien Bo Plaza",
+    "driverType": "Electric",
+    "driverInfo": "WEG 40HP / ODP / 2950RPM",
+    "pumpModel": "4x3x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 500,
+    "head": 194,
+    "speed": 2950,
+    "orderDate": "15 Apr 2024",
+    "dueDate": "26 Jun 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7J34OsyuWtPHOr7rvXI88PlXDBBAc0/f3gdZQLmozHDFiRO3d_LbodQpKwDUM5D-ibWgvefQUws",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000234286",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/03-24",
+    "projectRef": "Tien Bo Plaza",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP / ODP / 2950RPM",
+    "pumpModel": "8x6x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 335,
+    "speed": 2950,
+    "orderDate": "15 Apr 2024",
+    "dueDate": "26 Jun 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEkffUhZvvIQF4HpuPsLuQduUP5aWLPU/85wA1e_zwxAUfg5kjCSSjhKgTy4VtBF4-rbVgfu7QUws",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "24 Apr 2024",
+            "type": "change order",
+            "overview": "flow meter",
+            "description": "Add Glycerin description"
+        }
+    ]
+},
+{
+    "CO": "C000234370",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/03-24",
+    "projectRef": "Tien Bo Plaza",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP / ODP / 2950RPM",
+    "pumpModel": "4x3x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 400,
+    "head": 286,
+    "speed": 2950,
+    "orderDate": "15 Apr 2024",
+    "dueDate": "26 Jun 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7J98VOKXiqFpORPIW0fqDEARHpFamB/8M2WGvq6fAqjbwGAX0PwTN2FCOjCSFqF-27WgO_TQUws",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000234372",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/03-24",
+    "projectRef": "Tien Bo Plaza",
+    "driverType": "Electric",
+    "driverInfo": "WEG 40HP / ODP / 2950RPM",
+    "pumpModel": "4x3x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 500,
+    "head": 194,
+    "speed": 2950,
+    "orderDate": "15 Apr 2024",
+    "dueDate": "26 Jun 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7Ij4X0of2sFF2J5RA4UjKCNlJIAViS/bje_3O87BSXoB7yAjBiReLwjLEAcmmVd-EbZAUPrQUws",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]
