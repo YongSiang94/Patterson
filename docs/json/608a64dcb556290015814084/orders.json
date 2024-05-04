@@ -1,6 +1,7 @@
 [
 {
     "CO": "C000197282",
+    "finalDestination": "Australia",
     "purchaseOrder": 560220.0,
     "projectRef": "Boral",
     "driverType": "Diesel",
@@ -46,6 +47,7 @@
 },
 {
     "CO": "C000199807",
+    "finalDestination": "Australia",
     "purchaseOrder": 562189.0,
     "projectRef": "Amazon Waratah",
     "driverType": "Diesel",
@@ -84,6 +86,7 @@
 },
 {
     "CO": "C000199808",
+    "finalDestination": "Australia",
     "purchaseOrder": 562191.0,
     "projectRef": "DHL ESR",
     "driverType": "Diesel",
@@ -122,6 +125,7 @@
 },
 {
     "CO": "C000199873",
+    "finalDestination": "Australia",
     "purchaseOrder": 562310.0,
     "projectRef": "Costco Lake Macquarie",
     "driverType": "Diesel",
@@ -160,6 +164,7 @@
 },
 {
     "CO": "C000200911",
+    "finalDestination": "Australia",
     "purchaseOrder": 562821.0,
     "projectRef": "Digital Realty",
     "driverType": "Diesel",
@@ -198,6 +203,7 @@
 },
 {
     "CO": "C000202909",
+    "finalDestination": "Australia",
     "purchaseOrder": 564158.0,
     "projectRef": "TJX WAREHOUSE",
     "driverType": "Diesel",
@@ -243,6 +249,7 @@
 },
 {
     "CO": "C000203319",
+    "finalDestination": "Australia",
     "purchaseOrder": 564365.0,
     "projectRef": "8 GRAND AVE ROSEHILLE",
     "driverType": "Diesel",
@@ -281,6 +288,7 @@
 },
 {
     "CO": "C000203933",
+    "finalDestination": "Australia",
     "purchaseOrder": 564632.0,
     "projectRef": "KBF Project",
     "driverType": "Diesel",
@@ -319,6 +327,7 @@
 },
 {
     "CO": "C000208157",
+    "finalDestination": "Australia",
     "purchaseOrder": 566891.0,
     "projectRef": "Auburn Switchyard",
     "driverType": "Diesel",
@@ -370,6 +379,7 @@
 },
 {
     "CO": "C000214916",
+    "finalDestination": "Australia",
     "purchaseOrder": 570230.0,
     "projectRef": "TTI Project",
     "driverType": "Diesel",
@@ -408,6 +418,7 @@
 },
 {
     "CO": "C000215718",
+    "finalDestination": "Australia",
     "purchaseOrder": 570694.0,
     "projectRef": "Donaldson Wyong",
     "driverType": "Diesel",
@@ -446,6 +457,7 @@
 },
 {
     "CO": "C000217259",
+    "finalDestination": "Australia",
     "purchaseOrder": 571712.0,
     "projectRef": "Tronox Balranald",
     "driverType": "Diesel",
@@ -491,6 +503,7 @@
 },
 {
     "CO": "C000225400",
+    "finalDestination": "Australia",
     "purchaseOrder": 576570.0,
     "projectRef": "Symbion",
     "driverType": "Diesel",
@@ -536,6 +549,7 @@
 },
 {
     "CO": "C000227489",
+    "finalDestination": "Australia",
     "purchaseOrder": 577876.0,
     "projectRef": "Qantas CAE",
     "driverType": "Diesel",
@@ -574,6 +588,7 @@
 },
 {
     "CO": "C000227490",
+    "finalDestination": "Australia",
     "purchaseOrder": 577875.0,
     "projectRef": "QSIM",
     "driverType": "Diesel",
@@ -612,6 +627,7 @@
 },
 {
     "CO": "C000229081",
+    "finalDestination": "Australia",
     "purchaseOrder": 578838.0,
     "projectRef": "Sydney Markets Building E",
     "driverType": "Diesel",
