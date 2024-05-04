@@ -1,8 +1,9 @@
 [
 {
     "CO": "C000170393",
+    "finalDestination": "Georgia",
     "purchaseOrder": "CG-2018-051-0011",
-    "projectRef": "Gardabanill Combied Cycle PP",
+    "projectRef": "Gardabanill Combined Cycle PP",
     "driverType": "Electric",
     "driverInfo": "NIDEC 200HP/ 380V/ TEFC",
     "pumpModel": "17JMC-4 STAGE",
@@ -39,8 +40,9 @@
 },
 {
     "CO": "C000170394",
+    "finalDestination": "Georgia",
     "purchaseOrder": "CG-2018-051-001",
-    "projectRef": "Gardabanill Combied Cycle PP",
+    "projectRef": "Gardabanill Combined Cycle PP",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFM8",
     "pumpModel": "14JMC-5 STAGE",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000189254",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2020-ST-002",
     "projectRef": "Jabil Wuxi",
     "driverType": "Diesel",
@@ -122,6 +125,7 @@
 },
 {
     "CO": "C000189480",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2020-023-001",
     "projectRef": "Mahle Changshu",
     "driverType": "Diesel",
@@ -167,6 +171,7 @@
 },
 {
     "CO": "C000189861",
+    "finalDestination": "Mali",
     "purchaseOrder": "CG-2020-027-001",
     "projectRef": "Mali Air Port",
     "driverType": "Electric",
@@ -212,6 +217,7 @@
 },
 {
     "CO": "C000189862",
+    "finalDestination": "Mali",
     "purchaseOrder": "CG-2020-027-001",
     "projectRef": "Mali Air Port",
     "driverType": "Electric",
@@ -257,6 +263,7 @@
 },
 {
     "CO": "C000190083",
+    "finalDestination": "Indonesia",
     "purchaseOrder": "CG-2020-030-001",
     "projectRef": "Indonesia Banten Power Plant",
     "driverType": "Diesel",
@@ -314,7 +321,8 @@
 },
 {
     "CO": "C000190125",
-    "purchaseOrder": "",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "CG-2020-030-001",
     "projectRef": "Indonesia Banten Power Plant",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -359,6 +367,7 @@
 },
 {
     "CO": "C000190369",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2020-040-001",
     "projectRef": "IKEA Fuzhou",
     "driverType": "Diesel",
@@ -397,7 +406,8 @@
 },
 {
     "CO": "C000190447",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-037-001",
     "projectRef": "Emerson Suzhou",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -435,7 +445,8 @@
 },
 {
     "CO": "C000190872",
-    "purchaseOrder": "",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
     "projectRef": "Jharsuguda Power Plant (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 50HP 1475RPM TEFC",
@@ -486,7 +497,8 @@
 },
 {
     "CO": "C000190873",
-    "purchaseOrder": "",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
     "projectRef": "Jharsuguda Power Plant (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF58",
@@ -542,8 +554,9 @@
     ]
 },
 {
-    "CO": "C00190874",
-    "purchaseOrder": "",
+    "CO": "C000190874",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
     "projectRef": "Jharsuguda Power Plant (Diesel)",
     "driverType": "Diesel",
     "driverInfo": "DR8H-UFAA40",
@@ -600,7 +613,8 @@
 },
 {
     "CO": "C000190907",
-    "purchaseOrder": "",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
     "projectRef": "Jharsuguda Power Plant (Electric)",
     "driverType": "Electric",
     "driverInfo": "WEG 300HP 1470RPM TEFC",
@@ -651,7 +665,8 @@
 },
 {
     "CO": "C000190927",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-051-001",
     "projectRef": "BOE Chongqing",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -689,7 +704,8 @@
 },
 {
     "CO": "C000190928",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-051-001",
     "projectRef": "BOE Chongqing",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -727,7 +743,8 @@
 },
 {
     "CO": "C000191143",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-041-001",
     "projectRef": "Huike Guangzhou",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -765,7 +782,8 @@
 },
 {
     "CO": "C000191144",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-041-001",
     "projectRef": "Huike Guangzhou",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -803,7 +821,8 @@
 },
 {
     "CO": "C000192436",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-076-001",
     "projectRef": "Shanghai GTA Semiconductor",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -841,7 +860,8 @@
 },
 {
     "CO": "C000192781",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-080-001",
     "projectRef": "Evonik Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF34",
@@ -879,7 +899,8 @@
 },
 {
     "CO": "C000192782",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-080-001",
     "projectRef": "Evonik Shanghai",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2950RPM ODP",
@@ -917,7 +938,8 @@
 },
 {
     "CO": "C000193160",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-087-001",
     "projectRef": "IKEA Nanning",
     "driverType": "Diesel",
     "driverInfo": "JW6H-UFAA80",
@@ -955,7 +977,8 @@
 },
 {
     "CO": "C000193367",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-086-001",
     "projectRef": "HK Changsha P1",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -993,7 +1016,8 @@
 },
 {
     "CO": "C000193368",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-086-001",
     "projectRef": "HK Changsha P2",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1031,7 +1055,8 @@
 },
 {
     "CO": "C000193369",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-086-001",
     "projectRef": "HK Changsha P3",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1069,7 +1094,8 @@
 },
 {
     "CO": "C000193375",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-091-001",
     "projectRef": "HK Beihai",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1107,7 +1133,8 @@
 },
 {
     "CO": "C000193376",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-091-001",
     "projectRef": "HK Beihai P1",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1145,7 +1172,8 @@
 },
 {
     "CO": "C000193398",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-088-001",
     "projectRef": "Bourns Xiamen",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -1183,7 +1211,8 @@
 },
 {
     "CO": "C000193784",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-096-001",
     "projectRef": "Newly Weds Nantong",
     "driverType": "Electric",
     "driverInfo": "WEG 200HP 2970RPM ODP",
@@ -1221,7 +1250,8 @@
 },
 {
     "CO": "C000193787",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-097-001",
     "projectRef": "Steelcase Dongguan",
     "driverType": "Electric",
     "driverInfo": "WEG 150HP 2970RPM ODP",
@@ -1272,7 +1302,8 @@
 },
 {
     "CO": "C000194730",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-114-001",
     "projectRef": "Sitara Chemical",
     "driverType": "Electric",
     "driverInfo": "WEG 250HP 2970RPM ODP",
@@ -1310,7 +1341,8 @@
 },
 {
     "CO": "C000194748",
-    "purchaseOrder": "",
+    "finalDestination": "Guatemala",
+    "purchaseOrder": "CG-2020-119-001",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 1780RPM ODP",
@@ -1348,7 +1380,8 @@
 },
 {
     "CO": "C000194749",
-    "purchaseOrder": "",
+    "finalDestination": "Guatemala",
+    "purchaseOrder": "CG-2020-119-001",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 50HP 3575RPM ODP",
@@ -1386,7 +1419,8 @@
 },
 {
     "CO": "C000194750",
-    "purchaseOrder": "",
+    "finalDestination": "Guatemala",
+    "purchaseOrder": "CG-2020-119-001",
     "projectRef": "Antigua Stadium",
     "driverType": "Electric",
     "driverInfo": "WEG 30HP 3525RPM ODP",
@@ -1424,7 +1458,8 @@
 },
 {
     "CO": "C000194931",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-117-001",
     "projectRef": "Pesi Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF34",
@@ -1462,7 +1497,8 @@
 },
 {
     "CO": "C000195868",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-003",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "DP6H-UFAA70",
@@ -1507,7 +1543,8 @@
 },
 {
     "CO": "C000195869",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-003",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1552,7 +1589,8 @@
 },
 {
     "CO": "C000195870",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-003",
     "projectRef": "IKEA Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1590,7 +1628,8 @@
 },
 {
     "CO": "C000197230",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-149-001",
     "projectRef": "ATS Shanghai",
     "driverType": "Electric",
     "driverInfo": "WEG 40HP 2950RPM ODP",
@@ -1628,7 +1667,8 @@
 },
 {
     "CO": "C000197243",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-152-001",
     "projectRef": "Corning Bengbu",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2980RPM ODP",
@@ -1666,7 +1706,8 @@
 },
 {
     "CO": "C000197308",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-152-001",
     "projectRef": "Corning Bengbu",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -1704,7 +1745,8 @@
 },
 {
     "CO": "C000197423",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-158-001",
     "projectRef": "Cummins Beijing",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1742,7 +1784,8 @@
 },
 {
     "CO": "C000197427",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1787,7 +1830,8 @@
 },
 {
     "CO": "C000197476",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-156-001",
     "projectRef": "Replacement for C085356-002",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -1825,7 +1869,8 @@
 },
 {
     "CO": "C000197636",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-161-001",
     "projectRef": "Continental Shanghai",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFAAS0",
@@ -1863,7 +1908,8 @@
 },
 {
     "CO": "C000197688",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UFM0",
@@ -1908,7 +1954,8 @@
 },
 {
     "CO": "C000197868",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-152-002",
     "projectRef": "Corning Bengbu",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1946,7 +1993,8 @@
 },
 {
     "CO": "C000197924",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -1984,7 +2032,8 @@
 },
 {
     "CO": "C000197925",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
     "projectRef": "Faurecia Wuxi",
     "driverType": "Diesel",
     "driverInfo": "JU6H-UF60",
@@ -2022,7 +2071,8 @@
 },
 {
     "CO": "C000198052",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-155-001",
     "projectRef": "DOW Zhangjiagang",
     "driverType": "Electric",
     "driverInfo": "WEG 75HP 2950RPM ODP",
@@ -2060,7 +2110,8 @@
 },
 {
     "CO": "C000198555",
-    "purchaseOrder": "",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-009-001",
     "projectRef": "Shanghai ABB",
     "driverType": "Diesel",
     "driverInfo": "JU4H-UF14",
@@ -2098,6 +2149,7 @@
 },
 {
     "CO": "C000198804",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-015-001",
     "projectRef": "Pesi Guangzhou",
     "driverType": "Diesel",
@@ -2136,6 +2188,7 @@
 },
 {
     "CO": "C000198807",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-013-001",
     "projectRef": "GF Kunshan",
     "driverType": "Diesel",
@@ -2181,6 +2234,7 @@
 },
 {
     "CO": "C000199261",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-009-002",
     "projectRef": "ABB Shanghai",
     "driverType": "Diesel",
@@ -2219,6 +2273,7 @@
 },
 {
     "CO": "C000199262",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-017-001",
     "projectRef": "Trauson Changzhou",
     "driverType": "Diesel",
@@ -2257,6 +2312,7 @@
 },
 {
     "CO": "C000199630",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-025-001",
     "projectRef": "Pfizer Chongqing Logistic Ware",
     "driverType": "Diesel",
@@ -2295,6 +2351,7 @@
 },
 {
     "CO": "C000199800",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-020-001",
     "projectRef": "Foxconn Qingdao (Electric 1250GPM)",
     "driverType": "Electric",
@@ -2333,6 +2390,7 @@
 },
 {
     "CO": "C000199801",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-020-001",
     "projectRef": "Foxconn Qingdao (Diesel 1250GPM)",
     "driverType": "Diesel",
@@ -2371,6 +2429,7 @@
 },
 {
     "CO": "C000199802",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-020-001",
     "projectRef": "Foxconn Qingdao (Electric 1000GPM)",
     "driverType": "Electric",
@@ -2409,6 +2468,7 @@
 },
 {
     "CO": "C000199803",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-020-001",
     "projectRef": "Foxconn Qingdao (Diesel 1000GPM)",
     "driverType": "Diesel",
@@ -2447,6 +2507,7 @@
 },
 {
     "CO": "C000201101",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-036-001",
     "projectRef": "IKEA SHANGHAI",
     "driverType": "Diesel",
@@ -2492,6 +2553,7 @@
 },
 {
     "CO": "C000201431",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-041-001",
     "projectRef": "Berry Qingdao",
     "driverType": "Diesel",
@@ -2530,6 +2592,7 @@
 },
 {
     "CO": "C000201566",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-045-001",
     "projectRef": "Cummins Wuxi",
     "driverType": "Diesel",
@@ -2575,6 +2638,7 @@
 },
 {
     "CO": "C000201780",
+    "finalDestination": "China",
     "purchaseOrder": "Z21HLBWT0631",
     "projectRef": "HK LNG 19RMC",
     "driverType": "Diesel",
@@ -2613,6 +2677,7 @@
 },
 {
     "CO": "C000201783",
+    "finalDestination": "China",
     "purchaseOrder": "Z21HLBWT0631",
     "projectRef": "HK LNG 17JMC",
     "driverType": "Diesel",
@@ -2651,6 +2716,7 @@
 },
 {
     "CO": "C000201936",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-055-001",
     "projectRef": "Bertschi Logistic",
     "driverType": "Diesel",
@@ -2696,6 +2762,7 @@
 },
 {
     "CO": "C000202301",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-059-001",
     "projectRef": "P&G TIANJIN",
     "driverType": "Diesel",
@@ -2741,6 +2808,7 @@
 },
 {
     "CO": "C000202751",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-072-001",
     "projectRef": "CUMMINS WUHAN",
     "driverType": "Diesel",
@@ -2786,6 +2854,7 @@
 },
 {
     "CO": "C000202898",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-071-001",
     "projectRef": "ESTEE LAUDER SHANGHAI",
     "driverType": "Electric",
@@ -2837,6 +2906,7 @@
 },
 {
     "CO": "C000202981",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-073-001",
     "projectRef": "LAMBWESTON HOHOT",
     "driverType": "Diesel",
@@ -2875,6 +2945,7 @@
 },
 {
     "CO": "C000202985",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-081-001",
     "projectRef": "Safran Guiyang",
     "driverType": "Diesel",
@@ -2913,6 +2984,7 @@
 },
 {
     "CO": "C000204183",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-101-001",
     "projectRef": "HoneyWell",
     "driverType": "Diesel",
@@ -2951,6 +3023,7 @@
 },
 {
     "CO": "C000204281",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-096-001",
     "projectRef": "Galaxy Core Shanghai",
     "driverType": "Diesel",
@@ -2989,6 +3062,7 @@
 },
 {
     "CO": "C000204290",
+    "finalDestination": "",
     "purchaseOrder": "CG-2021-109-001",
     "projectRef": "Kohler Shanghai",
     "driverType": "Diesel",
@@ -3027,6 +3101,7 @@
 },
 {
     "CO": "C000205128",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-112-001",
     "projectRef": "Pfizer",
     "driverType": "Diesel",
@@ -3040,12 +3115,12 @@
     "dueDate": "30 Nov 2021",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -3057,7 +3132,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yKNiKxkl4uV9PKBb4Rucu6V195ezQEAD/l1x8MwDq2-Z7SHuBO_3jfS8D8kCBD0Ye-1rAAZ0FqVQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/l4PxM7Zs8ZlyKZaVSftlaS8BEuzIxYPr/Fu8ZYwMTAh0YpOWSyD8rpcBI9DnUEKZh-cbvgWmDR1wg",
         "iom": ""
     },
@@ -3065,6 +3140,7 @@
 },
 {
     "CO": "C000205165",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-112-001",
     "projectRef": "Pfizer",
     "driverType": "Diesel",
@@ -3110,6 +3186,7 @@
 },
 {
     "CO": "C000205839",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-128-001",
     "projectRef": "Coming Hefei",
     "driverType": "Diesel",
@@ -3148,6 +3225,7 @@
 },
 {
     "CO": "C000205844",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-130-001",
     "projectRef": "BOE Chengdu",
     "driverType": "Diesel",
@@ -3186,6 +3264,7 @@
 },
 {
     "CO": "C000205845",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-130-001",
     "projectRef": "BOE Chengdu",
     "driverType": "Electric",
@@ -3224,6 +3303,7 @@
 },
 {
     "CO": "C000206486",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-122-001",
     "projectRef": "Kohler China",
     "driverType": "Electric",
@@ -3262,6 +3342,7 @@
 },
 {
     "CO": "C000207194",
+    "finalDestination": "Myanmar",
     "purchaseOrder": "CG-2021-136-001",
     "projectRef": "Kyaukpyu Gas-Power Plant, Myan",
     "driverType": "Diesel",
@@ -3300,6 +3381,7 @@
 },
 {
     "CO": "C000207629",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-162-001",
     "projectRef": "Shanghai Logistics",
     "driverType": "Electric",
@@ -3338,6 +3420,7 @@
 },
 {
     "CO": "C000207672",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-162-001",
     "projectRef": "Shanghai Logistics",
     "driverType": "Electric",
@@ -3383,6 +3466,7 @@
 },
 {
     "CO": "C000207848",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-164-001",
     "projectRef": "Volkswagen Hefei",
     "driverType": "Electric",
@@ -3421,6 +3505,7 @@
 },
 {
     "CO": "C000207849",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-164-001",
     "projectRef": "Volkswagen Hefei",
     "driverType": "Electric",
@@ -3459,6 +3544,7 @@
 },
 {
     "CO": "C000207850",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-164-001",
     "projectRef": "Volkswagen Hefei",
     "driverType": "Electric",
@@ -3497,6 +3583,7 @@
 },
 {
     "CO": "C000208158",
+    "finalDestination": "Cambodia",
     "purchaseOrder": "CG-2021-150-001",
     "projectRef": "Cambodia Airport",
     "driverType": "Electric",
@@ -3535,6 +3622,7 @@
 },
 {
     "CO": "C000208224",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-172-001",
     "projectRef": "",
     "driverType": "Barepump",
@@ -3586,6 +3674,7 @@
 },
 {
     "CO": "C000208307",
+    "finalDestination": "Myanmar",
     "purchaseOrder": "CG-2021-136-002",
     "projectRef": "Kyaukpyu Gas-Power Plant, Myan",
     "driverType": "Barepump",
@@ -3631,6 +3720,7 @@
 },
 {
     "CO": "C000208362",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-170-001",
     "projectRef": "SMIC Beijing Innovation Center",
     "driverType": "Barepump",
@@ -3694,6 +3784,7 @@
 },
 {
     "CO": "C000208364",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-170-001",
     "projectRef": "SMIC Beijing Innovation Center",
     "driverType": "Diesel",
@@ -3763,6 +3854,7 @@
 },
 {
     "CO": "C000208778",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-175-001",
     "projectRef": "IKEA China - Hefei & Nanchang",
     "driverType": "Diesel",
@@ -3801,6 +3893,7 @@
 },
 {
     "CO": "C000208779",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-175-001",
     "projectRef": "IKEA China - Hefei & Nanchang",
     "driverType": "Diesel",
@@ -3839,6 +3932,7 @@
 },
 {
     "CO": "C000208780",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2021-175-001",
     "projectRef": "IKEA China - Hefei & Nanchang",
     "driverType": "Diesel",
@@ -3877,6 +3971,7 @@
 },
 {
     "CO": "C000209603",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-001-001",
     "projectRef": "Server Tianjin",
     "driverType": "Diesel",
@@ -3915,6 +4010,7 @@
 },
 {
     "CO": "C000209635",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-003-001",
     "projectRef": "",
     "driverType": "Barepump",
@@ -3953,6 +4049,7 @@
 },
 {
     "CO": "C000210215",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-012-001",
     "projectRef": "NRMTC Guangzhou",
     "driverType": "Electric",
@@ -3991,6 +4088,7 @@
 },
 {
     "CO": "C000210216",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-012-001",
     "projectRef": "NRMTC Guangzhou",
     "driverType": "Electric",
@@ -4029,6 +4127,7 @@
 },
 {
     "CO": "C000210562",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-014-001",
     "projectRef": "APTIV",
     "driverType": "Diesel",
@@ -4067,6 +4166,7 @@
 },
 {
     "CO": "C000212165",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-040-001",
     "projectRef": "HKC Mianyang",
     "driverType": "Electric",
@@ -4124,6 +4224,7 @@
 },
 {
     "CO": "C000212166",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-040-001",
     "projectRef": "HKC Mianyang",
     "driverType": "Electric",
@@ -4181,6 +4282,7 @@
 },
 {
     "CO": "C000212237",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-030-001",
     "projectRef": "IKEA Xian",
     "driverType": "Diesel",
@@ -4232,6 +4334,7 @@
 },
 {
     "CO": "C000214410",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-056-001",
     "projectRef": "Shanghai HuaHong",
     "driverType": "Electric",
@@ -4270,6 +4373,7 @@
 },
 {
     "CO": "C000215724",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-074-001",
     "projectRef": "Borgwarner Suzhou",
     "driverType": "Diesel",
@@ -4308,6 +4412,7 @@
 },
 {
     "CO": "C000216592",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-105-001",
     "projectRef": "Intel Dalian",
     "driverType": "Electric",
@@ -4346,6 +4451,7 @@
 },
 {
     "CO": "C000216947",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2022-113-001",
     "projectRef": "APTIV Shanghai",
     "driverType": "Diesel",
@@ -4384,6 +4490,7 @@
 },
 {
     "CO": "C000223765",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-052-001",
     "projectRef": "ROHM AND HAAS DONGGUAN",
     "driverType": "Diesel",
@@ -4422,6 +4529,7 @@
 },
 {
     "CO": "C000223766",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-052-001",
     "projectRef": "ROHM AND HAAS DONGGUAN",
     "driverType": "Diesel",
@@ -4460,6 +4568,7 @@
 },
 {
     "CO": "C000225610",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-085-001",
     "projectRef": "Estee Lauder Shanghai Logistic",
     "driverType": "Electric",
@@ -4505,6 +4614,7 @@
 },
 {
     "CO": "C000225614",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-085-001",
     "projectRef": "Estee Lauder Shanghai Logistic",
     "driverType": "Diesel",
@@ -4550,6 +4660,7 @@
 },
 {
     "CO": "C000226187",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-007-001",
     "projectRef": "SMIC Tianjin",
     "driverType": "Electric",
@@ -4595,6 +4706,7 @@
 },
 {
     "CO": "C000228071",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-138-001",
     "projectRef": "3M Shanghai",
     "driverType": "Diesel",
@@ -4633,6 +4745,7 @@
 },
 {
     "CO": "C000228072",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-138-001",
     "projectRef": "3M Shanghai",
     "driverType": "Electric",
@@ -4671,6 +4784,7 @@
 },
 {
     "CO": "C000228073",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-138-001",
     "projectRef": "3M Shanghai",
     "driverType": "Electric",
@@ -4709,6 +4823,7 @@
 },
 {
     "CO": "C000228074",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-138-001",
     "projectRef": "3M Shanghai",
     "driverType": "Diesel",
@@ -4747,6 +4862,7 @@
 },
 {
     "CO": "C000230489",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-169-001",
     "projectRef": "BOE Beijing - Electric",
     "driverType": "Electric",
@@ -4760,16 +4876,16 @@
     "dueDate": "14 Feb 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -4777,7 +4893,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xIZtq9HuGPtsf0N5xLXPFuDFoMz4mfmk/7FYWOClHwIvPTWNMfkuOXFaO5AEnInXj-5LmAHR3sIws",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wsJhgy13CkK72TnwECG1a0MFdRa1L0wi/7HHPdpdBSxRbpFYjmS2OjOwr3btRU1EQ-0bCgLlLVDws",
         "iom": ""
     },
@@ -4785,6 +4901,7 @@
 },
 {
     "CO": "C000230490",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-169-001",
     "projectRef": "BOE Beijing - Diesel",
     "driverType": "Diesel",
@@ -4798,16 +4915,16 @@
     "dueDate": "14 Feb 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -4815,7 +4932,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xEhb4fOThjxwWEoBzfP2BA6CHiQASceY/6Rx3B-F-TjPLqAmALff4LowS-fGwHnt--D7wg86fqIAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wsJcrFAUGH58ox2ipY70iPpdd2s1kSk7/SovuvEA52t6iQo_gntQ4Dv0wRWSAzjA3-DLFgiFjVDws",
         "iom": ""
     },
@@ -4823,8 +4940,9 @@
 },
 {
     "CO": "C000230601",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-178-001",
-    "projectRef": "CG-2023-178-001",
+    "projectRef": "",
     "driverType": "Barepump",
     "driverInfo": "NA",
     "pumpModel": "6x5x11B SSC",
@@ -4836,12 +4954,12 @@
     "dueDate": "19 Jan 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "pending",
+            "warning"
         ],
         "payment": [
             "TBA",
@@ -4853,7 +4971,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xEhf8jKmZz5oH2D9wZ28CEPP8cTdtT8j/n-sUTwiR7urnyRTeRBudKT3CgMM5RFJY-17vgtpzqIAs",
         "submittal": "https://synology.pattersonsingapore.com/d/s/wehEzfR4R1z0F3Sj6WXiXmvFY7EuHTTE/uEz9lV1BSJV5JUPzLiyeDgT9pQslPgPQ-4LgAaienDgs",
         "iom": ""
     },
@@ -4861,6 +4979,7 @@
 },
 {
     "CO": "C000231068",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-185-001",
     "projectRef": "Boston Project",
     "driverType": "Electric",
@@ -4874,16 +4993,16 @@
     "dueDate": "1 Mar 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
             "TBA",
             "TBA"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -4891,7 +5010,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xaMrd8nzDSFQUAcw84T3zF7qVzUYiOKI/ON3FuJ0R_S42m1tKwQDz85gblwMfrY5V-tLFAvntqVQs",
         "submittal": "https://synology.pattersonsingapore.com/d/s/wehGTqoMY6rK9D36Q8S5PnD31BDvnbgm/KGhjgE1rYAzdFuiCNlPpM_UkFDw9w9dz-krhASeumDgs",
         "iom": ""
     },
@@ -4899,6 +5018,7 @@
 },
 {
     "CO": "C000231212",
+    "finalDestination": "China",
     "purchaseOrder": "CG-2023-189-001",
     "projectRef": "Pfizer Beijing",
     "driverType": "Electric",
@@ -4910,6 +5030,45 @@
     "speed": 1470,
     "orderDate": "05 Jan 2024",
     "dueDate": "12 Mar 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xaMrd8WO5MCWHVJDDPfe4OosEE4Stzpc/8pZKrPDpzKMXS6UwPT4cVTSdQgrJCOk4-K7Egul5qVQs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/wr9hSLAsA76UoaRtkycCBiVVMAmW4F5o/Xxh2VNgS-Kkexk0jEhej-u9_b10_0Y1T-PrgA33ymDgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000232827",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-008-001",
+    "projectRef": "Phase II SMIC Beijing",
+    "driverType": "Electric",
+    "driverInfo": "Techtop 350HP (Customer Supplied)",
+    "pumpModel": "18KMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1475,
+    "orderDate": "23 Feb 2024",
+    "dueDate": "30 May 2024",
     "status": {
         "order": [
             "in progress",
@@ -4930,7 +5089,124 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/d/s/wr9hSLAsA76UoaRtkycCBiVVMAmW4F5o/Xxh2VNgS-Kkexk0jEhej-u9_b10_0Y1T-PrgA33ymDgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/x9hONyAVzYOttn1XQrfRoUeANzF4MBj6/pkSc7zgMbMEB-N7ljVjVZC9blEi8kyLO-ybCAXlBmKgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000232829",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-008-001",
+    "projectRef": "Phase II SMIC Beijing",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD80",
+    "pumpModel": "18KMC-4STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1770,
+    "orderDate": "23 Feb 2024",
+    "dueDate": "30 May 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/xQvgRFOFK2NyQAhEiQnOKhdUaYqudaec/3IMT6qEPNKdyruOik3xAiOSG4xAMHDwz-M7Fg33FmKgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000234989",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-042-001",
+    "projectRef": "Sichuan Danfos - Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 3000,
+    "orderDate": "03 May 2024",
+    "dueDate": "17 Jul 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEl7m1uJ1OgJTu0krzWrR6hIg0PbMGkQ/VMSWzU4ozIVi-1iHkN64DI91IDtYpdEM-jLBAujhqVQs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000235002",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-042-001",
+    "projectRef": "Sichuan Danfos - Electric",
+    "driverType": "Electric",
+    "driverInfo": "250HP / 3phase / 50Hz / 2970RPM",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 2970,
+    "orderDate": "03 May 2024",
+    "dueDate": "17 Jul 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEyfbG1Rm6mktJt8IYbNUECYzQbtocvB/lZ9OlNB1M70USuQuT_-g-u3dVBcfuBPj-OL9A-9ZpVQs",
         "iom": ""
     },
     "remarks": []
