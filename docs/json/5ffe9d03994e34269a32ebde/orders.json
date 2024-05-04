@@ -1,7 +1,8 @@
 [
 {
     "CO": "C000194082",
-    "purchaseOrder": "",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO19923",
     "projectRef": "Replacement for C0135330",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -39,7 +40,8 @@
 },
 {
     "CO": "C000197475",
-    "purchaseOrder": "",
+    "finalDestination": "Australia",
+    "purchaseOrder": 475542.0,
     "projectRef": "Replacement for C0153331",
     "driverType": "Barepump",
     "driverInfo": "NA",
@@ -77,6 +79,7 @@
 },
 {
     "CO": "C000198878",
+    "finalDestination": "Australia",
     "purchaseOrder": 107652.0,
     "projectRef": "Koodaideri",
     "driverType": "Diesel",
@@ -122,6 +125,7 @@
 },
 {
     "CO": "C000201788",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO21338",
     "projectRef": " ",
     "driverType": "Barepump",
@@ -160,6 +164,7 @@
 },
 {
     "CO": "C000204058",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO 21837",
     "projectRef": "LUCY",
     "driverType": "Diesel",
@@ -205,6 +210,7 @@
 },
 {
     "CO": "C000204165",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO21837",
     "projectRef": "",
     "driverType": "Barepump",
@@ -243,6 +249,7 @@
 },
 {
     "CO": "C000204901",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO 22042",
     "projectRef": "Replacement C0153331",
     "driverType": "Barepump",
@@ -281,6 +288,7 @@
 },
 {
     "CO": "C000206541",
+    "finalDestination": "Australia",
     "purchaseOrder": 112623.0,
     "projectRef": "Tailison Greenbushes",
     "driverType": "Electric",
@@ -338,6 +346,7 @@
 },
 {
     "CO": "C000214201",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO23827",
     "projectRef": "BARE PUMP FOR C041336-001",
     "driverType": "Barepump",
@@ -383,6 +392,7 @@
 },
 {
     "CO": "C000216201",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO117680",
     "projectRef": "Tailison Greenbushes",
     "driverType": "Diesel",
@@ -421,6 +431,7 @@
 },
 {
     "CO": "C000216228",
+    "finalDestination": "Australia",
     "purchaseOrder": "QPO117680",
     "projectRef": "Tailison Greenbushes",
     "driverType": "Barepump",
@@ -466,6 +477,7 @@
 },
 {
     "CO": "C000229133",
+    "finalDestination": "Australia",
     "purchaseOrder": "PO 125916",
     "projectRef": "Replacement C0114263",
     "driverType": "Barepump",
