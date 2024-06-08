@@ -1,0 +1,517 @@
+[
+{
+    "CO": "C000194082",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO19923",
+    "projectRef": "Replacement for C0135330",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 3000,
+    "orderDate": "18 Aug 2020",
+    "dueDate": "17 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575120229091291699/N0csyhh2_zlUFnN74KeAqbKD1NgWwRI7-FrlgnKoqTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197475",
+    "finalDestination": "Australia",
+    "purchaseOrder": 475542.0,
+    "projectRef": "Replacement for C0153331",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2950,
+    "orderDate": "9 Dec 2020",
+    "dueDate": "26 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950215552087470/WsscfD-wG45SUw0-tnn8U7Ta4MFTqhBC-WrgAKOu-YQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198878",
+    "finalDestination": "Australia",
+    "purchaseOrder": 107652.0,
+    "projectRef": "Koodaideri",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 266,
+    "speed": 2800,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "19 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946231805885937/Gf1-0hsEc7FE-J7DhKlYkDy5cwf_4OwU-PL4AuOn2dgg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/613389116698048020/Rjmiyg7v_54IkGtqUrRRUv_WqqvD4TwL-VbaASzoygwg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Feb 2021",
+            "type": "change order",
+            "overview": "destination temp",
+            "description": "Change engine destination temperature to 120\u00b0F."
+        }
+    ]
+},
+{
+    "CO": "C000201788",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO21338",
+    "projectRef": " ",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 402,
+    "speed": 2100,
+    "orderDate": "29 Apr 2021",
+    "dueDate": "12 July 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632299116986152282/C8C0K2EsPzwQdVHeXfvGeVw6i3OaVSve-vbUgpOBgxgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850830415212807/HEhvqt9-QBWOUvUcnp7ojtyr2PU_PH_d-27eAlWiDwwg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204058",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO 21837",
+    "projectRef": "LUCY",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 316,
+    "speed": 2950,
+    "orderDate": "8 Jul 2021",
+    "dueDate": "29 Oct 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mL6mGDbPMngN2XGXjYEnkifIQshcaAVf/wZ_tNaIPUdqdgccKX-xJdVMH-FGSS3QB-GLXgHb9oFQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/627585607463384002/QWKXrFybCILE38wuDlkUckR2hiw5RRXO-wLeA4GKDwwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngxq0kl3LKTIVvr4uxaOwgjuSIpdThGM/h5Bsy9DEC-6cvdMI3dJ6g8jOVBhP2N-5-jbjgN5HnVQk"
+    },
+    "remarks": [
+        {
+            "date": "21 Dec 2021",
+            "type": "change order",
+            "overview": "engine",
+            "description": "Change from JU6H-UF34 to JU6H-UF54"
+        }
+    ]
+},
+{
+    "CO": "C000204165",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO21837",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 316,
+    "speed": 2950,
+    "orderDate": "13 Jul 2021",
+    "dueDate": "10 Dec 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/muomez4DTTAad6ijeclrOoqyqNhWfQ3k/7NU5EXvNDXJQuhQo69mPXdWeQIdia5fG-UbJA1nDxMAk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/631492772133648177/FBUGbxE0SDPjHVC8-5Txv8Evo83p_-Hl-oLeg8l2Dwwg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204901",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO 22042",
+    "projectRef": "Replacement C0153331",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2950,
+    "orderDate": "6 Aug 2021",
+    "dueDate": "28 Sep 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mBYmdSRmIMz5tMSweBLexI0yswMLoOaf/-pFleObRTYw-qgFRRemJfgKEB-YqxcW5-T7YAZ-9oFQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/634586629360631261/pAXRBubDSn2_Q5o5DIyK7GT_aQ5DE_Tk-YLig6xSW0gg_",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000206541",
+    "finalDestination": "Australia",
+    "purchaseOrder": 112623.0,
+    "projectRef": "Tailison Greenbushes",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP/ODP/415V/2980RPM",
+    "pumpModel": "E3J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 300,
+    "speed": 2980,
+    "orderDate": "13 Oct 2021",
+    "dueDate": "10 Feb 2022",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Oct 2021",
+            "type": "update",
+            "overview": "nameplate",
+            "description": "UL only"
+        },
+        {
+            "date": "22 Nov 2021",
+            "type": "update",
+            "overview": "order",
+            "description": "Put order on hold"
+        },
+        {
+            "date": "10 Aug 2022",
+            "type": "update",
+            "overview": "order",
+            "description": "Cancel order"
+        }
+    ]
+},
+{
+    "CO": "C000214201",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO23827",
+    "projectRef": "BARE PUMP FOR C041336-001",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 402,
+    "speed": 2100,
+    "orderDate": "6 Jun 2022",
+    "dueDate": "10 Aug 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/sMfMPJ8W4OEN5cElJePeYWddAkbkNWZN/WXN1Www32kCVlm0IfzARbKQfygGpccFW-87pgkmQsbQo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/ou4F64ScSaXeUkcZHds1NFrpcMMNHt1H/pYCnbw4_TFhJY7MrQBuZcuxaXlQT9YEb-h7eAE9J-wAk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Oct 2021",
+            "type": "update",
+            "overview": "nameplate",
+            "description": "UL only"
+        }
+    ]
+},
+{
+    "CO": "C000216201",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO117680",
+    "projectRef": "Tailison Greenbushes",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA88",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 1780,
+    "orderDate": "9 Aug 2022",
+    "dueDate": "3 Nov 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/puNDZfDdfDIdcmYoCYTPmH1BA6d0oiO1/1hok9qNcF4IQ9-388lTjpDJYhlPfXR9_-vrYAcFN-wAk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000216228",
+    "finalDestination": "Australia",
+    "purchaseOrder": "QPO117680",
+    "projectRef": "Tailison Greenbushes",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 3000,
+    "orderDate": "9 Aug 2022",
+    "dueDate": "3 Nov 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKi94iS3NVk5hu9qBeQryxiK9AbwzKX/NDlqlFiHGSqajfyWDylqg4T9DM-lyxFk-QLKAMvS2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/puNDf1KJrGnHWcG7GSqmFGBCDPuSBhdO/78SzVJzLF1kDElItR5cQBjL8VZDg3RN5-irYAw0d-wAk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "11 Oct 2022",
+            "type": "change order",
+            "overview": "pump duty",
+            "description": "1760GPM @ 335ft. EPC4526"
+        }
+    ]
+},
+{
+    "CO": "C000229133",
+    "finalDestination": "Australia",
+    "purchaseOrder": "PO 125916",
+    "projectRef": "Replacement C0114263",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 254,
+    "speed": 3000,
+    "orderDate": "24 Oct 2023",
+    "dueDate": "12 Dec 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLm3alii06VXQ9bwGgQ5NNP9BMHgw/iUbFqSB_pOFrrUKCIOkhJSHgNTZMRgzv-NLjgt4dEFgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/vkYFPPKuw7rsTY4ZoaAYMZdDr9E3witm/12KdSwDq40ueHZYPl4nQ5TB870gzIc0A-Eb-A1lOS3wo",
+        "iom": ""
+    },
+    "remarks": []
+}
+]

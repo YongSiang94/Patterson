@@ -1,0 +1,192 @@
+[
+
+{
+    "gpm": 25.0,
+    "suction": 1.0,
+    "discharge": 1.0,
+    "relief_valve": 0.75,
+    "relief_valve_discharge": 1.0,
+    "meter_device": 1.25
+},
+
+{
+    "gpm": 50.0,
+    "suction": 1.5,
+    "discharge": 1.25,
+    "relief_valve": 1.25,
+    "relief_valve_discharge": 1.5,
+    "meter_device": 2.0
+},
+
+{
+    "gpm": 100.0,
+    "suction": 2.0,
+    "discharge": 2.0,
+    "relief_valve": 1.5,
+    "relief_valve_discharge": 2.0,
+    "meter_device": 2.5
+},
+
+{
+    "gpm": 150.0,
+    "suction": 2.5,
+    "discharge": 2.5,
+    "relief_valve": 2.0,
+    "relief_valve_discharge": 2.5,
+    "meter_device": 3.0
+},
+
+{
+    "gpm": 200.0,
+    "suction": 3.0,
+    "discharge": 3.0,
+    "relief_valve": 2.0,
+    "relief_valve_discharge": 2.5,
+    "meter_device": 3.0
+},
+
+{
+    "gpm": 250.0,
+    "suction": 3.5,
+    "discharge": 3.0,
+    "relief_valve": 2.0,
+    "relief_valve_discharge": 2.5,
+    "meter_device": 3.5
+},
+
+{
+    "gpm": 300.0,
+    "suction": 4.0,
+    "discharge": 4.0,
+    "relief_valve": 2.5,
+    "relief_valve_discharge": 3.5,
+    "meter_device": 3.5
+},
+
+{
+    "gpm": 400.0,
+    "suction": 4.0,
+    "discharge": 4.0,
+    "relief_valve": 3.0,
+    "relief_valve_discharge": 5.0,
+    "meter_device": 4.0
+},
+
+{
+    "gpm": 450.0,
+    "suction": 5.0,
+    "discharge": 5.0,
+    "relief_valve": 3.0,
+    "relief_valve_discharge": 5.0,
+    "meter_device": 4.0
+},
+
+{
+    "gpm": 500.0,
+    "suction": 5.0,
+    "discharge": 5.0,
+    "relief_valve": 3.0,
+    "relief_valve_discharge": 5.0,
+    "meter_device": 5.0
+},
+
+{
+    "gpm": 750.0,
+    "suction": 6.0,
+    "discharge": 6.0,
+    "relief_valve": 4.0,
+    "relief_valve_discharge": 6.0,
+    "meter_device": 5.0
+},
+
+{
+    "gpm": 1000.0,
+    "suction": 8.0,
+    "discharge": 6.0,
+    "relief_valve": 4.0,
+    "relief_valve_discharge": 8.0,
+    "meter_device": 6.0
+},
+
+{
+    "gpm": 1250.0,
+    "suction": 8.0,
+    "discharge": 8.0,
+    "relief_valve": 6.0,
+    "relief_valve_discharge": 8.0,
+    "meter_device": 6.0
+},
+
+{
+    "gpm": 1500.0,
+    "suction": 8.0,
+    "discharge": 8.0,
+    "relief_valve": 6.0,
+    "relief_valve_discharge": 8.0,
+    "meter_device": 8.0
+},
+
+{
+    "gpm": 2000.0,
+    "suction": 10.0,
+    "discharge": 10.0,
+    "relief_valve": 6.0,
+    "relief_valve_discharge": 10.0,
+    "meter_device": 8.0
+},
+
+{
+    "gpm": 2500.0,
+    "suction": 10.0,
+    "discharge": 10.0,
+    "relief_valve": 6.0,
+    "relief_valve_discharge": 10.0,
+    "meter_device": 8.0
+},
+
+{
+    "gpm": 3000.0,
+    "suction": 12.0,
+    "discharge": 12.0,
+    "relief_valve": 8.0,
+    "relief_valve_discharge": 12.0,
+    "meter_device": 8.0
+},
+
+{
+    "gpm": 3500.0,
+    "suction": 12.0,
+    "discharge": 12.0,
+    "relief_valve": 8.0,
+    "relief_valve_discharge": 12.0,
+    "meter_device": 10.0
+},
+
+{
+    "gpm": 4000.0,
+    "suction": 14.0,
+    "discharge": 12.0,
+    "relief_valve": 8.0,
+    "relief_valve_discharge": 14.0,
+    "meter_device": 10.0
+},
+
+{
+    "gpm": 4500.0,
+    "suction": 16.0,
+    "discharge": 14.0,
+    "relief_valve": 8.0,
+    "relief_valve_discharge": 14.0,
+    "meter_device": 10.0
+},
+
+{
+    "gpm": 5000.0,
+    "suction": 16.0,
+    "discharge": 14.0,
+    "relief_valve": 8.0,
+    "relief_valve_discharge": 14.0,
+    "meter_device": 10.0
+}
+
+]

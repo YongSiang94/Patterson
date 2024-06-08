@@ -1,0 +1,5214 @@
+[
+{
+    "CO": "C000170393",
+    "finalDestination": "Georgia",
+    "purchaseOrder": "CG-2018-051-0011",
+    "projectRef": "Gardabanill Combined Cycle PP",
+    "driverType": "Electric",
+    "driverInfo": "NIDEC 200HP/ 380V/ TEFC",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 1500,
+    "head": 305,
+    "speed": 1475,
+    "orderDate": "31 May 2018",
+    "dueDate": "4 Aug 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/vkJ0KbDLqDh9pS6utohEfchQg56AaVin/dXbbjVauMkYvqgqhw-gGe_NBgrd_uFmX-NLlg1GM-2Qo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/vkINN0O1mNyRXTdwQ3po3EZruqtEWWVE/CBW9jXQ7c7Z-9HR0DQ05wOEsqPrm9uH4-RrUAYaY82Qo",
+        "iom": "https://synology.pattersonsingapore.com/d/s/uv6sVtlcvpDqMEwPUM3zGIszt2mbV9GP/AyIsKINQdW3XGAwJGpfnwOejMlm0DQLe-aLNg3go82Qo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000170394",
+    "finalDestination": "Georgia",
+    "purchaseOrder": "CG-2018-051-001",
+    "projectRef": "Gardabanill Combined Cycle PP",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM8",
+    "pumpModel": "14JMC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 1500,
+    "head": 305,
+    "speed": 1770,
+    "orderDate": "31 May 2018",
+    "dueDate": "4 Aug 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/vkJ1rO6OsoJ7lvg7hfHSLOYrRElGJ5Z9/H8ZWozL62eij07S_kuU7e4VX1T1kMGRe-UbkgdWw-2Qo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/vkIMwArpyrhYKZoB6ROFDDYLPM7mfkV0/aY30WtAMHxaA7tyPrhFghN39TXqXlx7H-ZrWgUbA82Qo",
+        "iom": "https://synology.pattersonsingapore.com/d/s/uv6saLxKUvx1Os8cpn62QIuB5Z0YTHYx/X3UpX0CQRagQFGx1e7YcTX-Wmrd_yoVM-kbOg6jc82Qo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000189254",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-002",
+    "projectRef": "Jabil Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "25 Feb 2020",
+    "dueDate": "9 Apr 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498001838726/F5r3_dMnYfoauTj54jSokHK7DltqmCU2-I7Vgwq6MdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271434392314049/1vh9_a6iZeZNXBb1TTjl1qQLVXpONAff-5L0ACUQfTQg_"
+    },
+    "remarks": [
+        {
+            "date": "03 Mar 2020",
+            "type": "change order",
+            "overview": "add CRV",
+            "description": "Add 20 175# CRVs"
+        }
+    ]
+},
+{
+    "CO": "C000189480",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-023-001",
+    "projectRef": "Mahle Changshu",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF40",
+    "pumpModel": "13GLC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 1000,
+    "head": 277,
+    "speed": 1770,
+    "orderDate": "3 Mar 2020",
+    "dueDate": "26 May 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271378991849633/6sLAU-Q1nsrtmNzvuWY6an22qxfRPUvV-Lb5gK1MfTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436208447683/j-rTlaB3dckpO35ywErog1F0QK7zBoOb-Db7ARksfTQg_"
+    },
+    "remarks": [
+        {
+            "date": "16 Mar 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 12 May 2020"
+        }
+    ]
+},
+{
+    "CO": "C000189861",
+    "finalDestination": "Mali",
+    "purchaseOrder": "CG-2020-027-001",
+    "projectRef": "Mali Air Port",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2950RPM TEFC",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 347,
+    "speed": 2950,
+    "orderDate": "16 Mar 2020",
+    "dueDate": "28 Apr 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498303828620/aHH3o8lILp7UBz9r0X3OScImiQvCXh9E-b7XAW72MdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436489466053/yyHw-4AcgRpo3Q0tcAaUIyCVwI8Kl-3Y-Tb4Azl0fTQg_"
+    },
+    "remarks": [
+        {
+            "date": "19 Mar 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Change CRV to 300#"
+        }
+    ]
+},
+{
+    "CO": "C000189862",
+    "finalDestination": "Mali",
+    "purchaseOrder": "CG-2020-027-001",
+    "projectRef": "Mali Air Port",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2950RPM TEFC",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 347,
+    "speed": 2950,
+    "orderDate": "17 Mar 2020",
+    "dueDate": "28 Apr 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547498607915666/IHlf8nwMkEtGLCvqKH-J-o7zppXcBgnj-s7WASMyMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271436569157831/fz3NycwaByG973ED2-ZNyKyXPl5bcdM4-cb5AHWYfTQg_"
+    },
+    "remarks": [
+        {
+            "date": "19 Mar 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Change CRV to 300#"
+        }
+    ]
+},
+{
+    "CO": "C000190083",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "CG-2020-030-001",
+    "projectRef": "Indonesia Banten Power Plant",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA98",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 347,
+    "speed": 1750,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "22 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271379094610085/fDltzxL_NvRYtU-lBFL7QYiM2spEdB0Z-m77gqXEfTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722743256752133/PaJ4LpouReO7k97JIRqj7TSO_w8XkHJk-u77A4HofTQg_"
+    },
+    "remarks": [
+        {
+            "date": "27 Mar 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 26 Jun 2020 due to controller lead time"
+        },
+        {
+            "date": "6 Apr 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 26 May 2020. Order will ship separately from sister order (C000190125)"
+        },
+        {
+            "date": "6 Apr 2020",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Change controller option K8B to K7A."
+        }
+    ]
+},
+{
+    "CO": "C000190125",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "CG-2020-030-001",
+    "projectRef": "Indonesia Banten Power Plant",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 404,
+    "speed": 1470,
+    "orderDate": "23 Mar 2020",
+    "dueDate": "22 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564082729864437789/K4N04_RG2rSVSQrpS8s_PKG0shQ2GmQF-376g-oQfTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "27 Mar 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 26 Jun 2020 due to controller lead time"
+        }
+    ]
+},
+{
+    "CO": "C000190369",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-040-001",
+    "projectRef": "IKEA Fuzhou",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA70",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 333,
+    "speed": 2100,
+    "orderDate": "1 Apr 2020",
+    "dueDate": "22 Jun 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564082731831566367/DSIYC3PCm25CtPEAQ4nzgn4alBDP5oz3-Cb8gUI4fTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/566242291046457345/GyW38eGTt7aM8Abt6ooVxVLJ_MrbBPyq-Kb.AvJYfTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000190447",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-037-001",
+    "projectRef": "Emerson Suzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 298,
+    "speed": 2100,
+    "orderDate": "3 Apr 2020",
+    "dueDate": "18 May 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560271379149136039/JBun7kluelcr_qsSWJZoAFQ4w5WfMFDL-cr8AtKUfTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/560271437370269903/O_5Wrfp2oYCI23NHir1P4_YXDyaGMng7-Rr8A9Z4fTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000190872",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
+    "projectRef": "Jharsuguda Power Plant (Electric)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 50HP 1475RPM TEFC",
+    "pumpModel": "6x5x17 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 162,
+    "speed": 1475,
+    "orderDate": "21 Apr 2020",
+    "dueDate": "10 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575300454588659503/ux_xQnstA-kd1Oz3oCisH5e_aNlIO29D-xb.gaMAfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588557274789483/0MVd6kYWqJoP8q4mtIZmcqu6pfef7-KS-9bZg18UqUgg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Jun 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Delete witness testing"
+        },
+        {
+            "date": "5 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
+},
+{
+    "CO": "C000190873",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
+    "projectRef": "Jharsuguda Power Plant (Diesel)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF58",
+    "pumpModel": "6x5x17 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 162,
+    "speed": 1450,
+    "orderDate": "21 Apr 2020",
+    "dueDate": "10 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575300450929129242/RzRe-uYoLSaX0waVx9eeVNE9ortZvvzp-9L.AYNEfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588558860236418/0JMVr-2FaHRyChldk3CtHoCO1X48BtwD-K7cAj9EqUgg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Jun 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Delete witness testing"
+        },
+        {
+            "date": "18 Aug 2020",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add option NZ to controller."
+        },
+        {
+            "date": "5 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
+},
+{
+    "CO": "C000190874",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
+    "projectRef": "Jharsuguda Power Plant (Diesel)",
+    "driverType": "Diesel",
+    "driverInfo": "DR8H-UFAA40",
+    "pumpModel": "10x8x23A SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 342,
+    "speed": 1500,
+    "orderDate": "21 Apr 2020",
+    "dueDate": "10 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349241601865749/vj_1xf3FZI41E_CPROKVjmnQgABn44_f-FLAAitkfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588559332095626/I83CXFssrEL4rGo12V5pqA5OXCg3NxE0-e7dghN4qUgg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Jun 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Delete witness testing"
+        },
+        {
+            "date": "18 Aug 2020",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Add option NZ to controller."
+        },
+        {
+            "date": "5 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
+},
+{
+    "CO": "C000190907",
+    "finalDestination": "India",
+    "purchaseOrder": "CG-2020-039-001",
+    "projectRef": "Jharsuguda Power Plant (Electric)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP 1470RPM TEFC",
+    "pumpModel": "10x8x23A SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 341,
+    "speed": 1470,
+    "orderDate": "21 Apr 2020",
+    "dueDate": "10 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596349268109867190/7brlY0sDEW_D5L6jc6pHN1xv9mCRAM7P-QLBAAeIfTQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/586718543377121014/M3zozL-hYr7-SbRRKJjwAG8s_TplDU9o-lL-AGLMfTQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/599588559913006734/pZS61BPfB5-LmyO3jVXZhqNlMm3rhzJM-1bdA.w4rUgg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Jun 2020",
+            "type": "change order",
+            "overview": "testing",
+            "description": "Delete witness testing"
+        },
+        {
+            "date": "5 Jan 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
+},
+{
+    "CO": "C000190927",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-051-001",
+    "projectRef": "BOE Chongqing",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "22 Apr 2020",
+    "dueDate": "5 Jun 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560872623311986691/ZkS19DEliClaxvv7zWg4nuINciNhtcp2-YrBgGe4fTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722745536356359/Hn2bGaeEVWNuUaOozN8oijIuq8QMWMJJ-grBgdvYfTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000190928",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-051-001",
+    "projectRef": "BOE Chongqing",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "22 Apr 2020",
+    "dueDate": "5 Jun 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/560872617020530689/6YGPr2HHh5GfX0WZEbSGsggBSxymZ4p3-y7CANAUgTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563722747826446345/q4Pta090yDDplLEUOcprRXXeqY2tit7h-q7DgtP4fTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000191143",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-041-001",
+    "projectRef": "Huike Guangzhou",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 328,
+    "speed": 2970,
+    "orderDate": "30 Apr 2020",
+    "dueDate": "13 Jun 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564081889925701641/tkNvz4xspPmg4q1N95DlIGOKoD7QTll2-8LAAeRQgTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563883502867619841/PYBNO-yW-kO7_SenMrWU9FWbBojZ2b3k-KLHAgx8gTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000191144",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-041-001",
+    "projectRef": "Huike Guangzhou",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 328,
+    "speed": 2970,
+    "orderDate": "30 Apr 2020",
+    "dueDate": "13 Jun 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/564081891538411531/RbpoixUv0pQK1YQ1LKwKgWHSsAc6mGst-jrHA2DwgTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/563883503064752131/xgJjjfN0WWQHd8a471hsKy459iY8Qywz-T7EA4y4gTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192436",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-076-001",
+    "projectRef": "Shanghai GTA Semiconductor",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "18 Jun 2020",
+    "dueDate": "4 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/566163761893777409/PE8fXqJHN5zNYPpzM4Si7Tfme2KmN0OR-sLGgf0UgTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/569320777537593345/n_F9iTVE5wkNqp6PVZRzQT9B-hg5JTZH-zbHAHU0gTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192781",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-080-001",
+    "projectRef": "Evonik Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 231,
+    "speed": 2950,
+    "orderDate": "2 Jul 2020",
+    "dueDate": "19 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/569513775185572567/jGuxCIgRkizPmeiWX13WVyu_P2bcy-z9-GbIgLV8gTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/574455225010659477/7Vm1omjjHnJxmqJ6uV0nRXlVdewE-vKl-.LEAdVkgTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000192782",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-080-001",
+    "projectRef": "Evonik Shanghai",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 231,
+    "speed": 2950,
+    "orderDate": "2 Jul 2020",
+    "dueDate": "19 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/567783957760876545/5ujeSejOKaOO5zTIGG5gLtin2VuEM_w_-NrJgZWYgTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/574455225994223767/gSkgegcRQ3YH0WEVEd-0upVLnKZrz6U_-VrKg.WwgTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193160",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-087-001",
+    "projectRef": "IKEA Nanning",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAA80",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 365,
+    "speed": 1750,
+    "orderDate": "17 Jul 2020",
+    "dueDate": "3 Sept 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572500502980370435/wViMkoW7LQcp5BCDTs96rhSpcDQi64kI-n7LAqHogTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749283869504049/aU5GiRmnkoKPlk1YgQ2Xa9efYD-gJRhi-f7LAeHQgTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193367",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-086-001",
+    "projectRef": "HK Changsha P1",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 381,
+    "speed": 2970,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "4 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/596348711926283928/UARe-7qfsH2Cy5f_LlGfoAV6dX-nzSGz-vLKgoYMgTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193368",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-086-001",
+    "projectRef": "HK Changsha P2",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 374,
+    "speed": 2970,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "4 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949401494927403/VlubO8G2M6h52Jr62-KH0Z3FhYuj7ZdW-97LgK5QgTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193369",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-086-001",
+    "projectRef": "HK Changsha P3",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 374,
+    "speed": 2970,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "4 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949402686109788/RpZCDgLyxj947rPuJ0hUm7nU2YeRLmOS-RbPg.J0gTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193375",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-091-001",
+    "projectRef": "HK Beihai",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2970,
+    "orderDate": "24 Jul 2020",
+    "dueDate": "3 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949402220542028/sX0-z_cZ_uH8hw9pnSw2affGOf3bJ3zB-kbOge64gTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749285664666172/1Fmxz0tsgq0uqO7nSaESWD3dL1BSS77U-ZbMA76cgTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193376",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-091-001",
+    "projectRef": "HK Beihai P1",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 266,
+    "speed": 2970,
+    "orderDate": "24 Jul 2020",
+    "dueDate": "3 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949402128267336/lX5I0MgLn1b3QDE4E2847kTd62pXpKGG-z7PAbrkgTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749285714997824/LhY1V8LZo6dVRYVdUdA1_uRI4LFuEzwA-7LPApsAgTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193398",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-088-001",
+    "projectRef": "Bourns Xiamen",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "23 Jul 2020",
+    "dueDate": "10 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/572949577278208214/a2S3r9lr-JwDUM2Z4qU5c9VDy7RHJGKP-NbRgQc8gTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/576749290068685389/usXFLnxk7PQgVbEjGMH6C8tGdiV2Hb0X-ELTgoMcgTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193784",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-096-001",
+    "projectRef": "Newly Weds Nantong",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 328,
+    "speed": 2970,
+    "orderDate": "7 Aug 2020",
+    "dueDate": "17 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/575120159488913929/pU1uZQeN1FgVriRKF8Uo5ARkGmn1jeLN-zLSg3DIhTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/579652410071364134/BeQwK4EXVMtbtmnBiGKTxGEd2RGZpHcS-DbXAJkAhTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000193787",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-097-001",
+    "projectRef": "Steelcase Dongguan",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 289,
+    "speed": 2970,
+    "orderDate": "7 Aug 2020",
+    "dueDate": "17 Sep 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/585270729921049876/Cr47NDRijilUvHJiRiEQ4wvvSJI7LjQZ-erUgLGIhTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/586459776074956578/jHdD5f-wIVgNeXTYvqYgk9IfgimMByJ0-obVgf2ghTQg_"
+    },
+    "remarks": [
+        {
+            "date": "17 Aug 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 21 Oct 2020."
+        },
+        {
+            "date": "30 Sep 2020",
+            "type": "change order",
+            "overview": "date",
+            "description": "Due date changed to 27 Oct 2020."
+        }
+    ]
+},
+{
+    "CO": "C000194730",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-114-001",
+    "projectRef": "Sitara Chemical",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13A ES",
+    "pumpType": "es",
+    "capacity": 1500,
+    "head": 423,
+    "speed": 2970,
+    "orderDate": "10 Sep 2020",
+    "dueDate": "21 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/583195538667647984/9cq-JSiHtom5pP3XhtIzjzqQwbyVqvpz-tbYAZBwiTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166319638098217/b6PUwVckH-tWkH1r6ubfUHzkD5OtO8CG-mLbApRQiTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194748",
+    "finalDestination": "Guatemala",
+    "purchaseOrder": "CG-2020-119-001",
+    "projectRef": "Antigua Stadium",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 1780RPM ODP",
+    "pumpModel": "8x8x13A VIP",
+    "pumpType": "vil",
+    "capacity": 1000,
+    "head": 164,
+    "speed": 1780,
+    "orderDate": "11 Sep 2020",
+    "dueDate": "25 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/583195552554988554/QCT0ZXv5xNTHRxtdjYIysov2GD-JoCLY-57agUiYiTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166319313039652/Ea9UEUJrgInixike7J8IxwN5zcfLhGHY-D7cACC4iTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194749",
+    "finalDestination": "Guatemala",
+    "purchaseOrder": "CG-2020-119-001",
+    "projectRef": "Antigua Stadium",
+    "driverType": "Electric",
+    "driverInfo": "WEG 50HP 3575RPM ODP",
+    "pumpModel": "6x6 VIP",
+    "pumpType": "vil",
+    "capacity": 750,
+    "head": 164,
+    "speed": 3575,
+    "orderDate": "11 Sep 2020",
+    "dueDate": "23 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/582815773813161219/VRec9UExKBeoe8XF4nitJr3YYdLaf1tZ-mrdgtW8iTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166320072208694/hMMNJZeTUxTqtxhbIAZx507t_4J_9-Qv-eLfAzmUiTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194750",
+    "finalDestination": "Guatemala",
+    "purchaseOrder": "CG-2020-119-001",
+    "projectRef": "Antigua Stadium",
+    "driverType": "Electric",
+    "driverInfo": "WEG 30HP 3525RPM ODP",
+    "pumpModel": "5X3 VIP",
+    "pumpType": "vil",
+    "capacity": 400,
+    "head": 164,
+    "speed": 3525,
+    "orderDate": "11 Sep 2020",
+    "dueDate": "25 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/581547007171147613/sMKKykFfr7imY9VZ-GSRGDfP9fmCiwFu-urcg2XoiTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/588166325665313120/6rF9-0MElTgWqNZDroKeizKC62Isy17k-27dAWoEiTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194931",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-117-001",
+    "projectRef": "Pesi Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 300,
+    "speed": 3000,
+    "orderDate": "18 Sep 2020",
+    "dueDate": "13 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/587619849331586613/_WSZrwSo-ClRELakFXUGsktgfqZrI_lY-PLpAOA8kTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195868",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-003",
+    "projectRef": "IKEA Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA70",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 328,
+    "speed": 2100,
+    "orderDate": "16 Oct 2020",
+    "dueDate": "3 Dec 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/589072848086154749/jofXzRpjLqwkS5c87Aad_Wr2VopMtyEB-WbrAZBgkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/593884059136997196/hL3F3yI780iRplk67ppJvNSm82PaoXaS-g7pA2iAkTQg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Nov 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Delete flow meter FT-FluxFP-0LR0-G 8.0 IN"
+        }
+    ]
+},
+{
+    "CO": "C000195869",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-003",
+    "projectRef": "IKEA Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "16 Oct 2020",
+    "dueDate": "3 Dec 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/589072848702717458/n1Hg5g9etyj4NcxhuoGuxkgvkqEviMRt-x7rgAzMkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/593996198029865873/Ct7CBs6yGD-Nk0aiIned9QJ3_dqwks28-p7oA7iokTQg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Nov 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Delete flow meter FT-FluxFP-0LR0-G 8.0 IN"
+        }
+    ]
+},
+{
+    "CO": "C000195870",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-003",
+    "projectRef": "IKEA Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "16 Oct 2020",
+    "dueDate": "3 Dec 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/589072848635608590/tKNwIez--i3KR7SHHr_HDjrtHb3LKal4-77rACz0kTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/593996203480363987/VmzNbQoeTv1Dypa1igpPytlK_ixKnB0b-DLsAA0QkTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197230",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-149-001",
+    "projectRef": "ATS Shanghai",
+    "driverType": "Electric",
+    "driverInfo": "WEG 40HP 2950RPM ODP",
+    "pumpModel": "5x3x11 VIP",
+    "pumpType": "vil",
+    "capacity": 500,
+    "head": 185,
+    "speed": 2950,
+    "orderDate": "3 Dec 2020",
+    "dueDate": "21 Jan 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/598571476469202398/HcUHOBMqZSjMzxTO1cVxA8nnIqNnBbFJ-m7PADCOjTgg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602115836368433341/36k-MKEuJkLKuNqIaIX1JtiVW-Z6QcjV-7bAgOjElWwg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197243",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-152-001",
+    "projectRef": "Corning Bengbu",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 2980RPM ODP",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 231,
+    "speed": 2980,
+    "orderDate": "3 Dec 2020",
+    "dueDate": "21 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603973488801265455/CRWd2zCcoDbABZeG2s8F8OBdpZJyQlyG-kLcgmby-YQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/602221524893612706/4kWhMezXW9EDpx9ZJmak3EUPSKinmlj0-BLbAOgq-YQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197308",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-152-001",
+    "projectRef": "Corning Bengbu",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "3 Dec 2020",
+    "dueDate": "21 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600484569667386265/6a_lDlMJMxQr2oWnyCg4vWsfAm44tGfr-j7xAxfZZVQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197423",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-158-001",
+    "projectRef": "Cummins Beijing",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 298,
+    "speed": 2100,
+    "orderDate": "9 Dec 2020",
+    "dueDate": "2 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603950224714544590/rMPNqE8VHjfq1tl3CjRT853idFysEzFe-ELgAENm-YQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863579222643/eMgHy3iIVnPeE9vlty2mUjCUWLh377gF-vbKASkQScgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197427",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
+    "projectRef": "Faurecia Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "9 Dec 2020",
+    "dueDate": "3 Feb 2021",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "16 Dec 2020",
+            "type": "change order",
+            "overview": "cancel",
+            "description": "Cancel order."
+        }
+    ]
+},
+{
+    "CO": "C000197476",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-156-001",
+    "projectRef": "Replacement for C085356-002",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 300,
+    "speed": 3000,
+    "orderDate": "9 Dec 2020",
+    "dueDate": "26 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600772814278013075/Vkzi_LYCFZ1SD9pBU_2SIQaDW7RGGRdw-zLCgwdJfVgg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197636",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-161-001",
+    "projectRef": "Continental Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "15 Dec 2020",
+    "dueDate": "8 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/603943267995791463/r_pZHPkRXhwkuhv8_X2vp5uELG-FrRrm-lLjAr.6-YQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863696663164/8DlVcFVQQZOk5sDNyyKdE1rcGgv5KHQS-.7IA4lQScgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197688",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
+    "projectRef": "Faurecia Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "17 Dec 2020",
+    "dueDate": "3 Feb 2021",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "28 Dec 2020",
+            "type": "change order",
+            "overview": "cancel",
+            "description": "Cancel order."
+        }
+    ]
+},
+{
+    "CO": "C000197868",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-152-002",
+    "projectRef": "Corning Bengbu",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "23 Dec 2020",
+    "dueDate": "12 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/606989545182904153/EL1poQ47N1jy5pav6B00gQm2LxG3WuxP-n7.gQs91bAg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089513161832235/SQ-5V0jztolqT7ijkavSoFfr-3o4K2cn-Z7igooCUfgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197924",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
+    "projectRef": "Faurecia Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "28 Dec 2020",
+    "dueDate": "11 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547505379619554/WgOg_RuAoKE5CsVXs_nyZYPJ2G_NsRGI-ILMgcUGMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661103828645939/7Emelk74aeK07TrTAj52UXYUotUXcY7D-nrjAuxNLawg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000197925",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-ST-004",
+    "projectRef": "Faurecia Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "28 Dec 2020",
+    "dueDate": "11 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547503039197905/CRRJcq39NTzb6G0gjsFOMKEyAE0KP27c-UrNg9EqMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/606661106833864791/T3kN5fvHGRBkuNSxT_lP5CscbfbxzJvB-FrlgjyhLawg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198052",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2020-155-001",
+    "projectRef": "DOW Zhangjiagang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 2950RPM ODP",
+    "pumpModel": "5x3x11 VIP",
+    "pumpType": "vil",
+    "capacity": 500,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "5 Jan 2021",
+    "dueDate": "10 Feb 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/608271844778228768/sEU0qqn1r7G9KjpQq-tg1j6oLRzc6J84-hLwA-x8EcQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/608568863765869185/ZLjCNEHvtcAdZGTXJlkcuSMShb1OpaLb-PbNgzWUScgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198555",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-009-001",
+    "projectRef": "Shanghai ABB",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 500,
+    "head": 266,
+    "speed": 2800,
+    "orderDate": "22 Jan 2021",
+    "dueDate": "8 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/608271853795982400/tjeuFn6AZ8uzgTq9YiEMdrnidbwdqS_0-wrzgIjUEcQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089515024103243/xJ0bURwY-O79GMQHnhmEGKvbxn4sZkf3-0bcgfGSUfgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198804",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-015-001",
+    "projectRef": "Pesi Guangzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 280,
+    "speed": 2100,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "17 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609946326209183329/osQi_HYYl7mBDE5As1Nu3nxCxSrSzL6B-pr4g1Pr2dgg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/612089515093309263/UtlpW4j7Ia9wD2_DPgftorKORqFCdNZk-FriA23GUfgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000198807",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-013-001",
+    "projectRef": "GF Kunshan",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF22",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 219,
+    "speed": 2600,
+    "orderDate": "29 Jan 2021",
+    "dueDate": "16 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/614169633680832234/KX8eIePJEC4tzTY2tMupOBDF0u7LnYpm-I7dAMiD4hQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620163854690726671/L1lx3HqLfwu0CNS1xho-l8PJGuNkNH2m-SbRAAWM8nAg_"
+    },
+    "remarks": [
+        {
+            "date": "10 Feb 2021",
+            "type": "change order",
+            "overview": "date",
+            "description": "due date changed to 16 Apr 2021"
+        }
+    ]
+},
+{
+    "CO": "C000199261",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-009-002",
+    "projectRef": "ABB Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "11 Feb 2021",
+    "dueDate": "29 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/614257997157282822/eDOAUarsf3XaeYzsrdi3X6w8hvXOp5cf-RbTgdXJIhgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602743988822258806/7Np7PmAfocvnkiA9FV3rLYDyIf6y01JU-m7TAnSU9Ygg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/621419992826557011/FFhUgLPXJxao2dhEMgrvRWCnahswpzlu-7rqg4aRQoQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199262",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-017-001",
+    "projectRef": "Trauson Changzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 254,
+    "speed": 3000,
+    "orderDate": "11 Feb 2021",
+    "dueDate": "29 Mar 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/615894090139090035/Neq4LE1_HG1KrKosVU2aYyoDzAl0zYZM-C73AyxQejAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/602744009972036779/0NyCxZh3GxzqDuIeKiROT2uz4IgasZtT-HbXg6JE9Ygg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/621419999375962735/_mH8nFaVIKLdUAH8AiwB-mFVDrZmGNBd-UrvgGb5QoQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199630",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-025-001",
+    "projectRef": "Pfizer Chongqing Logistic Ware",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 2100,
+    "orderDate": "22 Feb 2021",
+    "dueDate": "12 Apr 2021",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619248949479391031/-HR_NaC0OQC62h20eFe1LmshxKnfajjG-iL-A46oDmAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/605246890398758833/jts-1QoE3dYtl9mQV0RjlLo-modNoCfS-dbwAdiDdaAg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/620163888423416622/H0zoojCK9xymmSpoVCzb4TlH7XeX6FPt-ebTgIns8nAg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199800",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Electric 1250GPM)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619517170105237231/MDTMvsYwCMJZBFcLJgMagUCNvSMCMQPb-Qr-AF7z3mAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606667691870172143/l3Uzc_UuKORtvGw5ow1EReU9q4yaQzpk-5rVAWQlSawg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313981456561576/l-PxPKCZi5S5W4hVH2C5L9vHWo7vrQ_H-y7dg6rp1pgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199801",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Diesel 1250GPM)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619517169713069793/DYmLxYtnRJI0_hwIpi9VgPjsB1kjlPa1-fr.AXMz3mAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606667696091739165/hM8Zh8ZDVVfFadhXigKuDyrOtDMLu162-BLbgGg9Sawg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313982924567993/96HLdYgvRVSrrA49vpdkhzMZ31Ct6J02-S7iAcsV1pgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199802",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Electric 1000GPM)",
+    "driverType": "Electric",
+    "driverInfo": "WEG 75HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 231,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619248779211619957/C8WtE1uD-3Mcs9JNfeSGxDwozvGiwWSf-D78gKJoDmAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606666928280351237/TqjoaTiMNjXE-IMet-lE6CdKe_VLXZ6--ILbAuhRSawg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313984298202558/LhDtVs0RZowEzug6MXM031UrwF9zf0lq-p7iAPdJ1pgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000199803",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-020-001",
+    "projectRef": "Foxconn Qingdao (Diesel 1000GPM)",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 231,
+    "speed": 2950,
+    "orderDate": "1 Mar 2021",
+    "dueDate": "15 Apr 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/619248778794286697/7q2zTAKyMDAIM9Hs9Qonz4oI6pvuxxR6-yb7gDY0DmAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/605977482530700501/I6NxOZcDbg0y5LIUHdpLwY-Aqn4Do330-kbGg2SFQawg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/623313986909156815/y98oS7o-j-LOHBKhu3r-koyk5SiJRXEz-57jAv-F1pgg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000201101",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-036-001",
+    "projectRef": "IKEA SHANGHAI",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA60",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 365,
+    "speed": 2100,
+    "orderDate": "12 Apr 2021",
+    "dueDate": "15 Jun 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/630024156462758525/JrzyZ6SIE-KeNcDJmbCInIBoFzZErOvt-V7tAV7RLvgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614261172914403258/B-KPy3Ol7hxsMKgNEyUigClgC5Kd1G3g-pbhAy2FLhgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/631494940049849016/B7mP2ffHrRZfjilYI9OI56zB0fpS5BiJ-NLtgLJuFwwg_"
+    },
+    "remarks": [
+        {
+            "date": "19 Apr 2021",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Remove waste cone from order"
+        }
+    ]
+},
+{
+    "CO": "C000201431",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-041-001",
+    "projectRef": "Berry Qingdao",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 2100,
+    "orderDate": "21 Apr 2021",
+    "dueDate": "29 Jun 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/630662084509612856/mpy6924tU5rM3i7-0v-VsxWVARlMswIZ-h77AqsuTwAg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614634337341586483/MXxBkzpQE5SpA8nkUNSiMAWk1_zIJm1z-d7zg-O8djAg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/l5itVoVEOMNLbSH7R5TZbzfItljcWWGH/S2weOYlD-6Db_4Z5GC6OdatDjr8zxKY8--b4gWHzU2Ag"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000201566",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-045-001",
+    "projectRef": "Cummins Wuxi",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA50",
+    "pumpModel": "17JHC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 278,
+    "speed": 1770,
+    "orderDate": "23 Apr 2021",
+    "dueDate": "23 Jul 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632019194124218817/7GESPmPXyZTaI3NmEDBYmH8viy2B-IhH-ILLAhTRixQg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/614850943296516465/te2tY90QcpV_sZHoYs35ErSIH5xchuzY-dL6AroEYjgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/l5itXRypOr1W4By5Uzd82L2Nlujmp9ok/nOZnNhTrtLJjlw3Ga5u7J_1jcQhZQmAU-rL7gaXTU2Ag"
+    },
+    "remarks": [
+        {
+            "date": "18 May 2021",
+            "type": "change order",
+            "overview": "controller",
+            "description": "Controller voltage to be 24V"
+        }
+    ]
+},
+{
+    "CO": "C000201780",
+    "finalDestination": "China",
+    "purchaseOrder": "Z21HLBWT0631",
+    "projectRef": "HK LNG 19RMC",
+    "driverType": "Diesel",
+    "driverInfo": "CFP23E-F50",
+    "pumpModel": "19RMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 4000,
+    "head": 482,
+    "speed": 1770,
+    "orderDate": "29 Apr 2021",
+    "dueDate": "H.F.A",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nQPS8NR8P4GpvIS9BCWOzt1H1xczLtyN/451rweea1no3CJhlZLcaBEcDPaQyJOBf-qLnAaEUQSQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/615615078389037722/0u5B6cBmVHwhU6RPA09xfVu0q4R_EFh4-xLVgax9slQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG205UkEc0I70LvDbHbsAaHfXbDiBxU/wGKQqqpNgD8z2_jJaowa3k4mzcWP-sYU-g78A_RS3SAk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000201783",
+    "finalDestination": "China",
+    "purchaseOrder": "Z21HLBWT0631",
+    "projectRef": "HK LNG 17JMC",
+    "driverType": "Diesel",
+    "driverInfo": "CFP9E-F75",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 473,
+    "speed": 1770,
+    "orderDate": "29 Apr 2021",
+    "dueDate": "H.F.A",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nQPS8YDtLr1P4j1LcHxHGjZZJzKMXlTs/Xegj8K86F_DybdAxViviOIVDEfYvhLoF-07ngX1gQSQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/615615064919030384/4bJlRf8w2hswYXP3gU25-wBTFciW1Xlo-VLbAd39slQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/nPG1zuqmqzYkhfnAipwn5rTKJ20IZKi4/lB99lG2jlTSWl2RFCEFQLtZ80S0L0nQS-3b9gyya3SAk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000201936",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-055-001",
+    "projectRef": "Bertschi Logistic",
+    "driverType": "Diesel",
+    "driverInfo": "DR8H-UFAA40",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 427,
+    "speed": 2100,
+    "orderDate": "5 May 2021",
+    "dueDate": "19 Jul 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/632299122019317103/OK3B4xXdT5HlN5YNZOo3MXq9CZVG2TYe-6rWgOvBgxgg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/618056098863166532/Q8kVbEAIZg4q598iIQlOuNVmDUksArq_-FL9g8n9mlQg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ky7qrqum6F1018Rdl8fF7nbbxuyr8Eak/s9a2uDT9aogKKC8v1hIVmApynnbqATu0-tb-gG8zv0gg"
+    },
+    "remarks": [
+        {
+            "date": "19 Jul 2021",
+            "type": "change order",
+            "overview": "fuel tank",
+            "description": "Change to 280gal. 8 hours capacity."
+        }
+    ]
+},
+{
+    "CO": "C000202301",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-059-001",
+    "projectRef": "P&G TIANJIN",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA62",
+    "pumpModel": "17JHC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 301,
+    "speed": 2350,
+    "orderDate": "14 May 2021",
+    "dueDate": "13 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lXlqWO9GZOX8FpKO5vw45C8aJP1n4Icv/VCF51RsAqXX6xev66LoSKpuqGShWuYhF-67lAAR6W7gg",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/619523849500800399/4IbF2L-z-4gjiBLMDY39nz3Y0hQ5dRAw-3bMgxT48nAg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/le0mhbntVx79I5okdOPJEyvU2thecb8G/jo9Q_C6Utnm-7ni-onk_vn9utfAlFTY6-NLOAklfC_Ag"
+    },
+    "remarks": [
+        {
+            "date": "10 Jun 2021",
+            "type": "change order",
+            "overview": "driveshaft",
+            "description": "Changed from CDS20-SC to SC81A."
+        }
+    ]
+},
+{
+    "CO": "C000202751",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-072-001",
+    "projectRef": "CUMMINS WUHAN",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "2 Jun 2021",
+    "dueDate": "17 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lAWJy9VubkipClI0KwYsnca9PLaV5LWY/nnnpySrNhOzIPubVWEv52xy3rYJDu_Xl-3r0g0xLM4Ag",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622349131827953203/MEP7qXB3OBYXcvIAoDXl9uce_nr-k5zN-GLYAYLtFpwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/lSOAdxud5gEfVTo8r1ZurMrD3jX2pkPI/upQf31PT9wnUq3ehduWya_qW_Smbvpnw-GbmAC3Fp6gg"
+    },
+    "remarks": [
+        {
+            "date": "9 June 2021",
+            "type": "change order",
+            "overview": "add",
+            "description": "Tornatech 8\" GT-FluxFP-0LQ0"
+        }
+    ]
+},
+{
+    "CO": "C000202898",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-071-001",
+    "projectRef": "ESTEE LAUDER SHANGHAI",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2950RPM ODP",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 370,
+    "speed": 2950,
+    "orderDate": "9 Jun 2021",
+    "dueDate": "6 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/634844422489553700/4d5QYNBugr0JQZdQ0sQxOOIVzJ9aIwYm-dbvAralrzwg_",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/622647395563388091/6KYi6LFuYaQoSzxkx3Cy_bAZ89t1U16T-O7agSjZRqwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/l8O5OdfhSdbIctP8YtOjWsEX7y3QCNQ2/IaESW5Xplb50vO8OL80snQ05iYIcuSvH-ErLAYJxF5Qg"
+    },
+    "remarks": [
+        {
+            "date": "10 Jun 2021",
+            "type": "change order",
+            "overview": "motor frame",
+            "description": "Corrected to Frame 444/5TS"
+        },
+        {
+            "date": "10 Jun 2021",
+            "type": "change order",
+            "overview": "main relief valve",
+            "description": "Corrected MRV to 250#"
+        }
+    ]
+},
+{
+    "CO": "C000202981",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-073-001",
+    "projectRef": "LAMBWESTON HOHOT",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "10 Jun 2021",
+    "dueDate": "14 Sep 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lXlqQDNBeuDsz46TJTNUeu8EvI9cYoUe/8ZiiXGoNKhasjhZxsZLkiC6kPYrmIPTs-LLoguSuW7gg",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/625493503297762508/pv8bpqcJXlIVBYIj2It9nQuUuMtQVYBA-VLXAYxczrgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/mKMKTP81Uu9GAL0PV2uAQnYZopoW6lG5/n0ZQGi0ASzIBEziiofNtj6v_a3upIVo2-PLIALVFoFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000202985",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-081-001",
+    "projectRef": "Safran Guiyang",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "10 Jun 2021",
+    "dueDate": "23 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lF4PfIOcwYE25xDWugAxh8VEPxLYZQ4v/tmQ-R8hsPsM2MjAExrVyhmIqaDn1eQgk-u74gWUjM4Ag",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624312989249486287/sFmuczjGGkeSpO8ZObR2x52LZYphecPB-0bVAM18zrgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/lSOAkuwW7AoYqusPDrODFrnjN1AfwNyW/5_knFpimhlVUh2KXdaqpAg-86XL5w-ms-UrpA5thp6gg"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204183",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-101-001",
+    "projectRef": "HoneyWell",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "14 Jul 2021",
+    "dueDate": "7 Oct 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mC4iPrkOBzlaAnQTTGQQXSG41rOwJqN3/vKLxdBP2cyYNgatF2h8YSKWP0j_qw3Ba-erXA6NNoFQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/629872845962393159/GBakzetaNdED-p4Wx5oBPju9wVEX0CP8-LrAAph5t6gg",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/mKMKUIcbQhzPx0d29k4PrZt3OJdNMhuN/ORsSBTVjjESnHyV4_70iSLL2d1zL3NiS-oLNAuX9oFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204281",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-096-001",
+    "projectRef": "Galaxy Core Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 300,
+    "speed": 3000,
+    "orderDate": "16 Jul 2021",
+    "dueDate": "25 Feb 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nsdsxi8fZkIT0iU8mQfHdGosQ8iyLLZ5/jkdgp7xw5GqTOOlhpdrZ9B0VikUN8OMp-kr6A0bGWZwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/630024613933399128/nA2oCFxGb62Y6RP4k02fEXLPY5wu8wdI-l7AAmAOKwwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/oA1GgYwGs32cUKcu3pxHP1Uy5tEXSeSf/-CFFNY-11DD9fHk7iXO-2cnyH9oYYdyE-XrLgc7cEbgk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000204290",
+    "finalDestination": "",
+    "purchaseOrder": "CG-2021-109-001",
+    "projectRef": "Kohler Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "16 Jul 2021",
+    "dueDate": "15 Oct 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mL6mA6niHJUd8RBoE9ZpbBfGoFGVio0m/hCMrFQJW8IMEU8CntCa9KPApYangEmSS-77WgReNoFQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/631493209433880736/abptntOB27g4YEuAbkRi516Q5iNZGWRD-N7Egg2SKwwg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/mKMKUJBngrefwzFgGSfHeoBAF4YQqNQF/LMyLPqqD59ESYN253Ezo5Gco93ayTIgC-AbRAHZdoFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000205128",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-112-001",
+    "projectRef": "Pfizer",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 291,
+    "speed": 2950,
+    "orderDate": "16 Aug 2021",
+    "dueDate": "30 Nov 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yKNiKxkl4uV9PKBb4Rucu6V195ezQEAD/l1x8MwDq2-Z7SHuBO_3jfS8D8kCBD0Ye-1rAAZ0FqVQs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/l4PxM7Zs8ZlyKZaVSftlaS8BEuzIxYPr/Fu8ZYwMTAh0YpOWSyD8rpcBI9DnUEKZh-cbvgWmDR1wg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000205165",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-112-001",
+    "projectRef": "Pfizer",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 298,
+    "speed": 2100,
+    "orderDate": "17 Aug 2021",
+    "dueDate": "30 Nov 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nReaBuBnypSEjn743tJZvSDLT2Gm4ljN/FMGw8VKqqyBXGeXRwpYb01gHQEiJrWmA-jLugoEEHSgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/kyvMVaNC61Hzeij4UDsqD14SgewFVRLa/Lc1sWiL5vLNWmhkQPIk5OgdNxi8CEuFy-I7rAB7DQ1wg",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "22 Dec 2021",
+            "type": "shipping",
+            "overview": "controller",
+            "description": "Controller to ship with C000205128"
+        }
+    ]
+},
+{
+    "CO": "C000205839",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-128-001",
+    "projectRef": "Coming Hefei",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 2100,
+    "orderDate": "14 Sep 2021",
+    "dueDate": "17 Dec 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nReaBc1Tea3I04SJnlvIJXkSAFg8beZi/7T5G_O9MclTsGkbeOvhwZ0AEKbiduk6y-4LtgXEwHSgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lLhLondDKQSaV7pjCCFtPgpI65VodbOK/WXVZXkGBDR6B3y8q5F4TzYdXIa-rzHyT-3rzgMrlq6gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000205844",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-130-001",
+    "projectRef": "BOE Chengdu",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "14 Sep 2021",
+    "dueDate": "30 Dec 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/muomjjZ2vn2zuv6FKKt2QGGdUXViCrQx/vrbtjzkmyLvOJhpVXTRO66Cfxjr1k6Qo-qrKgroXxMAk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lSOPVT5cWHXBByFLwiqaAmf9k3AfBvYN/6dB6Oa43foaOWI4J0Za4GCwYrZXeaY64-YL2gQQlr6gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000205845",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-130-001",
+    "projectRef": "BOE Chengdu",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP ODP 2950RPM",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1251,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "14 Sep 2021",
+    "dueDate": "30 Dec 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/mwaBz8aVB5CaYfBHMPQiY1PAahRoru8C/LpEZiCrmgfbHMj1KqxC6If2xLLrL5k6B-FLcAKXftMQk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lSOjuX9ApCoEfawKHQvjW8LKzBvAq3n3/HJzva6rnIoCa7Md6X0L3IHyJ9HXVMnlW-970AijJr6gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000206486",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-122-001",
+    "projectRef": "Kohler China",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP ODP 2950RPM",
+    "pumpModel": "5x3x11A VIP",
+    "pumpType": "vil",
+    "capacity": 500,
+    "head": 289,
+    "speed": 2950,
+    "orderDate": "1 Oct 2021",
+    "dueDate": "7 Dec 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/maTdkGxGaXGCIgYC9Wifw4MoPkMWGHJT/mriKXeMqY39wRS4bAaxOa0vfgjlG_2vd-6bKA95rxMAk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lfElKSfYkxZm6QI7YmvVQbplt8CJYAmI/R8xcZgkaGa6EfMBGFKXjbXcr91L6qOnq--rrg5n3g-gg",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000207194",
+    "finalDestination": "Myanmar",
+    "purchaseOrder": "CG-2021-136-001",
+    "projectRef": "Kyaukpyu Gas-Power Plant, Myan",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 365,
+    "speed": 2100,
+    "orderDate": "25 Oct 2021",
+    "dueDate": "4 Mar 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ns7yP0lo1KohukokOQkFdqBhb87YxBko/J-sfwHuJPHiE4tvuvbIKjdKzRGmTqVKl-C75AjxOdXgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/lwvB3Av1iAEkFFEjLjgrLDjrSuPc1Ks9/bWkYybp0CY-fjpz1IZcOchbSgutxWsdj-x7xgBElaEQk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/oRri2X16ST0uEISNh4RqHKBXhEgVftMm/C32LmDcj-sPuldINadHJyUpzej4cmBTz-dbmg21M0fgk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000207629",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-162-001",
+    "projectRef": "Shanghai Logistics",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP ODP 2980RPM",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 192,
+    "speed": 2980,
+    "orderDate": "5 Nov 2021",
+    "dueDate": "19 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nKdIdCzRj2vtezyXujLodM5VdW0bDNhw/VqWfGtROj4SJ8_ZcCGIvrBcl2e5RlRV6-br5glqW2SAk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/m7VQgFKw5c1fUQdTdErrGxg3GHbYZtLp/X_RDrO6N5PNtCBijDhTSXufcJBm4IKQZ-yL7gBPRaEQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000207672",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-162-001",
+    "projectRef": "Shanghai Logistics",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP ODP 2970RPM",
+    "pumpModel": "8x6x13A ES",
+    "pumpType": "es",
+    "capacity": 1500,
+    "head": 277,
+    "speed": 2970,
+    "orderDate": "5 Nov 2021",
+    "dueDate": "19 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nRe5LEsBgZva6DjqvRbN1S8KP5X1KYpq/RM6tvoBhetOmBemqVEWSljaM2JgUrzC7-jbiAEqEFSgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGarGtTD0xwUZ5dbKVJagSEcDOpQfTL5/3JAOwezHJnbpRX_LfzYa_axpsP78svnn-Tr-geRpbEQk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "11 Jan 2022",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Change factory choice motor to Baldor motor"
+        }
+    ]
+},
+{
+    "CO": "C000207848",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-164-001",
+    "projectRef": "Volkswagen Hefei",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP ODP 2980RPM",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 330,
+    "speed": 2980,
+    "orderDate": "12 Nov 2021",
+    "dueDate": "18 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nRe4WSWISVhLGHj4hqGLolz4FhGTbHk1/QfFhEiLmn3Zb3kWScRrvdHmWuU5dWiGu-MbkA9cAFSgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGbOxLb6fvFzj3Ichh229mfyRapDbE2i/qwO9Gwdufp8Sc0NFEq5qvwlR5uaDIMFw-DLVgyAtdEQk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngDccxc55wwUTE4timhqwrGTMnfYLK2v/6VJ-PTBqZx8STTi3dOQV6OC7NWViO8Q6-V76AzKucVQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000207849",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-164-001",
+    "projectRef": "Volkswagen Hefei",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP ODP 2970RPM",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 383,
+    "speed": 2970,
+    "orderDate": "12 Nov 2021",
+    "dueDate": "18 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nCIiySGsAn0BpzlXc1mwPtFTSZN7IDqM/YgRhQzgHtowyFtMOX906mjcG0zb0cCVN-wLOA_IEePgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGbNhe331Py6oVQAZuRohI2EcSeaJGBl/hpipuJ_a5jepwHBMVPrtyyVKUqr2aoq4-VrSAztlcEQk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngaU9UXEXa1PpvJQvgNntsBBljWVUQmV/f4zlwM88mk67TrQ9Ia5h7EQZqnEUvXR9-vb4AirecVQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000207850",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-164-001",
+    "projectRef": "Volkswagen Hefei",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP ODP 2980RPM",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 192,
+    "speed": 2980,
+    "orderDate": "12 Nov 2021",
+    "dueDate": "24 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nRe2iYRrcOWnvBAsLCfgGhAIHCa8ImXO/yRRQ35x1gJBqVusnnQ_pej3_1LPSbhUu-FrpgbDgGSgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mBHp8S85pvf5N0yTehrCdlSU4Di8x6Jq/k0k1_pEZp7_BtqGl8D13al-L1Yb1JFLn-cbLgyI1cEQk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/ngDcd9FdQcXlWG9KKKEMZRn4dN7eMkZQ/6dlK3xc3AE4C0_DE7XAzHgiWNb_PT3Tx-_76Ao8CcVQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208158",
+    "finalDestination": "Cambodia",
+    "purchaseOrder": "CG-2021-150-001",
+    "projectRef": "Cambodia Airport",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP ODP 2970RPM",
+    "pumpModel": "8x6x13A ES",
+    "pumpType": "es",
+    "capacity": 1500,
+    "head": 323,
+    "speed": 2970,
+    "orderDate": "19 Nov 2021",
+    "dueDate": "8 Feb 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ns7wneb580gXh5D2bb2aJiKUYE2ddmak/-VIlXIIVfe_Z0zwJS7U52diezpErH0jt-w74gVkidXgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6bzmWC2EVMEc27RN22IoaazAoymw47/qr7lO5CFvhPtLsKNjhswEDQA6exmAzqq-gr8AsrhyJQk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/oA1Gh59k8Se4yfnVHzJHXxr7npeWfQjU/zjttM6gzsYHDL-wAgBnCzbhEMsK5-35P-lLKgn70Ebgk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208224",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-172-001",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 298,
+    "speed": 2970,
+    "orderDate": "19 Nov 2021",
+    "dueDate": "7 Apr 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/ou4F8YAPOwNyiJVjxiKRLuyy5h1k5Y18/CuSQnHFMIZwtkHy8WRDoe0ZF7gGveTDh-DbKAHOQ7qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6arKALlFfEkCdy9WuBkEmztmYsSSF6/BxQw71gXU89uHOuGlMkzg9j2Gyix3D8e-5Lygp-Y5FQk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "20 Dec 2021",
+            "type": "change order",
+            "overview": "status",
+            "description": "Place entire order on hold"
+        },
+        {
+            "date": "11 Feb 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Release order from hold. Due date to 7 Apr 2022"
+        }
+    ]
+},
+{
+    "CO": "C000208307",
+    "finalDestination": "Myanmar",
+    "purchaseOrder": "CG-2021-136-002",
+    "projectRef": "Kyaukpyu Gas-Power Plant, Myan",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13A SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 365,
+    "speed": 2970,
+    "orderDate": "23 Nov 2021",
+    "dueDate": "21 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/nCImfCPK3AkGldyP9pV7hx1PfwVm6Vw6/6LpTQkpkNekeTVp1iLXaRurQul9p0-M8-JbTAPKcePgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mC0JsdFQRpolrUxrJe4bDCh6V0EG9V0D/Y0oH7udyCJ8sMvKzsyf5nYVtqVQsSV5H-ZrYAWFo-Fwk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "23 Nov 2021",
+            "type": "update",
+            "overview": "shipping",
+            "description": "Eaton controller to ship with C0207194. Due date for that would be 3 Mar 2022."
+        }
+    ]
+},
+{
+    "CO": "C000208362",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-170-001",
+    "projectRef": "SMIC Beijing Innovation Center",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "18KMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1475,
+    "orderDate": "24 Nov 2021",
+    "dueDate": "4 Mar 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/oxQLN4t5MzImieZKUNCOx58CkNFanG06/MkYR9BDJQv2yoKppCsnE00LpyXXqmoCw-e7AAgWM7qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6jtm95GFSCDJUyYdvvzxHocB4IorJs/wzIlyl4pdrXl8pbZUfNyxq7uvJR7WoL7-TrNgZn6PHgk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/oxQMRxpoCEI0orzNNprAcBwINfgE7H8q/rtvlPFP4QasYyMh6N8is5X5jAL2qq6Bh-RbfgcFM9qwk"
+    },
+    "remarks": [
+        {
+            "date": "24 Nov 2021",
+            "type": "required",
+            "overview": "motor",
+            "description": "Motor details to be provided"
+        },
+        {
+            "date": "29 Nov 2021",
+            "type": "update",
+            "overview": "shipping",
+            "description": "Ship separately from C0208364"
+        },
+        {
+            "date": "31 Mar 2022",
+            "type": "update",
+            "overview": "listing",
+            "description": "Pump will only be UL listed."
+        },
+        {
+            "date": "31 Mar 2022",
+            "type": "change order",
+            "overview": "motor",
+            "description": "Motor details: TECHTOP VHS 447TP350U4B S/N 02 211221."
+        }
+    ]
+},
+{
+    "CO": "C000208364",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-170-001",
+    "projectRef": "SMIC Beijing Innovation Center",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD80",
+    "pumpModel": "18KMC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1770,
+    "orderDate": "24 Nov 2021",
+    "dueDate": "23 May 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/omaEZw8v7xdLvjZQy3uPDCElrprGJJb8/1Qq1U3tYP8UzwPhlWt-1GW1DHjQE6GXI-GbGgaZU7qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mXceCREN6ezCaj9m0ecRgfk34vepyHaX/5bA3l9WNMi19K0N3zJzctgBYTVx8TKnd-97Tg4YSQHgk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/oxQPf9z8azcYqSo1Qvfvdt6ShnW8fBsF/RR9HZNTEPP-wORY5YOD6v4wB7Cy26-Nf-eLfgRWE9qwk"
+    },
+    "remarks": [
+        {
+            "date": "6 Jan 2022",
+            "type": "change order",
+            "overview": "delete",
+            "description": "Leak Sensing Float Switch (Not Required)"
+        },
+        {
+            "date": "18 Jan 2022",
+            "type": "change order",
+            "overview": "shipment",
+            "description": "Ship engine separately"
+        },
+        {
+            "date": "18 Jan 2022",
+            "type": "change order",
+            "overview": "pump due",
+            "description": "4 Mar 2022"
+        },
+        {
+            "date": "18 Jan 2022",
+            "type": "change order",
+            "overview": "engine due",
+            "description": "16 May 2022"
+        },
+        {
+            "date": "27 Jan 2022",
+            "type": "change order",
+            "overview": "engine due",
+            "description": "Revised due date to 15 Apr 2022"
+        }
+    ]
+},
+{
+    "CO": "C000208778",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-175-001",
+    "projectRef": "IKEA China - Hefei & Nanchang",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAS0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 2100,
+    "orderDate": "10 Dec 2021",
+    "dueDate": "3 Jun 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/pReFgves9yytsL8mINlaxAUyBHVXqdqM/iihes2oaI1f239xnvq8NfRqzuh-p7jeT-OLSAt5A8qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mgOGm5pnnTUPiXm8EiutRsJgubHxWAX0/OQxXaWr9_I2Z9aBuHYzhwXLpwBdZ4o6n-f7kg5EheJQk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/prNEnQKYAhewhv9foooTI6rT0jTafRPj/v9pzwUOEi0UT1_efaobP-jzJaptcTsoP-ZLVgpGsSzAk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208779",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-175-001",
+    "projectRef": "IKEA China - Hefei & Nanchang",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "10 Dec 2021",
+    "dueDate": "28 Mar 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/oDHk6JB6C72WMvVMr2JzwarFLJgzXUTf/KWUb1w6P82nGbbK5GWDfDVLl11WZqp8n-YLogoeL5bgk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mgOK2T7Y1XZ65yWSzapHI9fp6ga0Ne0v/FiprFW_5kT9ZD6dvraNvzDNUPCRiF5XK-3LnAZVBeJQk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/pEqisBXy684ng8ci2My8xRIfHx8glpMf/Fv_3UkJ5wT391gGPAoxo-nXZ_-CL1T9l-vreAeW49qwk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000208780",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2021-175-001",
+    "projectRef": "IKEA China - Hefei & Nanchang",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF60",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 300,
+    "speed": 2100,
+    "orderDate": "10 Dec 2021",
+    "dueDate": "3 Jun 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/pLfV5ICkQp8kcf6KNP2xfGspWcQrXfFM/V3Ye-A_5W_1bw0ZvyYyU7IW-6sN9Cv4y-erSAraA8qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mgOJxv74HozQJjU6RXlfyEMXtD8f0aTE/6WT420TUwgbfexBrrsPEFb4ZHI8pWNN1-GbpAv1heJQk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/prNErd3798OIMONYNURHPWjPWXgahkJO/RamBIxoz02oNLN1xA7LAnlPkcHuWImSR-KrXAC2MSzAk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209603",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-001-001",
+    "projectRef": "Server Tianjin",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA70",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 333,
+    "speed": 2100,
+    "orderDate": "13 Jan 2022",
+    "dueDate": "1 Jul 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/pScPDkzX1CpFUSaORsZExXzztSgN8OWm/PGusqz2bFR_lMteP23zlj59HapSCq5UV-e7agNBU9qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1BfBCvoJ2lq3JVTD3TnqukcNaOeqYCG/GCvdrV1i-Ybe-5rRaICgfI7CMxl1mY4U-0r9A4C6uOgk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rGIQeYxKfOuHlaOaMIJD0LPBOTLbmKd2/1i0UZWQATRvukQ3_CDeKOfm4axylD3o--BLbA7sS4Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000209635",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-003-001",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 335,
+    "speed": 2970,
+    "orderDate": "13 Jan 2022",
+    "dueDate": "9 Mar 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/o3QVvuFDx7YSTFykFMk4knRJyQOEQ1pj/T4Qg2suuS4x35zAWKy6KnR5exkaoRj6k-0r4gbLyWZwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/n1IjScSRTSSYRCWwKNxJ4xURjAENvITG/EWWuYduqqAXMuhzzlMv4JlPgqNA1PRvX-urCA5a2uOgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000210215",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-012-001",
+    "projectRef": "NRMTC Guangzhou",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 2950RPM ODP",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 277,
+    "speed": 2950,
+    "orderDate": "31 Jan 2022",
+    "dueDate": "4 Apr 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/oxQLPbZfAlLqqWCluoI9gO3HPODRc4yq/y1cMrZ5HNR_a1G4BlXZouYKJnRa1RPDT-iLGA6bo7qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nNvf6GI2ayRx8rqm3ZUe7f9nkbctbP2x/1LxVY2Ch194dZrOqVUOAsSXvST_XSfmM-97cgBbMjRwk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/pEqj24NvwD9mdsOCtAWDPz1OnoXNeHao/CjyPRotA23URVCPIP28Rk3CFahltu6OV-UrgA9oc9qwk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000210216",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-012-001",
+    "projectRef": "NRMTC Guangzhou",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 266,
+    "speed": 2950,
+    "orderDate": "31 Jan 2022",
+    "dueDate": "4 Apr 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/pEteJst04PGsE5TewpTfPk2e0RYqi9Sv/SDXZc0lYCmvMDRRIQ60qmljK1OpJY6AO-fLIADAQ8qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nD2XiRl1xM47j5h1DzdOeoqHFk0YcxSt/CE92rI-qvgWfWKlZ_SNyAw1AUnXm0GTI-Orfgj20jRwk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/pEqizPBOED5mscmLpG9ZPCofm9binZQE/gFW2bI6kGZvwAUUXsMuuzvh_SaF84fFE-jbiA25Q9qwk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000210562",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-014-001",
+    "projectRef": "APTIV",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA62",
+    "pumpModel": "17JHC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 302,
+    "speed": 1770,
+    "orderDate": "9 Feb 2022",
+    "dueDate": "20 May 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/p0L4yiR8Zkyuqm1TDCm9x7gNBy3ovsEw/QeV2Unqhvek8aYE6wudF1Ttqav9xt41I-trYAXik9qwk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzSG2M3qJdNdPWmrXHoxmf3Kk0V1vGb/HUbsh5HrIwN-QZQJJV56Kproxcpaapod-dLfgsWxZSQk",
+        "iom": "https://synology.pattersonsingapore.com/d/s/pa0K5bC9t7flDBDn5NdSX1bYrOTmY13e/qr8XV4q_RvzB9rSjwFXu-fdp_Ze5Ve1b-8LQAKVgSzAk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000212165",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-040-001",
+    "projectRef": "HKC Mianyang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 254,
+    "speed": 2950,
+    "orderDate": "4 Apr 2022",
+    "dueDate": "2 Jun 2022",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "18 Apr 2022",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Change pump rotation to CCW"
+        },
+        {
+            "date": "5 May 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Order placed on hold. "
+        },
+        {
+            "date": "4 Jan 2023",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Order cancelled"
+        }
+    ]
+},
+{
+    "CO": "C000212166",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-040-001",
+    "projectRef": "HKC Mianyang",
+    "driverType": "Electric",
+    "driverInfo": "WEG 200HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 298,
+    "speed": 2970,
+    "orderDate": "4 Apr 2022",
+    "dueDate": "2 Jun 2022",
+    "status": {
+        "order": [
+            "cancelled",
+            "danger"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "18 Apr 2022",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Change pump rotation to CCW"
+        },
+        {
+            "date": "5 May 2022",
+            "type": "change order",
+            "overview": "status",
+            "description": "Order placed on hold. "
+        },
+        {
+            "date": "4 Jan 2023",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Order cancelled"
+        }
+    ]
+},
+{
+    "CO": "C000212237",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-030-001",
+    "projectRef": "IKEA Xian",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF94",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 335,
+    "speed": 3000,
+    "orderDate": "5 Apr 2022",
+    "dueDate": "27 Sep 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKiAdE4HbUu0YluqWHRYEJoZkeKaGCi/aI952rV-DtINS3qC3AHiljBNWKiCQVRl-JLrguT0sbQo",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "21 Apr 2022",
+            "type": "change order",
+            "overview": "engine",
+            "description": "Model changed to JU6H-UF84 from JU6H-UF94."
+        },
+        {
+            "date": "21 Apr 2022",
+            "type": "change order",
+            "overview": "pump",
+            "description": "Pump discharge pressure changed to 145psi (335TDH)."
+        }
+    ]
+},
+{
+    "CO": "C000214410",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-056-001",
+    "projectRef": "Shanghai HuaHong",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 1470RPM ODP",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 277,
+    "speed": 1470,
+    "orderDate": "13 Jun 2022",
+    "dueDate": "22 Aug 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qXrlXZupnNeuFtltjAlyDPJ5AHMn4xHX/pNRTIZEPE8Je0Hw2S9vFVTz2Qbz_2lZc-xrFAeda2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/p7EPVK5WvmI21Wz0478fbuBxGEihpi3l/jjMVM_tTqtyUCPBNi8htnVazVKY7ipv8-4LOAAxBGvQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000215724",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-074-001",
+    "projectRef": "Borgwarner Suzhou",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "26 Jul 2022",
+    "dueDate": "18 Oct 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/pYtMrFbBmAhHG3ENcsssfoLjbClfedQJ/I30Raox9ADcZLDrr9y7NzcAUPsAbDmTV-ILTAZSZGvQk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000216592",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-105-001",
+    "projectRef": "Intel Dalian",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 381,
+    "speed": 2970,
+    "orderDate": "22 Aug 2022",
+    "dueDate": "28 Oct 2022",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/pyYKVes8xaUQUYSBvaPX5yh3NZNDPXRb/Bmk28pkfcnGB_IkI-T5ykV1WpnHqZU-Y-kL0gyNyNxgk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000216947",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2022-113-001",
+    "projectRef": "APTIV Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF50",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 231,
+    "speed": 2100,
+    "orderDate": "1 Sep 2022",
+    "dueDate": "16 Nov 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rUKiDpmTlq5Uvijw61FmVtGoBKioNDA6/DAO3b7JVHsxBFvFx5yKsCIK8TlYSNvf3-TrHgvL-2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/q8UZPIuPU5LtNUIfqfEqNnPMn3wdGgb6/oNUzhmYX9RhK7ukUu4LHf0MbQ0A-14H6-PLnA1N79zgk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapRrl0sR3iQb7rfMSQiTGoXHlyMK3ey/KUbOjxeHDkboyLK19X8DL8pS2Cgb0SKd-GLSAW2S4Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000223765",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-052-001",
+    "projectRef": "ROHM AND HAAS DONGGUAN",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF12",
+    "pumpModel": "4x3x11A ES",
+    "pumpType": "es",
+    "capacity": 250,
+    "head": 127,
+    "speed": 2600,
+    "orderDate": "19 Apr 2023",
+    "dueDate": "11 Jul 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ut19iXwvNu3k8ZM9xOzbo27T7TU1oTeN/dlSYR3gtPijXzcTuXue_BhCk9l9bE7Ie-ZLegdXnorwo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tCoj5qHvxE5dMFP2SljlVGuAf0VviVjA/uuCEhD_vSwLse9I5JBKeWybS5K0LULRP-eLCgruEmbQo",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/uqyqY64h6tDpvTIbw4lHGtK8xyrfMCHs/V8aaUl0-lHhTf3-kXG0a2merTsIfjTLB-B7egnFvorwo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000223766",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-052-001",
+    "projectRef": "ROHM AND HAAS DONGGUAN",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF12",
+    "pumpModel": "5x3x11A ES",
+    "pumpType": "es",
+    "capacity": 400,
+    "head": 199,
+    "speed": 2600,
+    "orderDate": "19 Apr 2023",
+    "dueDate": "11 Jul 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wPILaOBi0gUIWEnuI6zra4mzjYzZmTjD/E4ZHJaKSefENrfT_Xfbal-_5rxomnrWS-prQgY4tDFgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/tCyKHG9fJe5RBUfH9kBa0MhDUa8qGTmu/AFOL7MFT-f3KK_zDU4IOittaV-zy_Ve1-CbGgWDgnbQo",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/uqyqYHZRsXPgJzLdiFituKoNb33cHeTR/Nl-HL8Jvfyv-PLXeNErWS75bJ9JR5xyP-37ZA3lTorwo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000225610",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-085-001",
+    "projectRef": "Estee Lauder Shanghai Logistic",
+    "driverType": "Electric",
+    "driverInfo": "TechTop 300HP WP-I 380V (Customer Supplied)",
+    "pumpModel": "17JHC-5 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 405,
+    "speed": 1475,
+    "orderDate": "20 Jun 2023",
+    "dueDate": "9 Oct 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliJrPGM98aCdenG1mMxKUMTP45h4lu/KkaqICQjlTamyDUVoHHDViw2QymBbboe-brbAihlEFgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/uESB71gc7F97RakEOBxP4y8xp9fnllPd/7KBADERnqwStIemYhECQPe5rG3haonAX-RL_AjUBxkAo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "11 Jul 2023",
+            "type": "change order",
+            "overview": "OAL",
+            "description": "Modified OAL to 29 FT 2.28 IN"
+        }
+    ]
+},
+{
+    "CO": "C000225614",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-085-001",
+    "projectRef": "Estee Lauder Shanghai Logistic",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA50",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 405,
+    "speed": 1770,
+    "orderDate": "20 Jun 2023",
+    "dueDate": "9 Oct 2023",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/uESB4hdBaiDOECCUybpKMFNYTpz6zrUA/KoaQtwu-nFYHnmre6SAYFyFCYxm-Eacv-3r-g9G5xkAo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "11 Jul 2023",
+            "type": "change order",
+            "overview": "OAL",
+            "description": "Modified OAL to 29 FT 2.28 IN"
+        }
+    ]
+},
+{
+    "CO": "C000226187",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-007-001",
+    "projectRef": "SMIC Tianjin",
+    "driverType": "Electric",
+    "driverInfo": "Customer Supplied",
+    "pumpModel": "18KMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2500,
+    "head": 349,
+    "speed": 1475,
+    "orderDate": "11 Jul 2023",
+    "dueDate": "16 Oct 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wehF9Kn5b3HBlQDkDIdFXwCqxmvKc8ca/HAjoC4g3cT1ecXE13qS_L-49RybP-oGZ-ELUAwqVDFgs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/uLwz81dtRgdxJw0ryJfebDKjzEWKrWLq/0oFGLNdRGJY6PzWlLnibd9qLuIg_As30-H7SAudhClgo",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "15 Aug 2023",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Add 6\" CLA VAL 2050B-4KG-1"
+        }
+    ]
+},
+{
+    "CO": "C000228071",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-138-001",
+    "projectRef": "3M Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "19 Sep 2023",
+    "dueDate": "20 Dec 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLLEUy8CpFl6I3xzRcSOyGHZUo0yC/aVCYour9qYbvdvuKim1-jYnQnjk_lv8K-CrcAskVEFgs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/vIojY8MZ4idNVWCKURM2c1iLFMbhw4PR/JccVqtXix4_OALxwKfrEVZMuNmAH6ykH-LLfAhhjswwo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000228072",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-138-001",
+    "projectRef": "3M Shanghai",
+    "driverType": "Electric",
+    "driverInfo": "WEG 300HP 380V 2970RPM",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 388,
+    "speed": 2970,
+    "orderDate": "19 Sep 2023",
+    "dueDate": "20 Dec 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLsRZCJew0WtwMYs77IFzvHY9Yu8w/ffuXdIA-TnoGqyu3IxEY8RBZfwS-3WmD-M7dgEU5EFgs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/vIojZKAGtg11g5X2aF7gdlezy84lcKBL/6u157cTB8cMbne5hlw6BdbsSyxI3ZzSd-YLfAB0Tswwo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000228073",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-138-001",
+    "projectRef": "3M Shanghai",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 380V ODP 2950RPM",
+    "pumpModel": "6x5x11A SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "19 Sep 2023",
+    "dueDate": "20 Dec 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLr1ZXvzjtNjrhDM6sIzdHFhDvVWk/-pTJzVl8wsSZEPioEGBmy1No0RGtS3S4-ZLdApVhEFgs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/vGeEl2IpZtscEr8BlduAOpQb1RNTNkCC/yqqzHzqLq0JN-nGUbLqNlh40uKwrhP-p-97YA3uPrwwo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000228074",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-138-001",
+    "projectRef": "3M Shanghai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF94",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 388,
+    "speed": 3000,
+    "orderDate": "19 Sep 2023",
+    "dueDate": "20 Dec 2023",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLaQ2QswVbj7wBpxw4UvpoNybTpv3/wnVDbQJvnHyLfuaypX6ChFCLu8nX9lOV-ibcAt2BEFgs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/vIojcxXmBQAv6JOTkNclyKpb27n3jMh9/etQzh2Kjcq2qjnu0sjH0QzGT2_bMr_4y-mrfAtGrswwo",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000230489",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-169-001",
+    "projectRef": "BOE Beijing - Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP 380V ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "11 Dec 2023",
+    "dueDate": "14 Feb 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xIZtq9HuGPtsf0N5xLXPFuDFoMz4mfmk/7FYWOClHwIvPTWNMfkuOXFaO5AEnInXj-5LmAHR3sIws",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wsJhgy13CkK72TnwECG1a0MFdRa1L0wi/7HHPdpdBSxRbpFYjmS2OjOwr3btRU1EQ-0bCgLlLVDws",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000230490",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-169-001",
+    "projectRef": "BOE Beijing - Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "11 Dec 2023",
+    "dueDate": "14 Feb 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xEhb4fOThjxwWEoBzfP2BA6CHiQASceY/6Rx3B-F-TjPLqAmALff4LowS-fGwHnt--D7wg86fqIAs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wsJcrFAUGH58ox2ipY70iPpdd2s1kSk7/SovuvEA52t6iQo_gntQ4Dv0wRWSAzjA3-DLFgiFjVDws",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000230601",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-178-001",
+    "projectRef": "",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "6x5x11B SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 300,
+    "speed": 2950,
+    "orderDate": "12 Dec 2023",
+    "dueDate": "19 Jan 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xEhf8jKmZz5oH2D9wZ28CEPP8cTdtT8j/n-sUTwiR7urnyRTeRBudKT3CgMM5RFJY-17vgtpzqIAs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/wehEzfR4R1z0F3Sj6WXiXmvFY7EuHTTE/uEz9lV1BSJV5JUPzLiyeDgT9pQslPgPQ-4LgAaienDgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000231068",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-185-001",
+    "projectRef": "Boston Project",
+    "driverType": "Electric",
+    "driverInfo": "WEG 125HP 380V ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 238,
+    "speed": 2970,
+    "orderDate": "29 Dec 2023",
+    "dueDate": "1 Mar 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xaMrd8nzDSFQUAcw84T3zF7qVzUYiOKI/ON3FuJ0R_S42m1tKwQDz85gblwMfrY5V-tLFAvntqVQs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/wehGTqoMY6rK9D36Q8S5PnD31BDvnbgm/KGhjgE1rYAzdFuiCNlPpM_UkFDw9w9dz-krhASeumDgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000231212",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2023-189-001",
+    "projectRef": "Pfizer Beijing",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 380V ODP",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 289,
+    "speed": 1470,
+    "orderDate": "05 Jan 2024",
+    "dueDate": "12 Mar 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/xaMrd8WO5MCWHVJDDPfe4OosEE4Stzpc/8pZKrPDpzKMXS6UwPT4cVTSdQgrJCOk4-K7Egul5qVQs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/wr9hSLAsA76UoaRtkycCBiVVMAmW4F5o/Xxh2VNgS-Kkexk0jEhej-u9_b10_0Y1T-PrgA33ymDgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000232827",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-008-001",
+    "projectRef": "Phase II SMIC Beijing",
+    "driverType": "Electric",
+    "driverInfo": "Techtop 350HP (Customer Supplied)",
+    "pumpModel": "18KMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1475,
+    "orderDate": "23 Feb 2024",
+    "dueDate": "30 May 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/x9hONyAVzYOttn1XQrfRoUeANzF4MBj6/pkSc7zgMbMEB-N7ljVjVZC9blEi8kyLO-ybCAXlBmKgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000232829",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-008-001",
+    "projectRef": "Phase II SMIC Beijing",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD80",
+    "pumpModel": "18KMC-4STAGE",
+    "pumpType": "vt",
+    "capacity": 3000,
+    "head": 335,
+    "speed": 1770,
+    "orderDate": "23 Feb 2024",
+    "dueDate": "30 May 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/xQvgRFOFK2NyQAhEiQnOKhdUaYqudaec/3IMT6qEPNKdyruOik3xAiOSG4xAMHDwz-M7Fg33FmKgs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000234989",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-042-001",
+    "projectRef": "Sichuan Danfos - Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 3000,
+    "orderDate": "03 May 2024",
+    "dueDate": "17 Jul 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEl7m1uJ1OgJTu0krzWrR6hIg0PbMGkQ/VMSWzU4ozIVi-1iHkN64DI91IDtYpdEM-jLBAujhqVQs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000235002",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-042-001",
+    "projectRef": "Sichuan Danfos - Electric",
+    "driverType": "Electric",
+    "driverInfo": "250HP / 3phase / 50Hz / 2970RPM",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 323,
+    "speed": 2970,
+    "orderDate": "03 May 2024",
+    "dueDate": "17 Jul 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEyfbG1Rm6mktJt8IYbNUECYzQbtocvB/lZ9OlNB1M70USuQuT_-g-u3dVBcfuBPj-OL9A-9ZpVQs",
+        "iom": ""
+    },
+    "remarks": []
+}
+]

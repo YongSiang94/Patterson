@@ -1,0 +1,41 @@
+[
+{
+    "CO": "C000166604",
+    "finalDestination": "Myanmar",
+    "purchaseOrder": "009/CR/TH18/PTS/SE",
+    "projectRef": "Crown",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFAD70",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 404,
+    "speed": 2100,
+    "orderDate": "30 Jan 2018",
+    "dueDate": "20 Mar 2018",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+}
+]

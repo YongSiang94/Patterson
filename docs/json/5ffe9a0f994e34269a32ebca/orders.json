@@ -1,0 +1,932 @@
+[
+{
+    "CO": "C000187745",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110001.0,
+    "projectRef": "First Solar Kulim",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "8x6 MI",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "13 Jan 2020",
+    "dueDate": "24 Feb 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547493948043870/ieVnGiDKosQIJdiLyghOviVsxDSEvHv9-b7TgfIiMdQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000191587",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110048.0,
+    "projectRef": "Fatty Chemical (M) Sdn Bhd",
+    "driverType": "Electric",
+    "driverInfo": "NIDEC 150HP 2970RPM ODP",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 2970,
+    "orderDate": "19 May 2020",
+    "dueDate": "14 Aug 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/569059511684346677/Zvu4Pgk5MR0Pqq-bgszZFKHJa4n5SyOt-17sgDJckTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/573683537838911877/sOpS8OVVEmAfBJ3GO1CtP1Id0C1icm_3-trvAApAkTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194076",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110096.0,
+    "projectRef": "Kimberley Clark",
+    "driverType": "Diesel",
+    "driverInfo": "DS0H-UFAA68",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 3000,
+    "head": 347,
+    "speed": 1470,
+    "orderDate": "18 Aug 2020",
+    "dueDate": "2 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547502881911495/x1rZ3QMaJvWiYMBbaIkHDTLQXUgE3q-9-sbOgY1iMdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653949880873028/pkPtcsHl78l85Ob4b-yKW49hPqWsvDOe-.rug.KEkTQg_"
+    },
+    "remarks": [
+        {
+            "date": "20 Aug 2020",
+            "type": "change order",
+            "overview": "accessories",
+            "description": "Add 1 flow meter FT-FluxFP-0LS0"
+        }
+    ]
+},
+{
+    "CO": "C000194079",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110104.0,
+    "projectRef": "Lam Research",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFADJ0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "20 Aug 2020",
+    "dueDate": "5 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/577569793394122761/Lq16WetgvDQa-q3XdVIhTo0NeVhTS5rB-Q7zgW7EkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653953374728287/YmhwM7jx_aQ0TBUL5BR0_PEviRLdX7LL-G7wgaKokTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194080",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110105.0,
+    "projectRef": "Lam Research",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 347,
+    "speed": 3000,
+    "orderDate": "20 Aug 2020",
+    "dueDate": "5 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/577837069378827799/aFHVFLAkGyOtc4WT9nRuBkSRFuiGzhF2-eLxgrcQkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653951569080408/OJ0DuvDfzVvLBSbg8iimDOXZVE68UMH0-nLwgHswkTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000194387",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110102.0,
+    "projectRef": "N.P.",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "28 Aug 2020",
+    "dueDate": "10 Oct 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/580007202851437760/2PT5pNUcDo4yfagXc_BcUZxoPPU48yuJ-5Lxget8kTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/582653953292939357/NV9Uppg8R87KZ8co8f8s1HMdleoQa9Fl-ybwAiNkkTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195454",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110120.0,
+    "projectRef": "Dell",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "5 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/609547310837313955/G8IWx1pSPzkVkExZfIdAEgMoexx3zw__-JLKAix6MdQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781797380406694/RiXjbHI6OrS6VQPMnX6IGxdQCk7eZfFe-B70gfuckTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195499",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110119.0,
+    "projectRef": "Smith and Nephew",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFAAT0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "5 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/588259351173578546/-UhoaCoGJvaqM_JWktv1X51kdEVIFIGO-Rr0gKfUkTQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/595781799467072960/vpsJDWtOd6LH2ZdGy8YfDgT-l5hwdKgo-Kb0AUu4kTQg_"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000195564",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110119.0,
+    "projectRef": "Smith and Nephew",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 312,
+    "speed": 2100,
+    "orderDate": "7 Oct 2020",
+    "dueDate": "18 Nov 2020",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/588816836343150601/bMadKI4oHhubl9SR8Yp9-TR0iynZxpGk-ar1AQPskTQg_",
+        "submittal": "",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "7 Oct 2020",
+            "type": "clarifications",
+            "overview": "pump",
+            "description": "Pump is UL only."
+        }
+    ]
+},
+{
+    "CO": "C000197020",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110138.0,
+    "projectRef": "Mattel Factory",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 312,
+    "speed": 2800,
+    "orderDate": "23 Nov 2020",
+    "dueDate": "18 Jan 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "CIF",
+            "success"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/600484595825163225/2M5iUf6NuTXQ1YXXXMTc1W_pqBJiS8ep-a7xAJOJZVQg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/610914667019154397/ePPz44FWcvGYA3SGxmtoOiCIUSa7KFrF-EbRg8Kpnegg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Mar 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight terms to CIF Penang Port"
+        }
+    ]
+},
+{
+    "CO": "C000197919",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110157.0,
+    "projectRef": "UCT Batu Kawan",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFADJ0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "29 Dec 2020",
+    "dueDate": "17 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "CIF",
+            "success"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/616880914938507705/OTIKZc1e8OAfUhVB2yP48gxeOrI1FgIa-ArIAl.WZjwg_",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/616879487230980139/6DdaavUJj6zO_2tVXsquA_LOdrijaeFF-irAAusaYjwg_"
+    },
+    "remarks": [
+        {
+            "date": "3 Mar 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight terms to CIF Penang Port"
+        },
+        {
+            "date": "6 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export crating"
+        },
+        {
+            "date": "17 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
+},
+{
+    "CO": "C000197982",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110158.0,
+    "projectRef": "UCT Batu Kawan",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "29 Dec 2020",
+    "dueDate": "17 Feb 2021",
+    "status": {
+        "order": [
+            "TBA",
+            "TBA"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/606989827511988259/9tdSOthaX9UrN8t3QcChm3NMT-506exl-abDgCQ52bAg_",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "2 Mar 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight terms to CIF Penang Port"
+        },
+        {
+            "date": "6 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Change freight to exworks"
+        },
+        {
+            "date": "6 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export crating"
+        },
+        {
+            "date": "21 Apr 2021",
+            "type": "change order",
+            "overview": "shipping",
+            "description": "Add export boxing"
+        }
+    ]
+},
+{
+    "CO": "C000202141",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": "110212/110215",
+    "projectRef": "AMD Penang",
+    "driverType": "Diesel",
+    "driverInfo": "DP6H-UFAA88",
+    "pumpModel": "17JMC-3 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 347,
+    "speed": 1770,
+    "orderDate": "11 May 2021",
+    "dueDate": "13 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "awaiting",
+            "danger"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lXlkUwhf6SRpJBq0bIFm5mVqpPaqLlxJ/zmJILR0jTf5CCCc6r0QEUfK4o-biLhAP-mLigatKV7gg",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/617248636453040566/pvvgE_eDedfusHVwnDM7l4kAHWm482xy-obDAfZD4mAg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/m7V3daeU6FQIcKyIS0SfO4lxo1dvzczJ/wxfwYaRA-JVNZR378pOSsiWCv3ZiEiDJ-4rFgiUFoFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000203008",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110227.0,
+    "projectRef": "Mondelez Prai",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 312,
+    "speed": 3000,
+    "orderDate": "10 Jun 2021",
+    "dueDate": "23 Aug 2021",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/lFsSb2dMWAUQ3SaBUxOFOsuQGCw7IJMR/y-Q6C1NqCZpAybPi8uMcz3QhOk1Y8X33-N79AA2vM4Ag",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/624415363366435954/iblF8MfvuI7W6VJzDgxUk2kvMtRm-rVy-dLbgNrwzrgg_",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/m7V21MyNEFYEIENthmzbWup7oIolAQOw/3W1XAV9ptpGD1UZJ98CtmE-T3snKYP1R-rbKAnWRoFQk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024245",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110315.0,
+    "projectRef": "Jabil Project",
+    "driverType": "Diesel",
+    "driverInfo": "BIMOTOR - B6TH42",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 289,
+    "speed": 2800,
+    "orderDate": "30 Nov 2021",
+    "dueDate": "2 Jan 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tUyHRrpnJbWzibTbfsr2nD9gzR7BmpLg/pxe3SvrkVEcDXMrrT1sGdTk1xVGQl7sx-cLZgPXMpbQo",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/noTYkIBeHbZb7bkuRdXk1Lqu0lZNRtDt/BtEXSap0YimWGId5SHmvqCik8wGWE7cD-WrwAfDa7Wwk"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024455",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110343.0,
+    "projectRef": "PTS Diesel Pump",
+    "driverType": "Diesel",
+    "driverInfo": "BIMOTOR - B4TF41H",
+    "pumpModel": "E4J11A-H FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 347,
+    "speed": 2980,
+    "orderDate": "20 Jan 2022",
+    "dueDate": "12 Apr 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/tV25Nxfl7hoqI6H5IxNKzfrUjzWbbhX8/hM-6FsPyaz7EmXGl5S4wzfluIOjmcpWD-xrMAOqY1bQo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/nPzb4zXJrwzi3umT2kTpWF3XwAB3CKoI/J8CkickD1N1BTxtZ6O7lzRDRvl6ghB5p-CLrAg4y9SAk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/tV21WZZvmtXjPK3UFEQu6JPaGbtZoSEe/A2W7-kPeR1lBFA8TNm5jfevJkcE9e3F5-WbOAyY01bQo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024740",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110425.0,
+    "projectRef": "Dexcom",
+    "driverType": "Electric",
+    "driverInfo": "Regal - 75HP 2980RPM TEFC",
+    "pumpModel": "E4J11A-FP",
+    "pumpType": "es",
+    "capacity": 750,
+    "head": 254,
+    "speed": 2980,
+    "orderDate": "28 Apr 2022",
+    "dueDate": "20 Jul 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qxRgGmVgc5YIN0GYCtQARMgVmisaiHZY/Rwa22gkOsm9iaGeI3ABd5gXL9qEwq4om-Ib3AnBj48gk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/pvWOoYBVgkLJcVANA1nhusCcdF6VyHne/WPTa4v09I2Ek8J6UVHDlpuockMIFKIb4-arzAy6T38gk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000024742",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110425.0,
+    "projectRef": "Electric Fire Pump",
+    "driverType": "Electric",
+    "driverInfo": "Lincoln - 250HP 2980RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 370,
+    "speed": 2970,
+    "orderDate": "28 Apr 2022",
+    "dueDate": "20 Jul 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/qxRhnYGL9DrlGzrhGaGxlamcECFeC59l/ECa5hzG1jlB1xsBCEvipmCqRlXIGa7LL-jb1gQTf48gk",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/pyYZtzqF77KbUJLsKkI4mUQAcXpPPoTx/45RS8WdvOvhv5VYa4kw8tXw7wT5QZLBv-1b2gv0X48gk",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000213275",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110448.0,
+    "projectRef": "Fuji Kulim",
+    "driverType": "Diesel",
+    "driverInfo": "JW6H-UFADJ0",
+    "pumpModel": "10x8 M",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 2100,
+    "orderDate": "9 May 2022",
+    "dueDate": "23 Sep 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ssAOEQOH3A4nIOeYg9s2SxrIodZryOZj/ByS9yfL1xaPpGRzBpRvDyKCoucJdgDXI-jLAgyHi2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/oaV2i83L3GHRrLqnSD7Qg2oDnrJt3DhZ/v4dvIclkzvmCl5fmunkTYBXxHrhAFtbt-hbOAiwSRxgk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/rrx9LPZHVQkb7L3hHOO4z5GWqbSS5bbh/1vUC-CpfinB8KRL4Jrnje4ABAaPRRHRv-Q7VgcZ24Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000213308",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110448.0,
+    "projectRef": "Fuji Kulim",
+    "driverType": "Barepump",
+    "driverInfo": "NA",
+    "pumpModel": "12x8 MAA",
+    "pumpType": "hsc",
+    "capacity": 2500,
+    "head": 347,
+    "speed": 1470,
+    "orderDate": "9 May 2022",
+    "dueDate": "23 Sep 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/ssAOEFkJfYNCpVw86tXgOjNtTUDdC3Tk/nzIVQj9PDLCBCyOB__PNj2cKB2UvjadS-TLBgC2q2Wgo",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/qxpkKuJ6NhanTRvAdBO944ay9s5sBkh6/-tf-HpQWVlKjXy3C0nzDNDt9OOdVbOok-g74AuCtF8wk",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "4 Nov 2022",
+            "type": "change order",
+            "overview": "listing",
+            "description": "Pump to be only NFPA20"
+        }
+    ]
+},
+{
+    "CO": "C000214143",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110458.0,
+    "projectRef": "Intel PG10 DFP",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 347,
+    "speed": 2800,
+    "orderDate": "6 Jun 2022",
+    "dueDate": "31 Oct 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rOqlVNmrRnvyRLCFqKgyQpK0O6WdRMVS/KhhVOmH43GA37_9vVCAurPReUas2729R-b7pgxk8sbQo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/p7qRxxVTqyNywGS2o1jlQeKhO71HzGVH/T3pRVr5jTCga8BGgneginv-FGKMIQGMM-GbOAsN2Qxgk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapSSdjOJH4FpK1aV7Evk02FioUhakTu/JCzOju_zJluh_-S0IPGQ_UnYETmJnxb--YLRAX2-4Wgo"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000214144",
+    "finalDestination": "Malaysia",
+    "purchaseOrder": 110458.0,
+    "projectRef": "Intel PG10 EFP",
+    "driverType": "Electric",
+    "driverInfo": "WEG 250HP 2970RPM ODP",
+    "pumpModel": "8x6x13B SSC",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 347,
+    "speed": 2970,
+    "orderDate": "6 Jun 2022",
+    "dueDate": "31 Oct 2022",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/rrwRMTKf0NSXwcdQtAcp6zmyfE5Au2H0/0BwOnhWLhZCmCZHqsAaB4JU9Ri4V9JNQ-t7rAHlksbQo",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/oz2Aw9L4MamcgQCjCqa7X9ju2Btioyo0/ObZvoHqkYR2sgnhkkl0JJw-sNCEATSzj-6LKAEdSQxgk",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/sapSc5B45jbimnqYG0waAbUSTwianNiX/TzvndrPE_xKZDGxHStdrnc1XfUrcyGUV-lrTgOna4Wgo"
+    },
+    "remarks": []
+}
+]
