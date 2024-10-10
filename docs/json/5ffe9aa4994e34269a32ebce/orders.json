@@ -1578,8 +1578,8 @@
             "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1617,8 +1617,8 @@
             "success"
         ],
         "payment": [
-            "TBA",
-            "TBA"
+            "paid",
+            "success"
         ],
         "terms": [
             "ex-works",
@@ -1723,5 +1723,83 @@
             "description": "Add 1 6\" MRV 2050B-4KG1 150# 20-300 PSI"
         }
     ]
+},
+{
+    "CO": "C000239600",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "10052P",
+    "projectRef": "Villa Ciwaruga Bandung",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF34",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 330,
+    "speed": 3000,
+    "orderDate": "9 Oct 2024",
+    "dueDate": "4 Dec 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mGZmHnxVlqFs5ROCDahhmKii18LbLQqo/143xa39dWan7fPbebB63LAqzSMMwKM8f--L5AN14TvAs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000239602",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "10052P",
+    "projectRef": "Villa Ciwaruga Bandung",
+    "driverType": "Electric",
+    "driverInfo": "WEG 100HP 2950RPM ODP",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 750,
+    "head": 330,
+    "speed": 2950,
+    "orderDate": "9 Oct 2024",
+    "dueDate": "4 Dec 2024",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/10MqBgOaiaWXCouesCKEbPIx9uo8Lfaa/QCe355m7L3bHDeGUxzTc-CnKj-w6aZ2y-lL8gTIYTvAs",
+        "iom": ""
+    },
+    "remarks": []
 }
 ]

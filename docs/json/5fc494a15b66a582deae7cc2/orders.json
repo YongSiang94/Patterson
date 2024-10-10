@@ -358,6 +358,45 @@
     ]
 },
 {
+    "CO": "C000185609",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "1910/034/V/R1",
+    "projectRef": "Bima",
+    "driverType": "Diesel",
+    "driverInfo": "DQ6H-UFAA98",
+    "pumpModel": "17JMC-4 STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 451,
+    "speed": 1770,
+    "orderDate": "28 Oct 2019",
+    "dueDate": "31 Mar 2020",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/zh2kiwZA3IIZxtzDZtouTcSZoWWvCCCs/-PoWpT0YEBYtZsE3yl1J3YY7KqPqqMVD-0bKAJHkmqAs",
+        "submittal": "https://synology.pattersonsingapore.com/d/s/559418058936984207/qmnmHmr3xpMSq0qH2g_fwv26QSwHjviP-BLOA65ImqAs",
+        "iom": "https://synology.pattersonsingapore.com/d/s/560271433442304183/8qraRwjlo64Z4diqoFnLb49Fpjc2yYyR-mbLgE2smqAs"
+    },
+    "remarks": []
+},
+{
     "CO": "C000186009",
     "finalDestination": "Indonesia",
     "purchaseOrder": "",
@@ -2307,12 +2346,12 @@
     "dueDate": "17 Jun 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -2324,9 +2363,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/106uFiSjErBAPfZadZ7Av3IaufPzhf2k/F33JZcxShIHnurXFqeRBfu7rQepZvZQy-UrBASakTvAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/w7rvOSDWlQcvLFzXqHWJ4TwfrXlyyqX9/UhuUHKzZgpD-DULH4wZJI_Blm2ufVlGW-rLIgGJbjIAs",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/10Rk2X2G4LZu7y5n5Q1PXdkTSSizzSK4/2fNboM-sMliVb3Z3eiXI313pYENuZCM6-uLDgINQTvAs"
     },
     "remarks": []
 },
@@ -2346,12 +2385,12 @@
     "dueDate": "8 Jul 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -2363,9 +2402,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/zttbnc0YSVnV46EP4RlbsvAHAah5oPB0/2lJWofSATfYgiXTre_hGp3Z-bRPquTZv-TLUAS58nqAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wnJJFdlMvSv7lDFumpp3STaafFz1G2vz/59XoADvMqtcuSb3Frgp85KOUzgYsmSy_-0rmAjsLcGQs",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/10FxSpgsra0RbI1iRFhOXzICclKnPAti/DyZWsP67m5bA-4oNawvmtb9vURGgdZ5L-BrHgRNsTvAs"
     },
     "remarks": []
 },
@@ -2385,12 +2424,12 @@
     "dueDate": "8 Jul 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -2402,9 +2441,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/zttbdGvVB75zA0EJ7LUYASlPm5VKCiLY/JE4YU6SfiWY6UMvWgGwS0iIenSbGI5SS-t7WgyMYnqAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wzNuSOM6z0rngNuihlBBSKZV2fdMqiwM/yYzO6i8bTCs1-4VrObfnZrbsW0VsuIgM-JrpAn9rcGQs",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/10FxSQrgykn4napoDc9VRzXMK1vDcdhT/mWMtDJk36gJBiOhAIt23VH84qSdUIWCj-OrGA1-4TvAs"
     },
     "remarks": []
 },
@@ -2441,7 +2480,7 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/zdg8gQMhZv0kDZElki3wDi38R3oriM3m/Y2OnRwTgj-GLaabRR-A2343E1PTQF1U4-frXgrK4nqAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/wVxqJlOCrtpmmHq3rRYIG4ZJtOcQ3tVL/3l9ytUHyapJ66YrZbkLdKhVEy0hq7iuS-SrCgIDTiIAs",
         "iom": ""
     },

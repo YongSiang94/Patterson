@@ -450,12 +450,12 @@
     "dueDate": "26 Jun 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -467,9 +467,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yzqEmZQtB8iutruG7zRtfVDxOBR9eQGC/TIMwpif7eI3_xJNxcP_htkPcQKlbVxBT-l7dAi0x7eQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7EbQBzW28rEbchlQZl3AdhC6GEWSVI/bu05Kr_BURsRgdoaeNcG0qD5wBm7KuTK-P7XAA9vQUws",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/zuNe5Ehm3vnb2IyTnysSJH5yjcvINqhj/NWW2aiVm3MJsHOB_GdkP-EooUJFyxxHS-MLSA5iYnqAs"
     },
     "remarks": []
 },
@@ -506,9 +506,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/d/s/zOG1J73eQ1OTqsIff5rfGoEc7LV7sQgo/wdHVXSEVEh-SkZboF7hYkJc_uVgI7YYY-W7NgrsImqAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7FecgKSb5AkyS2ZBLzIUGCeaof8wFP/uQLW7bhcwLYscG-PN4foyzuU_EnpxD0p-ZrUgCeHQUws",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/zuNeE47CPv6WRg5BEkLWxHcArVt9OJSQ/huxqAQo8hfujinLvkrrT9ctC5M4zZfLa-hrMAStcmqAs"
     },
     "remarks": []
 },
@@ -528,12 +528,12 @@
     "dueDate": "26 Jun 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -545,9 +545,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yzqEnqCZm9AIO0dGGMf1VVEk7IdWs1Xr/s_lAaLfB_-mVZ51EeGPMtF9vAW-6mmjZ-x7cAHVR7eQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7J34OsyuWtPHOr7rvXI88PlXDBBAc0/f3gdZQLmozHDFiRO3d_LbodQpKwDUM5D-ibWgvefQUws",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/zuNeImU2OzOX3rprMW7bWeppfTpaZRod/vur_-SSPZ_OuhRyD0ReCaSgVlbVXU5rA-abSAlz4nqAs"
     },
     "remarks": []
 },
@@ -584,9 +584,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yvXqWWBllUiBsXvPv5J96oYiypy03js6/szvSv4Figm3H-0uXCkmCeRW4z9xqXomf-_7fAOGV7eQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEkffUhZvvIQF4HpuPsLuQduUP5aWLPU/85wA1e_zwxAUfg5kjCSSjhKgTy4VtBF4-rbVgfu7QUws",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/zuNeNxfA5Nz0cVqwH9kckuR70V8EadmI/UoSkSnQ3ff_ZzxU_1QUNh84BJeiHSVBE-BrRAwxgnqAs"
     },
     "remarks": [
         {
@@ -613,12 +613,12 @@
     "dueDate": "26 Jun 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -630,9 +630,9 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yzqEoxkIe9793fjzSqqjIXo59FXl0hOl/UIhX8MAB4AEjz1oXTE1XpAYIbS_Mr3Om-LbhAC3B7eQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7J98VOKXiqFpORPIW0fqDEARHpFamB/8M2WGvq6fAqjbwGAX0PwTN2FCOjCSFqF-27WgO_TQUws",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/zuNeXTMop2Q8c65phBvBmcVw7nIKouFI/k6zyYGY-kjS4pRI73X4b1BRNIH3yZJTB-krGAcwYUvAs"
     },
     "remarks": []
 },
@@ -652,12 +652,12 @@
     "dueDate": "26 Jun 2024",
     "status": {
         "order": [
-            "in progress",
-            "primary"
+            "completed",
+            "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -669,10 +669,56 @@
         ]
     },
     "documents": {
-        "test": "",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/yzqEsxyVtkqe6jUhmqziwK9G3h94ZRJq/tm8DrMeQz62ukwf3W0l8FVcoZYfN8Z7v-Z7jAxnl7eQs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yE7Ij4X0of2sFF2J5RA4UjKCNlJIAViS/bje_3O87BSXoB7yAjBiReLwjLEAcmmVd-EbZAUPrQUws",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/d/s/zuNeoLeGHTa0NbH6Tszq9glwKrxm2PR2/nnz7-Z01Yj1pHhlYebQYip0Bj1mHNKOU-07PgeAknqAs"
     },
     "remarks": []
+},
+{
+    "CO": "C000236562",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": "BK/PAT/06-24",
+    "projectRef": "ASHN Hospital - Phase 2",
+    "driverType": "Electric",
+    "driverInfo": "WEG 150HP / ODP / 2950RPM",
+    "pumpModel": "6x5x14 SSC",
+    "pumpType": "hsc",
+    "capacity": 1250,
+    "head": 370,
+    "speed": 2950,
+    "orderDate": "28 Jun 2024",
+    "dueDate": "6 Aug 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "partial",
+            "primary"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/zWeehRmuC0JYTotJ5FTHldKJrdV6G4M8/8O9Bycja-ndiIsOuEH36zdX0yknR5wqz-oLTA9VMnqAs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/ysdjTnDVzTzMI3MRU9dppPYjTgexazc8/SFVPOzThZbAjoqT7-h2H5qH5dgsUNV_1-Ur-Ab4VgeQs",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "28 Jun 2024",
+            "type": "change order",
+            "overview": "pump rotation",
+            "description": "Change to CCW"
+        }
+    ]
 }
 ]
