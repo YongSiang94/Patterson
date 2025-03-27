@@ -39,6 +39,45 @@
     "remarks": []
 },
 {
+    "CO": "C000114104",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "1207/013/OV/R",
+    "projectRef": "Pertamina Medan/ Jayapura",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 347,
+    "speed": 3000,
+    "orderDate": "10 Jul 2012",
+    "dueDate": "29 Oct 2012",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/zgujLQ8nMO20byWp5jE7HHHrCAjseGWY/QkBFwd0j6FaZ0UdYku13tXi8Xkzzyk6b-1Lfg3M3mJww"
+    },
+    "remarks": []
+},
+{
     "CO": "C000119946",
     "finalDestination": "Indonesia",
     "purchaseOrder": "P1303/003/OV/R",
@@ -189,7 +228,7 @@
     },
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/z8Wtxx47iOzIqvraVsC0kRQ8LSPNzgPa/yg-Ah41CEYKDMR6Vm7Tp2RJo8X0-EIoB-97uAM3JQfAs",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/zCgoSo4lYl7Y1kGU1rPVeDfb9NnZWNJ2/5JK-OPYnL36sHArTSgWXOjbWmT_WSlCp-l7NgnlTkJww",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/z8WspBpxIE19i7Ellw1WSV0GiegRdwH2/woqEbf3ZFMlVmheH8TNylbAt7-Ac996G-srtAD2NQfAs"
     },
     "remarks": []
@@ -2541,6 +2580,123 @@
     "dueDate": "4 Oct 2024",
     "status": {
         "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "collected",
+            "success"
+        ],
+        "payment": [
+            "paid",
+            "success"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12AdAlzkhK5Vc7ACzuGuC69GgQR0Nnuv/FllPyWVmzIxpa--FMx5WRGzGYGfzuEz4-_LhAB1HnJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/xViZXlAjZgeEVkX7CEHIiAzFT9wAJez6/rfzorTAjks6d5TtXiA5cJFL6iV2H4wdf-Brygigh9SQs",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/123Zgpysuix2HsBX3JQ6h6vLan9aU7mU/rmmZ2-amtN5NxFjW7_ngFAgWrC5MKxIp-ObdghoTmJww"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000240653",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "2410/025/OV/R",
+    "projectRef": "TBBM FT Simeulue",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF54",
+    "pumpModel": "5x4x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1000,
+    "head": 347,
+    "speed": 3000,
+    "orderDate": "13 Nov 2024",
+    "dueDate": "7 Feb 2025",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12gu6luutJ3nED20lPz1bCqPyQySskct/J1PzIVIU_2ct94dU2WL-QywCYDEX3VWL-uLkgbpXnJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/10kyV9bu7ur4XP6oy3vAC9L3d3Rino7i/h24JolhUxqRSvmIPPzaDMK470BAlwlkq-Vr-gQQyL6Qs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000240659",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "2410/026/OV/R",
+    "projectRef": "FT Tarakan",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF84",
+    "pumpModel": "8x6x13A SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 393,
+    "speed": 3000,
+    "orderDate": "13 Nov 2024",
+    "dueDate": "7 Feb 2025",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12P84XE6wDck421Fy8WPzchClPNpEaoM/L6fZt5nB4y0jPTMiC1n5baVsXkATcTuH-V7yAykzpJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/10kytoweZnZmlePzNjng7oP3qDuVV6Gt/UMATtbWOlSOgNxoXzRp_tIL-szDM3dCf-gL2ggYCJ6Qs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000241904",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "2412/028/OV/R",
+    "projectRef": "FT Bula",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF94",
+    "pumpModel": "8x6x13A SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 474,
+    "speed": 3000,
+    "orderDate": "31 Dec 2024",
+    "dueDate": "6 Jun 2025",
+    "status": {
+        "order": [
             "in progress",
             "primary"
         ],
@@ -2559,7 +2715,85 @@
     },
     "documents": {
         "test": "",
-        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/xViZXlAjZgeEVkX7CEHIiAzFT9wAJez6/rfzorTAjks6d5TtXiA5cJFL6iV2H4wdf-Brygigh9SQs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/11O0Dwuo2qaZX2UE1fu7YZlJcLHBhy5C/prZvb_ywdH1QQcahZqFL1ppwhm4RUut1-2r0AToKU-As",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000242033",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "2412/027/OV/R",
+    "projectRef": "FT Pematang Siantar",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF54",
+    "pumpModel": "8x6x12 SSC",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 370,
+    "speed": 2950,
+    "orderDate": "6 Jan 2025",
+    "dueDate": "19 Mar 2025",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12gu6liQXaB1s6vs8fRpnYA6jQAXeByV/9GY6x1cNnfuFXR3pS7aYZAkDrcwaoF4b-hbngNojnJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/11O0EZEVo0NPVtde0vvxpZjPlNccPKut/mk2H-t6YPn3Ducn6LETwX8ifLpWLTe8n-er5gG7aU-As",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000244126",
+    "finalDestination": "Indonesia",
+    "purchaseOrder": "2502/008/OV/R1",
+    "projectRef": "FT Luwuk",
+    "driverType": "Diesel",
+    "driverInfo": "DS0H-UFAA68",
+    "pumpModel": "17JMC-5STAGE",
+    "pumpType": "vt",
+    "capacity": 2000,
+    "head": 631,
+    "speed": 1770,
+    "orderDate": "11 Mar 2025",
+    "dueDate": "3 Sep 2025",
+    "status": {
+        "order": [
+            "in progress",
+            "primary"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/12gX28LI20hVNXHSBkvDV5B7Q77IqXEb/jsEiO68Skm_4sv6y7xCu8m4fmiipN93r--LNAHdLkJww",
         "iom": ""
     },
     "remarks": []

@@ -1075,5 +1075,90 @@
             "description": "Revised speed from 2850RPM to 2890RPM"
         }
     ]
+},
+{
+    "CO": "C000236764",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": 24121156.0,
+    "projectRef": "Cho Lon - Diesel",
+    "driverType": "Diesel",
+    "driverInfo": "JU4H-UF14",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 254,
+    "speed": 2970,
+    "orderDate": "3 Jul 2024",
+    "dueDate": "26 Aug 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/zoPcwiZyfscBrphHF7wiqynxqcqkv8Gd/C4lNUMbMrImQKSoxEuSBsEGzY5pL2Q8Z-27QA728nqAs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/zJMcHr8rR7hEk5aFxUGFF4KubvAkjpcZ/xK0r2rHMwmLV0Nj7I1HBx5dqIcqhCBOL-W79g5ey3hAs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000236765",
+    "finalDestination": "Vietnam",
+    "purchaseOrder": 24121156.0,
+    "projectRef": "Cho Lon - Electric",
+    "driverType": "Electric",
+    "driverInfo": "WEG 60HP 2970RPM ODP",
+    "pumpModel": "E3F11A-FP",
+    "pumpType": "es",
+    "capacity": 500,
+    "head": 254,
+    "speed": 2970,
+    "orderDate": "3 Jul 2024",
+    "dueDate": "26 Aug 2024",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "pending",
+            "warning"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/d/s/zoPd28WF7ZjwZNsMlizLByywytUztbkU/2U6DrWJS-9_QZLCEELlwJRf2Zs9YKjyZ-FLXAcI4nqAs",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/zJMhQ3lGwiFzxjrK6fcAYGbdnlPAwvY6/uxcAxpYXWvpQw_fHJxCb-v668-UBJ5WF-CLBgMyO4hAs",
+        "iom": ""
+    },
+    "remarks": [
+        {
+            "date": "7 Aug 2024",
+            "type": "change order",
+            "overview": "jockey pump",
+            "description": "Add flange kit for jockey pump"
+        }
+    ]
 }
 ]

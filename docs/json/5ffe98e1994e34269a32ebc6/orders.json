@@ -33,7 +33,7 @@
     },
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/z4sU4c8lLauECjka9sEnRUEUf7uEVHT7/kbf3iM0izQyy_vTnstq9FWCE0GZpdIQR-U7eg6T97eQs",
-        "submittal": "",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/12UsE5XCBUJAjdkHdxFeaGwmCsLE7C6d/tAB3bOomJkKBgku-hqOw4vu0NJn9ccbR-NLQgsufkJww",
         "iom": "https://synology.pattersonsingapore.com/drive/d/s/z4YKaThq5XSgcTlwPLW7Fcp6G7kEskWe/uTZE8I44YyVXAC9TQPOUsekVwZfNAP0g-K7bAc5V6eQs"
     },
     "remarks": []
@@ -3790,7 +3790,7 @@
         ]
     },
     "documents": {
-        "test": "https://synology.pattersonsingapore.com/d/s/oxQLN4t5MzImieZKUNCOx58CkNFanG06/MkYR9BDJQv2yoKppCsnE00LpyXXqmoCw-e7AAgWM7qwk",
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/10qkTJ3CN3f7Zs7tcGonJX5gcpXjzFl4/9GGYtB1sRl5lPLNGm5LWQOC06bFUihNR-iL1As3by4Qs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/mL6jtm95GFSCDJUyYdvvzxHocB4IorJs/wzIlyl4pdrXl8pbZUfNyxq7uvJR7WoL7-TrNgZn6PHgk",
         "iom": "https://synology.pattersonsingapore.com/d/s/oxQMRxpoCEI0orzNNprAcBwINfgE7H8q/rtvlPFP4QasYyMh6N8is5X5jAL2qq6Bh-RbfgcFM9qwk"
     },
@@ -4763,8 +4763,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -4778,7 +4778,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLLEUy8CpFl6I3xzRcSOyGHZUo0yC/aVCYour9qYbvdvuKim1-jYnQnjk_lv8K-CrcAskVEFgs",
         "submittal": "https://synology.pattersonsingapore.com/d/s/vIojY8MZ4idNVWCKURM2c1iLFMbhw4PR/JccVqtXix4_OALxwKfrEVZMuNmAH6ykH-LLfAhhjswwo",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/11FYJ5kVg2tvjkPNvs7PrpCOxfWhRnhN/3Jme1VB-TVmRICyvHIXIR4z159tnb7ZY-nr_gSGPz4Qs"
     },
     "remarks": []
 },
@@ -4802,8 +4802,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -4817,7 +4817,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLsRZCJew0WtwMYs77IFzvHY9Yu8w/ffuXdIA-TnoGqyu3IxEY8RBZfwS-3WmD-M7dgEU5EFgs",
         "submittal": "https://synology.pattersonsingapore.com/d/s/vIojZKAGtg11g5X2aF7gdlezy84lcKBL/6u157cTB8cMbne5hlw6BdbsSyxI3ZzSd-YLfAB0Tswwo",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/11FYJ5kE4unbjAWDmj9dN5bV6I0NGuQM/GEj81eoBs51Whq_SilLdaXd7MFbMDmwz-TbCgxsTz4Qs"
     },
     "remarks": []
 },
@@ -4841,8 +4841,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -4856,7 +4856,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLr1ZXvzjtNjrhDM6sIzdHFhDvVWk/-pTJzVl8wsSZEPioEGBmy1No0RGtS3S4-ZLdApVhEFgs",
         "submittal": "https://synology.pattersonsingapore.com/d/s/vGeEl2IpZtscEr8BlduAOpQb1RNTNkCC/yqqzHzqLq0JN-nGUbLqNlh40uKwrhP-p-97YA3uPrwwo",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/11FYJ5UBk46GDxeelmw4fIkKKCI3H2Vb/nuDqzpyDl5UQTAp4d_j-NOFXEAKFACtR-DLHg9Sj04Qs"
     },
     "remarks": []
 },
@@ -4880,8 +4880,8 @@
             "success"
         ],
         "shipment": [
-            "pending",
-            "warning"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -4895,7 +4895,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/wuliLaQ2QswVbj7wBpxw4UvpoNybTpv3/wnVDbQJvnHyLfuaypX6ChFCLu8nX9lOV-ibcAt2BEFgs",
         "submittal": "https://synology.pattersonsingapore.com/d/s/vIojcxXmBQAv6JOTkNclyKpb27n3jMh9/etQzh2Kjcq2qjnu0sjH0QzGT2_bMr_4y-mrfAtGrswwo",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/11FYJ7BmWSdBh28vP5V85Dr2M8X0o1zr/i79ODwYPKva37blbht1LDAqVbhtNYELy-NLHgRS304Qs"
     },
     "remarks": []
 },
@@ -5192,8 +5192,8 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -5207,7 +5207,7 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/zJM9aWBbD1ZTLT1WrT8kVU0IVUoENIum/cC67LAx2ZQ0a5dgJmj3vUMOaextal3km-dL0AYYS2hAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEl7m1uJ1OgJTu0krzWrR6hIg0PbMGkQ/VMSWzU4ozIVi-1iHkN64DI91IDtYpdEM-jLBAujhqVQs",
-        "iom": ""
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/10WOWuL61TQPuxP1qWZs8FdEpEHHjEHM/iOQF1NlNmQgl2z85UMYzVbkjb2kTI_kD-k7pADpXrvgs"
     },
     "remarks": []
 },
@@ -5231,8 +5231,8 @@
             "success"
         ],
         "shipment": [
-            "TBA",
-            "TBA"
+            "collected",
+            "success"
         ],
         "payment": [
             "TBA",
@@ -5246,6 +5246,162 @@
     "documents": {
         "test": "https://synology.pattersonsingapore.com/drive/d/s/zJM9adhy9vXa94onV3IEFpotCnnNKeoh/uQv_CrF-W2fAZ10q-gNgs0_WDUpEwOiV-qr2AY4u2hAs",
         "submittal": "https://synology.pattersonsingapore.com/drive/d/s/yEyfbG1Rm6mktJt8IYbNUECYzQbtocvB/lZ9OlNB1M70USuQuT_-g-u3dVBcfuBPj-OL9A-9ZpVQs",
+        "iom": "https://synology.pattersonsingapore.com/drive/d/s/10WOWoyYwaQcDrVTGXmLnv8TVX8THsHu/Ofn13YksheTrnywfF47vMu4_rcSreR20-vbpgZZvrvgs"
+    },
+    "remarks": []
+},
+{
+    "CO": "C000241293",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-135-001",
+    "projectRef": "STS Shenzhen",
+    "driverType": "Electric",
+    "driverInfo": "125HP / 3phase / 50Hz / 2970RPM",
+    "pumpModel": "8x6x13A ES",
+    "pumpType": "es",
+    "capacity": 1250,
+    "head": 266,
+    "speed": 2970,
+    "orderDate": "5 Dec 2024",
+    "dueDate": "12 Feb 2025",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12hjlVwsL9UZOcNqch9ERfo7zuX9JeXL/zT073dnDA6NtSkRBagI_fiG_piYI7PHN-TroAl63nJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/11FY8SXgTG2LtbDMOkt1SOolJD2OTFxJ/kSxsfyq9kSi0iClpR4wDPKqeul52JfIf-4bxAzEPy4Qs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000241294",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-135-001",
+    "projectRef": "STS Shenzhen",
+    "driverType": "Electric",
+    "driverInfo": "150HP / 3phase / 50Hz / 2970RPM",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 300,
+    "speed": 2970,
+    "orderDate": "5 Dec 2024",
+    "dueDate": "12 Feb 2025",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12AdNxFbMvmpx9rT9LNeAKMZiFOsdxkY/vWfF13-lFxXilVjU7CBW7FwK4s1Z5fhc-wLwgknDpJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/11FY2jKgNLwnDm8fVw7kCC3VHUsTygAJ/Fqk84FEhDE4NikxsKXqgj42-idLEH0v_-4btAufjx4Qs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000241295",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-135-001",
+    "projectRef": "STS Shenzhen",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UF34",
+    "pumpModel": "8x6 YR",
+    "pumpType": "hsc",
+    "capacity": 1500,
+    "head": 300,
+    "speed": 3000,
+    "orderDate": "5 Dec 2024",
+    "dueDate": "12 Feb 2025",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12P84XDpL5Wb1SbEJPIwnKp3V4Pijtqm/3ao83Si0yl7F7yn2AImgqf6G_u_JSDyS-D7yATTHpJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/11FY2kGRkKnR1zk38BrUn3WzL6j6YfnI/qUE-PgHNosYCKywcB07biNMj52N_EeyC-R7wgYh3y4Qs",
+        "iom": ""
+    },
+    "remarks": []
+},
+{
+    "CO": "C000241783",
+    "finalDestination": "China",
+    "purchaseOrder": "CG-2024-149-001",
+    "projectRef": "Michelin Project",
+    "driverType": "Diesel",
+    "driverInfo": "JU6H-UFM0",
+    "pumpModel": "8x6 YS",
+    "pumpType": "hsc",
+    "capacity": 2000,
+    "head": 277,
+    "speed": 2100,
+    "orderDate": "20 Dec 2024",
+    "dueDate": "20 Feb 2025",
+    "status": {
+        "order": [
+            "completed",
+            "success"
+        ],
+        "shipment": [
+            "TBA",
+            "TBA"
+        ],
+        "payment": [
+            "TBA",
+            "TBA"
+        ],
+        "terms": [
+            "ex-works",
+            "primary"
+        ]
+    },
+    "documents": {
+        "test": "https://synology.pattersonsingapore.com/drive/d/s/12P84XwolDY0wraIhwbNLcsKKdkkzTBg/1xGzUWb_GEZLtfbIwAOF44aRe2DFFp41-2LvgXyTpJww",
+        "submittal": "https://synology.pattersonsingapore.com/drive/d/s/11IDfBSLpQ8sjZfy78624ajwPBSglcm4/knxauM86KrVFX2hQVHX2yt4BXwUlYycZ-LLOg67Xi6gs",
         "iom": ""
     },
     "remarks": []
